@@ -463,7 +463,7 @@ const SEN_MARGIN_RANK = SENATE_RANKING.map(r => ({
     hd: d.hd, dem: hdDem[d.hd] || '',
     undervote: d.pres > 0 ? +((d.pres - d.house) / d.pres * 100).toFixed(1) : null,
     counties: [...d.counties].join('+')
-  })).filter(d => d.undervote != null).sort((a,b) => b.undervote - a.undervote);
+  })).filter(d => d.undervote != null && hdDem[d.hd]).sort((a,b) => b.undervote - a.undervote);
 })();
 
 function renderMarginPanel(view){
