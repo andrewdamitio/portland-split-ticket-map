@@ -352,8 +352,53 @@ const pLayer=L.geoJSON(PRECINCTS,{
 map.on('mouseout',clearHover);
 map.on('click',()=>{ if(isTouch && mobileTapped) clearHover(); });
 
+// Merge same-HD features so county-line edges between county portions are not drawn
+function buildMergedDistricts(geojson){
+  const byHD={};
+  geojson.features.forEach(f=>{
+    const hd=f.properties.hd;
+    if(!byHD[hd])byHD[hd]={props:f.properties,rings:[]};
+    const coords=f.geometry.type==='Polygon'?f.geometry.coordinates:f.geometry.coordinates.flat(1);
+    byHD[hd].rings.push(...coords);
+  });
+  const out=[];
+  Object.values(byHD).forEach(({props,rings})=>{
+    if(rings.length<=1){out.push({type:'Feature',properties:props,geometry:{type:'Polygon',coordinates:rings}});return;}
+    const eCnt=new Map(),ePts=new Map();
+    rings.forEach(ring=>{
+      for(let i=0;i<ring.length-1;i++){
+        const a=ring[i],b=ring[i+1];
+        const ak=a[0].toFixed(8)+','+a[1].toFixed(8),bk=b[0].toFixed(8)+','+b[1].toFixed(8);
+        const key=ak<bk?ak+'|'+bk:bk+'|'+ak;
+        eCnt.set(key,(eCnt.get(key)||0)+1);
+        if(!ePts.has(key))ePts.set(key,[a,b]);
+      }
+    });
+    const adj=new Map();
+    eCnt.forEach((cnt,key)=>{
+      if(cnt!==1)return;
+      const[a,b]=ePts.get(key);
+      const ak=a[0].toFixed(8)+','+a[1].toFixed(8),bk=b[0].toFixed(8)+','+b[1].toFixed(8);
+      if(!adj.has(ak))adj.set(ak,{pt:a,nx:[]});
+      if(!adj.has(bk))adj.set(bk,{pt:b,nx:[]});
+      adj.get(ak).nx.push(bk);adj.get(bk).nx.push(ak);
+    });
+    const seen=new Set(),outRings=[];
+    adj.forEach((_,start)=>{
+      if(seen.has(start))return;
+      const ring=[];let prev=null,curr=start;
+      while(true){seen.add(curr);ring.push(adj.get(curr).pt);const ch=adj.get(curr).nx.filter(n=>n!==prev&&!seen.has(n));if(!ch.length)break;prev=curr;curr=ch[0];}
+      if(ring.length>2)outRings.push([...ring,ring[0]]);
+    });
+    const r2=outRings.length?outRings:rings;
+    const geom=r2.length===1?{type:'Polygon',coordinates:r2}:{type:'MultiPolygon',coordinates:r2.map(r=>[r])};
+    out.push({type:'Feature',properties:{...props,key:props.hd},geometry:geom});
+  });
+  return{type:'FeatureCollection',features:out};
+}
+const DISTRICTS_MERGED=buildMergedDistricts(DISTRICTS);
 const dByKey={};
-const dLayer=L.geoJSON(DISTRICTS,{
+const dLayer=L.geoJSON(DISTRICTS_MERGED,{
   interactive:false,
   style:{color:'#111',weight:3,opacity:0.95,fill:false,lineJoin:'round'},
   onEachFeature:(f,l)=>{ dByKey[f.properties.key]=l; }
@@ -384,12 +429,12 @@ map.fitBounds(pLayer.getBounds(),{padding:[20,20]});
 
 // map HD -> all House district outline layers with that HD (cross-county districts have two)
 const dByHd={};
-DISTRICTS.features.forEach(f=>{
+DISTRICTS_MERGED.features.forEach(f=>{
   const hd=f.properties.hd; (dByHd[hd]=dByHd[hd]||[]).push(dByKey[f.properties.key]);
 });
 // map SD -> Senate district outline layers
 const dBySd={};
-SENATE_DISTRICTS.features.forEach(f=>{
+SENATE_DISTRICTS_MERGED.features.forEach(f=>{
   const sd=f.properties.sd; (dBySd[sd]=dBySd[sd]||[]).push(senByKey[f.properties.key]);
 });
 
@@ -413,16 +458,14 @@ function renderRanking(view){
 
   const tbody=document.querySelector('#rankTable tbody');
   tbody.innerHTML='';
-  const maxAbs=Math.max(...data.map(r=>Math.abs(r.delta)));
   data.forEach(r=>{
     const id=r[idKey];
     const tr=document.createElement('tr'); tr.dataset.id=id;
-    const cls=r.delta>0?'g':'p'; const col=r.delta>0?'#2e8b57':'#6a3d9a';
-    const w=Math.max(3,Math.round(34*Math.abs(r.delta)/maxAbs)); const sign=r.delta>0?'+':'';
+    const cls=r.delta>0?'g':'p'; const sign=r.delta>0?'+':'';
     tr.innerHTML=`<td class="l"><span class="hd">${id}</span><br><span class="co">${r.counties}</span></td>`+
       `<td class="l nm">${r.dem}</td>`+
       `<td>${r[pctKey]}%</td><td>${r.pres2p}%</td>`+
-      `<td><span class="bar" style="width:${w}px;background:${col}"></span> <span class="dv ${cls}">${sign}${r.delta}</span></td>`;
+      `<td><span class="dv ${cls}">${sign}${r.delta}</span></td>`;
     tr.addEventListener('mouseenter',()=>{ (byId[id]||[]).forEach(l=>{ if(l){ l.setStyle({color:'#1a3d6b',weight:5}); l.bringToFront(); } }); tr.classList.add('hl'); });
     tr.addEventListener('mouseleave',()=>{ (byId[id]||[]).forEach(l=>{ if(l){ l.setStyle({color:'#111',weight:3}); } }); tr.classList.remove('hl'); });
     tbody.appendChild(tr);
@@ -477,16 +520,13 @@ function renderMarginPanel(view){
     heading = 'House districts by margin';
     sub = 'Two-party State House margin (Dem minus Rep) by district. Hover a row to highlight on the map.';
     thead.innerHTML = '<th class="l">HD</th><th class="l">House Dem</th><th>Margin</th>';
-    const maxAbs = Math.max(...data.map(r => Math.abs(r.house_margin)));
     data.forEach(r => {
       const tr = document.createElement('tr'); tr.dataset.id = r.hd;
       const cls = r.house_margin > 0 ? 'g' : 'p';
-      const col = r.house_margin > 0 ? '#2e8b57' : '#6a3d9a';
-      const w = Math.max(3, Math.round(34 * Math.abs(r.house_margin) / maxAbs));
       const sign = r.house_margin > 0 ? '+' : '';
       tr.innerHTML = `<td class="l"><span class="hd">${r.hd}</span><br><span class="co">${r.counties}</span></td>`+
         `<td class="l nm">${r.dem}</td>`+
-        `<td><span class="bar" style="width:${w}px;background:${col}"></span> <span class="dv ${cls}">${sign}${r.house_margin}</span></td>`;
+        `<td><span class="dv ${cls}">${sign}${r.house_margin}</span></td>`;
       tr.addEventListener('mouseenter',()=>{ (dByHd[r.hd]||[]).forEach(l=>{if(l){l.setStyle({color:'#1a3d6b',weight:5});l.bringToFront();}}); tr.classList.add('hl'); });
       tr.addEventListener('mouseleave',()=>{ (dByHd[r.hd]||[]).forEach(l=>{if(l){l.setStyle({color:'#111',weight:3});}}); tr.classList.remove('hl'); });
       tbody.appendChild(tr);
@@ -496,16 +536,13 @@ function renderMarginPanel(view){
     heading = 'Presidential margin by House district';
     sub = 'Two-party presidential margin (Harris minus Trump) aggregated by House district. Hover a row to highlight on the map.';
     thead.innerHTML = '<th class="l">HD</th><th class="l">House Dem</th><th>Pres margin</th>';
-    const maxAbs = Math.max(...data.map(r => Math.abs(r.pres_margin)));
     data.forEach(r => {
       const tr = document.createElement('tr'); tr.dataset.id = r.hd;
       const cls = r.pres_margin > 0 ? 'g' : 'p';
-      const col = r.pres_margin > 0 ? '#2e8b57' : '#6a3d9a';
-      const w = Math.max(3, Math.round(34 * Math.abs(r.pres_margin) / maxAbs));
       const sign = r.pres_margin > 0 ? '+' : '';
       tr.innerHTML = `<td class="l"><span class="hd">${r.hd}</span><br><span class="co">${r.counties}</span></td>`+
         `<td class="l nm">${r.dem}</td>`+
-        `<td><span class="bar" style="width:${w}px;background:${col}"></span> <span class="dv ${cls}">${sign}${r.pres_margin}</span></td>`;
+        `<td><span class="dv ${cls}">${sign}${r.pres_margin}</span></td>`;
       tr.addEventListener('mouseenter',()=>{ (dByHd[r.hd]||[]).forEach(l=>{if(l){l.setStyle({color:'#1a3d6b',weight:5});l.bringToFront();}}); tr.classList.add('hl'); });
       tr.addEventListener('mouseleave',()=>{ (dByHd[r.hd]||[]).forEach(l=>{if(l){l.setStyle({color:'#111',weight:3});}}); tr.classList.remove('hl'); });
       tbody.appendChild(tr);
@@ -515,16 +552,13 @@ function renderMarginPanel(view){
     heading = 'Senate districts by margin';
     sub = 'Two-party State Senate margin (Dem minus Rep) by district. Hover a row to highlight on the map.';
     thead.innerHTML = '<th class="l">SD</th><th class="l">Senate Dem</th><th>Margin</th>';
-    const maxAbs = Math.max(...data.map(r => Math.abs(r.sen_margin)));
     data.forEach(r => {
       const tr = document.createElement('tr'); tr.dataset.id = r.sd;
       const cls = r.sen_margin > 0 ? 'g' : 'p';
-      const col = r.sen_margin > 0 ? '#2e8b57' : '#6a3d9a';
-      const w = Math.max(3, Math.round(34 * Math.abs(r.sen_margin) / maxAbs));
       const sign = r.sen_margin > 0 ? '+' : '';
       tr.innerHTML = `<td class="l"><span class="hd">${r.sd}</span><br><span class="co">${r.counties}</span></td>`+
         `<td class="l nm">${r.dem}</td>`+
-        `<td><span class="bar" style="width:${w}px;background:${col}"></span> <span class="dv ${cls}">${sign}${r.sen_margin}</span></td>`;
+        `<td><span class="dv ${cls}">${sign}${r.sen_margin}</span></td>`;
       tr.addEventListener('mouseenter',()=>{ (dBySd[r.sd]||[]).forEach(l=>{if(l){l.setStyle({color:'#1a3d6b',weight:5});l.bringToFront();}}); tr.classList.add('hl'); });
       tr.addEventListener('mouseleave',()=>{ (dBySd[r.sd]||[]).forEach(l=>{if(l){l.setStyle({color:'#111',weight:3});}}); tr.classList.remove('hl'); });
       tbody.appendChild(tr);
@@ -534,13 +568,11 @@ function renderMarginPanel(view){
     heading = 'Ballot drop-off by House district';
     sub = 'Percentage of presidential two-party voters who did not cast a two-party House vote, aggregated by House district. Hover a row to highlight on the map.';
     thead.innerHTML = '<th class="l">HD</th><th class="l">House Dem</th><th>Drop-off</th>';
-    const maxVal = Math.max(...data.map(r => r.undervote));
     data.forEach(r => {
       const tr = document.createElement('tr'); tr.dataset.id = r.hd;
-      const w = Math.max(3, Math.round(34 * r.undervote / maxVal));
       tr.innerHTML = `<td class="l"><span class="hd">${r.hd}</span><br><span class="co">${r.counties}</span></td>`+
         `<td class="l nm">${r.dem}</td>`+
-        `<td><span class="bar" style="width:${w}px;background:#888"></span> <span class="dv">${r.undervote}%</span></td>`;
+        `<td><span class="dv">${r.undervote}%</span></td>`;
       tr.addEventListener('mouseenter',()=>{ (dByHd[r.hd]||[]).forEach(l=>{if(l){l.setStyle({color:'#1a3d6b',weight:5});l.bringToFront();}}); tr.classList.add('hl'); });
       tr.addEventListener('mouseleave',()=>{ (dByHd[r.hd]||[]).forEach(l=>{if(l){l.setStyle({color:'#111',weight:3});}}); tr.classList.remove('hl'); });
       tbody.appendChild(tr);
