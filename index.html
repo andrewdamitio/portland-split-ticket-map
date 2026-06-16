@@ -387,6 +387,57 @@ const dByHd={};
 DISTRICTS.features.forEach(f=>{
   const hd=f.properties.hd; (dByHd[hd]=dByHd[hd]||[]).push(dByKey[f.properties.key]);
 });
+// Fix HD 18 internal boundary: two county portions (Cl18, Ma18) share an edge that renders as a bold line.
+// Compute exterior-only edges, draw them as a polyline, and hide the original two paths.
+(function(){
+  try {
+    var hd18=DISTRICTS.features.filter(function(f){return f.properties.hd==='18';});
+    if(hd18.length<2){return;}
+    var eCnt={},ePts={};
+    hd18.forEach(function(f){
+      var rings=f.geometry.type==='Polygon'?f.geometry.coordinates:[].concat.apply([],f.geometry.coordinates);
+      rings.forEach(function(ring){
+        for(var i=0;i<ring.length-1;i++){
+          var a=ring[i],b=ring[i+1];
+          var ak=a[0].toFixed(8)+','+a[1].toFixed(8),bk=b[0].toFixed(8)+','+b[1].toFixed(8);
+          var key=ak<bk?ak+'|'+bk:bk+'|'+ak;
+          eCnt[key]=(eCnt[key]||0)+1;
+          if(!ePts[key])ePts[key]=[a,b];
+        }
+      });
+    });
+    var adj={};
+    Object.keys(eCnt).forEach(function(key){
+      if(eCnt[key]!==1)return;
+      var a=ePts[key][0],b=ePts[key][1];
+      var ak=a[0].toFixed(8)+','+a[1].toFixed(8),bk=b[0].toFixed(8)+','+b[1].toFixed(8);
+      if(!adj[ak])adj[ak]={pt:a,nx:[]};
+      if(!adj[bk])adj[bk]={pt:b,nx:[]};
+      adj[ak].nx.push(bk);adj[bk].nx.push(ak);
+    });
+    var seen={},outRings=[];
+    Object.keys(adj).forEach(function(start){
+      if(seen[start])return;
+      var ring=[],prev=null,curr=start;
+      while(true){
+        seen[curr]=true;
+        var pt=adj[curr].pt;ring.push([pt[1],pt[0]]);
+        var ch=adj[curr].nx.filter(function(n){return n!==prev&&!seen[n];});
+        if(!ch.length)break;
+        prev=curr;curr=ch[0];
+      }
+      if(ring.length>2)outRings.push(ring);
+    });
+    if(!outRings.length)return;
+    hd18.forEach(function(f){var l=dByKey[f.properties.key];if(l)l.setStyle({stroke:false});});
+    dByHd['18']=[];
+    outRings.forEach(function(ring){
+      var pl=L.polyline(ring,{color:'#111',weight:3,opacity:0.95,interactive:false});
+      pl.addTo(map);
+      dByHd['18'].push(pl);
+    });
+  } catch(e){console.warn('HD18 fix failed:',e);}
+})();
 // map SD -> Senate district outline layers
 const dBySd={};
 SENATE_DISTRICTS.features.forEach(f=>{
