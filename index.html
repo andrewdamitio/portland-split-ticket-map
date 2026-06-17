@@ -392,25 +392,35 @@ var hd18FixLayer=L.layerGroup();
   try{
     var parts=DISTRICTS.features.filter(function(f){return f.properties.hd==='18';});
     if(parts.length<2)return;
-    var EPS=0.002;
+    var EPS2=0.002*0.002;
     function getRings(feat){
       return feat.geometry.type==='Polygon'?feat.geometry.coordinates:[].concat.apply([],feat.geometry.coordinates);
     }
-    function getVerts(feat){
-      var v=[];getRings(feat).forEach(function(r){r.forEach(function(p){v.push(p);});});return v;
+    function getSegs(feat){
+      var segs=[];
+      getRings(feat).forEach(function(r){for(var i=0;i<r.length-1;i++)segs.push([r[i],r[i+1]]);});
+      return segs;
     }
-    function isNear(pt,verts){
-      for(var i=0;i<verts.length;i++){if(Math.abs(verts[i][0]-pt[0])<EPS&&Math.abs(verts[i][1]-pt[1])<EPS)return true;}
+    function ptSegDistSq(px,py,ax,ay,bx,by){
+      var dx=bx-ax,dy=by-ay,len2=dx*dx+dy*dy;
+      if(len2===0)return (px-ax)*(px-ax)+(py-ay)*(py-ay);
+      var t=((px-ax)*dx+(py-ay)*dy)/len2;
+      if(t<0)t=0;if(t>1)t=1;
+      var ex=ax+t*dx,ey=ay+t*dy;
+      return (px-ex)*(px-ex)+(py-ey)*(py-ey);
+    }
+    function isNearSeg(pt,segs){
+      for(var i=0;i<segs.length;i++){var s=segs[i];if(ptSegDistSq(pt[0],pt[1],s[0][0],s[0][1],s[1][0],s[1][1])<EPS2)return true;}
       return false;
     }
-    var vA=getVerts(parts[0]),vB=getVerts(parts[1]);
+    var segsA=getSegs(parts[0]),segsB=getSegs(parts[1]);
     var newLayers=[];
-    function drawExterior(feat,otherVerts){
+    function drawExterior(feat,otherSegs){
       getRings(feat).forEach(function(ring){
         var seg=[];
         for(var i=0;i<ring.length-1;i++){
           var a=ring[i],b=ring[i+1];
-          if(isNear(a,otherVerts)&&isNear(b,otherVerts)){
+          if(isNearSeg(a,otherSegs)&&isNearSeg(b,otherSegs)){
             if(seg.length>1){var pl=L.polyline(seg,{color:'#111',weight:3,opacity:0.95,interactive:false});hd18FixLayer.addLayer(pl);newLayers.push(pl);}
             seg=[];
           }else{
@@ -421,8 +431,8 @@ var hd18FixLayer=L.layerGroup();
         if(seg.length>1){var pl=L.polyline(seg,{color:'#111',weight:3,opacity:0.95,interactive:false});hd18FixLayer.addLayer(pl);newLayers.push(pl);}
       });
     }
-    drawExterior(parts[0],vB);
-    drawExterior(parts[1],vA);
+    drawExterior(parts[0],segsB);
+    drawExterior(parts[1],segsA);
     if(!newLayers.length)return;
     parts.forEach(function(f){var l=dByKey[f.properties.key];if(l)l.setStyle({stroke:false});});
     dByHd['18']=newLayers;
