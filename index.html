@@ -368,12 +368,7 @@ const senLayer=L.geoJSON(SENATE_DISTRICTS,{
   onEachFeature:(f,l)=>{ senByKey[f.properties.key]=l; }
 });  // not added to map yet — only shown for Senate views
 
-map.createPane('districtFill');
-map.getPane('districtFill').style.zIndex='300';
-const senFillLayer=L.geoJSON(SENATE_DISTRICTS,{
-  pane:'districtFill',interactive:false,
-  style:{fill:true,fillColor:'#d6dade',fillOpacity:0,stroke:false}
-});
+
 
 const hdLabelLayer=L.layerGroup();
 DISTRICT_LABELS.forEach(lbl=>{
@@ -388,12 +383,7 @@ SENATE_LABELS.forEach(lbl=>{
     html:`SD ${lbl.sd}`,iconSize:[46,15],iconAnchor:[23,7]})}).addTo(sdLabelLayer);
 });  // not added to map yet — only shown for Senate views
 
-map.createPane('districtFill');
-map.getPane('districtFill').style.zIndex='300';
-const senFillLayer=L.geoJSON(SENATE_DISTRICTS,{
-  pane:'districtFill',interactive:false,
-  style:{fill:true,fillColor:'#d6dade',fillOpacity:0,stroke:false}
-});
+
 
 map.fitBounds(pLayer.getBounds(),{padding:[20,20]});
 
@@ -693,12 +683,9 @@ function applyView(view){
     if(!map.hasLayer(senLayer)) senLayer.addTo(map);
     if(!map.hasLayer(sdLabelLayer)) sdLabelLayer.addTo(map);
     senLayer.bringToFront();
-    var _sdV={};SENATE_RANKING.forEach(function(r){_sdV[r.sd]=(view==='senate')?+(r.sen2p*2-100).toFixed(1):r.delta;});
-    senFillLayer.setStyle(function(f){var v=_sdV[f.properties.sd];var c=(v!==undefined)?((view==='senate')?colorPartisan(v):colorSplit(v)):'#d6dade';return {fill:true,fillColor:c,fillOpacity:0.85,stroke:false};});
-    if(!map.hasLayer(senFillLayer))senFillLayer.addTo(map);
+
   } else {
     if(map.hasLayer(senLayer)) map.removeLayer(senLayer);
-    if(map.hasLayer(senFillLayer)) map.removeLayer(senFillLayer);
     if(map.hasLayer(sdLabelLayer)) map.removeLayer(sdLabelLayer);
     if(!map.hasLayer(dLayer)) dLayer.addTo(map);
     hd18Layers.forEach(function(l){l.setStyle({opacity:0.95,weight:3,color:'#111'});if(!map.hasLayer(l))l.addTo(map);});
