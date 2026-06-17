@@ -387,7 +387,48 @@ const dByHd={};
 DISTRICTS.features.forEach(f=>{
   const hd=f.properties.hd; (dByHd[hd]=dByHd[hd]||[]).push(dByKey[f.properties.key]);
 });
-// map SD -> Senate district outline layers
+var hd18FixLayer=L.layerGroup();
+(function(){
+  try{
+    var parts=DISTRICTS.features.filter(function(f){return f.properties.hd==='18';});
+    if(parts.length<2)return;
+    var EPS=0.002;
+    function getRings(feat){
+      return feat.geometry.type==='Polygon'?feat.geometry.coordinates:[].concat.apply([],feat.geometry.coordinates);
+    }
+    function getVerts(feat){
+      var v=[];getRings(feat).forEach(function(r){r.forEach(function(p){v.push(p);});});return v;
+    }
+    function isNear(pt,verts){
+      for(var i=0;i<verts.length;i++){if(Math.abs(verts[i][0]-pt[0])<EPS&&Math.abs(verts[i][1]-pt[1])<EPS)return true;}
+      return false;
+    }
+    var vA=getVerts(parts[0]),vB=getVerts(parts[1]);
+    var newLayers=[];
+    function drawExterior(feat,otherVerts){
+      getRings(feat).forEach(function(ring){
+        var seg=[];
+        for(var i=0;i<ring.length-1;i++){
+          var a=ring[i],b=ring[i+1];
+          if(isNear(a,otherVerts)&&isNear(b,otherVerts)){
+            if(seg.length>1){var pl=L.polyline(seg,{color:'#111',weight:3,opacity:0.95,interactive:false});hd18FixLayer.addLayer(pl);newLayers.push(pl);}
+            seg=[];
+          }else{
+            if(!seg.length)seg.push([a[1],a[0]]);
+            seg.push([b[1],b[0]]);
+          }
+        }
+        if(seg.length>1){var pl=L.polyline(seg,{color:'#111',weight:3,opacity:0.95,interactive:false});hd18FixLayer.addLayer(pl);newLayers.push(pl);}
+      });
+    }
+    drawExterior(parts[0],vB);
+    drawExterior(parts[1],vA);
+    if(!newLayers.length)return;
+    parts.forEach(function(f){var l=dByKey[f.properties.key];if(l)l.setStyle({stroke:false});});
+    dByHd['18']=newLayers;
+    hd18FixLayer.addTo(map);
+  }catch(e){console.warn('HD18 fix:',e);}
+})();// map SD -> Senate district outline layers
 const dBySd={};
 SENATE_DISTRICTS.features.forEach(f=>{
   const sd=f.properties.sd; (dBySd[sd]=dBySd[sd]||[]).push(senByKey[f.properties.key]);
@@ -624,6 +665,7 @@ function applyView(view){
   const isSenateView = (view==='senate' || view==='senateSplit');
   if(isSenateView){
     if(map.hasLayer(dLayer)) map.removeLayer(dLayer);
+    if(map.hasLayer(hd18FixLayer)) map.removeLayer(hd18FixLayer);
     if(map.hasLayer(hdLabelLayer)) map.removeLayer(hdLabelLayer);
     if(!map.hasLayer(senLayer)) senLayer.addTo(map);
     if(!map.hasLayer(sdLabelLayer)) sdLabelLayer.addTo(map);
@@ -632,6 +674,7 @@ function applyView(view){
     if(map.hasLayer(senLayer)) map.removeLayer(senLayer);
     if(map.hasLayer(sdLabelLayer)) map.removeLayer(sdLabelLayer);
     if(!map.hasLayer(dLayer)) dLayer.addTo(map);
+    if(hd18FixLayer.getLayers().length&&!map.hasLayer(hd18FixLayer)) hd18FixLayer.addTo(map);
     if(!map.hasLayer(hdLabelLayer)) hdLabelLayer.addTo(map);
     dLayer.bringToFront();
   }
