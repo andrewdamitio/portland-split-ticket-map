@@ -361,12 +361,15 @@ const dLayer=L.geoJSON(DISTRICTS,{
 }).addTo(map);
 dLayer.bringToFront();
 
+var _SD_OUTER={type:'FeatureCollection',features:SENATE_DISTRICTS.features.map(function(f){var g=f.geometry,c;if(g.type==='Polygon')c=[g.coordinates[0]];else c=g.coordinates.map(function(p){return [p[0]];});return {type:'Feature',properties:f.properties,geometry:{type:g.type,coordinates:c}};})};
 const senByKey={};
-const senLayer=L.geoJSON(SENATE_DISTRICTS,{
+const senLayer=L.geoJSON(_SD_OUTER,{
   interactive:false,
   style:{color:'#111',weight:3,opacity:0.95,fill:false,lineJoin:'round'},
   onEachFeature:(f,l)=>{ senByKey[f.properties.key]=l; }
-});  // not added to map yet — only shown for Senate views
+});  // not added to map yet -- only shown for Senate views
+const senFillLayer=L.geoJSON(_SD_OUTER,{interactive:false,style:{fill:true,fillColor:'#d6dade',fillOpacity:0,stroke:false}});
+senFillLayer.addTo(map);
 
 
 
@@ -682,23 +685,24 @@ function applyView(view){
     if(map.hasLayer(hdLabelLayer)) map.removeLayer(hdLabelLayer);
     if(!map.hasLayer(senLayer)) senLayer.addTo(map);
     if(!map.hasLayer(sdLabelLayer)) sdLabelLayer.addTo(map);
+    pLayer.bringToFront();
     senLayer.bringToFront();
-    // Light district-level fill covers geographic no-precinct holes (rivers, parks)
+    // Color senFillLayer (outer-ring fills, no hole outlines) to cover geographic holes
     (function(){
       var _sdV={};
       SENATE_RANKING.forEach(function(r){
         _sdV[r.sd]=(view==='senate')?(+(r.sen2p*2-100).toFixed(1)):r.delta;
       });
-      senLayer.setStyle(function(f){
+      senFillLayer.setStyle(function(f){
         var v=_sdV[f.properties.sd];
         var c=(v!==undefined&&v!==null)?((view==='senate')?colorPartisan(v):colorSplit(v)):'#d6dade';
-        return {color:'#111',weight:3,opacity:0.95,fill:true,fillColor:c,fillOpacity:0.18,lineJoin:'round'};
+        return {fill:true,fillColor:c,fillOpacity:0.85,stroke:false};
       });
     })();
 
   } else {
     if(map.hasLayer(senLayer)) map.removeLayer(senLayer);
-    senLayer.setStyle({color:'#111',weight:3,opacity:0.95,fill:false,lineJoin:'round'});
+    senFillLayer.setStyle({fill:true,fillColor:'#d6dade',fillOpacity:0,stroke:false});
     if(map.hasLayer(sdLabelLayer)) map.removeLayer(sdLabelLayer);
     if(!map.hasLayer(dLayer)) dLayer.addTo(map);
     hd18Layers.forEach(function(l){l.setStyle({opacity:0.95,weight:3,color:'#111'});if(!map.hasLayer(l))l.addTo(map);});
