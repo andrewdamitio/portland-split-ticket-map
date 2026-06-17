@@ -208,7 +208,7 @@ function fillColor(p){
 function style(f){
   const p=f.properties; const v=fillValue(p);
   const isSen=(currentView==='senate'||currentView==='senateSplit');
-  return {color:'#9aa3ad',weight:isSen?0:.5,fillColor:fillColor(p),fillOpacity:v===null?0.45:0.85};
+  return {color:'#9aa3ad',weight:isSen?0:.5,fillColor:fillColor(p),fillOpacity:v===null?(isSen?0:0.45):0.85};
 }
 function tip(f){
   const p=f.properties;
@@ -674,7 +674,7 @@ function applyView(view){
   const isSenateView = (view==='senate' || view==='senateSplit');
   if(isSenateView){
     if(map.hasLayer(dLayer)) map.removeLayer(dLayer);
-    hd18Layers.forEach(function(l){if(map.hasLayer(l))map.removeLayer(l);});
+    hd18Layers.forEach(function(l){l.setStyle({opacity:0,weight:0});if(map.hasLayer(l))map.removeLayer(l);});
     if(map.hasLayer(hdLabelLayer)) map.removeLayer(hdLabelLayer);
     if(!map.hasLayer(senLayer)) senLayer.addTo(map);
     if(!map.hasLayer(sdLabelLayer)) sdLabelLayer.addTo(map);
@@ -683,7 +683,7 @@ function applyView(view){
     if(map.hasLayer(senLayer)) map.removeLayer(senLayer);
     if(map.hasLayer(sdLabelLayer)) map.removeLayer(sdLabelLayer);
     if(!map.hasLayer(dLayer)) dLayer.addTo(map);
-    hd18Layers.forEach(function(l){if(!map.hasLayer(l))l.addTo(map);});
+    hd18Layers.forEach(function(l){l.setStyle({opacity:0.95,weight:3,color:'#111'});if(!map.hasLayer(l))l.addTo(map);});
     if(!map.hasLayer(hdLabelLayer)) hdLabelLayer.addTo(map);
     dLayer.bringToFront();
   }
