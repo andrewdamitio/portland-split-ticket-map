@@ -683,9 +683,22 @@ function applyView(view){
     if(!map.hasLayer(senLayer)) senLayer.addTo(map);
     if(!map.hasLayer(sdLabelLayer)) sdLabelLayer.addTo(map);
     senLayer.bringToFront();
+    // Light district-level fill covers geographic no-precinct holes (rivers, parks)
+    (function(){
+      var _sdV={};
+      SENATE_RANKING.forEach(function(r){
+        _sdV[r.sd]=(view==='senate')?(+(r.sen2p*2-100).toFixed(1)):r.delta;
+      });
+      senLayer.setStyle(function(f){
+        var v=_sdV[f.properties.sd];
+        var c=(v!==undefined&&v!==null)?((view==='senate')?colorPartisan(v):colorSplit(v)):'#d6dade';
+        return {color:'#111',weight:3,opacity:0.95,fill:true,fillColor:c,fillOpacity:0.18,lineJoin:'round'};
+      });
+    })();
 
   } else {
     if(map.hasLayer(senLayer)) map.removeLayer(senLayer);
+    senLayer.setStyle({color:'#111',weight:3,opacity:0.95,fill:false,lineJoin:'round'});
     if(map.hasLayer(sdLabelLayer)) map.removeLayer(sdLabelLayer);
     if(!map.hasLayer(dLayer)) dLayer.addTo(map);
     hd18Layers.forEach(function(l){l.setStyle({opacity:0.95,weight:3,color:'#111'});if(!map.hasLayer(l))l.addTo(map);});
