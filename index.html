@@ -257,6 +257,22 @@ function tip(f){
     }
     return s;
   }
+  if(currentView==='senUndervote'){
+    if(p.sen_undervote!==undefined&&p.sen_undervote!==null){
+      const pt=p.pres_harris+p.pres_trump;
+      const st=p.sen_dem+p.sen_rep;
+      const drop=pt-st;
+      s+=`<table>`+
+         `<tr><td>Presidential two-party votes</td><td class="v">${pt.toLocaleString()}</td></tr>`+
+         `<tr><td>State Senate two-party votes</td><td class="v">${st.toLocaleString()}</td></tr>`+
+         `<tr><td>Drop-off</td><td class="v">${drop.toLocaleString()} (${p.sen_undervote}%)</td></tr></table>`+
+         `<div class="delta">${p.sen_undervote}% of presidential voters did not cast a two-party Senate vote`+(p.sd?` (SD ${p.sd})`:'')+`</div>`;
+    } else {
+      s+=`<div class="na">no Senate drop-off data (unopposed or no Senate race)</div>`;
+      if(p.pres_harris!==undefined&&p.pres_harris!==null) s+=`<table><tr><td>Presidential two-party votes</td><td class="v">${(p.pres_harris+p.pres_trump).toLocaleString()}</td></tr></table>`;
+    }
+    return s;
+  }
   if(currentView==='undervote'){
     if(p.undervote!==undefined&&p.undervote!==null){
       const pt=p.pres_harris+p.pres_trump;
