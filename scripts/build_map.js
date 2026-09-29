@@ -25,6 +25,12 @@ const r2 = x => Math.round(x * 100) / 100, r1 = x => Math.round(x * 10) / 10;
 // short display name: candidates.csv short_name (compound surnames), else the last word of the name
 const last = c => c.short_name || c.candidate.split(' / ')[0].replace(/\s*\(.*?\)\s*/g, ' ').trim().split(' ').pop();
 
+// "Todd Nash (Republican, also the Democratic nominee)" for notes about races without a D-vs-R contest
+const PARTY = { DEM: 'Democrat', REP: 'Republican', LIB: 'Libertarian', PGP: 'Pacific Green', IND: 'Independent Party', NAV: 'nonaffiliated',
+  CON: 'Constitution', WTP: 'We the People', PRO: 'Progressive', WFP: 'Working Families' };
+const NOMINEE = { DEM: 'Democratic', REP: 'Republican', IND: 'Independent Party', WFP: 'Working Families' };
+const describe = c => `${c.candidate} (${PARTY[c.party] || c.party}${c.also_nominated_by ? ', also the ' + c.also_nominated_by.split('/').map(p => NOMINEE[p] || p).join(' and ') + ' nominee' : ''})`;
+
 // ---- load counts: county|precinct -> office|district -> {cands:[{c,v}], writein, ...}
 const races = {};
 for (const r of csv.read(path.join(ROOT, 'data/full_vote_counts_2024.csv'))) {
@@ -44,7 +50,8 @@ function split(race) {
   for (const x of [...others, { v: race.writein === undefined ? 0 : race.writein }]) { if (x.v === null) otherMin = true; else other += x.v; }
   return {
     dem: d ? d.v : undefined, rep: r ? r.v : undefined, demName: d ? last(d.c) : null, repName: r ? last(r.c) : null,
-    other, otherMin, othersList: others.map(x => `${last(x.c)} (${x.c.party})`), allNames: race.cands.map(x => `${last(x.c)} (${x.c.party})`),
+    other, otherMin, othersList: others.map(x => `${last(x.c)} (${x.c.party})`),
+    demC: d && d.c, repC: r && r.c, otherCs: others.map(x => x.c),
   };
 }
 
@@ -89,16 +96,23 @@ for (const f of PRECINCTS.features) {
     P[kind] = id;
     if (here.length > 1) P[kind + '_split'] = here.join('/');
     const s = split(here[0] ? R[office + '|' + here[0]] : null);
-    if (!s) { if (kind === 'hd' && pn > 0) P[noteKey] = P[noteKey] || `no State House contest reported for this precinct`; continue; }
+    if (kind === 'sd') P.sen_up = !!s;
+    if (!s) {
+      if (kind === 'hd' && pn > 0) P[noteKey] = P[noteKey] || `No State House contest was reported for this precinct.`;
+      // Senate seats are staggered: SD n is made up of HD 2n-1 and 2n, so the seat follows from the House district
+      if (kind === 'sd' && P.hd) { P.sd = String(Math.ceil(+P.hd / 2)); P.sen_note = `SD ${P.sd} was not on the ballot in 2024. Oregon senators serve four-year terms; this seat is next up in 2026.`; }
+      continue;
+    }
     P[nameKey] = s.demName; P[repKey] = s.repName;
     P[X('dem')] = s.dem ?? null; P[X('rep')] = s.rep ?? null; P[X('other')] = s.other; if (s.otherMin) P[X('other_min')] = true;
     if (s.othersList.length) P[X('others')] = s.othersList.join(', ');
     const d = s.dem, r = s.rep;
     let why = null;
-    if (d === undefined && r === undefined) why = `${lab} ${id}: no Democrat or Republican (${s.allNames.join(' vs ') || 'write-ins only'})`;
-    else if (d === undefined) why = s.othersList.length ? `${lab} ${id}: no Democrat on the ballot (${s.repName} (REP) vs ${s.othersList.join(', ')})` : `${lab} ${id}: ${s.repName} (R) unopposed`;
-    else if (r === undefined) why = s.othersList.length ? `${lab} ${id}: no Republican on the ballot (${s.demName} (DEM) vs ${s.othersList.join(', ')})` : `${lab} ${id}: ${s.demName} (D) unopposed`;
-    else if (d === null || r === null) why = `${lab} ${id}: Democratic or Republican count suppressed by the county ("<10")`;
+    const seat = `${lab} ${id}`, others = s.otherCs.map(describe).join(' and '), noPair = ' There was no Democrat-vs-Republican race, so it is left out of the two-party figures.';
+    if (d === undefined && r === undefined) why = `${seat} had no Democratic or Republican candidate${others ? ': ' + others : ''}.` + noPair;
+    else if (d === undefined) why = (others ? `${seat} had no Democratic candidate: ${describe(s.repC)} vs. ${others}.` : `${describe(s.repC)} ran unopposed in ${seat}.`) + noPair;
+    else if (r === undefined) why = (others ? `${seat} had no Republican candidate: ${describe(s.demC)} vs. ${others}.` : `${describe(s.demC)} ran unopposed in ${seat}.`) + noPair;
+    else if (d === null || r === null) why = `${seat}: the county reported the Democratic or Republican count here only as "under 10", so it cannot be compared.`;
     if (why) { P[noteKey] = why; continue; }
     // contested D vs R race
     const n = d + r;
@@ -136,7 +150,7 @@ fs.writeFileSync(HTML, lines.join('\n'));
 
 // ---- flat CSV of the map figures
 const COLS = ['county', 'precinct', 'hd', 'hd_split', 'sd', 'sd_split', 'pres_harris', 'pres_trump', 'pres_other', 'pres_dem2p', 'dem_name', 'rep_name', 'house_dem', 'house_rep', 'house_other', 'house_others', 'house_dem2p', 'delta', 'undervote', 'has_metric', 'note',
-  'sen_dem_name', 'sen_rep_name', 'sen_dem', 'sen_rep', 'sen_other', 'sen_others', 'sen_dem2p', 'sen_delta', 'sen_undervote', 'sen_note'];
+  'sen_up', 'sen_dem_name', 'sen_rep_name', 'sen_dem', 'sen_rep', 'sen_other', 'sen_others', 'sen_dem2p', 'sen_delta', 'sen_undervote', 'sen_note'];
 csv.write(path.join(ROOT, 'data/split_ticket_data.csv'), COLS, out.map(p => COLS.map(c => p[c] ?? '')));
 console.log(`${out.length} precincts; ${out.filter(p => p.has_metric).length} with a House comparison, ${out.filter(p => p.sen_delta !== undefined).length} with a Senate comparison`);
 if (reassigned.length) console.log(`${reassigned.length} precincts take their district from the official results instead of the map:\n  ` + reassigned.join('\n  '));
