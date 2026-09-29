@@ -52,6 +52,8 @@ function split(race) {
     dem: d ? d.v : undefined, rep: r ? r.v : undefined, demName: d ? last(d.c) : null, repName: r ? last(r.c) : null,
     other, otherMin, othersList: others.map(x => `${last(x.c)} (${x.c.party})`),
     demC: d && d.c, repC: r && r.c, otherCs: others.map(x => x.c),
+    // each third-party candidate separately: [short name, party, votes (null = county printed "<10")]
+    third: others.map(x => [last(x.c), x.c.party, x.v]), writein: race.writein === undefined ? 0 : race.writein,
   };
 }
 
@@ -78,7 +80,7 @@ for (const f of PRECINCTS.features) {
   const P = { precinct: q.precinct, county: q.county, hd: q.hd, sd: q.sd || null };
   const pres = split(R['President|']);
   if (pres && pres.dem !== undefined && pres.rep !== undefined && pres.dem + pres.rep > 0) {
-    Object.assign(P, { pres_harris: pres.dem, pres_trump: pres.rep, pres_other: pres.other, pres_other_min: pres.otherMin || undefined,
+    Object.assign(P, { pres_harris: pres.dem, pres_trump: pres.rep, pres_other: pres.other, pres_other_min: pres.otherMin || undefined, pres_third: pres.third, pres_writein: pres.writein,
       pres_dem2p: r2(pres.dem / (pres.dem + pres.rep) * 100), pres_margin: r2((pres.dem - pres.rep) / (pres.dem + pres.rep) * 100) });
   } else P.note = 'no presidential votes in this precinct';
   const pn = P.pres_harris + P.pres_trump;
@@ -106,6 +108,8 @@ for (const f of PRECINCTS.features) {
     P[nameKey] = s.demName; P[repKey] = s.repName;
     P[X('dem')] = s.dem ?? null; P[X('rep')] = s.rep ?? null; P[X('other')] = s.other; if (s.otherMin) P[X('other_min')] = true;
     if (s.othersList.length) P[X('others')] = s.othersList.join(', ');
+    if (s.third.length) P[X('third')] = s.third;
+    P[X('writein')] = s.writein;
     const d = s.dem, r = s.rep;
     let why = null;
     const seat = `${lab} ${id}`, others = s.otherCs.map(describe).join(' and '), noPair = ' There was no Democrat-vs-Republican race, so it is left out of the two-party figures.';
@@ -117,7 +121,7 @@ for (const f of PRECINCTS.features) {
     // contested D vs R race
     const n = d + r;
     P[X('dem2p')] = n ? r2(d / n * 100) : null; P[X('margin')] = n ? r2((d - r) / n * 100) : null;
-    if (pn > 0) P[X('undervote')] = r1((pn - n) / pn * 100);
+    if (pn > 0) P[kind === 'hd' ? 'undervote' : 'sen_undervote'] = r1((pn - n) / pn * 100);
     addToDistrict(kind, id, s, q.county, pn > 0 ? P : null);
     if (n < MIN_TWO_PARTY || !(pn >= MIN_TWO_PARTY)) { P[noteKey] = `too few votes to compare (${lab} two-party n=${n}, President n=${pn || 0}; minimum ${MIN_TWO_PARTY})`; continue; }
     P[kind === 'hd' ? 'delta' : 'sen_delta'] = r2(P[X('dem2p')] - P.pres_dem2p);
@@ -149,9 +153,21 @@ for (let i = 0; i < lines.length; i++) if (/sub:'\w+ contested State Senate dist
 fs.writeFileSync(HTML, lines.join('\n'));
 
 // ---- flat CSV of the map figures
-const COLS = ['county', 'precinct', 'hd', 'hd_split', 'sd', 'sd_split', 'pres_harris', 'pres_trump', 'pres_other', 'pres_dem2p', 'dem_name', 'rep_name', 'house_dem', 'house_rep', 'house_other', 'house_others', 'house_dem2p', 'delta', 'undervote', 'has_metric', 'note',
-  'sen_up', 'sen_dem_name', 'sen_rep_name', 'sen_dem', 'sen_rep', 'sen_other', 'sen_others', 'sen_dem2p', 'sen_delta', 'sen_undervote', 'sen_note'];
-csv.write(path.join(ROOT, 'data/split_ticket_data.csv'), COLS, out.map(p => COLS.map(c => p[c] ?? '')));
+// "other" is also broken out by party: one column per third party that ran for that office (each party ran at
+// most one candidate per race), plus write-ins; "<10" where Lane County printed only that
+const thirdParties = pre => [...new Set(out.flatMap(p => (p[pre + '_third'] || []).map(t => t[1])))].sort();
+const partyCols = pre => [...thirdParties(pre).map(pt => `${pre}_${pt.toLowerCase()}`), `${pre}_writein`];
+const COLS = ['county', 'precinct', 'hd', 'hd_split', 'sd', 'sd_split', 'pres_harris', 'pres_trump', 'pres_other', ...partyCols('pres'), 'pres_dem2p',
+  'dem_name', 'rep_name', 'house_dem', 'house_rep', 'house_other', ...partyCols('house'), 'house_others', 'house_dem2p', 'delta', 'undervote', 'has_metric', 'note',
+  'sen_up', 'sen_dem_name', 'sen_rep_name', 'sen_dem', 'sen_rep', 'sen_other', ...partyCols('sen'), 'sen_others', 'sen_dem2p', 'sen_delta', 'sen_undervote', 'sen_note'];
+const cell = (p, c) => {
+  const m = c.match(/^(pres|house|sen)_(wtp|pro|lib|con|pgp|ind|nav|wfp|writein)$/);
+  if (!m) return p[c] ?? '';
+  if (m[2] === 'writein') return p[c] === undefined ? '' : p[c] === null ? '<10' : p[c];
+  const t = (p[m[1] + '_third'] || []).find(x => x[1].toLowerCase() === m[2]);
+  return !t ? '' : t[2] === null ? '<10' : t[2];
+};
+csv.write(path.join(ROOT, 'data/split_ticket_data.csv'), COLS, out.map(p => COLS.map(c => cell(p, c))));
 console.log(`${out.length} precincts; ${out.filter(p => p.has_metric).length} with a House comparison, ${out.filter(p => p.sen_delta !== undefined).length} with a Senate comparison`);
 if (reassigned.length) console.log(`${reassigned.length} precincts take their district from the official results instead of the map:\n  ` + reassigned.join('\n  '));
 console.log(`${RANKING.length} D-vs-R House districts, ${SENATE_RANKING.length} D-vs-R Senate districts (SD ${sdList.join(', ')})`);

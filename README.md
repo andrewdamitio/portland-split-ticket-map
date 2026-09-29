@@ -12,7 +12,7 @@ Open `index.html` in a browser. It is a single self-contained page; the map tile
 | File | What it is |
 |---|---|
 | `data/full_vote_counts_2024.csv` | **The full results.** One row per precinct × contest × item (31,471 rows, 1,313 precincts). |
-| `data/split_ticket_data.csv` | The per-precinct figures the map shows (two-party shares, differences, third-party totals, notes). |
+| `data/split_ticket_data.csv` | The per-precinct figures the map shows: two-party shares and differences, drop-off, notes, and third-party votes for President, House and Senate. Third-party votes are given as a total (`*_other`) and by party, e.g. `pres_lib`, `house_pgp`, `sen_nav`, `*_writein`. |
 | `data/sources/` | The official county results files the numbers come from, plus the Secretary of State's certified totals. |
 | `data/extracted/` | Each county's results as read from its report, before joining (`_log.txt` lists every check and correction). |
 
