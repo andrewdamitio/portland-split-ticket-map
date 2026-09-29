@@ -1,0 +1,61 @@
+TEE eee
+Statement of Votes Cast by Geography                                              Page: 21 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                             2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                  09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+US Representative, 2nd District (Vote for 1)
+314 ballots (0 over voted ballots, 0 overvotes, 8 undervotes), 411 registered voters, turnout 76.40%
+Cliff Bentz                                                      260          84.97%
+Michael Kurt Stettler                                             4           1.31%
+Dan Ruby                                                   44         13.40%
+Write-in                                                        1          0.33%
+Total                                                                                           306            100.00%
+Overvotes                                                     0
+Undervotes                                                   8
+Secretary of State (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 14 undervotes), 411 registered voters, turnout 76.16%
+Nathalie Paravicini                                           3           1.00%
+Dennis Linthicum                                              251          83.95%
+Tobias Read                                                 44         14.72%
+Write-in                                                        1           0.33%
+Total                                                                                                        299              {00.00%
+Overvotes                                                     0
+Undervotes                                                  14
+State Treasurer (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 15 undervotes), 411 registered voters, turnout 76.16%
+Mary King                                                         9           3.02%
+Brian J Boquist                                              250         83.89%
+Elizabeth Steiner                                            38         12.75%
+Write-in                                                        1           0.34%
+Total                                                                                                        298              100.00%
+Overvotes                                                     0
+Undervotes                                                  15
+Attorney General (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 11 undervotes), 411 registered voters, turnout 76.16%
+Will Lathrop                                             260        86.09%
+Dan Rayfield                                             42        13.91%
+Write-in                                                        0          0.00%
+Total                                                                                                        302              {00.00%
+Overvotes                                                     0
+Undervotes                                                  11
+State Senator, 30th District (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 71 undervotes), 411 registered voters, turnout 76.16%
+Mike McLane                                                  238          98.35%
+Write-in                                                        4           1.65%
+Total                                                                                                        242              100.00%
+Overvotes                                                     0
+Undervotes                                                  71
+State Representative, 59th District (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 10 undervotes), 411 registered voters, turnout 76.16%
+Vikki Breese-lverson                                    266        87.79%
+Brian K Samp                                                 37         12.21%
+Write-in                                                        0          0.00%
+Total                                                                                                        303              {00.00%
+Overvotes                                                     0
+Undervotes                                                  10
+Judge of the Supreme Court, Position 1 (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 140 undervotes), 411 registered voters, turnout 76.16%
+Stephen K Bushong                                           168          97.11%

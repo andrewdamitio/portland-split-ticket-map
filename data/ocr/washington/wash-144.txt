@@ -1,0 +1,31 @@
+ee SS eee
+
+Ballots Cast per Contest with Precincts                                       Page: 144 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+
+Official Results
+Total Ballots Cast: 301 105, Registered Voters: 400012, Overall Turnout: 75.27%
+Question 34-338 (Vote for 1)
+
+Precinct      Ballots   Reg.    Total    Yes       No       Over  Under
+Cast  Voters    Votes                    Votes   Votes
+Precinct 307     4494   6439    4243   1483 34.95%   2760 65.05%    0   251
+Precinct 309    4308   5870    4078   1627 39.90%   2451 60.10%    0   230
+Precinct 318     3750   5355    3562   1408 39.53%   2154 60.47%    0   188
+Precinct 325     155   287    144    60 41.67%    84 58.33%    )    11
+Precinct 327     5317   7091    4967   2178 43.85%   2789 56.15%    0   350
+Precinct 329     7692  10184    7183   3218 44.80%   3965 55.20%    0   509
+Precinct 332     2550   3748    2375   1240 52.21%   1135 47.79%    1)   175
+Precinct 333     3626   5535    3296   1672 50.73%   1624 49.27%    1   329
+Precinct 335     4268   5422    4060   1630 40.15%   2430 59.85%    )   208
+Precinct 336     2948   4133    2772   1030 37.16%   1742 62.84%    4)   176
+Precinct 337     1086   2080    995   356 35.78%   639 64.22%    0    91
+Precinct 343     2608   3433    2449   972 39.69%   1477 60.31%    4)   159
+Precinct 344    2806   4444    2648   1011 38.18%   1637 61.82%    )   158
+Precinct 374      9    11     9    7 77.78%    2 22.22%    0    0
+Precinct 440     1461   2096    1388   604 43.52%   784 56.48%    0    73
+Precinct 446     107   197    101    48 47.52%    53 52.48%    )    6
+Total       47185  66322   44270  18544 41.89%  25726 58.11%    1   2914

@@ -1,0 +1,44 @@
+eee EES SST
+
+Ballots Cast per Contest with Precincts                                            Page: 26 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                     09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+State Treasurer (Vote for 1)
+
+Precinct                Ballots         Reg.            Total         Over       Under
+Cast       Voters           Votes       Votes       Votes
+Precinct 428                  1359           1967               1267                0               92
+Precinct 429                  2699           3785               2523                 0             176
+Precinct 430                    2310            2835                 2178                  0              132
+Precinct 431                      775              945                   746                  0                29
+Precinct 432                      306              401                   293                  0                13
+Precinct 433                   2171            2698                2060                  0              411
+Precinct 434                      4401              5831                   4137                     0                264
+Precinct 435                      4132              5143                   3865                     0                267
+Precinct 436                      2242              2612                   2094                     0                148
+Precinct 437                        63                82                     59                  0                  4
+Precinct 438                      493              641                   469                  0                24
+Precinct 439              2375        3122            2222             1          152
+Precinct 440                    1461             2096                 1364                  0                97
+Precinct 441                        70                87                     70                  0                  0
+Precinct 442                      2708              3394                   2515                     0                193
+Precinct 443                       11                 11                     1                  0                  0
+Precinct 444                            121                   150                         117                       0                       4
+Precinct 445                  1             4                1             0             0
+Precinct 446                             107                   197                            97                        0                      10
+Precinct 447                      285              344                   276                  0                  9
+Precinct 448                        771                 956                     717                     0                  54
+Precinct 449                        293                346                     283                     0                   10
+Precinct 450                         170                 208                      161                      0                     9
+Precinct 451                       1066              1450                     994                     0                  72
+Precinct 452                     99             131                   89                0               10
+Precinct 453                      11               13                   10                0                 1
+Precinct 454                      19               27                   19                0                0
+Precinct 455                    1486            2157                 1387                  0                99
+Precinct 456                       7                 8                     7                0                0
+Total                                 300013          400012               280999                    17            18997

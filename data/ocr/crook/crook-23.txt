@@ -1,0 +1,60 @@
+SSS an
+Statement of Votes Cast by Geography                                             Page: 23 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                        2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Total                                                                                                 163             100.00%
+Overvotes                                                     0
+Undervotes                                                 150
+Question 7-115 (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 17 undervotes), 411 registered voters, turnout 76.16%
+Yes                                                         133         44.93%
+No                                                          163         55.07%
+Total                                                                                                        296              100.00%
+Overvotes                                                     Q
+Undervotes                                                  17
+Question 7-116 (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 21 undervotes), 411 registered voters, turnout 76.16%
+Yes                                                           97         33.22%
+No                                                           195         66.78%
+Total                                                                                                        292              100.00%
+Overvotes                                                     0
+Undervotes                                                  21
+Question 7-117 (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 15 undervotes), 411 registered voters, turnout 76.16%
+Yes                                                           66         22.15%
+No                                                          232         77.85%
+Total                                                                                           298            100.00%
+Overvotes                                                     0
+Undervotes                                                  15
+Question 7-118 (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 13 undervotes), 411 registered voters, turnout 76.16%
+Yes                                                           39         13.00%
+No                                                          261         87.00%
+Total                                                                                           300            100.00%
+Overvotes                                                     Q
+Undervotes                                                  13
+Question 7-119 (Vote for 1)
+313 ballots (0 over voted ballots, 0 overvotes, 22 undervotes), 411 registered voters, turnout 76.16%
+Yes                                                           91         31.27%
+No                                                          200         68.73%
+Total                                        291      100.00%
+Overvotes                                                     0
+Undervotes                                                  22
+Precinct 08
+President (Vote for 1)
+616 ballots (0 over voted ballots, 0 overvotes, 3 undervotes), 933 registered voters, turnout 66.02%
+Robert F Kennedy Jr/Nicole Shanahan                       8           1.31%
+Cornel West                                                                              |                0.16%
+Chase Oliver/Mike ter Maat                                      2            0.33%
+Randall Terry                                                          ie]            0.00%
+Donald J Trump/JD Vance                                 438         71.45%
+Jill Stein/Rudolph Ware                                       2           0.33%
+Kamala D Harris/Tim Walz                               159         25.94%
+Write-in                                                        3          0.49%
+Total                                                                                                 613             100.00%
+Overvotes                                                     0
+Undervotes                                                    3

@@ -1,0 +1,17 @@
+EE
+Ballots Cast per Contest with Precincts                                          Page: 95 of 147
+Washington County November 5 2024 General Election                                      2024-12-02
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+City of Sherwood, Council Members (Vote for 3)
+Precinct                 Ballots         Reg.            Total       Kim Young          Renee E Brouse         Dan Standke              Write-in
+Cast     Voters         Votes
+
+Precinct 424           4657       5850          8283       2773 33.48%       2679 32.34%       2670 32.23%        104 1.26%
+
+Precinct 435           4132       5143          7548       2484 32.91%       2446 32.41%       2462 32.62%        108 1.43%
+
+Precinct 442           2708       3394         4996       1671 33.45%       1626 32.55%       1617 32.37%         56 1.12%
+
+Total                 11497      14387        20827       6928 33.26%       6751 32.41%       6749 32.41%        268 1.29%

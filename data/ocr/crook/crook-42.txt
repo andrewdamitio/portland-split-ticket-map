@@ -1,0 +1,60 @@
+SS VV SSS Sy
+Statement of Votes Cast by Geography                                           Page: 42 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                        2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                  09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Total                                                                                           542            100.00%
+Overvotes                                                     0
+Undervotes                                                299
+Question 7-115 (Vote for 1)
+841 ballots (0 over voted ballots, 0 overvotes, 38 undervotes), 1168 registered voters, turnout 72.00%
+Yes                                                         383         47.70%
+No                                                          420         52.30%
+Total                                                        803        100.00%
+Overvotes                                                     0
+Undervotes                                                  38
+Question 7-116 (Vote for 1)
+841 ballots (0 over voted ballots, 0 overvotes, 47 undervotes), 1168 registered voters, turnout 72.00%
+Yes                                                         263         33.12%
+No                                                          §31         66.88%
+Total                                                                                           794             100.00%
+Overvotes                                                     0
+Undervotes                                                  47
+Question 7-117 (Vote for 1)
+841 ballots (0 over voted ballots, 0 overvotes, 28 undervotes), 1168 registered voters, turnout 72.00%
+Yes                                                         201         24.72%
+No                                                          612         75.28%
+Total                                                        813        100.00%
+Overvotes                                                     0
+Undervotes                                                  28
+Question 7-118 (Vote for 1)
+841 ballots (0 over voted ballots, 0 overvotes, 29 undervotes), 1168 registered voters, turnout 72.00%
+Yes                                                         114         14.04%
+No                                                          698         85.96%
+Total                                                        812        100.00%
+Overvotes                                                     0
+Undervotes                                                  29
+Question 7-119 (Vote for 1)
+841 ballots (0 over voted ballots, 0 overvotes, 53 undervotes), 1168 registered voters, turnout 72.00%
+Yes                                                         270         34.26%
+No                                                          518         65.74%
+Total                                                        788        100.00%
+Overvotes                                                     0
+Undervotes                                                  53
+Precinct 14
+President (Vote for 1)
+502 ballots (0 over voted ballots, 0 overvotes, 3 undervotes), 841 registered voters, turnout 59.69%
+Robert F Kennedy Jr/Nicole Shanahan                    13           2.61%
+Cornel West                                                       1            0.20%
+Chase Oliver/Mike ter Maat                                         1             0.20%
+Randall Terry                                                     0           0.00%
+Donald J Trump/JD Vance                                364         72.95%
+Jill Stein/Rudolph Ware                                        0           0.00%
+Kamala D Harris/Tim Walz                                 420         24.05%
+Write-in                                                        0          0.00%
+Total                                        499      100.00%
+Overvotes                                                     0
+Undervotes                                                    3

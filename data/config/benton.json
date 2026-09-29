@@ -1,0 +1,103 @@
+[
+ {
+  "page": "data/ocr/benton/benton-01.txt",
+  "county": "Benton",
+  "left": {
+   "contest": "President",
+   "cols": [
+    "cand:Robert F Kennedy Jr/Nicole Shanahan (WTP)",
+    "cand:Cornel West (PRO)",
+    "cand:Chase Oliver/Mike ter Maat (LBT)",
+    "cand:Randall Terry (CON)",
+    "cand:Donald J Trump/JD Vance (REP)",
+    "cand:Jill Stein/Rudolph Ware (PGP)",
+    "cand:Kamala D Harris/Tim Walz (DEM)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/ocr/benton/benton-05.txt",
+  "county": "Benton",
+  "left": {
+   "contest": null,
+   "cols": [
+    "skip",
+    "skip",
+    "skip",
+    "skip",
+    "skip",
+    "skip"
+   ]
+  },
+  "right": {
+   "contest": "State Senator, 5th District",
+   "cols": [
+    "cand:Jo Beaudreau (DEM)",
+    "cand:Dick Anderson (REP)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/ocr/benton/benton-06.txt",
+  "county": "Benton",
+  "left": {
+   "contest": "State Representative, 10th District",
+   "cols": [
+    "cand:David Gomberg (DEM)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  },
+  "right": {
+   "contest": "State Representative, 15th District",
+   "cols": [
+    "cand:Terrence Virnig (DEM)",
+    "cand:Shelly Boshart Davis (REP)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/ocr/benton/benton-07.txt",
+  "county": "Benton",
+  "left": {
+   "contest": "State Representative, 16th District",
+   "cols": [
+    "cand:Michael A Beilstein (PGP)",
+    "cand:Sarah Finger McDonald (DEM)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ],
+   "fix": {
+    "02": {
+     "writein": 11
+    }
+   }
+  },
+  "right": {
+   "contest": null,
+   "cols": [
+    "skip",
+    "skip",
+    "skip",
+    "skip",
+    "skip"
+   ]
+  }
+ }
+]

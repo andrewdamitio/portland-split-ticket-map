@@ -1,0 +1,409 @@
+county,precinct_label,contest,type,choice,votes
+Baker,1 Baker 1,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,19
+Baker,1 Baker 1,President,candidate,Cornel West,2
+Baker,1 Baker 1,President,candidate,Chase Oliver / Mike ter Maat,3
+Baker,1 Baker 1,President,candidate,Randall Terry,3
+Baker,1 Baker 1,President,candidate,Donald J Trump / JD Vance,642
+Baker,1 Baker 1,President,candidate,Jill Stein / Rudolph Ware,1
+Baker,1 Baker 1,President,candidate,Kamala D Harris / Tim Walz,260
+Baker,1 Baker 1,President,writein,,4
+Baker,1 Baker 1,President,total_votes,,934
+Baker,1 Baker 1,President,overvotes,,0
+Baker,1 Baker 1,President,undervotes,,10
+Baker,1 Baker 1,President,ballots_cast,,944
+Baker,2 Baker 2,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,15
+Baker,2 Baker 2,President,candidate,Cornel West,2
+Baker,2 Baker 2,President,candidate,Chase Oliver / Mike ter Maat,2
+Baker,2 Baker 2,President,candidate,Randall Terry,1
+Baker,2 Baker 2,President,candidate,Donald J Trump / JD Vance,608
+Baker,2 Baker 2,President,candidate,Jill Stein / Rudolph Ware,7
+Baker,2 Baker 2,President,candidate,Kamala D Harris / Tim Walz,307
+Baker,2 Baker 2,President,writein,,5
+Baker,2 Baker 2,President,total_votes,,947
+Baker,2 Baker 2,President,overvotes,,0
+Baker,2 Baker 2,President,undervotes,,7
+Baker,2 Baker 2,President,ballots_cast,,954
+Baker,3 Baker 3,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,23
+Baker,3 Baker 3,President,candidate,Cornel West,0
+Baker,3 Baker 3,President,candidate,Chase Oliver / Mike ter Maat,4
+Baker,3 Baker 3,President,candidate,Randall Terry,1
+Baker,3 Baker 3,President,candidate,Donald J Trump / JD Vance,698
+Baker,3 Baker 3,President,candidate,Jill Stein / Rudolph Ware,6
+Baker,3 Baker 3,President,candidate,Kamala D Harris / Tim Walz,301
+Baker,3 Baker 3,President,writein,,2
+Baker,3 Baker 3,President,total_votes,,1035
+Baker,3 Baker 3,President,overvotes,,2
+Baker,3 Baker 3,President,undervotes,,7
+Baker,3 Baker 3,President,ballots_cast,,1044
+Baker,4 Baker 4,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,19
+Baker,4 Baker 4,President,candidate,Cornel West,2
+Baker,4 Baker 4,President,candidate,Chase Oliver / Mike ter Maat,6
+Baker,4 Baker 4,President,candidate,Randall Terry,1
+Baker,4 Baker 4,President,candidate,Donald J Trump / JD Vance,831
+Baker,4 Baker 4,President,candidate,Jill Stein / Rudolph Ware,6
+Baker,4 Baker 4,President,candidate,Kamala D Harris / Tim Walz,299
+Baker,4 Baker 4,President,writein,,13
+Baker,4 Baker 4,President,total_votes,,1177
+Baker,4 Baker 4,President,overvotes,,0
+Baker,4 Baker 4,President,undervotes,,8
+Baker,4 Baker 4,President,ballots_cast,,1185
+Baker,5 Baker 5,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,23
+Baker,5 Baker 5,President,candidate,Cornel West,1
+Baker,5 Baker 5,President,candidate,Chase Oliver / Mike ter Maat,6
+Baker,5 Baker 5,President,candidate,Randall Terry,0
+Baker,5 Baker 5,President,candidate,Donald J Trump / JD Vance,930
+Baker,5 Baker 5,President,candidate,Jill Stein / Rudolph Ware,3
+Baker,5 Baker 5,President,candidate,Kamala D Harris / Tim Walz,305
+Baker,5 Baker 5,President,writein,,7
+Baker,5 Baker 5,President,total_votes,,1275
+Baker,5 Baker 5,President,overvotes,,3
+Baker,5 Baker 5,President,undervotes,,11
+Baker,5 Baker 5,President,ballots_cast,,1289
+Baker,13 Baker Country,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Baker,13 Baker Country,President,candidate,Cornel West,0
+Baker,13 Baker Country,President,candidate,Chase Oliver / Mike ter Maat,1
+Baker,13 Baker Country,President,candidate,Randall Terry,2
+Baker,13 Baker Country,President,candidate,Donald J Trump / JD Vance,596
+Baker,13 Baker Country,President,candidate,Jill Stein / Rudolph Ware,0
+Baker,13 Baker Country,President,candidate,Kamala D Harris / Tim Walz,127
+Baker,13 Baker Country,President,writein,,1
+Baker,13 Baker Country,President,total_votes,,732
+Baker,13 Baker Country,President,overvotes,,2
+Baker,13 Baker Country,President,undervotes,,5
+Baker,13 Baker Country,President,ballots_cast,,739
+Baker,14 Durkee,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Baker,14 Durkee,President,candidate,Cornel West,0
+Baker,14 Durkee,President,candidate,Chase Oliver / Mike ter Maat,0
+Baker,14 Durkee,President,candidate,Randall Terry,0
+Baker,14 Durkee,President,candidate,Donald J Trump / JD Vance,70
+Baker,14 Durkee,President,candidate,Jill Stein / Rudolph Ware,0
+Baker,14 Durkee,President,candidate,Kamala D Harris / Tim Walz,3
+Baker,14 Durkee,President,writein,,0
+Baker,14 Durkee,President,total_votes,,73
+Baker,14 Durkee,President,overvotes,,0
+Baker,14 Durkee,President,undervotes,,1
+Baker,14 Durkee,President,ballots_cast,,74
+Baker,15 Eagle Valley,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Baker,15 Eagle Valley,President,candidate,Cornel West,0
+Baker,15 Eagle Valley,President,candidate,Chase Oliver / Mike ter Maat,5
+Baker,15 Eagle Valley,President,candidate,Randall Terry,1
+Baker,15 Eagle Valley,President,candidate,Donald J Trump / JD Vance,361
+Baker,15 Eagle Valley,President,candidate,Jill Stein / Rudolph Ware,0
+Baker,15 Eagle Valley,President,candidate,Kamala D Harris / Tim Walz,65
+Baker,15 Eagle Valley,President,writein,,0
+Baker,15 Eagle Valley,President,total_votes,,438
+Baker,15 Eagle Valley,President,overvotes,,0
+Baker,15 Eagle Valley,President,undervotes,,4
+Baker,15 Eagle Valley,President,ballots_cast,,442
+Baker,17 Haines,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Baker,17 Haines,President,candidate,Cornel West,0
+Baker,17 Haines,President,candidate,Chase Oliver / Mike ter Maat,9
+Baker,17 Haines,President,candidate,Randall Terry,0
+Baker,17 Haines,President,candidate,Donald J Trump / JD Vance,482
+Baker,17 Haines,President,candidate,Jill Stein / Rudolph Ware,1
+Baker,17 Haines,President,candidate,Kamala D Harris / Tim Walz,96
+Baker,17 Haines,President,writein,,4
+Baker,17 Haines,President,total_votes,,597
+Baker,17 Haines,President,overvotes,,0
+Baker,17 Haines,President,undervotes,,7
+Baker,17 Haines,President,ballots_cast,,604
+Baker,18 Hereford,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Baker,18 Hereford,President,candidate,Cornel West,0
+Baker,18 Hereford,President,candidate,Chase Oliver / Mike ter Maat,0
+Baker,18 Hereford,President,candidate,Randall Terry,0
+Baker,18 Hereford,President,candidate,Donald J Trump / JD Vance,72
+Baker,18 Hereford,President,candidate,Jill Stein / Rudolph Ware,1
+Baker,18 Hereford,President,candidate,Kamala D Harris / Tim Walz,3
+Baker,18 Hereford,President,writein,,0
+Baker,18 Hereford,President,total_votes,,78
+Baker,18 Hereford,President,overvotes,,0
+Baker,18 Hereford,President,undervotes,,1
+Baker,18 Hereford,President,ballots_cast,,79
+Baker,19 Huntington,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Baker,19 Huntington,President,candidate,Cornel West,1
+Baker,19 Huntington,President,candidate,Chase Oliver / Mike ter Maat,0
+Baker,19 Huntington,President,candidate,Randall Terry,1
+Baker,19 Huntington,President,candidate,Donald J Trump / JD Vance,215
+Baker,19 Huntington,President,candidate,Jill Stein / Rudolph Ware,1
+Baker,19 Huntington,President,candidate,Kamala D Harris / Tim Walz,52
+Baker,19 Huntington,President,writein,,0
+Baker,19 Huntington,President,total_votes,,277
+Baker,19 Huntington,President,overvotes,,1
+Baker,19 Huntington,President,undervotes,,4
+Baker,19 Huntington,President,ballots_cast,,282
+Baker,20 Irondyke,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Baker,20 Irondyke,President,candidate,Cornel West,0
+Baker,20 Irondyke,President,candidate,Chase Oliver / Mike ter Maat,0
+Baker,20 Irondyke,President,candidate,Randall Terry,1
+Baker,20 Irondyke,President,candidate,Donald J Trump / JD Vance,39
+Baker,20 Irondyke,President,candidate,Jill Stein / Rudolph Ware,0
+Baker,20 Irondyke,President,candidate,Kamala D Harris / Tim Walz,19
+Baker,20 Irondyke,President,writein,,0
+Baker,20 Irondyke,President,total_votes,,60
+Baker,20 Irondyke,President,overvotes,,0
+Baker,20 Irondyke,President,undervotes,,0
+Baker,20 Irondyke,President,ballots_cast,,60
+Baker,21 Keating,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Baker,21 Keating,President,candidate,Cornel West,0
+Baker,21 Keating,President,candidate,Chase Oliver / Mike ter Maat,2
+Baker,21 Keating,President,candidate,Randall Terry,0
+Baker,21 Keating,President,candidate,Donald J Trump / JD Vance,137
+Baker,21 Keating,President,candidate,Jill Stein / Rudolph Ware,0
+Baker,21 Keating,President,candidate,Kamala D Harris / Tim Walz,25
+Baker,21 Keating,President,writein,,0
+Baker,21 Keating,President,total_votes,,169
+Baker,21 Keating,President,overvotes,,0
+Baker,21 Keating,President,undervotes,,0
+Baker,21 Keating,President,ballots_cast,,169
+Baker,22 Pine Valley,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,3
+Baker,22 Pine Valley,President,candidate,Cornel West,0
+Baker,22 Pine Valley,President,candidate,Chase Oliver / Mike ter Maat,2
+Baker,22 Pine Valley,President,candidate,Randall Terry,0
+Baker,22 Pine Valley,President,candidate,Donald J Trump / JD Vance,458
+Baker,22 Pine Valley,President,candidate,Jill Stein / Rudolph Ware,5
+Baker,22 Pine Valley,President,candidate,Kamala D Harris / Tim Walz,188
+Baker,22 Pine Valley,President,writein,,2
+Baker,22 Pine Valley,President,total_votes,,658
+Baker,22 Pine Valley,President,overvotes,,0
+Baker,22 Pine Valley,President,undervotes,,7
+Baker,22 Pine Valley,President,ballots_cast,,665
+Baker,24 Poca-Wing,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,10
+Baker,24 Poca-Wing,President,candidate,Cornel West,0
+Baker,24 Poca-Wing,President,candidate,Chase Oliver / Mike ter Maat,2
+Baker,24 Poca-Wing,President,candidate,Randall Terry,0
+Baker,24 Poca-Wing,President,candidate,Donald J Trump / JD Vance,592
+Baker,24 Poca-Wing,President,candidate,Jill Stein / Rudolph Ware,4
+Baker,24 Poca-Wing,President,candidate,Kamala D Harris / Tim Walz,214
+Baker,24 Poca-Wing,President,writein,,3
+Baker,24 Poca-Wing,President,total_votes,,825
+Baker,24 Poca-Wing,President,overvotes,,0
+Baker,24 Poca-Wing,President,undervotes,,11
+Baker,24 Poca-Wing,President,ballots_cast,,836
+Baker,25 Sumpter,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,3
+Baker,25 Sumpter,President,candidate,Cornel West,0
+Baker,25 Sumpter,President,candidate,Chase Oliver / Mike ter Maat,1
+Baker,25 Sumpter,President,candidate,Randall Terry,0
+Baker,25 Sumpter,President,candidate,Donald J Trump / JD Vance,252
+Baker,25 Sumpter,President,candidate,Jill Stein / Rudolph Ware,0
+Baker,25 Sumpter,President,candidate,Kamala D Harris / Tim Walz,64
+Baker,25 Sumpter,President,writein,,2
+Baker,25 Sumpter,President,total_votes,,322
+Baker,25 Sumpter,President,overvotes,,0
+Baker,25 Sumpter,President,undervotes,,4
+Baker,25 Sumpter,President,ballots_cast,,326
+Baker,26 Unity,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Baker,26 Unity,President,candidate,Cornel West,0
+Baker,26 Unity,President,candidate,Chase Oliver / Mike ter Maat,0
+Baker,26 Unity,President,candidate,Randall Terry,0
+Baker,26 Unity,President,candidate,Donald J Trump / JD Vance,77
+Baker,26 Unity,President,candidate,Jill Stein / Rudolph Ware,1
+Baker,26 Unity,President,candidate,Kamala D Harris / Tim Walz,15
+Baker,26 Unity,President,writein,,2
+Baker,26 Unity,President,total_votes,,97
+Baker,26 Unity,President,overvotes,,0
+Baker,26 Unity,President,undervotes,,1
+Baker,26 Unity,President,ballots_cast,,98
+Baker,1 Baker 1,"State Senator, 30th District",candidate,Mike McLane,688
+Baker,1 Baker 1,"State Senator, 30th District",writein,,9
+Baker,1 Baker 1,"State Senator, 30th District",total_votes,,697
+Baker,1 Baker 1,"State Senator, 30th District",overvotes,,0
+Baker,1 Baker 1,"State Senator, 30th District",undervotes,,247
+Baker,1 Baker 1,"State Senator, 30th District",ballots_cast,,944
+Baker,2 Baker 2,"State Senator, 30th District",candidate,Mike McLane,708
+Baker,2 Baker 2,"State Senator, 30th District",writein,,14
+Baker,2 Baker 2,"State Senator, 30th District",total_votes,,722
+Baker,2 Baker 2,"State Senator, 30th District",overvotes,,0
+Baker,2 Baker 2,"State Senator, 30th District",undervotes,,232
+Baker,2 Baker 2,"State Senator, 30th District",ballots_cast,,954
+Baker,3 Baker 3,"State Senator, 30th District",candidate,Mike McLane,744
+Baker,3 Baker 3,"State Senator, 30th District",writein,,6
+Baker,3 Baker 3,"State Senator, 30th District",total_votes,,750
+Baker,3 Baker 3,"State Senator, 30th District",overvotes,,1
+Baker,3 Baker 3,"State Senator, 30th District",undervotes,,293
+Baker,3 Baker 3,"State Senator, 30th District",ballots_cast,,1044
+Baker,4 Baker 4,"State Senator, 30th District",candidate,Mike McLane,885
+Baker,4 Baker 4,"State Senator, 30th District",writein,,12
+Baker,4 Baker 4,"State Senator, 30th District",total_votes,,897
+Baker,4 Baker 4,"State Senator, 30th District",overvotes,,0
+Baker,4 Baker 4,"State Senator, 30th District",undervotes,,288
+Baker,4 Baker 4,"State Senator, 30th District",ballots_cast,,1185
+Baker,5 Baker 5,"State Senator, 30th District",candidate,Mike McLane,950
+Baker,5 Baker 5,"State Senator, 30th District",writein,,7
+Baker,5 Baker 5,"State Senator, 30th District",total_votes,,957
+Baker,5 Baker 5,"State Senator, 30th District",overvotes,,0
+Baker,5 Baker 5,"State Senator, 30th District",undervotes,,332
+Baker,5 Baker 5,"State Senator, 30th District",ballots_cast,,1289
+Baker,13 Baker Country,"State Senator, 30th District",candidate,Mike McLane,553
+Baker,13 Baker Country,"State Senator, 30th District",writein,,0
+Baker,13 Baker Country,"State Senator, 30th District",total_votes,,553
+Baker,13 Baker Country,"State Senator, 30th District",overvotes,,0
+Baker,13 Baker Country,"State Senator, 30th District",undervotes,,186
+Baker,13 Baker Country,"State Senator, 30th District",ballots_cast,,739
+Baker,14 Durkee,"State Senator, 30th District",candidate,Mike McLane,62
+Baker,14 Durkee,"State Senator, 30th District",writein,,1
+Baker,14 Durkee,"State Senator, 30th District",total_votes,,63
+Baker,14 Durkee,"State Senator, 30th District",overvotes,,0
+Baker,14 Durkee,"State Senator, 30th District",undervotes,,11
+Baker,14 Durkee,"State Senator, 30th District",ballots_cast,,74
+Baker,15 Eagle Valley,"State Senator, 30th District",candidate,Mike McLane,351
+Baker,15 Eagle Valley,"State Senator, 30th District",writein,,5
+Baker,15 Eagle Valley,"State Senator, 30th District",total_votes,,356
+Baker,15 Eagle Valley,"State Senator, 30th District",overvotes,,0
+Baker,15 Eagle Valley,"State Senator, 30th District",undervotes,,86
+Baker,15 Eagle Valley,"State Senator, 30th District",ballots_cast,,442
+Baker,17 Haines,"State Senator, 30th District",candidate,Mike McLane,452
+Baker,17 Haines,"State Senator, 30th District",writein,,4
+Baker,17 Haines,"State Senator, 30th District",total_votes,,456
+Baker,17 Haines,"State Senator, 30th District",overvotes,,0
+Baker,17 Haines,"State Senator, 30th District",undervotes,,148
+Baker,17 Haines,"State Senator, 30th District",ballots_cast,,604
+Baker,18 Hereford,"State Senator, 30th District",candidate,Mike McLane,61
+Baker,18 Hereford,"State Senator, 30th District",writein,,0
+Baker,18 Hereford,"State Senator, 30th District",total_votes,,61
+Baker,18 Hereford,"State Senator, 30th District",overvotes,,0
+Baker,18 Hereford,"State Senator, 30th District",undervotes,,18
+Baker,18 Hereford,"State Senator, 30th District",ballots_cast,,79
+Baker,19 Huntington,"State Senator, 30th District",candidate,Mike McLane,226
+Baker,19 Huntington,"State Senator, 30th District",writein,,3
+Baker,19 Huntington,"State Senator, 30th District",total_votes,,229
+Baker,19 Huntington,"State Senator, 30th District",overvotes,,0
+Baker,19 Huntington,"State Senator, 30th District",undervotes,,53
+Baker,19 Huntington,"State Senator, 30th District",ballots_cast,,282
+Baker,20 Irondyke,"State Senator, 30th District",candidate,Mike McLane,48
+Baker,20 Irondyke,"State Senator, 30th District",writein,,0
+Baker,20 Irondyke,"State Senator, 30th District",total_votes,,48
+Baker,20 Irondyke,"State Senator, 30th District",overvotes,,0
+Baker,20 Irondyke,"State Senator, 30th District",undervotes,,12
+Baker,20 Irondyke,"State Senator, 30th District",ballots_cast,,60
+Baker,21 Keating,"State Senator, 30th District",candidate,Mike McLane,127
+Baker,21 Keating,"State Senator, 30th District",writein,,0
+Baker,21 Keating,"State Senator, 30th District",total_votes,,127
+Baker,21 Keating,"State Senator, 30th District",overvotes,,0
+Baker,21 Keating,"State Senator, 30th District",undervotes,,42
+Baker,21 Keating,"State Senator, 30th District",ballots_cast,,169
+Baker,22 Pine Valley,"State Senator, 30th District",candidate,Mike McLane,493
+Baker,22 Pine Valley,"State Senator, 30th District",writein,,5
+Baker,22 Pine Valley,"State Senator, 30th District",total_votes,,498
+Baker,22 Pine Valley,"State Senator, 30th District",overvotes,,2
+Baker,22 Pine Valley,"State Senator, 30th District",undervotes,,165
+Baker,22 Pine Valley,"State Senator, 30th District",ballots_cast,,665
+Baker,24 Poca-Wing,"State Senator, 30th District",candidate,Mike McLane,587
+Baker,24 Poca-Wing,"State Senator, 30th District",writein,,5
+Baker,24 Poca-Wing,"State Senator, 30th District",total_votes,,592
+Baker,24 Poca-Wing,"State Senator, 30th District",overvotes,,0
+Baker,24 Poca-Wing,"State Senator, 30th District",undervotes,,244
+Baker,24 Poca-Wing,"State Senator, 30th District",ballots_cast,,836
+Baker,25 Sumpter,"State Senator, 30th District",candidate,Mike McLane,229
+Baker,25 Sumpter,"State Senator, 30th District",writein,,5
+Baker,25 Sumpter,"State Senator, 30th District",total_votes,,234
+Baker,25 Sumpter,"State Senator, 30th District",overvotes,,0
+Baker,25 Sumpter,"State Senator, 30th District",undervotes,,92
+Baker,25 Sumpter,"State Senator, 30th District",ballots_cast,,326
+Baker,26 Unity,"State Senator, 30th District",candidate,Mike McLane,75
+Baker,26 Unity,"State Senator, 30th District",writein,,1
+Baker,26 Unity,"State Senator, 30th District",total_votes,,76
+Baker,26 Unity,"State Senator, 30th District",overvotes,,0
+Baker,26 Unity,"State Senator, 30th District",undervotes,,22
+Baker,26 Unity,"State Senator, 30th District",ballots_cast,,98
+Baker,1 Baker 1,"State Representative, 60th District",candidate,Mark Owens,677
+Baker,1 Baker 1,"State Representative, 60th District",writein,,8
+Baker,1 Baker 1,"State Representative, 60th District",total_votes,,685
+Baker,1 Baker 1,"State Representative, 60th District",overvotes,,0
+Baker,1 Baker 1,"State Representative, 60th District",undervotes,,259
+Baker,1 Baker 1,"State Representative, 60th District",ballots_cast,,944
+Baker,2 Baker 2,"State Representative, 60th District",candidate,Mark Owens,706
+Baker,2 Baker 2,"State Representative, 60th District",writein,,12
+Baker,2 Baker 2,"State Representative, 60th District",total_votes,,718
+Baker,2 Baker 2,"State Representative, 60th District",overvotes,,0
+Baker,2 Baker 2,"State Representative, 60th District",undervotes,,236
+Baker,2 Baker 2,"State Representative, 60th District",ballots_cast,,954
+Baker,3 Baker 3,"State Representative, 60th District",candidate,Mark Owens,715
+Baker,3 Baker 3,"State Representative, 60th District",writein,,6
+Baker,3 Baker 3,"State Representative, 60th District",total_votes,,721
+Baker,3 Baker 3,"State Representative, 60th District",overvotes,,0
+Baker,3 Baker 3,"State Representative, 60th District",undervotes,,323
+Baker,3 Baker 3,"State Representative, 60th District",ballots_cast,,1044
+Baker,4 Baker 4,"State Representative, 60th District",candidate,Mark Owens,870
+Baker,4 Baker 4,"State Representative, 60th District",writein,,11
+Baker,4 Baker 4,"State Representative, 60th District",total_votes,,881
+Baker,4 Baker 4,"State Representative, 60th District",overvotes,,0
+Baker,4 Baker 4,"State Representative, 60th District",undervotes,,304
+Baker,4 Baker 4,"State Representative, 60th District",ballots_cast,,1185
+Baker,5 Baker 5,"State Representative, 60th District",candidate,Mark Owens,949
+Baker,5 Baker 5,"State Representative, 60th District",writein,,7
+Baker,5 Baker 5,"State Representative, 60th District",total_votes,,956
+Baker,5 Baker 5,"State Representative, 60th District",overvotes,,0
+Baker,5 Baker 5,"State Representative, 60th District",undervotes,,333
+Baker,5 Baker 5,"State Representative, 60th District",ballots_cast,,1289
+Baker,13 Baker Country,"State Representative, 60th District",candidate,Mark Owens,564
+Baker,13 Baker Country,"State Representative, 60th District",writein,,4
+Baker,13 Baker Country,"State Representative, 60th District",total_votes,,568
+Baker,13 Baker Country,"State Representative, 60th District",overvotes,,0
+Baker,13 Baker Country,"State Representative, 60th District",undervotes,,171
+Baker,13 Baker Country,"State Representative, 60th District",ballots_cast,,739
+Baker,14 Durkee,"State Representative, 60th District",candidate,Mark Owens,63
+Baker,14 Durkee,"State Representative, 60th District",writein,,1
+Baker,14 Durkee,"State Representative, 60th District",total_votes,,64
+Baker,14 Durkee,"State Representative, 60th District",overvotes,,0
+Baker,14 Durkee,"State Representative, 60th District",undervotes,,10
+Baker,14 Durkee,"State Representative, 60th District",ballots_cast,,74
+Baker,15 Eagle Valley,"State Representative, 60th District",candidate,Mark Owens,331
+Baker,15 Eagle Valley,"State Representative, 60th District",writein,,4
+Baker,15 Eagle Valley,"State Representative, 60th District",total_votes,,335
+Baker,15 Eagle Valley,"State Representative, 60th District",overvotes,,0
+Baker,15 Eagle Valley,"State Representative, 60th District",undervotes,,107
+Baker,15 Eagle Valley,"State Representative, 60th District",ballots_cast,,442
+Baker,17 Haines,"State Representative, 60th District",candidate,Mark Owens,456
+Baker,17 Haines,"State Representative, 60th District",writein,,4
+Baker,17 Haines,"State Representative, 60th District",total_votes,,460
+Baker,17 Haines,"State Representative, 60th District",overvotes,,0
+Baker,17 Haines,"State Representative, 60th District",undervotes,,144
+Baker,17 Haines,"State Representative, 60th District",ballots_cast,,604
+Baker,18 Hereford,"State Representative, 60th District",candidate,Mark Owens,63
+Baker,18 Hereford,"State Representative, 60th District",writein,,0
+Baker,18 Hereford,"State Representative, 60th District",total_votes,,63
+Baker,18 Hereford,"State Representative, 60th District",overvotes,,0
+Baker,18 Hereford,"State Representative, 60th District",undervotes,,16
+Baker,18 Hereford,"State Representative, 60th District",ballots_cast,,79
+Baker,19 Huntington,"State Representative, 60th District",candidate,Mark Owens,215
+Baker,19 Huntington,"State Representative, 60th District",writein,,3
+Baker,19 Huntington,"State Representative, 60th District",total_votes,,218
+Baker,19 Huntington,"State Representative, 60th District",overvotes,,0
+Baker,19 Huntington,"State Representative, 60th District",undervotes,,64
+Baker,19 Huntington,"State Representative, 60th District",ballots_cast,,282
+Baker,20 Irondyke,"State Representative, 60th District",candidate,Mark Owens,46
+Baker,20 Irondyke,"State Representative, 60th District",writein,,1
+Baker,20 Irondyke,"State Representative, 60th District",total_votes,,47
+Baker,20 Irondyke,"State Representative, 60th District",overvotes,,0
+Baker,20 Irondyke,"State Representative, 60th District",undervotes,,13
+Baker,20 Irondyke,"State Representative, 60th District",ballots_cast,,60
+Baker,21 Keating,"State Representative, 60th District",candidate,Mark Owens,127
+Baker,21 Keating,"State Representative, 60th District",writein,,0
+Baker,21 Keating,"State Representative, 60th District",total_votes,,127
+Baker,21 Keating,"State Representative, 60th District",overvotes,,0
+Baker,21 Keating,"State Representative, 60th District",undervotes,,42
+Baker,21 Keating,"State Representative, 60th District",ballots_cast,,169
+Baker,22 Pine Valley,"State Representative, 60th District",candidate,Mark Owens,475
+Baker,22 Pine Valley,"State Representative, 60th District",writein,,9
+Baker,22 Pine Valley,"State Representative, 60th District",total_votes,,484
+Baker,22 Pine Valley,"State Representative, 60th District",overvotes,,0
+Baker,22 Pine Valley,"State Representative, 60th District",undervotes,,181
+Baker,22 Pine Valley,"State Representative, 60th District",ballots_cast,,665
+Baker,24 Poca-Wing,"State Representative, 60th District",candidate,Mark Owens,615
+Baker,24 Poca-Wing,"State Representative, 60th District",writein,,4
+Baker,24 Poca-Wing,"State Representative, 60th District",total_votes,,619
+Baker,24 Poca-Wing,"State Representative, 60th District",overvotes,,0
+Baker,24 Poca-Wing,"State Representative, 60th District",undervotes,,217
+Baker,24 Poca-Wing,"State Representative, 60th District",ballots_cast,,836
+Baker,25 Sumpter,"State Representative, 60th District",candidate,Mark Owens,236
+Baker,25 Sumpter,"State Representative, 60th District",writein,,7
+Baker,25 Sumpter,"State Representative, 60th District",total_votes,,243
+Baker,25 Sumpter,"State Representative, 60th District",overvotes,,0
+Baker,25 Sumpter,"State Representative, 60th District",undervotes,,83
+Baker,25 Sumpter,"State Representative, 60th District",ballots_cast,,326
+Baker,26 Unity,"State Representative, 60th District",candidate,Mark Owens,78
+Baker,26 Unity,"State Representative, 60th District",writein,,0
+Baker,26 Unity,"State Representative, 60th District",total_votes,,78
+Baker,26 Unity,"State Representative, 60th District",overvotes,,0
+Baker,26 Unity,"State Representative, 60th District",undervotes,,20
+Baker,26 Unity,"State Representative, 60th District",ballots_cast,,98

@@ -1,0 +1,865 @@
+county,precinct_label,contest,type,choice,votes
+Douglas,01,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Douglas,01,President,candidate,Cornel West,1
+Douglas,01,President,candidate,Chase Oliver/Mike ter Maat,2
+Douglas,01,President,candidate,Randall Terry,0
+Douglas,01,President,candidate,Donald J Trump/JD Vance,607
+Douglas,01,President,candidate,Jill Stein/Rudolph Ware,10
+Douglas,01,President,candidate,Kamala D Harris/Tim Walz,309
+Douglas,01,President,writein,,3
+Douglas,01,President,total_votes,,950
+Douglas,01,President,overvotes,,2
+Douglas,01,President,undervotes,,16
+Douglas,01,President,ballots_cast,,968
+Douglas,01,President,registered,,1425
+Douglas,01,"State Senator, 5th District",candidate,Jo Beaudreau,291
+Douglas,01,"State Senator, 5th District",candidate,Dick Anderson,633
+Douglas,01,"State Senator, 5th District",writein,,1
+Douglas,01,"State Senator, 5th District",total_votes,,925
+Douglas,01,"State Senator, 5th District",overvotes,,0
+Douglas,01,"State Senator, 5th District",undervotes,,42
+Douglas,01,"State Senator, 5th District",ballots_cast,,967
+Douglas,01,"State Senator, 5th District",registered,,1425
+Douglas,01,"State Representative, 9th District",candidate,Boomer Wright,658
+Douglas,01,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,256
+Douglas,01,"State Representative, 9th District",writein,,4
+Douglas,01,"State Representative, 9th District",total_votes,,918
+Douglas,01,"State Representative, 9th District",overvotes,,0
+Douglas,01,"State Representative, 9th District",undervotes,,49
+Douglas,01,"State Representative, 9th District",ballots_cast,,967
+Douglas,01,"State Representative, 9th District",registered,,1425
+Douglas,02,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Douglas,02,President,candidate,Cornel West,3
+Douglas,02,President,candidate,Chase Oliver/Mike ter Maat,7
+Douglas,02,President,candidate,Randall Terry,1
+Douglas,02,President,candidate,Donald J Trump/JD Vance,506
+Douglas,02,President,candidate,Jill Stein/Rudolph Ware,6
+Douglas,02,President,candidate,Kamala D Harris/Tim Walz,253
+Douglas,02,President,writein,,6
+Douglas,02,President,total_votes,,798
+Douglas,02,President,overvotes,,0
+Douglas,02,President,undervotes,,14
+Douglas,02,President,ballots_cast,,812
+Douglas,02,President,registered,,1127
+Douglas,02,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,219
+Douglas,02,"State Senator, 1st District",candidate,David Brock Smith,519
+Douglas,02,"State Senator, 1st District",writein,,14
+Douglas,02,"State Senator, 1st District",total_votes,,752
+Douglas,02,"State Senator, 1st District",overvotes,,0
+Douglas,02,"State Senator, 1st District",undervotes,,56
+Douglas,02,"State Senator, 1st District",ballots_cast,,808
+Douglas,02,"State Senator, 1st District",registered,,1127
+Douglas,02,"State Representative, 2nd District",candidate,August Warren,234
+Douglas,02,"State Representative, 2nd District",candidate,Virgle J Osborne,521
+Douglas,02,"State Representative, 2nd District",writein,,5
+Douglas,02,"State Representative, 2nd District",total_votes,,760
+Douglas,02,"State Representative, 2nd District",overvotes,,0
+Douglas,02,"State Representative, 2nd District",undervotes,,48
+Douglas,02,"State Representative, 2nd District",ballots_cast,,808
+Douglas,02,"State Representative, 2nd District",registered,,1127
+Douglas,03,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,32
+Douglas,03,President,candidate,Cornel West,2
+Douglas,03,President,candidate,Chase Oliver/Mike ter Maat,11
+Douglas,03,President,candidate,Randall Terry,2
+Douglas,03,President,candidate,Donald J Trump/JD Vance,1306
+Douglas,03,President,candidate,Jill Stein/Rudolph Ware,16
+Douglas,03,President,candidate,Kamala D Harris/Tim Walz,919
+Douglas,03,President,writein,,9
+Douglas,03,President,total_votes,,2297
+Douglas,03,President,overvotes,,0
+Douglas,03,President,undervotes,,39
+Douglas,03,President,ballots_cast,,2336
+Douglas,03,President,registered,,3477
+Douglas,03,"State Senator, 5th District",candidate,Jo Beaudreau,823
+Douglas,03,"State Senator, 5th District",candidate,Dick Anderson,1400
+Douglas,03,"State Senator, 5th District",writein,,5
+Douglas,03,"State Senator, 5th District",total_votes,,2228
+Douglas,03,"State Senator, 5th District",overvotes,,0
+Douglas,03,"State Senator, 5th District",undervotes,,103
+Douglas,03,"State Senator, 5th District",ballots_cast,,2331
+Douglas,03,"State Senator, 5th District",registered,,3477
+Douglas,03,"State Representative, 9th District",candidate,Boomer Wright,1475
+Douglas,03,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,735
+Douglas,03,"State Representative, 9th District",writein,,4
+Douglas,03,"State Representative, 9th District",total_votes,,2214
+Douglas,03,"State Representative, 9th District",overvotes,,0
+Douglas,03,"State Representative, 9th District",undervotes,,117
+Douglas,03,"State Representative, 9th District",ballots_cast,,2331
+Douglas,03,"State Representative, 9th District",registered,,3477
+Douglas,04,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,68
+Douglas,04,President,candidate,Cornel West,5
+Douglas,04,President,candidate,Chase Oliver/Mike ter Maat,17
+Douglas,04,President,candidate,Randall Terry,8
+Douglas,04,President,candidate,Donald J Trump/JD Vance,2897
+Douglas,04,President,candidate,Jill Stein/Rudolph Ware,27
+Douglas,04,President,candidate,Kamala D Harris/Tim Walz,1171
+Douglas,04,President,writein,,33
+Douglas,04,President,total_votes,,4226
+Douglas,04,President,overvotes,,2
+Douglas,04,President,undervotes,,68
+Douglas,04,President,ballots_cast,,4296
+Douglas,04,President,registered,,5760
+Douglas,04,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,1025
+Douglas,04,"State Senator, 1st District",candidate,David Brock Smith,2986
+Douglas,04,"State Senator, 1st District",writein,,13
+Douglas,04,"State Senator, 1st District",total_votes,,4024
+Douglas,04,"State Senator, 1st District",overvotes,,0
+Douglas,04,"State Senator, 1st District",undervotes,,267
+Douglas,04,"State Senator, 1st District",ballots_cast,,4291
+Douglas,04,"State Senator, 1st District",registered,,5760
+Douglas,04,"State Representative, 2nd District",candidate,August Warren,1059
+Douglas,04,"State Representative, 2nd District",candidate,Virgle J Osborne,2952
+Douglas,04,"State Representative, 2nd District",writein,,7
+Douglas,04,"State Representative, 2nd District",total_votes,,4018
+Douglas,04,"State Representative, 2nd District",overvotes,,0
+Douglas,04,"State Representative, 2nd District",undervotes,,273
+Douglas,04,"State Representative, 2nd District",ballots_cast,,4291
+Douglas,04,"State Representative, 2nd District",registered,,5760
+Douglas,05,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,47
+Douglas,05,President,candidate,Cornel West,0
+Douglas,05,President,candidate,Chase Oliver/Mike ter Maat,9
+Douglas,05,President,candidate,Randall Terry,4
+Douglas,05,President,candidate,Donald J Trump/JD Vance,2915
+Douglas,05,President,candidate,Jill Stein/Rudolph Ware,14
+Douglas,05,President,candidate,Kamala D Harris/Tim Walz,1001
+Douglas,05,President,writein,,25
+Douglas,05,President,total_votes,,4015
+Douglas,05,President,overvotes,,1
+Douglas,05,President,undervotes,,68
+Douglas,05,President,ballots_cast,,4084
+Douglas,05,President,registered,,5445
+Douglas,05,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,838
+Douglas,05,"State Senator, 1st District",candidate,David Brock Smith,2979
+Douglas,05,"State Senator, 1st District",writein,,13
+Douglas,05,"State Senator, 1st District",total_votes,,3830
+Douglas,05,"State Senator, 1st District",overvotes,,0
+Douglas,05,"State Senator, 1st District",undervotes,,252
+Douglas,05,"State Senator, 1st District",ballots_cast,,4082
+Douglas,05,"State Senator, 1st District",registered,,5445
+Douglas,05,"State Representative, 2nd District",candidate,August Warren,859
+Douglas,05,"State Representative, 2nd District",candidate,Virgle J Osborne,2968
+Douglas,05,"State Representative, 2nd District",writein,,13
+Douglas,05,"State Representative, 2nd District",total_votes,,3840
+Douglas,05,"State Representative, 2nd District",overvotes,,0
+Douglas,05,"State Representative, 2nd District",undervotes,,242
+Douglas,05,"State Representative, 2nd District",ballots_cast,,4082
+Douglas,05,"State Representative, 2nd District",registered,,5445
+Douglas,06,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,45
+Douglas,06,President,candidate,Cornel West,0
+Douglas,06,President,candidate,Chase Oliver/Mike ter Maat,9
+Douglas,06,President,candidate,Randall Terry,6
+Douglas,06,President,candidate,Donald J Trump/JD Vance,2256
+Douglas,06,President,candidate,Jill Stein/Rudolph Ware,6
+Douglas,06,President,candidate,Kamala D Harris/Tim Walz,1002
+Douglas,06,President,writein,,22
+Douglas,06,President,total_votes,,3346
+Douglas,06,President,overvotes,,0
+Douglas,06,President,undervotes,,59
+Douglas,06,President,ballots_cast,,3405
+Douglas,06,President,registered,,4713
+Douglas,06,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,831
+Douglas,06,"State Senator, 1st District",candidate,David Brock Smith,2354
+Douglas,06,"State Senator, 1st District",writein,,5
+Douglas,06,"State Senator, 1st District",total_votes,,3190
+Douglas,06,"State Senator, 1st District",overvotes,,0
+Douglas,06,"State Senator, 1st District",undervotes,,209
+Douglas,06,"State Senator, 1st District",ballots_cast,,3399
+Douglas,06,"State Senator, 1st District",registered,,4713
+Douglas,06,"State Representative, 2nd District",candidate,August Warren,859
+Douglas,06,"State Representative, 2nd District",candidate,Virgle J Osborne,2326
+Douglas,06,"State Representative, 2nd District",writein,,14
+Douglas,06,"State Representative, 2nd District",total_votes,,3199
+Douglas,06,"State Representative, 2nd District",overvotes,,1
+Douglas,06,"State Representative, 2nd District",undervotes,,199
+Douglas,06,"State Representative, 2nd District",ballots_cast,,3399
+Douglas,06,"State Representative, 2nd District",registered,,4713
+Douglas,07,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,40
+Douglas,07,President,candidate,Cornel West,3
+Douglas,07,President,candidate,Chase Oliver/Mike ter Maat,9
+Douglas,07,President,candidate,Randall Terry,7
+Douglas,07,President,candidate,Donald J Trump/JD Vance,1771
+Douglas,07,President,candidate,Jill Stein/Rudolph Ware,6
+Douglas,07,President,candidate,Kamala D Harris/Tim Walz,1136
+Douglas,07,President,writein,,17
+Douglas,07,President,total_votes,,2989
+Douglas,07,President,overvotes,,1
+Douglas,07,President,undervotes,,48
+Douglas,07,President,ballots_cast,,3038
+Douglas,07,President,registered,,4063
+Douglas,07,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,914
+Douglas,07,"State Senator, 1st District",candidate,David Brock Smith,1885
+Douglas,07,"State Senator, 1st District",writein,,16
+Douglas,07,"State Senator, 1st District",total_votes,,2815
+Douglas,07,"State Senator, 1st District",overvotes,,0
+Douglas,07,"State Senator, 1st District",undervotes,,218
+Douglas,07,"State Senator, 1st District",ballots_cast,,3033
+Douglas,07,"State Senator, 1st District",registered,,4063
+Douglas,07,"State Representative, 2nd District",candidate,August Warren,946
+Douglas,07,"State Representative, 2nd District",candidate,Virgle J Osborne,1841
+Douglas,07,"State Representative, 2nd District",writein,,9
+Douglas,07,"State Representative, 2nd District",total_votes,,2796
+Douglas,07,"State Representative, 2nd District",overvotes,,0
+Douglas,07,"State Representative, 2nd District",undervotes,,237
+Douglas,07,"State Representative, 2nd District",ballots_cast,,3033
+Douglas,07,"State Representative, 2nd District",registered,,4063
+Douglas,08,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,50
+Douglas,08,President,candidate,Cornel West,2
+Douglas,08,President,candidate,Chase Oliver/Mike ter Maat,6
+Douglas,08,President,candidate,Randall Terry,1
+Douglas,08,President,candidate,Donald J Trump/JD Vance,2593
+Douglas,08,President,candidate,Jill Stein/Rudolph Ware,20
+Douglas,08,President,candidate,Kamala D Harris/Tim Walz,927
+Douglas,08,President,writein,,20
+Douglas,08,President,total_votes,,3619
+Douglas,08,President,overvotes,,0
+Douglas,08,President,undervotes,,38
+Douglas,08,President,ballots_cast,,3657
+Douglas,08,President,registered,,5452
+Douglas,08,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,798
+Douglas,08,"State Senator, 1st District",candidate,David Brock Smith,2595
+Douglas,08,"State Senator, 1st District",writein,,10
+Douglas,08,"State Senator, 1st District",total_votes,,3403
+Douglas,08,"State Senator, 1st District",overvotes,,0
+Douglas,08,"State Senator, 1st District",undervotes,,248
+Douglas,08,"State Senator, 1st District",ballots_cast,,3651
+Douglas,08,"State Senator, 1st District",registered,,5452
+Douglas,08,"State Representative, 1st District",candidate,Court Boice,2491
+Douglas,08,"State Representative, 1st District",candidate,Bret Cecil,891
+Douglas,08,"State Representative, 1st District",writein,,10
+Douglas,08,"State Representative, 1st District",total_votes,,3392
+Douglas,08,"State Representative, 1st District",overvotes,,0
+Douglas,08,"State Representative, 1st District",undervotes,,259
+Douglas,08,"State Representative, 1st District",ballots_cast,,3651
+Douglas,08,"State Representative, 1st District",registered,,5452
+Douglas,09,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,42
+Douglas,09,President,candidate,Cornel West,1
+Douglas,09,President,candidate,Chase Oliver/Mike ter Maat,11
+Douglas,09,President,candidate,Randall Terry,0
+Douglas,09,President,candidate,Donald J Trump/JD Vance,1621
+Douglas,09,President,candidate,Jill Stein/Rudolph Ware,16
+Douglas,09,President,candidate,Kamala D Harris/Tim Walz,1120
+Douglas,09,President,writein,,14
+Douglas,09,President,total_votes,,2825
+Douglas,09,President,overvotes,,1
+Douglas,09,President,undervotes,,44
+Douglas,09,President,ballots_cast,,2870
+Douglas,09,President,registered,,4069
+Douglas,09,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,916
+Douglas,09,"State Senator, 1st District",candidate,David Brock Smith,1738
+Douglas,09,"State Senator, 1st District",writein,,15
+Douglas,09,"State Senator, 1st District",total_votes,,2669
+Douglas,09,"State Senator, 1st District",overvotes,,1
+Douglas,09,"State Senator, 1st District",undervotes,,193
+Douglas,09,"State Senator, 1st District",ballots_cast,,2863
+Douglas,09,"State Senator, 1st District",registered,,4069
+Douglas,09,"State Representative, 2nd District",candidate,August Warren,957
+Douglas,09,"State Representative, 2nd District",candidate,Virgle J Osborne,1699
+Douglas,09,"State Representative, 2nd District",writein,,11
+Douglas,09,"State Representative, 2nd District",total_votes,,2667
+Douglas,09,"State Representative, 2nd District",overvotes,,1
+Douglas,09,"State Representative, 2nd District",undervotes,,195
+Douglas,09,"State Representative, 2nd District",ballots_cast,,2863
+Douglas,09,"State Representative, 2nd District",registered,,4069
+Douglas,10,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Douglas,10,President,candidate,Cornel West,0
+Douglas,10,President,candidate,Chase Oliver/Mike ter Maat,0
+Douglas,10,President,candidate,Randall Terry,0
+Douglas,10,President,candidate,Donald J Trump/JD Vance,62
+Douglas,10,President,candidate,Jill Stein/Rudolph Ware,1
+Douglas,10,President,candidate,Kamala D Harris/Tim Walz,63
+Douglas,10,President,writein,,1
+Douglas,10,President,total_votes,,129
+Douglas,10,President,overvotes,,0
+Douglas,10,President,undervotes,,3
+Douglas,10,President,ballots_cast,,132
+Douglas,10,President,registered,,160
+Douglas,10,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,55
+Douglas,10,"State Senator, 1st District",candidate,David Brock Smith,73
+Douglas,10,"State Senator, 1st District",writein,,0
+Douglas,10,"State Senator, 1st District",total_votes,,128
+Douglas,10,"State Senator, 1st District",overvotes,,0
+Douglas,10,"State Senator, 1st District",undervotes,,4
+Douglas,10,"State Senator, 1st District",ballots_cast,,132
+Douglas,10,"State Senator, 1st District",registered,,160
+Douglas,10,"State Representative, 2nd District",candidate,August Warren,60
+Douglas,10,"State Representative, 2nd District",candidate,Virgle J Osborne,66
+Douglas,10,"State Representative, 2nd District",writein,,0
+Douglas,10,"State Representative, 2nd District",total_votes,,126
+Douglas,10,"State Representative, 2nd District",overvotes,,0
+Douglas,10,"State Representative, 2nd District",undervotes,,6
+Douglas,10,"State Representative, 2nd District",ballots_cast,,132
+Douglas,10,"State Representative, 2nd District",registered,,160
+Douglas,11,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Douglas,11,President,candidate,Cornel West,0
+Douglas,11,President,candidate,Chase Oliver/Mike ter Maat,4
+Douglas,11,President,candidate,Randall Terry,0
+Douglas,11,President,candidate,Donald J Trump/JD Vance,333
+Douglas,11,President,candidate,Jill Stein/Rudolph Ware,2
+Douglas,11,President,candidate,Kamala D Harris/Tim Walz,150
+Douglas,11,President,writein,,1
+Douglas,11,President,total_votes,,500
+Douglas,11,President,overvotes,,0
+Douglas,11,President,undervotes,,3
+Douglas,11,President,ballots_cast,,503
+Douglas,11,President,registered,,808
+Douglas,11,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,129
+Douglas,11,"State Senator, 1st District",candidate,David Brock Smith,338
+Douglas,11,"State Senator, 1st District",writein,,5
+Douglas,11,"State Senator, 1st District",total_votes,,472
+Douglas,11,"State Senator, 1st District",overvotes,,0
+Douglas,11,"State Senator, 1st District",undervotes,,29
+Douglas,11,"State Senator, 1st District",ballots_cast,,501
+Douglas,11,"State Senator, 1st District",registered,,808
+Douglas,11,"State Representative, 2nd District",candidate,August Warren,139
+Douglas,11,"State Representative, 2nd District",candidate,Virgle J Osborne,329
+Douglas,11,"State Representative, 2nd District",writein,,2
+Douglas,11,"State Representative, 2nd District",total_votes,,470
+Douglas,11,"State Representative, 2nd District",overvotes,,0
+Douglas,11,"State Representative, 2nd District",undervotes,,31
+Douglas,11,"State Representative, 2nd District",ballots_cast,,501
+Douglas,11,"State Representative, 2nd District",registered,,808
+Douglas,12,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,44
+Douglas,12,President,candidate,Cornel West,3
+Douglas,12,President,candidate,Chase Oliver/Mike ter Maat,11
+Douglas,12,President,candidate,Randall Terry,2
+Douglas,12,President,candidate,Donald J Trump/JD Vance,2677
+Douglas,12,President,candidate,Jill Stein/Rudolph Ware,12
+Douglas,12,President,candidate,Kamala D Harris/Tim Walz,1021
+Douglas,12,President,writein,,19
+Douglas,12,President,total_votes,,3789
+Douglas,12,President,overvotes,,2
+Douglas,12,President,undervotes,,58
+Douglas,12,President,ballots_cast,,3849
+Douglas,12,President,registered,,4808
+Douglas,12,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,816
+Douglas,12,"State Senator, 1st District",candidate,David Brock Smith,2807
+Douglas,12,"State Senator, 1st District",writein,,8
+Douglas,12,"State Senator, 1st District",total_votes,,3631
+Douglas,12,"State Senator, 1st District",overvotes,,0
+Douglas,12,"State Senator, 1st District",undervotes,,209
+Douglas,12,"State Senator, 1st District",ballots_cast,,3840
+Douglas,12,"State Senator, 1st District",registered,,4808
+Douglas,12,"State Representative, 1st District",candidate,Court Boice,2723
+Douglas,12,"State Representative, 1st District",candidate,Bret Cecil,890
+Douglas,12,"State Representative, 1st District",writein,,3
+Douglas,12,"State Representative, 1st District",total_votes,,3616
+Douglas,12,"State Representative, 1st District",overvotes,,0
+Douglas,12,"State Representative, 1st District",undervotes,,224
+Douglas,12,"State Representative, 1st District",ballots_cast,,3840
+Douglas,12,"State Representative, 1st District",registered,,4808
+Douglas,13,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,45
+Douglas,13,President,candidate,Cornel West,0
+Douglas,13,President,candidate,Chase Oliver/Mike ter Maat,14
+Douglas,13,President,candidate,Randall Terry,1
+Douglas,13,President,candidate,Donald J Trump/JD Vance,2672
+Douglas,13,President,candidate,Jill Stein/Rudolph Ware,12
+Douglas,13,President,candidate,Kamala D Harris/Tim Walz,1093
+Douglas,13,President,writein,,33
+Douglas,13,President,total_votes,,3870
+Douglas,13,President,overvotes,,1
+Douglas,13,President,undervotes,,60
+Douglas,13,President,ballots_cast,,3931
+Douglas,13,President,registered,,4906
+Douglas,13,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,869
+Douglas,13,"State Senator, 1st District",candidate,David Brock Smith,2834
+Douglas,13,"State Senator, 1st District",writein,,9
+Douglas,13,"State Senator, 1st District",total_votes,,3712
+Douglas,13,"State Senator, 1st District",overvotes,,0
+Douglas,13,"State Senator, 1st District",undervotes,,208
+Douglas,13,"State Senator, 1st District",ballots_cast,,3920
+Douglas,13,"State Senator, 1st District",registered,,4906
+Douglas,13,"State Representative, 2nd District",candidate,August Warren,883
+Douglas,13,"State Representative, 2nd District",candidate,Virgle J Osborne,2812
+Douglas,13,"State Representative, 2nd District",writein,,9
+Douglas,13,"State Representative, 2nd District",total_votes,,3704
+Douglas,13,"State Representative, 2nd District",overvotes,,0
+Douglas,13,"State Representative, 2nd District",undervotes,,216
+Douglas,13,"State Representative, 2nd District",ballots_cast,,3920
+Douglas,13,"State Representative, 2nd District",registered,,4906
+Douglas,14,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,17
+Douglas,14,President,candidate,Cornel West,0
+Douglas,14,President,candidate,Chase Oliver/Mike ter Maat,2
+Douglas,14,President,candidate,Randall Terry,0
+Douglas,14,President,candidate,Donald J Trump/JD Vance,380
+Douglas,14,President,candidate,Jill Stein/Rudolph Ware,2
+Douglas,14,President,candidate,Kamala D Harris/Tim Walz,137
+Douglas,14,President,writein,,3
+Douglas,14,President,total_votes,,541
+Douglas,14,President,overvotes,,0
+Douglas,14,President,undervotes,,8
+Douglas,14,President,ballots_cast,,549
+Douglas,14,President,registered,,832
+Douglas,14,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,129
+Douglas,14,"State Senator, 1st District",candidate,David Brock Smith,389
+Douglas,14,"State Senator, 1st District",writein,,2
+Douglas,14,"State Senator, 1st District",total_votes,,520
+Douglas,14,"State Senator, 1st District",overvotes,,0
+Douglas,14,"State Senator, 1st District",undervotes,,28
+Douglas,14,"State Senator, 1st District",ballots_cast,,548
+Douglas,14,"State Senator, 1st District",registered,,832
+Douglas,14,"State Representative, 2nd District",candidate,August Warren,137
+Douglas,14,"State Representative, 2nd District",candidate,Virgle J Osborne,375
+Douglas,14,"State Representative, 2nd District",writein,,2
+Douglas,14,"State Representative, 2nd District",total_votes,,514
+Douglas,14,"State Representative, 2nd District",overvotes,,0
+Douglas,14,"State Representative, 2nd District",undervotes,,34
+Douglas,14,"State Representative, 2nd District",ballots_cast,,548
+Douglas,14,"State Representative, 2nd District",registered,,832
+Douglas,15,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,6
+Douglas,15,President,candidate,Cornel West,0
+Douglas,15,President,candidate,Chase Oliver/Mike ter Maat,0
+Douglas,15,President,candidate,Randall Terry,0
+Douglas,15,President,candidate,Donald J Trump/JD Vance,339
+Douglas,15,President,candidate,Jill Stein/Rudolph Ware,4
+Douglas,15,President,candidate,Kamala D Harris/Tim Walz,168
+Douglas,15,President,writein,,1
+Douglas,15,President,total_votes,,518
+Douglas,15,President,overvotes,,0
+Douglas,15,President,undervotes,,4
+Douglas,15,President,ballots_cast,,522
+Douglas,15,President,registered,,714
+Douglas,15,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,152
+Douglas,15,"State Senator, 1st District",candidate,David Brock Smith,338
+Douglas,15,"State Senator, 1st District",writein,,0
+Douglas,15,"State Senator, 1st District",total_votes,,490
+Douglas,15,"State Senator, 1st District",overvotes,,0
+Douglas,15,"State Senator, 1st District",undervotes,,31
+Douglas,15,"State Senator, 1st District",ballots_cast,,521
+Douglas,15,"State Senator, 1st District",registered,,714
+Douglas,15,"State Representative, 2nd District",candidate,August Warren,156
+Douglas,15,"State Representative, 2nd District",candidate,Virgle J Osborne,333
+Douglas,15,"State Representative, 2nd District",writein,,2
+Douglas,15,"State Representative, 2nd District",total_votes,,491
+Douglas,15,"State Representative, 2nd District",overvotes,,1
+Douglas,15,"State Representative, 2nd District",undervotes,,29
+Douglas,15,"State Representative, 2nd District",ballots_cast,,521
+Douglas,15,"State Representative, 2nd District",registered,,714
+Douglas,16,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,46
+Douglas,16,President,candidate,Cornel West,5
+Douglas,16,President,candidate,Chase Oliver/Mike ter Maat,6
+Douglas,16,President,candidate,Randall Terry,2
+Douglas,16,President,candidate,Donald J Trump/JD Vance,2215
+Douglas,16,President,candidate,Jill Stein/Rudolph Ware,13
+Douglas,16,President,candidate,Kamala D Harris/Tim Walz,684
+Douglas,16,President,writein,,15
+Douglas,16,President,total_votes,,2986
+Douglas,16,President,overvotes,,0
+Douglas,16,President,undervotes,,52
+Douglas,16,President,ballots_cast,,3038
+Douglas,16,President,registered,,4424
+Douglas,16,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,0
+Douglas,16,"State Senator, 1st District",candidate,David Brock Smith,3
+Douglas,16,"State Senator, 1st District",writein,,0
+Douglas,16,"State Senator, 1st District",total_votes,,3
+Douglas,16,"State Senator, 1st District",overvotes,,0
+Douglas,16,"State Senator, 1st District",undervotes,,0
+Douglas,16,"State Senator, 1st District",ballots_cast,,3
+Douglas,16,"State Senator, 1st District",registered,,3
+Douglas,16,"State Senator, 2nd District",candidate,Tracy Thompson,654
+Douglas,16,"State Senator, 2nd District",candidate,Noah Robinson,2185
+Douglas,16,"State Senator, 2nd District",writein,,7
+Douglas,16,"State Senator, 2nd District",total_votes,,2846
+Douglas,16,"State Senator, 2nd District",overvotes,,0
+Douglas,16,"State Senator, 2nd District",undervotes,,188
+Douglas,16,"State Senator, 2nd District",ballots_cast,,3034
+Douglas,16,"State Senator, 2nd District",registered,,4421
+Douglas,16,"State Representative, 1st District",candidate,Court Boice,3
+Douglas,16,"State Representative, 1st District",candidate,Bret Cecil,0
+Douglas,16,"State Representative, 1st District",writein,,0
+Douglas,16,"State Representative, 1st District",total_votes,,3
+Douglas,16,"State Representative, 1st District",overvotes,,0
+Douglas,16,"State Representative, 1st District",undervotes,,0
+Douglas,16,"State Representative, 1st District",ballots_cast,,3
+Douglas,16,"State Representative, 1st District",registered,,3
+Douglas,16,"State Representative, 4th District",candidate,Richard Chasm,732
+Douglas,16,"State Representative, 4th District",candidate,Alek Skarlatos,2132
+Douglas,16,"State Representative, 4th District",writein,,12
+Douglas,16,"State Representative, 4th District",total_votes,,2876
+Douglas,16,"State Representative, 4th District",overvotes,,0
+Douglas,16,"State Representative, 4th District",undervotes,,158
+Douglas,16,"State Representative, 4th District",ballots_cast,,3034
+Douglas,16,"State Representative, 4th District",registered,,4421
+Douglas,17,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,73
+Douglas,17,President,candidate,Cornel West,1
+Douglas,17,President,candidate,Chase Oliver/Mike ter Maat,15
+Douglas,17,President,candidate,Randall Terry,3
+Douglas,17,President,candidate,Donald J Trump/JD Vance,3197
+Douglas,17,President,candidate,Jill Stein/Rudolph Ware,10
+Douglas,17,President,candidate,Kamala D Harris/Tim Walz,1379
+Douglas,17,President,writein,,23
+Douglas,17,President,total_votes,,4701
+Douglas,17,President,overvotes,,1
+Douglas,17,President,undervotes,,84
+Douglas,17,President,ballots_cast,,4786
+Douglas,17,President,registered,,6832
+Douglas,17,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,1156
+Douglas,17,"State Senator, 1st District",candidate,David Brock Smith,3300
+Douglas,17,"State Senator, 1st District",writein,,8
+Douglas,17,"State Senator, 1st District",total_votes,,4464
+Douglas,17,"State Senator, 1st District",overvotes,,0
+Douglas,17,"State Senator, 1st District",undervotes,,320
+Douglas,17,"State Senator, 1st District",ballots_cast,,4784
+Douglas,17,"State Senator, 1st District",registered,,6832
+Douglas,17,"State Representative, 2nd District",candidate,August Warren,1171
+Douglas,17,"State Representative, 2nd District",candidate,Virgle J Osborne,3279
+Douglas,17,"State Representative, 2nd District",writein,,11
+Douglas,17,"State Representative, 2nd District",total_votes,,4461
+Douglas,17,"State Representative, 2nd District",overvotes,,0
+Douglas,17,"State Representative, 2nd District",undervotes,,323
+Douglas,17,"State Representative, 2nd District",ballots_cast,,4784
+Douglas,17,"State Representative, 2nd District",registered,,6832
+Douglas,18,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,62
+Douglas,18,President,candidate,Cornel West,1
+Douglas,18,President,candidate,Chase Oliver/Mike ter Maat,11
+Douglas,18,President,candidate,Randall Terry,2
+Douglas,18,President,candidate,Donald J Trump/JD Vance,1681
+Douglas,18,President,candidate,Jill Stein/Rudolph Ware,17
+Douglas,18,President,candidate,Kamala D Harris/Tim Walz,1090
+Douglas,18,President,writein,,12
+Douglas,18,President,total_votes,,2876
+Douglas,18,President,overvotes,,1
+Douglas,18,President,undervotes,,32
+Douglas,18,President,ballots_cast,,2909
+Douglas,18,President,registered,,4719
+Douglas,18,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,948
+Douglas,18,"State Senator, 1st District",candidate,David Brock Smith,1725
+Douglas,18,"State Senator, 1st District",writein,,9
+Douglas,18,"State Senator, 1st District",total_votes,,2682
+Douglas,18,"State Senator, 1st District",overvotes,,0
+Douglas,18,"State Senator, 1st District",undervotes,,224
+Douglas,18,"State Senator, 1st District",ballots_cast,,2906
+Douglas,18,"State Senator, 1st District",registered,,4719
+Douglas,18,"State Representative, 2nd District",candidate,August Warren,974
+Douglas,18,"State Representative, 2nd District",candidate,Virgle J Osborne,1706
+Douglas,18,"State Representative, 2nd District",writein,,8
+Douglas,18,"State Representative, 2nd District",total_votes,,2688
+Douglas,18,"State Representative, 2nd District",overvotes,,0
+Douglas,18,"State Representative, 2nd District",undervotes,,218
+Douglas,18,"State Representative, 2nd District",ballots_cast,,2906
+Douglas,18,"State Representative, 2nd District",registered,,4719
+Douglas,19,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,37
+Douglas,19,President,candidate,Cornel West,2
+Douglas,19,President,candidate,Chase Oliver/Mike ter Maat,7
+Douglas,19,President,candidate,Randall Terry,3
+Douglas,19,President,candidate,Donald J Trump/JD Vance,1716
+Douglas,19,President,candidate,Jill Stein/Rudolph Ware,11
+Douglas,19,President,candidate,Kamala D Harris/Tim Walz,546
+Douglas,19,President,writein,,13
+Douglas,19,President,total_votes,,2335
+Douglas,19,President,overvotes,,0
+Douglas,19,President,undervotes,,36
+Douglas,19,President,ballots_cast,,2371
+Douglas,19,President,registered,,3656
+Douglas,19,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,472
+Douglas,19,"State Senator, 1st District",candidate,David Brock Smith,1734
+Douglas,19,"State Senator, 1st District",writein,,8
+Douglas,19,"State Senator, 1st District",total_votes,,2214
+Douglas,19,"State Senator, 1st District",overvotes,,0
+Douglas,19,"State Senator, 1st District",undervotes,,156
+Douglas,19,"State Senator, 1st District",ballots_cast,,2370
+Douglas,19,"State Senator, 1st District",registered,,3656
+Douglas,19,"State Representative, 1st District",candidate,Court Boice,1675
+Douglas,19,"State Representative, 1st District",candidate,Bret Cecil,540
+Douglas,19,"State Representative, 1st District",writein,,5
+Douglas,19,"State Representative, 1st District",total_votes,,2220
+Douglas,19,"State Representative, 1st District",overvotes,,0
+Douglas,19,"State Representative, 1st District",undervotes,,150
+Douglas,19,"State Representative, 1st District",ballots_cast,,2370
+Douglas,19,"State Representative, 1st District",registered,,3656
+Douglas,19,"State Representative, 2nd District",candidate,August Warren,0
+Douglas,19,"State Representative, 2nd District",candidate,Virgle J Osborne,0
+Douglas,19,"State Representative, 2nd District",writein,,0
+Douglas,19,"State Representative, 2nd District",total_votes,,0
+Douglas,19,"State Representative, 2nd District",overvotes,,0
+Douglas,19,"State Representative, 2nd District",undervotes,,0
+Douglas,19,"State Representative, 2nd District",ballots_cast,,0
+Douglas,20,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,41
+Douglas,20,President,candidate,Cornel West,5
+Douglas,20,President,candidate,Chase Oliver/Mike ter Maat,12
+Douglas,20,President,candidate,Randall Terry,7
+Douglas,20,President,candidate,Donald J Trump/JD Vance,2688
+Douglas,20,President,candidate,Jill Stein/Rudolph Ware,13
+Douglas,20,President,candidate,Kamala D Harris/Tim Walz,951
+Douglas,20,President,writein,,11
+Douglas,20,President,total_votes,,3728
+Douglas,20,President,overvotes,,1
+Douglas,20,President,undervotes,,55
+Douglas,20,President,ballots_cast,,3784
+Douglas,20,President,registered,,5631
+Douglas,20,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,794
+Douglas,20,"State Senator, 1st District",candidate,David Brock Smith,2749
+Douglas,20,"State Senator, 1st District",writein,,7
+Douglas,20,"State Senator, 1st District",total_votes,,3550
+Douglas,20,"State Senator, 1st District",overvotes,,0
+Douglas,20,"State Senator, 1st District",undervotes,,233
+Douglas,20,"State Senator, 1st District",ballots_cast,,3783
+Douglas,20,"State Senator, 1st District",registered,,5631
+Douglas,20,"State Representative, 2nd District",candidate,August Warren,836
+Douglas,20,"State Representative, 2nd District",candidate,Virgle J Osborne,2710
+Douglas,20,"State Representative, 2nd District",writein,,7
+Douglas,20,"State Representative, 2nd District",total_votes,,3553
+Douglas,20,"State Representative, 2nd District",overvotes,,0
+Douglas,20,"State Representative, 2nd District",undervotes,,230
+Douglas,20,"State Representative, 2nd District",ballots_cast,,3783
+Douglas,20,"State Representative, 2nd District",registered,,5631
+Douglas,21,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Douglas,21,President,candidate,Cornel West,0
+Douglas,21,President,candidate,Chase Oliver/Mike ter Maat,6
+Douglas,21,President,candidate,Randall Terry,0
+Douglas,21,President,candidate,Donald J Trump/JD Vance,746
+Douglas,21,President,candidate,Jill Stein/Rudolph Ware,5
+Douglas,21,President,candidate,Kamala D Harris/Tim Walz,260
+Douglas,21,President,writein,,7
+Douglas,21,President,total_votes,,1037
+Douglas,21,President,overvotes,,0
+Douglas,21,President,undervotes,,11
+Douglas,21,President,ballots_cast,,1048
+Douglas,21,President,registered,,1553
+Douglas,21,"State Senator, 2nd District",candidate,Tracy Thompson,236
+Douglas,21,"State Senator, 2nd District",candidate,Noah Robinson,747
+Douglas,21,"State Senator, 2nd District",writein,,3
+Douglas,21,"State Senator, 2nd District",total_votes,,986
+Douglas,21,"State Senator, 2nd District",overvotes,,0
+Douglas,21,"State Senator, 2nd District",undervotes,,59
+Douglas,21,"State Senator, 2nd District",ballots_cast,,1045
+Douglas,21,"State Senator, 2nd District",registered,,1553
+Douglas,21,"State Representative, 4th District",candidate,Richard Chasm,260
+Douglas,21,"State Representative, 4th District",candidate,Alek Skarlatos,721
+Douglas,21,"State Representative, 4th District",writein,,4
+Douglas,21,"State Representative, 4th District",total_votes,,985
+Douglas,21,"State Representative, 4th District",overvotes,,0
+Douglas,21,"State Representative, 4th District",undervotes,,60
+Douglas,21,"State Representative, 4th District",ballots_cast,,1045
+Douglas,21,"State Representative, 4th District",registered,,1553
+Douglas,22,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,70
+Douglas,22,President,candidate,Cornel West,4
+Douglas,22,President,candidate,Chase Oliver/Mike ter Maat,16
+Douglas,22,President,candidate,Randall Terry,2
+Douglas,22,President,candidate,Donald J Trump/JD Vance,1575
+Douglas,22,President,candidate,Jill Stein/Rudolph Ware,14
+Douglas,22,President,candidate,Kamala D Harris/Tim Walz,1154
+Douglas,22,President,writein,,20
+Douglas,22,President,total_votes,,2855
+Douglas,22,President,overvotes,,2
+Douglas,22,President,undervotes,,27
+Douglas,22,President,ballots_cast,,2884
+Douglas,22,President,registered,,4716
+Douglas,22,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,1012
+Douglas,22,"State Senator, 1st District",candidate,David Brock Smith,1649
+Douglas,22,"State Senator, 1st District",writein,,11
+Douglas,22,"State Senator, 1st District",total_votes,,2672
+Douglas,22,"State Senator, 1st District",overvotes,,1
+Douglas,22,"State Senator, 1st District",undervotes,,207
+Douglas,22,"State Senator, 1st District",ballots_cast,,2880
+Douglas,22,"State Senator, 1st District",registered,,4716
+Douglas,22,"State Representative, 2nd District",candidate,August Warren,1044
+Douglas,22,"State Representative, 2nd District",candidate,Virgle J Osborne,1621
+Douglas,22,"State Representative, 2nd District",writein,,9
+Douglas,22,"State Representative, 2nd District",total_votes,,2674
+Douglas,22,"State Representative, 2nd District",overvotes,,1
+Douglas,22,"State Representative, 2nd District",undervotes,,205
+Douglas,22,"State Representative, 2nd District",ballots_cast,,2880
+Douglas,22,"State Representative, 2nd District",registered,,4716
+Douglas,23,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,23
+Douglas,23,President,candidate,Cornel West,1
+Douglas,23,President,candidate,Chase Oliver/Mike ter Maat,4
+Douglas,23,President,candidate,Randall Terry,2
+Douglas,23,President,candidate,Donald J Trump/JD Vance,1045
+Douglas,23,President,candidate,Jill Stein/Rudolph Ware,6
+Douglas,23,President,candidate,Kamala D Harris/Tim Walz,391
+Douglas,23,President,writein,,6
+Douglas,23,President,total_votes,,1478
+Douglas,23,President,overvotes,,1
+Douglas,23,President,undervotes,,16
+Douglas,23,President,ballots_cast,,1495
+Douglas,23,President,registered,,2184
+Douglas,23,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,319
+Douglas,23,"State Senator, 1st District",candidate,David Brock Smith,1078
+Douglas,23,"State Senator, 1st District",writein,,6
+Douglas,23,"State Senator, 1st District",total_votes,,1403
+Douglas,23,"State Senator, 1st District",overvotes,,0
+Douglas,23,"State Senator, 1st District",undervotes,,90
+Douglas,23,"State Senator, 1st District",ballots_cast,,1493
+Douglas,23,"State Senator, 1st District",registered,,2184
+Douglas,23,"State Representative, 1st District",candidate,Court Boice,1033
+Douglas,23,"State Representative, 1st District",candidate,Bret Cecil,355
+Douglas,23,"State Representative, 1st District",writein,,4
+Douglas,23,"State Representative, 1st District",total_votes,,1392
+Douglas,23,"State Representative, 1st District",overvotes,,1
+Douglas,23,"State Representative, 1st District",undervotes,,100
+Douglas,23,"State Representative, 1st District",ballots_cast,,1493
+Douglas,23,"State Representative, 1st District",registered,,2184
+Douglas,24,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,25
+Douglas,24,President,candidate,Cornel West,2
+Douglas,24,President,candidate,Chase Oliver/Mike ter Maat,6
+Douglas,24,President,candidate,Randall Terry,4
+Douglas,24,President,candidate,Donald J Trump/JD Vance,967
+Douglas,24,President,candidate,Jill Stein/Rudolph Ware,10
+Douglas,24,President,candidate,Kamala D Harris/Tim Walz,398
+Douglas,24,President,writein,,1
+Douglas,24,President,total_votes,,1413
+Douglas,24,President,overvotes,,0
+Douglas,24,President,undervotes,,29
+Douglas,24,President,ballots_cast,,1442
+Douglas,24,President,registered,,2221
+Douglas,24,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,338
+Douglas,24,"State Senator, 1st District",candidate,David Brock Smith,1004
+Douglas,24,"State Senator, 1st District",writein,,3
+Douglas,24,"State Senator, 1st District",total_votes,,1345
+Douglas,24,"State Senator, 1st District",overvotes,,0
+Douglas,24,"State Senator, 1st District",undervotes,,95
+Douglas,24,"State Senator, 1st District",ballots_cast,,1440
+Douglas,24,"State Senator, 1st District",registered,,2221
+Douglas,24,"State Representative, 1st District",candidate,Court Boice,974
+Douglas,24,"State Representative, 1st District",candidate,Bret Cecil,376
+Douglas,24,"State Representative, 1st District",writein,,4
+Douglas,24,"State Representative, 1st District",total_votes,,1354
+Douglas,24,"State Representative, 1st District",overvotes,,0
+Douglas,24,"State Representative, 1st District",undervotes,,86
+Douglas,24,"State Representative, 1st District",ballots_cast,,1440
+Douglas,24,"State Representative, 1st District",registered,,2221
+Douglas,25,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Douglas,25,President,candidate,Cornel West,0
+Douglas,25,President,candidate,Chase Oliver/Mike ter Maat,2
+Douglas,25,President,candidate,Randall Terry,0
+Douglas,25,President,candidate,Donald J Trump/JD Vance,557
+Douglas,25,President,candidate,Jill Stein/Rudolph Ware,1
+Douglas,25,President,candidate,Kamala D Harris/Tim Walz,242
+Douglas,25,President,writein,,1
+Douglas,25,President,total_votes,,819
+Douglas,25,President,overvotes,,0
+Douglas,25,President,undervotes,,13
+Douglas,25,President,ballots_cast,,832
+Douglas,25,President,registered,,1224
+Douglas,25,"State Senator, 2nd District",candidate,Tracy Thompson,232
+Douglas,25,"State Senator, 2nd District",candidate,Noah Robinson,545
+Douglas,25,"State Senator, 2nd District",writein,,0
+Douglas,25,"State Senator, 2nd District",total_votes,,777
+Douglas,25,"State Senator, 2nd District",overvotes,,0
+Douglas,25,"State Senator, 2nd District",undervotes,,53
+Douglas,25,"State Senator, 2nd District",ballots_cast,,830
+Douglas,25,"State Senator, 2nd District",registered,,1224
+Douglas,25,"State Representative, 4th District",candidate,Richard Chasm,239
+Douglas,25,"State Representative, 4th District",candidate,Alek Skarlatos,548
+Douglas,25,"State Representative, 4th District",writein,,0
+Douglas,25,"State Representative, 4th District",total_votes,,787
+Douglas,25,"State Representative, 4th District",overvotes,,0
+Douglas,25,"State Representative, 4th District",undervotes,,43
+Douglas,25,"State Representative, 4th District",ballots_cast,,830
+Douglas,25,"State Representative, 4th District",registered,,1224
+Douglas,26,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,44
+Douglas,26,President,candidate,Cornel West,4
+Douglas,26,President,candidate,Chase Oliver/Mike ter Maat,7
+Douglas,26,President,candidate,Randall Terry,2
+Douglas,26,President,candidate,Donald J Trump/JD Vance,1208
+Douglas,26,President,candidate,Jill Stein/Rudolph Ware,7
+Douglas,26,President,candidate,Kamala D Harris/Tim Walz,483
+Douglas,26,President,writein,,3
+Douglas,26,President,total_votes,,1758
+Douglas,26,President,overvotes,,2
+Douglas,26,President,undervotes,,28
+Douglas,26,President,ballots_cast,,1788
+Douglas,26,President,registered,,2679
+Douglas,26,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,400
+Douglas,26,"State Senator, 1st District",candidate,David Brock Smith,1256
+Douglas,26,"State Senator, 1st District",writein,,1
+Douglas,26,"State Senator, 1st District",total_votes,,1657
+Douglas,26,"State Senator, 1st District",overvotes,,0
+Douglas,26,"State Senator, 1st District",undervotes,,128
+Douglas,26,"State Senator, 1st District",ballots_cast,,1785
+Douglas,26,"State Senator, 1st District",registered,,2679
+Douglas,26,"State Representative, 2nd District",candidate,August Warren,422
+Douglas,26,"State Representative, 2nd District",candidate,Virgle J Osborne,1236
+Douglas,26,"State Representative, 2nd District",writein,,2
+Douglas,26,"State Representative, 2nd District",total_votes,,1660
+Douglas,26,"State Representative, 2nd District",overvotes,,0
+Douglas,26,"State Representative, 2nd District",undervotes,,125
+Douglas,26,"State Representative, 2nd District",ballots_cast,,1785
+Douglas,26,"State Representative, 2nd District",registered,,2679
+Douglas,27,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Douglas,27,President,candidate,Cornel West,1
+Douglas,27,President,candidate,Chase Oliver/Mike ter Maat,2
+Douglas,27,President,candidate,Randall Terry,0
+Douglas,27,President,candidate,Donald J Trump/JD Vance,275
+Douglas,27,President,candidate,Jill Stein/Rudolph Ware,0
+Douglas,27,President,candidate,Kamala D Harris/Tim Walz,81
+Douglas,27,President,writein,,3
+Douglas,27,President,total_votes,,372
+Douglas,27,President,overvotes,,0
+Douglas,27,President,undervotes,,6
+Douglas,27,President,ballots_cast,,378
+Douglas,27,President,registered,,603
+Douglas,27,"State Senator, 2nd District",candidate,Tracy Thompson,80
+Douglas,27,"State Senator, 2nd District",candidate,Noah Robinson,263
+Douglas,27,"State Senator, 2nd District",writein,,1
+Douglas,27,"State Senator, 2nd District",total_votes,,344
+Douglas,27,"State Senator, 2nd District",overvotes,,0
+Douglas,27,"State Senator, 2nd District",undervotes,,34
+Douglas,27,"State Senator, 2nd District",ballots_cast,,378
+Douglas,27,"State Senator, 2nd District",registered,,603
+Douglas,27,"State Representative, 4th District",candidate,Richard Chasm,92
+Douglas,27,"State Representative, 4th District",candidate,Alek Skarlatos,258
+Douglas,27,"State Representative, 4th District",writein,,1
+Douglas,27,"State Representative, 4th District",total_votes,,351
+Douglas,27,"State Representative, 4th District",overvotes,,0
+Douglas,27,"State Representative, 4th District",undervotes,,27
+Douglas,27,"State Representative, 4th District",ballots_cast,,378
+Douglas,27,"State Representative, 4th District",registered,,603
+Douglas,28,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,5
+Douglas,28,President,candidate,Cornel West,0
+Douglas,28,President,candidate,Chase Oliver/Mike ter Maat,2
+Douglas,28,President,candidate,Randall Terry,0
+Douglas,28,President,candidate,Donald J Trump/JD Vance,329
+Douglas,28,President,candidate,Jill Stein/Rudolph Ware,3
+Douglas,28,President,candidate,Kamala D Harris/Tim Walz,118
+Douglas,28,President,writein,,1
+Douglas,28,President,total_votes,,458
+Douglas,28,President,overvotes,,0
+Douglas,28,President,undervotes,,9
+Douglas,28,President,ballots_cast,,467
+Douglas,28,President,registered,,831
+Douglas,28,"State Senator, 2nd District",candidate,Tracy Thompson,118
+Douglas,28,"State Senator, 2nd District",candidate,Noah Robinson,321
+Douglas,28,"State Senator, 2nd District",writein,,1
+Douglas,28,"State Senator, 2nd District",total_votes,,440
+Douglas,28,"State Senator, 2nd District",overvotes,,0
+Douglas,28,"State Senator, 2nd District",undervotes,,27
+Douglas,28,"State Senator, 2nd District",ballots_cast,,467
+Douglas,28,"State Senator, 2nd District",registered,,831
+Douglas,28,"State Representative, 4th District",candidate,Richard Chasm,112
+Douglas,28,"State Representative, 4th District",candidate,Alek Skarlatos,328
+Douglas,28,"State Representative, 4th District",writein,,4
+Douglas,28,"State Representative, 4th District",total_votes,,444
+Douglas,28,"State Representative, 4th District",overvotes,,0
+Douglas,28,"State Representative, 4th District",undervotes,,23
+Douglas,28,"State Representative, 4th District",ballots_cast,,467
+Douglas,28,"State Representative, 4th District",registered,,831
+Douglas,29,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,5
+Douglas,29,President,candidate,Cornel West,1
+Douglas,29,President,candidate,Chase Oliver/Mike ter Maat,0
+Douglas,29,President,candidate,Randall Terry,3
+Douglas,29,President,candidate,Donald J Trump/JD Vance,427
+Douglas,29,President,candidate,Jill Stein/Rudolph Ware,2
+Douglas,29,President,candidate,Kamala D Harris/Tim Walz,139
+Douglas,29,President,writein,,2
+Douglas,29,President,total_votes,,579
+Douglas,29,President,overvotes,,2
+Douglas,29,President,undervotes,,0
+Douglas,29,President,ballots_cast,,581
+Douglas,29,President,registered,,807
+Douglas,29,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,115
+Douglas,29,"State Senator, 1st District",candidate,David Brock Smith,441
+Douglas,29,"State Senator, 1st District",writein,,0
+Douglas,29,"State Senator, 1st District",total_votes,,556
+Douglas,29,"State Senator, 1st District",overvotes,,0
+Douglas,29,"State Senator, 1st District",undervotes,,25
+Douglas,29,"State Senator, 1st District",ballots_cast,,581
+Douglas,29,"State Senator, 1st District",registered,,807
+Douglas,29,"State Representative, 1st District",candidate,Court Boice,429
+Douglas,29,"State Representative, 1st District",candidate,Bret Cecil,124
+Douglas,29,"State Representative, 1st District",writein,,0
+Douglas,29,"State Representative, 1st District",total_votes,,553
+Douglas,29,"State Representative, 1st District",overvotes,,0
+Douglas,29,"State Representative, 1st District",undervotes,,28
+Douglas,29,"State Representative, 1st District",ballots_cast,,581
+Douglas,29,"State Representative, 1st District",registered,,807

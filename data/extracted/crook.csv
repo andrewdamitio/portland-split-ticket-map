@@ -1,0 +1,466 @@
+county,precinct_label,contest,type,choice,votes
+Crook,01,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Crook,01,President,candidate,Cornel West,1
+Crook,01,President,candidate,Chase Oliver/Mike ter Maat,1
+Crook,01,President,candidate,Randall Terry,1
+Crook,01,President,candidate,Donald J Trump/JD Vance,376
+Crook,01,President,candidate,Jill Stein/Rudolph Ware,2
+Crook,01,President,candidate,Kamala D Harris/Tim Walz,148
+Crook,01,President,writein,,2
+Crook,01,President,total_votes,,541
+Crook,01,President,overvotes,,0
+Crook,01,President,undervotes,,4
+Crook,01,President,ballots_cast,,545
+Crook,01,President,registered,,823
+Crook,01,"State Senator, 30th District",candidate,Mike McLane,427
+Crook,01,"State Senator, 30th District",writein,,7
+Crook,01,"State Senator, 30th District",total_votes,,434
+Crook,01,"State Senator, 30th District",overvotes,,0
+Crook,01,"State Senator, 30th District",undervotes,,111
+Crook,01,"State Senator, 30th District",ballots_cast,,545
+Crook,01,"State Senator, 30th District",registered,,823
+Crook,01,"State Representative, 59th District",candidate,Vikki Breese-lverson,371
+Crook,01,"State Representative, 59th District",candidate,Brian K Samp,139
+Crook,01,"State Representative, 59th District",writein,,5
+Crook,01,"State Representative, 59th District",total_votes,,515
+Crook,01,"State Representative, 59th District",overvotes,,0
+Crook,01,"State Representative, 59th District",undervotes,,30
+Crook,01,"State Representative, 59th District",ballots_cast,,545
+Crook,01,"State Representative, 59th District",registered,,823
+Crook,02,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,8
+Crook,02,President,candidate,Cornel West,0
+Crook,02,President,candidate,Chase Oliver/Mike ter Maat,2
+Crook,02,President,candidate,Randall Terry,2
+Crook,02,President,candidate,Donald J Trump/JD Vance,321
+Crook,02,President,candidate,Jill Stein/Rudolph Ware,1
+Crook,02,President,candidate,Kamala D Harris/Tim Walz,110
+Crook,02,President,writein,,2
+Crook,02,President,overvotes,,1
+Crook,02,President,undervotes,,2
+Crook,02,President,ballots_cast,,449
+Crook,02,President,registered,,711
+Crook,02,"State Senator, 30th District",candidate,Mike McLane,339
+Crook,02,"State Senator, 30th District",writein,,7
+Crook,02,"State Senator, 30th District",total_votes,,346
+Crook,02,"State Senator, 30th District",overvotes,,0
+Crook,02,"State Senator, 30th District",undervotes,,103
+Crook,02,"State Senator, 30th District",ballots_cast,,449
+Crook,02,"State Senator, 30th District",registered,,711
+Crook,02,"State Representative, 59th District",candidate,Vikki Breese-Iverson,324
+Crook,02,"State Representative, 59th District",candidate,Brian K Samp,100
+Crook,02,"State Representative, 59th District",writein,,1
+Crook,02,"State Representative, 59th District",total_votes,,425
+Crook,02,"State Representative, 59th District",overvotes,,0
+Crook,02,"State Representative, 59th District",undervotes,,24
+Crook,02,"State Representative, 59th District",ballots_cast,,449
+Crook,02,"State Representative, 59th District",registered,,711
+Crook,03,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Crook,03,President,candidate,Cornel West,0
+Crook,03,President,candidate,Chase Oliver/Mike ter Maat,2
+Crook,03,President,candidate,Randall Terry,1
+Crook,03,President,candidate,Donald J Trump/JD Vance,160
+Crook,03,President,candidate,Jill Stein/Rudolph Ware,3
+Crook,03,President,candidate,Kamala D Harris/Tim Walz,79
+Crook,03,President,writein,,0
+Crook,03,President,total_votes,,248
+Crook,03,President,overvotes,,0
+Crook,03,President,undervotes,,1
+Crook,03,President,ballots_cast,,249
+Crook,03,President,registered,,529
+Crook,03,"State Senator, 30th District",candidate,Mike McLane,173
+Crook,03,"State Senator, 30th District",writein,,8
+Crook,03,"State Senator, 30th District",total_votes,,181
+Crook,03,"State Senator, 30th District",overvotes,,0
+Crook,03,"State Senator, 30th District",undervotes,,68
+Crook,03,"State Senator, 30th District",ballots_cast,,249
+Crook,03,"State Senator, 30th District",registered,,529
+Crook,03,"State Representative, 59th District",candidate,Vikki Breese-lverson,157
+Crook,03,"State Representative, 59th District",candidate,Brian K Samp,81
+Crook,03,"State Representative, 59th District",writein,,0
+Crook,03,"State Representative, 59th District",total_votes,,238
+Crook,03,"State Representative, 59th District",overvotes,,0
+Crook,03,"State Representative, 59th District",undervotes,,11
+Crook,03,"State Representative, 59th District",ballots_cast,,249
+Crook,03,"State Representative, 59th District",registered,,529
+Crook,04,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Crook,04,President,candidate,Cornel West,1
+Crook,04,President,candidate,Chase Oliver/Mike ter Maat,3
+Crook,04,President,candidate,Randall Terry,0
+Crook,04,President,candidate,Donald J Trump/JD Vance,1022
+Crook,04,President,candidate,Jill Stein/Rudolph Ware,2
+Crook,04,President,candidate,Kamala D Harris/Tim Walz,212
+Crook,04,President,writein,,5
+Crook,04,President,overvotes,,0
+Crook,04,President,undervotes,,7
+Crook,04,President,ballots_cast,,1268
+Crook,04,President,registered,,1587
+Crook,04,"State Senator, 30th District",candidate,Mike McLane,1010
+Crook,04,"State Senator, 30th District",writein,,19
+Crook,04,"State Senator, 30th District",total_votes,,1029
+Crook,04,"State Senator, 30th District",overvotes,,0
+Crook,04,"State Senator, 30th District",undervotes,,238
+Crook,04,"State Senator, 30th District",ballots_cast,,1267
+Crook,04,"State Senator, 30th District",registered,,1587
+Crook,04,"State Representative, 59th District",candidate,Vikki Breese-lverson,1007
+Crook,04,"State Representative, 59th District",candidate,Brian K Samp,197
+Crook,04,"State Representative, 59th District",writein,,10
+Crook,04,"State Representative, 59th District",total_votes,,1214
+Crook,04,"State Representative, 59th District",overvotes,,0
+Crook,04,"State Representative, 59th District",undervotes,,53
+Crook,04,"State Representative, 59th District",ballots_cast,,1267
+Crook,04,"State Representative, 59th District",registered,,1587
+Crook,05,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,30
+Crook,05,President,candidate,Cornel West,2
+Crook,05,President,candidate,Chase Oliver/Mike ter Maat,3
+Crook,05,President,candidate,Randall Terry,2
+Crook,05,President,candidate,Donald J Trump/JD Vance,1745
+Crook,05,President,candidate,Jill Stein/Rudolph Ware,8
+Crook,05,President,candidate,Kamala D Harris/Tim Walz,555
+Crook,05,President,writein,,13
+Crook,05,President,total_votes,,2358
+Crook,05,President,overvotes,,0
+Crook,05,President,undervotes,,24
+Crook,05,President,ballots_cast,,2382
+Crook,05,President,registered,,3119
+Crook,05,"State Senator, 30th District",candidate,Mike McLane,1828
+Crook,05,"State Senator, 30th District",writein,,37
+Crook,05,"State Senator, 30th District",total_votes,,1865
+Crook,05,"State Senator, 30th District",overvotes,,0
+Crook,05,"State Senator, 30th District",undervotes,,516
+Crook,05,"State Senator, 30th District",ballots_cast,,2381
+Crook,05,"State Senator, 30th District",registered,,3119
+Crook,05,"State Representative, 59th District",candidate,Vikki Breese-lverson,1757
+Crook,05,"State Representative, 59th District",candidate,Brian K Samp,487
+Crook,05,"State Representative, 59th District",writein,,7
+Crook,05,"State Representative, 59th District",total_votes,,2251
+Crook,05,"State Representative, 59th District",overvotes,,0
+Crook,05,"State Representative, 59th District",undervotes,,130
+Crook,05,"State Representative, 59th District",ballots_cast,,2381
+Crook,05,"State Representative, 59th District",registered,,3119
+Crook,06,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Crook,06,President,candidate,Cornel West,1
+Crook,06,President,candidate,Chase Oliver/Mike ter Maat,4
+Crook,06,President,candidate,Randall Terry,0
+Crook,06,President,candidate,Donald J Trump/JD Vance,567
+Crook,06,President,candidate,Jill Stein/Rudolph Ware,2
+Crook,06,President,candidate,Kamala D Harris/Tim Walz,262
+Crook,06,President,writein,,4
+Crook,06,President,overvotes,,0
+Crook,06,President,undervotes,,7
+Crook,06,President,ballots_cast,,865
+Crook,06,President,registered,,1131
+Crook,06,"State Senator, 30th District",candidate,Mike McLane,632
+Crook,06,"State Senator, 30th District",writein,,8
+Crook,06,"State Senator, 30th District",total_votes,,640
+Crook,06,"State Senator, 30th District",overvotes,,0
+Crook,06,"State Senator, 30th District",undervotes,,225
+Crook,06,"State Senator, 30th District",ballots_cast,,865
+Crook,06,"State Senator, 30th District",registered,,1131
+Crook,06,"State Representative, 59th District",candidate,Vikki Breese-lverson,583
+Crook,06,"State Representative, 59th District",candidate,Brian K Samp,240
+Crook,06,"State Representative, 59th District",writein,,2
+Crook,06,"State Representative, 59th District",total_votes,,825
+Crook,06,"State Representative, 59th District",overvotes,,0
+Crook,06,"State Representative, 59th District",undervotes,,40
+Crook,06,"State Representative, 59th District",ballots_cast,,865
+Crook,06,"State Representative, 59th District",registered,,1131
+Crook,07,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,4
+Crook,07,President,candidate,Cornel West,0
+Crook,07,President,candidate,Chase Oliver/Mike ter Maat,0
+Crook,07,President,candidate,Randall Terry,0
+Crook,07,President,candidate,Donald J Trump/JD Vance,264
+Crook,07,President,candidate,Jill Stein/Rudolph Ware,0
+Crook,07,President,candidate,Kamala D Harris/Tim Walz,46
+Crook,07,President,writein,,0
+Crook,07,President,total_votes,,314
+Crook,07,President,overvotes,,0
+Crook,07,President,undervotes,,0
+Crook,07,President,ballots_cast,,314
+Crook,07,President,registered,,411
+Crook,07,"State Senator, 30th District",candidate,Mike McLane,238
+Crook,07,"State Senator, 30th District",writein,,4
+Crook,07,"State Senator, 30th District",total_votes,,242
+Crook,07,"State Senator, 30th District",overvotes,,0
+Crook,07,"State Senator, 30th District",undervotes,,71
+Crook,07,"State Senator, 30th District",ballots_cast,,313
+Crook,07,"State Senator, 30th District",registered,,411
+Crook,07,"State Representative, 59th District",candidate,Vikki Breese-lverson,266
+Crook,07,"State Representative, 59th District",candidate,Brian K Samp,37
+Crook,07,"State Representative, 59th District",writein,,0
+Crook,07,"State Representative, 59th District",overvotes,,0
+Crook,07,"State Representative, 59th District",undervotes,,10
+Crook,07,"State Representative, 59th District",ballots_cast,,313
+Crook,07,"State Representative, 59th District",registered,,411
+Crook,08,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,8
+Crook,08,President,candidate,Cornel West,1
+Crook,08,President,candidate,Chase Oliver/Mike ter Maat,2
+Crook,08,President,candidate,Randall Terry,0
+Crook,08,President,candidate,Donald J Trump/JD Vance,438
+Crook,08,President,candidate,Jill Stein/Rudolph Ware,2
+Crook,08,President,candidate,Kamala D Harris/Tim Walz,159
+Crook,08,President,writein,,3
+Crook,08,President,total_votes,,613
+Crook,08,President,overvotes,,0
+Crook,08,President,undervotes,,3
+Crook,08,President,ballots_cast,,616
+Crook,08,President,registered,,933
+Crook,08,"State Senator, 30th District",candidate,Mike McLane,487
+Crook,08,"State Senator, 30th District",writein,,15
+Crook,08,"State Senator, 30th District",total_votes,,502
+Crook,08,"State Senator, 30th District",overvotes,,0
+Crook,08,"State Senator, 30th District",undervotes,,114
+Crook,08,"State Senator, 30th District",ballots_cast,,616
+Crook,08,"State Senator, 30th District",registered,,933
+Crook,08,"State Representative, 59th District",candidate,Vikki Breese-lverson,444
+Crook,08,"State Representative, 59th District",candidate,Brian K Samp,145
+Crook,08,"State Representative, 59th District",writein,,4
+Crook,08,"State Representative, 59th District",total_votes,,593
+Crook,08,"State Representative, 59th District",overvotes,,0
+Crook,08,"State Representative, 59th District",undervotes,,23
+Crook,08,"State Representative, 59th District",ballots_cast,,616
+Crook,08,"State Representative, 59th District",registered,,933
+Crook,09,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Crook,09,President,candidate,Cornel West,0
+Crook,09,President,candidate,Chase Oliver/Mike ter Maat,0
+Crook,09,President,candidate,Randall Terry,0
+Crook,09,President,candidate,Donald J Trump/JD Vance,169
+Crook,09,President,candidate,Jill Stein/Rudolph Ware,1
+Crook,09,President,candidate,Kamala D Harris/Tim Walz,38
+Crook,09,President,writein,,0
+Crook,09,President,total_votes,,210
+Crook,09,President,overvotes,,0
+Crook,09,President,undervotes,,2
+Crook,09,President,ballots_cast,,212
+Crook,09,President,registered,,279
+Crook,09,"State Senator, 30th District",candidate,Mike McLane,157
+Crook,09,"State Senator, 30th District",writein,,3
+Crook,09,"State Senator, 30th District",total_votes,,160
+Crook,09,"State Senator, 30th District",overvotes,,0
+Crook,09,"State Senator, 30th District",undervotes,,50
+Crook,09,"State Senator, 30th District",ballots_cast,,210
+Crook,09,"State Senator, 30th District",registered,,279
+Crook,09,"State Representative, 59th District",candidate,Vikki Breese-lverson,174
+Crook,09,"State Representative, 59th District",candidate,Brian K Samp,27
+Crook,09,"State Representative, 59th District",writein,,0
+Crook,09,"State Representative, 59th District",total_votes,,201
+Crook,09,"State Representative, 59th District",overvotes,,0
+Crook,09,"State Representative, 59th District",undervotes,,9
+Crook,09,"State Representative, 59th District",ballots_cast,,210
+Crook,09,"State Representative, 59th District",registered,,279
+Crook,10,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,7
+Crook,10,President,candidate,Cornel West,0
+Crook,10,President,candidate,Chase Oliver/Mike ter Maat,0
+Crook,10,President,candidate,Randall Terry,1
+Crook,10,President,candidate,Donald J Trump/JD Vance,252
+Crook,10,President,candidate,Jill Stein/Rudolph Ware,2
+Crook,10,President,candidate,Kamala D Harris/Tim Walz,136
+Crook,10,President,writein,,3
+Crook,10,President,total_votes,,401
+Crook,10,President,overvotes,,0
+Crook,10,President,undervotes,,4
+Crook,10,President,ballots_cast,,405
+Crook,10,President,registered,,526
+Crook,10,"State Senator, 30th District",candidate,Mike McLane,304
+Crook,10,"State Senator, 30th District",writein,,4
+Crook,10,"State Senator, 30th District",total_votes,,308
+Crook,10,"State Senator, 30th District",overvotes,,0
+Crook,10,"State Senator, 30th District",undervotes,,96
+Crook,10,"State Senator, 30th District",ballots_cast,,404
+Crook,10,"State Senator, 30th District",registered,,526
+Crook,10,"State Representative, 59th District",candidate,Vikki Breese-lverson,257
+Crook,10,"State Representative, 59th District",candidate,Brian K Samp,122
+Crook,10,"State Representative, 59th District",writein,,0
+Crook,10,"State Representative, 59th District",total_votes,,379
+Crook,10,"State Representative, 59th District",overvotes,,0
+Crook,10,"State Representative, 59th District",undervotes,,25
+Crook,10,"State Representative, 59th District",ballots_cast,,404
+Crook,10,"State Representative, 59th District",registered,,526
+Crook,11,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,29
+Crook,11,President,candidate,Cornel West,0
+Crook,11,President,candidate,Chase Oliver/Mike ter Maat,12
+Crook,11,President,candidate,Randall Terry,1
+Crook,11,President,candidate,Donald J Trump/JD Vance,1718
+Crook,11,President,candidate,Jill Stein/Rudolph Ware,3
+Crook,11,President,candidate,Kamala D Harris/Tim Walz,679
+Crook,11,President,writein,,21
+Crook,11,President,total_votes,,2463
+Crook,11,President,overvotes,,3
+Crook,11,President,undervotes,,20
+Crook,11,President,ballots_cast,,2486
+Crook,11,President,registered,,2915
+Crook,11,"State Senator, 30th District",candidate,Mike McLane,1847
+Crook,11,"State Senator, 30th District",writein,,34
+Crook,11,"State Senator, 30th District",total_votes,,1881
+Crook,11,"State Senator, 30th District",overvotes,,1
+Crook,11,"State Senator, 30th District",undervotes,,601
+Crook,11,"State Senator, 30th District",ballots_cast,,2483
+Crook,11,"State Senator, 30th District",registered,,2915
+Crook,11,"State Representative, 59th District",candidate,Vikki Breese-Iverson,1834
+Crook,11,"State Representative, 59th District",candidate,Brian K Samp,543
+Crook,11,"State Representative, 59th District",writein,,7
+Crook,11,"State Representative, 59th District",overvotes,,1
+Crook,11,"State Representative, 59th District",undervotes,,98
+Crook,11,"State Representative, 59th District",ballots_cast,,2483
+Crook,11,"State Representative, 59th District",registered,,2915
+Crook,12,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Crook,12,President,candidate,Cornel West,0
+Crook,12,President,candidate,Chase Oliver/Mike ter Maat,0
+Crook,12,President,candidate,Randall Terry,0
+Crook,12,President,candidate,Donald J Trump/JD Vance,128
+Crook,12,President,candidate,Jill Stein/Rudolph Ware,2
+Crook,12,President,candidate,Kamala D Harris/Tim Walz,26
+Crook,12,President,writein,,3
+Crook,12,President,total_votes,,161
+Crook,12,President,overvotes,,0
+Crook,12,President,undervotes,,3
+Crook,12,President,ballots_cast,,164
+Crook,12,President,registered,,203
+Crook,12,"State Senator, 30th District",candidate,Mike McLane,121
+Crook,12,"State Senator, 30th District",writein,,1
+Crook,12,"State Senator, 30th District",total_votes,,122
+Crook,12,"State Senator, 30th District",overvotes,,0
+Crook,12,"State Senator, 30th District",undervotes,,42
+Crook,12,"State Senator, 30th District",ballots_cast,,164
+Crook,12,"State Senator, 30th District",registered,,203
+Crook,12,"State Representative, 59th District",candidate,Vikki Breese-lverson,136
+Crook,12,"State Representative, 59th District",candidate,Brian K Samp,21
+Crook,12,"State Representative, 59th District",writein,,0
+Crook,12,"State Representative, 59th District",overvotes,,0
+Crook,12,"State Representative, 59th District",undervotes,,7
+Crook,12,"State Representative, 59th District",ballots_cast,,164
+Crook,12,"State Representative, 59th District",registered,,203
+Crook,13,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,17
+Crook,13,President,candidate,Cornel West,0
+Crook,13,President,candidate,Chase Oliver/Mike ter Maat,6
+Crook,13,President,candidate,Randall Terry,0
+Crook,13,President,candidate,Donald J Trump/JD Vance,647
+Crook,13,President,candidate,Jill Stein/Rudolph Ware,3
+Crook,13,President,candidate,Kamala D Haris/Tim Walz,160
+Crook,13,President,writein,,2
+Crook,13,President,overvotes,,0
+Crook,13,President,undervotes,,8
+Crook,13,President,ballots_cast,,843
+Crook,13,President,registered,,1168
+Crook,13,"State Senator, 30th District",candidate,Mike McLane,690
+Crook,13,"State Senator, 30th District",writein,,10
+Crook,13,"State Senator, 30th District",total_votes,,700
+Crook,13,"State Senator, 30th District",overvotes,,0
+Crook,13,"State Senator, 30th District",undervotes,,141
+Crook,13,"State Senator, 30th District",ballots_cast,,841
+Crook,13,"State Senator, 30th District",registered,,1168
+Crook,13,"State Representative, 59th District",candidate,Vikki Breese-lverson,666
+Crook,13,"State Representative, 59th District",candidate,Brian K Samp,149
+Crook,13,"State Representative, 59th District",writein,,2
+Crook,13,"State Representative, 59th District",total_votes,,817
+Crook,13,"State Representative, 59th District",overvotes,,0
+Crook,13,"State Representative, 59th District",undervotes,,24
+Crook,13,"State Representative, 59th District",ballots_cast,,841
+Crook,13,"State Representative, 59th District",registered,,1168
+Crook,14,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Crook,14,President,candidate,Cornel West,1
+Crook,14,President,candidate,Chase Oliver/Mike ter Maat,1
+Crook,14,President,candidate,Randall Terry,0
+Crook,14,President,candidate,Donald J Trump/JD Vance,364
+Crook,14,President,candidate,Jill Stein/Rudolph Ware,0
+Crook,14,President,candidate,Kamala D Harris/Tim Walz,120
+Crook,14,President,writein,,0
+Crook,14,President,total_votes,,499
+Crook,14,President,overvotes,,0
+Crook,14,President,undervotes,,3
+Crook,14,President,ballots_cast,,502
+Crook,14,President,registered,,841
+Crook,14,"State Senator, 30th District",candidate,Mike McLane,360
+Crook,14,"State Senator, 30th District",writein,,10
+Crook,14,"State Senator, 30th District",total_votes,,370
+Crook,14,"State Senator, 30th District",overvotes,,0
+Crook,14,"State Senator, 30th District",undervotes,,132
+Crook,14,"State Senator, 30th District",ballots_cast,,502
+Crook,14,"State Senator, 30th District",registered,,841
+Crook,14,"State Representative, 59th District",candidate,Vikki Breese-lverson,344
+Crook,14,"State Representative, 59th District",candidate,Brian K Samp,122
+Crook,14,"State Representative, 59th District",writein,,0
+Crook,14,"State Representative, 59th District",total_votes,,466
+Crook,14,"State Representative, 59th District",overvotes,,0
+Crook,14,"State Representative, 59th District",undervotes,,36
+Crook,14,"State Representative, 59th District",ballots_cast,,502
+Crook,14,"State Representative, 59th District",registered,,841
+Crook,15,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Crook,15,President,candidate,Cornel West,0
+Crook,15,President,candidate,Chase Oliver/Mike ter Maat,4
+Crook,15,President,candidate,Randall Terry,4
+Crook,15,President,candidate,Donald J Trump/JD Vance,972
+Crook,15,President,candidate,Jill Stein/Rudolph Ware,4
+Crook,15,President,candidate,Kamala D Harris/Tim Walz,292
+Crook,15,President,writein,,11
+Crook,15,President,overvotes,,0
+Crook,15,President,undervotes,,14
+Crook,15,President,ballots_cast,,1314
+Crook,15,President,registered,,1756
+Crook,15,"State Senator, 30th District",candidate,Mike McLane,943
+Crook,15,"State Senator, 30th District",writein,,22
+Crook,15,"State Senator, 30th District",total_votes,,965
+Crook,15,"State Senator, 30th District",overvotes,,0
+Crook,15,"State Senator, 30th District",undervotes,,345
+Crook,15,"State Senator, 30th District",ballots_cast,,1310
+Crook,15,"State Senator, 30th District",registered,,1756
+Crook,15,"State Representative, 59th District",candidate,Vikki Breese-lverson,980
+Crook,15,"State Representative, 59th District",candidate,Brian K Samp,271
+Crook,15,"State Representative, 59th District",writein,,4
+Crook,15,"State Representative, 59th District",overvotes,,0
+Crook,15,"State Representative, 59th District",undervotes,,55
+Crook,15,"State Representative, 59th District",ballots_cast,,1310
+Crook,15,"State Representative, 59th District",registered,,1756
+Crook,16,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,9
+Crook,16,President,candidate,Cornel West,0
+Crook,16,President,candidate,Chase Oliver/Mike ter Maat,3
+Crook,16,President,candidate,Randall Terry,1
+Crook,16,President,candidate,Donald J Trump/JD Vance,576
+Crook,16,President,candidate,Jill Stein/Rudolph Ware,0
+Crook,16,President,candidate,Kamala D Harris/Tim Walz,138
+Crook,16,President,writein,,1
+Crook,16,President,overvotes,,0
+Crook,16,President,undervotes,,3
+Crook,16,President,ballots_cast,,731
+Crook,16,President,registered,,1001
+Crook,16,"State Senator, 30th District",candidate,Mike McLane,552
+Crook,16,"State Senator, 30th District",writein,,20
+Crook,16,"State Senator, 30th District",overvotes,,1
+Crook,16,"State Senator, 30th District",undervotes,,157
+Crook,16,"State Senator, 30th District",ballots_cast,,730
+Crook,16,"State Senator, 30th District",registered,,1001
+Crook,16,"State Representative, 59th District",candidate,Vikki Breese-Iverson,569
+Crook,16,"State Representative, 59th District",candidate,Brian K Samp,119
+Crook,16,"State Representative, 59th District",writein,,6
+Crook,16,"State Representative, 59th District",total_votes,,694
+Crook,16,"State Representative, 59th District",overvotes,,0
+Crook,16,"State Representative, 59th District",undervotes,,36
+Crook,16,"State Representative, 59th District",ballots_cast,,730
+Crook,16,"State Representative, 59th District",registered,,1001
+Crook,17,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,58
+Crook,17,President,candidate,Cornel West,4
+Crook,17,President,candidate,Chase Oliver/Mike ter Maat,4
+Crook,17,President,candidate,Randall Terry,0
+Crook,17,President,candidate,Donald J Trump/JD Vance,2293
+Crook,17,President,candidate,Jill Stein/Rudolph Ware,12
+Crook,17,President,candidate,Kamala D Harris/Tim Walz,676
+Crook,17,President,writein,,14
+Crook,17,President,total_votes,,3061
+Crook,17,President,overvotes,,3
+Crook,17,President,undervotes,,26
+Crook,17,President,ballots_cast,,3090
+Crook,17,President,registered,,4012
+Crook,17,"State Senator, 30th District",candidate,Mike McLane,2260
+Crook,17,"State Senator, 30th District",writein,,50
+Crook,17,"State Senator, 30th District",total_votes,,2310
+Crook,17,"State Senator, 30th District",overvotes,,0
+Crook,17,"State Senator, 30th District",undervotes,,779
+Crook,17,"State Senator, 30th District",ballots_cast,,3089
+Crook,17,"State Senator, 30th District",registered,,4012
+Crook,17,"State Representative, 59th District",candidate,Vikki Breese-Iverson,2315
+Crook,17,"State Representative, 59th District",candidate,Brian K Samp,631
+Crook,17,"State Representative, 59th District",writein,,7
+Crook,17,"State Representative, 59th District",total_votes,,2953
+Crook,17,"State Representative, 59th District",overvotes,,0
+Crook,17,"State Representative, 59th District",undervotes,,136
+Crook,17,"State Representative, 59th District",ballots_cast,,3089
+Crook,17,"State Representative, 59th District",registered,,4012

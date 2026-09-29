@@ -1,0 +1,14 @@
+{
+  "name": "oregon-split-ticket-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Precinct-level 2024 Oregon results (President, State Senate, State House) extracted from every county's official report, and a map comparing legislative Democrats with Harris.",
+  "scripts": {
+    "extract": "node scripts/extract_all.js",
+    "combine": "node scripts/combine.js",
+    "check": "node scripts/check_official_totals.js",
+    "build": "node scripts/build_map.js",
+    "all": "node scripts/extract_all.js && node scripts/combine.js && node scripts/check_official_totals.js && node scripts/build_map.js"
+  },
+  "engines": { "node": ">=18" }
+}

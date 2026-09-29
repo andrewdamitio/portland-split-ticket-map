@@ -1,0 +1,61 @@
+LS SSS SSS SSS SS ES SSS
+Statement of Votes Cast by Geography                                           Page: 49 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                           2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                             Votes       Vote %
+Question 7-117 (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 61 undervotes), 1756 registered voters, turnout 74.60%
+Yes                                                         264         21.14%
+No                                                          985         78.86%
+Total                                                       1249        100.00%
+Overvotes                                                     0
+Undervotes                                                  61
+Question 7-118 (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 54 undervotes), 1756 registered voters, turnout 74.60%
+Yes                                                         169         13.46%
+No                                                         1087         86.54%
+Total                                                       1256        100.00%
+Overvotes                                                     0
+Undervotes                                                  54
+Question 7-119 (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 87 undervotes), 1756 registered voters, turnout 74.60%
+Yes                                                         437         35.73%
+No                                                          786         64.27%
+Total                                                       1223        {00.00%
+Overvotes                                                     0
+Undervotes                                                  87
+Precinct 16
+President (Vote for 1)
+731 ballots (0 over voted ballots, 0 overvotes, 3 undervotes), 1001 registered voters, turnout 73.03%
+Robert F Kennedy Jr/Nicole Shanahan                      9           1.24%
+Cornel West                                                       0           0.00%
+Chase Oliver/Mike ter Maat                                         3             0.41%
+Randall Terry                                                                    1               0.14%
+Donald J Trump/JD Vance                                576         79.12%
+Jill Stein/Rudolph Ware                                       0           0.00%
+Kamala D Harris/Tim Walz                                138         18.96%
+Write-in                                                                                           1                 0.14%
+Total                                                        728        {00.00%
+Overvotes                                                     fe)
+Undervotes                                                    3
+US Representative, 2nd District (Vote for 1)
+731 ballots (0 over voted ballots, 0 overvotes, 29 undervotes), 1001 registered voters, turnout 73.03%
+Cliff Bentz                                                           553          78.77%
+Michael Kurt Stettler                                               16            2.28%
+Dan Ruby                                                   129         18.38%
+Write-in                                                        4          0.57%
+Total                                                                                           702             100.00%
+Overvotes                                                     0
+Undervotes                                                  29
+Secretary of State (Vote for 1)
+730 ballots (0 over voted ballots, 0 overvotes, 35 undervotes), 1001 registered voters, turnout 72.93%
+Nathalie Paravicini                                              12           1.73%
+Dennis Linthicum                                                  551           79.28%
+Tobias Read                                                129         18.56%
+Write-in                                                        3          0.43%
+Total                                        695      100.00%
+Overvotes                                                     0
+Undervotes                                                  35

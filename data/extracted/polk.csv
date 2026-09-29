@@ -1,0 +1,368 @@
+county,precinct_label,contest,type,choice,votes
+Polk,102,President,registered,,1706
+Polk,102,President,ballots_cast,,1369
+Polk,106,President,registered,,1599
+Polk,106,President,ballots_cast,,1100
+Polk,110,President,registered,,1286
+Polk,110,President,ballots_cast,,720
+Polk,118,President,registered,,3792
+Polk,118,President,ballots_cast,,3114
+Polk,122,President,registered,,1513
+Polk,122,President,ballots_cast,,1204
+Polk,134,President,registered,,6360
+Polk,134,President,ballots_cast,,4987
+Polk,136,President,registered,,4601
+Polk,136,President,ballots_cast,,3699
+Polk,140,President,registered,,5182
+Polk,140,President,ballots_cast,,3398
+Polk,146,President,registered,,5076
+Polk,146,President,ballots_cast,,4026
+Polk,152,President,registered,,5382
+Polk,152,President,ballots_cast,,4373
+Polk,154,President,registered,,6352
+Polk,154,President,ballots_cast,,4674
+Polk,156,President,registered,,3670
+Polk,156,President,ballots_cast,,2654
+Polk,162,President,registered,,3641
+Polk,162,President,ballots_cast,,2932
+Polk,166,President,registered,,1122
+Polk,166,President,ballots_cast,,764
+Polk,178,President,registered,,6529
+Polk,178,President,ballots_cast,,4620
+Polk,182,President,registered,,6615
+Polk,182,President,ballots_cast,,4533
+Polk,102,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),21
+Polk,102,President,candidate,Cornel West (PRO),1
+Polk,102,President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Polk,102,President,candidate,Randall Terry (CON),2
+Polk,102,President,candidate,Donald J Trump/JD Vance (REP),861
+Polk,102,President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Polk,102,President,candidate,Kamala D Harris/Tim Walz (DEM),446
+Polk,102,President,writein,,8
+Polk,102,President,total_votes,,1347
+Polk,102,President,overvotes,,1
+Polk,102,President,undervotes,,21
+Polk,106,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),18
+Polk,106,President,candidate,Cornel West (PRO),2
+Polk,106,President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Polk,106,President,candidate,Randall Terry (CON),0
+Polk,106,President,candidate,Donald J Trump/JD Vance (REP),729
+Polk,106,President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Polk,106,President,candidate,Kamala D Harris/Tim Walz (DEM),328
+Polk,106,President,writein,,6
+Polk,106,President,total_votes,,1086
+Polk,106,President,overvotes,,0
+Polk,106,President,undervotes,,14
+Polk,110,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Polk,110,President,candidate,Cornel West (PRO),2
+Polk,110,President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Polk,110,President,candidate,Randall Terry (CON),0
+Polk,110,President,candidate,Donald J Trump/JD Vance (REP),437
+Polk,110,President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Polk,110,President,candidate,Kamala D Harris/Tim Walz (DEM),249
+Polk,110,President,writein,,4
+Polk,110,President,total_votes,,713
+Polk,110,President,overvotes,,0
+Polk,110,President,undervotes,,7
+Polk,118,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),46
+Polk,118,President,candidate,Cornel West (PRO),5
+Polk,118,President,candidate,Chase Oliver/Mike ter Maat (LBT),11
+Polk,118,President,candidate,Randall Terry (CON),1
+Polk,118,President,candidate,Donald J Trump/JD Vance (REP),1706
+Polk,118,President,candidate,Jill Stein/Rudolph Ware (PGP),20
+Polk,118,President,candidate,Kamala D Harris/Tim Walz (DEM),1245
+Polk,118,President,writein,,34
+Polk,118,President,total_votes,,3068
+Polk,118,President,overvotes,,1
+Polk,118,President,undervotes,,45
+Polk,122,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Polk,122,President,candidate,Cornel West (PRO),0
+Polk,122,President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Polk,122,President,candidate,Randall Terry (CON),0
+Polk,122,President,candidate,Donald J Trump/JD Vance (REP),615
+Polk,122,President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Polk,122,President,candidate,Kamala D Harris/Tim Walz (DEM),543
+Polk,122,President,writein,,10
+Polk,122,President,total_votes,,1185
+Polk,122,President,overvotes,,0
+Polk,122,President,undervotes,,19
+Polk,134,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),72
+Polk,134,President,candidate,Cornel West (PRO),9
+Polk,134,President,candidate,Chase Oliver/Mike ter Maat (LBT),18
+Polk,134,President,candidate,Randall Terry (CON),1
+Polk,134,President,candidate,Donald J Trump/JD Vance (REP),2176
+Polk,134,President,candidate,Jill Stein/Rudolph Ware (PGP),37
+Polk,134,President,candidate,Kamala D Harris/Tim Walz (DEM),2577
+Polk,134,President,writein,,41
+Polk,134,President,total_votes,,4931
+Polk,134,President,overvotes,,0
+Polk,134,President,undervotes,,56
+Polk,136,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),48
+Polk,136,President,candidate,Cornel West (PRO),2
+Polk,136,President,candidate,Chase Oliver/Mike ter Maat (LBT),20
+Polk,136,President,candidate,Randall Terry (CON),6
+Polk,136,President,candidate,Donald J Trump/JD Vance (REP),1552
+Polk,136,President,candidate,Jill Stein/Rudolph Ware (PGP),18
+Polk,136,President,candidate,Kamala D Harris/Tim Walz (DEM),1968
+Polk,136,President,writein,,35
+Polk,136,President,total_votes,,3649
+Polk,136,President,overvotes,,1
+Polk,136,President,undervotes,,49
+Polk,140,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),53
+Polk,140,President,candidate,Cornel West (PRO),11
+Polk,140,President,candidate,Chase Oliver/Mike ter Maat (LBT),18
+Polk,140,President,candidate,Randall Terry (CON),9
+Polk,140,President,candidate,Donald J Trump/JD Vance (REP),1337
+Polk,140,President,candidate,Jill Stein/Rudolph Ware (PGP),30
+Polk,140,President,candidate,Kamala D Harris/Tim Walz (DEM),1885
+Polk,140,President,writein,,25
+Polk,140,President,total_votes,,3368
+Polk,140,President,overvotes,,3
+Polk,140,President,undervotes,,27
+Polk,146,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),56
+Polk,146,President,candidate,Cornel West (PRO),13
+Polk,146,President,candidate,Chase Oliver/Mike ter Maat (LBT),18
+Polk,146,President,candidate,Randall Terry (CON),3
+Polk,146,President,candidate,Donald J Trump/JD Vance (REP),1577
+Polk,146,President,candidate,Jill Stein/Rudolph Ware (PGP),19
+Polk,146,President,candidate,Kamala D Harris/Tim Walz (DEM),2259
+Polk,146,President,writein,,32
+Polk,146,President,total_votes,,3977
+Polk,146,President,overvotes,,2
+Polk,146,President,undervotes,,47
+Polk,152,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),69
+Polk,152,President,candidate,Cornel West (PRO),3
+Polk,152,President,candidate,Chase Oliver/Mike ter Maat (LBT),16
+Polk,152,President,candidate,Randall Terry (CON),3
+Polk,152,President,candidate,Donald J Trump/JD Vance (REP),2829
+Polk,152,President,candidate,Jill Stein/Rudolph Ware (PGP),13
+Polk,152,President,candidate,Kamala D Harris/Tim Walz (DEM),1357
+Polk,152,President,writein,,27
+Polk,152,President,total_votes,,4317
+Polk,152,President,overvotes,,4
+Polk,152,President,undervotes,,52
+Polk,154,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),83
+Polk,154,President,candidate,Cornel West (PRO),8
+Polk,154,President,candidate,Chase Oliver/Mike ter Maat (LBT),17
+Polk,154,President,candidate,Randall Terry (CON),5
+Polk,154,President,candidate,Donald J Trump/JD Vance (REP),2654
+Polk,154,President,candidate,Jill Stein/Rudolph Ware (PGP),16
+Polk,154,President,candidate,Kamala D Harris/Tim Walz (DEM),1805
+Polk,154,President,writein,,29
+Polk,154,President,total_votes,,4617
+Polk,154,President,overvotes,,0
+Polk,154,President,undervotes,,57
+Polk,156,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),72
+Polk,156,President,candidate,Cornel West (PRO),2
+Polk,156,President,candidate,Chase Oliver/Mike ter Maat (LBT),16
+Polk,156,President,candidate,Randall Terry (CON),1
+Polk,156,President,candidate,Donald J Trump/JD Vance (REP),1441
+Polk,156,President,candidate,Jill Stein/Rudolph Ware (PGP),13
+Polk,156,President,candidate,Kamala D Harris/Tim Walz (DEM),1056
+Polk,156,President,writein,,18
+Polk,156,President,total_votes,,2619
+Polk,156,President,overvotes,,3
+Polk,156,President,undervotes,,32
+Polk,162,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),61
+Polk,162,President,candidate,Cornel West (PRO),3
+Polk,162,President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Polk,162,President,candidate,Randall Terry (CON),4
+Polk,162,President,candidate,Donald J Trump/JD Vance (REP),1708
+Polk,162,President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Polk,162,President,candidate,Kamala D Harris/Tim Walz (DEM),1089
+Polk,162,President,writein,,20
+Polk,162,President,total_votes,,2897
+Polk,162,President,overvotes,,2
+Polk,162,President,undervotes,,33
+Polk,166,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),16
+Polk,166,President,candidate,Cornel West (PRO),3
+Polk,166,President,candidate,Chase Oliver/Mike ter Maat (LBT),10
+Polk,166,President,candidate,Randall Terry (CON),4
+Polk,166,President,candidate,Donald J Trump/JD Vance (REP),434
+Polk,166,President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Polk,166,President,candidate,Kamala D Harris/Tim Walz (DEM),281
+Polk,166,President,writein,,3
+Polk,166,President,total_votes,,756
+Polk,166,President,overvotes,,0
+Polk,166,President,undervotes,,8
+Polk,178,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),94
+Polk,178,President,candidate,Cornel West (PRO),13
+Polk,178,President,candidate,Chase Oliver/Mike ter Maat (LBT),47
+Polk,178,President,candidate,Randall Terry (CON),7
+Polk,178,President,candidate,Donald J Trump/JD Vance (REP),1825
+Polk,178,President,candidate,Jill Stein/Rudolph Ware (PGP),30
+Polk,178,President,candidate,Kamala D Harris/Tim Walz (DEM),2512
+Polk,178,President,writein,,41
+Polk,178,President,total_votes,,4569
+Polk,178,President,overvotes,,4
+Polk,178,President,undervotes,,47
+Polk,182,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),83
+Polk,182,President,candidate,Cornel West (PRO),8
+Polk,182,President,candidate,Chase Oliver/Mike ter Maat (LBT),28
+Polk,182,President,candidate,Randall Terry (CON),5
+Polk,182,President,candidate,Donald J Trump/JD Vance (REP),1887
+Polk,182,President,candidate,Jill Stein/Rudolph Ware (PGP),22
+Polk,182,President,candidate,Kamala D Harris/Tim Walz (DEM),2434
+Polk,182,President,writein,,27
+Polk,182,President,total_votes,,4494
+Polk,182,President,overvotes,,1
+Polk,182,President,undervotes,,38
+Polk,102,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),83
+Polk,102,"State Senator, 12th District",candidate,Bruce W Starr (REP),888
+Polk,102,"State Senator, 12th District",candidate,Scott Hooper (DEM),334
+Polk,102,"State Senator, 12th District",writein,,0
+Polk,102,"State Senator, 12th District",total_votes,,1305
+Polk,102,"State Senator, 12th District",overvotes,,0
+Polk,102,"State Senator, 12th District",undervotes,,64
+Polk,106,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),74
+Polk,106,"State Senator, 12th District",candidate,Bruce W Starr (REP),698
+Polk,106,"State Senator, 12th District",candidate,Scott Hooper (DEM),258
+Polk,106,"State Senator, 12th District",writein,,1
+Polk,106,"State Senator, 12th District",total_votes,,1031
+Polk,106,"State Senator, 12th District",overvotes,,0
+Polk,106,"State Senator, 12th District",undervotes,,69
+Polk,110,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),83
+Polk,110,"State Senator, 12th District",candidate,Bruce W Starr (REP),400
+Polk,110,"State Senator, 12th District",candidate,Scott Hooper (DEM),183
+Polk,110,"State Senator, 12th District",writein,,1
+Polk,110,"State Senator, 12th District",total_votes,,667
+Polk,110,"State Senator, 12th District",overvotes,,0
+Polk,110,"State Senator, 12th District",undervotes,,53
+Polk,118,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),207
+Polk,118,"State Senator, 12th District",candidate,Bruce W Starr (REP),1774
+Polk,118,"State Senator, 12th District",candidate,Scott Hooper (DEM),974
+Polk,118,"State Senator, 12th District",writein,,1
+Polk,118,"State Senator, 12th District",total_votes,,2956
+Polk,118,"State Senator, 12th District",overvotes,,0
+Polk,118,"State Senator, 12th District",undervotes,,158
+Polk,152,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),311
+Polk,152,"State Senator, 12th District",candidate,Bruce W Starr (REP),2799
+Polk,152,"State Senator, 12th District",candidate,Scott Hooper (DEM),1042
+Polk,152,"State Senator, 12th District",writein,,3
+Polk,152,"State Senator, 12th District",total_votes,,4155
+Polk,152,"State Senator, 12th District",overvotes,,0
+Polk,152,"State Senator, 12th District",undervotes,,218
+Polk,154,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),485
+Polk,154,"State Senator, 12th District",candidate,Bruce W Starr (REP),2569
+Polk,154,"State Senator, 12th District",candidate,Scott Hooper (DEM),1362
+Polk,154,"State Senator, 12th District",writein,,7
+Polk,154,"State Senator, 12th District",total_votes,,4423
+Polk,154,"State Senator, 12th District",overvotes,,0
+Polk,154,"State Senator, 12th District",undervotes,,251
+Polk,156,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),311
+Polk,156,"State Senator, 12th District",candidate,Bruce W Starr (REP),1379
+Polk,156,"State Senator, 12th District",candidate,Scott Hooper (DEM),823
+Polk,156,"State Senator, 12th District",writein,,3
+Polk,156,"State Senator, 12th District",total_votes,,2516
+Polk,156,"State Senator, 12th District",overvotes,,0
+Polk,156,"State Senator, 12th District",undervotes,,138
+Polk,162,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),233
+Polk,162,"State Senator, 12th District",candidate,Bruce W Starr (REP),1707
+Polk,162,"State Senator, 12th District",candidate,Scott Hooper (DEM),834
+Polk,162,"State Senator, 12th District",writein,,2
+Polk,162,"State Senator, 12th District",total_votes,,2776
+Polk,162,"State Senator, 12th District",overvotes,,0
+Polk,162,"State Senator, 12th District",undervotes,,156
+Polk,166,"State Senator, 12th District",candidate,Andrea Kennedy-Smith (IND),106
+Polk,166,"State Senator, 12th District",candidate,Bruce W Starr (REP),393
+Polk,166,"State Senator, 12th District",candidate,Scott Hooper (DEM),201
+Polk,166,"State Senator, 12th District",writein,,1
+Polk,166,"State Senator, 12th District",total_votes,,701
+Polk,166,"State Senator, 12th District",overvotes,,0
+Polk,166,"State Senator, 12th District",undervotes,,63
+Polk,122,"State Representative, 20th District",candidate,Paul Evans (DEM),522
+Polk,122,"State Representative, 20th District",candidate,Kevin S Chambers (REP),623
+Polk,122,"State Representative, 20th District",writein,,4
+Polk,122,"State Representative, 20th District",total_votes,,1149
+Polk,122,"State Representative, 20th District",overvotes,,0
+Polk,122,"State Representative, 20th District",undervotes,,55
+Polk,134,"State Representative, 20th District",candidate,Paul Evans (DEM),2560
+Polk,134,"State Representative, 20th District",candidate,Kevin S Chambers (REP),2113
+Polk,134,"State Representative, 20th District",writein,,7
+Polk,134,"State Representative, 20th District",total_votes,,4680
+Polk,134,"State Representative, 20th District",overvotes,,0
+Polk,134,"State Representative, 20th District",undervotes,,307
+Polk,136,"State Representative, 20th District",candidate,Paul Evans (DEM),1930
+Polk,136,"State Representative, 20th District",candidate,Kevin S Chambers (REP),1563
+Polk,136,"State Representative, 20th District",writein,,7
+Polk,136,"State Representative, 20th District",total_votes,,3500
+Polk,136,"State Representative, 20th District",overvotes,,1
+Polk,136,"State Representative, 20th District",undervotes,,198
+Polk,140,"State Representative, 20th District",candidate,Paul Evans (DEM),1867
+Polk,140,"State Representative, 20th District",candidate,Kevin S Chambers (REP),1291
+Polk,140,"State Representative, 20th District",writein,,8
+Polk,140,"State Representative, 20th District",total_votes,,3166
+Polk,140,"State Representative, 20th District",overvotes,,1
+Polk,140,"State Representative, 20th District",undervotes,,231
+Polk,146,"State Representative, 20th District",candidate,Paul Evans (DEM),2258
+Polk,146,"State Representative, 20th District",candidate,Kevin S Chambers (REP),1557
+Polk,146,"State Representative, 20th District",writein,,12
+Polk,146,"State Representative, 20th District",total_votes,,3827
+Polk,146,"State Representative, 20th District",overvotes,,0
+Polk,146,"State Representative, 20th District",undervotes,,199
+Polk,178,"State Representative, 20th District",candidate,Paul Evans (DEM),2572
+Polk,178,"State Representative, 20th District",candidate,Kevin S Chambers (REP),1769
+Polk,178,"State Representative, 20th District",writein,,11
+Polk,178,"State Representative, 20th District",total_votes,,4352
+Polk,178,"State Representative, 20th District",overvotes,,1
+Polk,178,"State Representative, 20th District",undervotes,,267
+Polk,182,"State Representative, 20th District",candidate,Paul Evans (DEM),2509
+Polk,182,"State Representative, 20th District",candidate,Kevin S Chambers (REP),1759
+Polk,182,"State Representative, 20th District",writein,,13
+Polk,182,"State Representative, 20th District",total_votes,,4281
+Polk,182,"State Representative, 20th District",overvotes,,1
+Polk,182,"State Representative, 20th District",undervotes,,251
+Polk,102,"State Representative, 23rd District",candidate,Kriss Wright (DEM),378
+Polk,102,"State Representative, 23rd District",candidate,Anna M Scharf (REP),944
+Polk,102,"State Representative, 23rd District",writein,,0
+Polk,102,"State Representative, 23rd District",total_votes,,1322
+Polk,102,"State Representative, 23rd District",overvotes,,0
+Polk,102,"State Representative, 23rd District",undervotes,,47
+Polk,118,"State Representative, 23rd District",candidate,Kriss Wright (DEM),1055
+Polk,118,"State Representative, 23rd District",candidate,Anna M Scharf (REP),1885
+Polk,118,"State Representative, 23rd District",writein,,3
+Polk,118,"State Representative, 23rd District",total_votes,,2943
+Polk,118,"State Representative, 23rd District",overvotes,,0
+Polk,118,"State Representative, 23rd District",undervotes,,171
+Polk,152,"State Representative, 23rd District",candidate,Kriss Wright (DEM),1140
+Polk,152,"State Representative, 23rd District",candidate,Anna M Scharf (REP),3009
+Polk,152,"State Representative, 23rd District",writein,,5
+Polk,152,"State Representative, 23rd District",total_votes,,4154
+Polk,152,"State Representative, 23rd District",overvotes,,1
+Polk,152,"State Representative, 23rd District",undervotes,,218
+Polk,154,"State Representative, 23rd District",candidate,Kriss Wright (DEM),1568
+Polk,154,"State Representative, 23rd District",candidate,Anna M Scharf (REP),2828
+Polk,154,"State Representative, 23rd District",writein,,10
+Polk,154,"State Representative, 23rd District",total_votes,,4406
+Polk,154,"State Representative, 23rd District",overvotes,,0
+Polk,154,"State Representative, 23rd District",undervotes,,268
+Polk,156,"State Representative, 23rd District",candidate,Kriss Wright (DEM),950
+Polk,156,"State Representative, 23rd District",candidate,Anna M Scharf (REP),1537
+Polk,156,"State Representative, 23rd District",writein,,8
+Polk,156,"State Representative, 23rd District",total_votes,,2495
+Polk,156,"State Representative, 23rd District",overvotes,,1
+Polk,156,"State Representative, 23rd District",undervotes,,158
+Polk,162,"State Representative, 23rd District",candidate,Kriss Wright (DEM),933
+Polk,162,"State Representative, 23rd District",candidate,Anna M Scharf (REP),1846
+Polk,162,"State Representative, 23rd District",writein,,2
+Polk,162,"State Representative, 23rd District",total_votes,,2781
+Polk,162,"State Representative, 23rd District",overvotes,,0
+Polk,162,"State Representative, 23rd District",undervotes,,151
+Polk,166,"State Representative, 23rd District",candidate,Kriss Wright (DEM),253
+Polk,166,"State Representative, 23rd District",candidate,Anna M Scharf (REP),443
+Polk,166,"State Representative, 23rd District",writein,,1
+Polk,166,"State Representative, 23rd District",total_votes,,697
+Polk,166,"State Representative, 23rd District",overvotes,,0
+Polk,166,"State Representative, 23rd District",undervotes,,67
+Polk,106,"State Representative, 24th District",candidate,Lucetta A Elmer (REP),751
+Polk,106,"State Representative, 24th District",candidate,Lisa Pool (DEM),276
+Polk,106,"State Representative, 24th District",writein,,2
+Polk,106,"State Representative, 24th District",total_votes,,1029
+Polk,106,"State Representative, 24th District",overvotes,,0
+Polk,106,"State Representative, 24th District",undervotes,,71
+Polk,110,"State Representative, 24th District",candidate,Lucetta A Elmer (REP),452
+Polk,110,"State Representative, 24th District",candidate,Lisa Pool (DEM),219
+Polk,110,"State Representative, 24th District",writein,,1
+Polk,110,"State Representative, 24th District",total_votes,,672
+Polk,110,"State Representative, 24th District",overvotes,,0
+Polk,110,"State Representative, 24th District",undervotes,,48

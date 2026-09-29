@@ -1,0 +1,61 @@
+eee EEE
+Statement of Votes Cast by Geography                                       Page: 1 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                        2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Precinct 01
+President (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 4 undervotes), 823 registered voters, turnout 66.22%
+Robert F Kennedy Jr/Nicole Shanahan                     10           1.85%
+Cornel West                                                                             1                0.18%
+Chase Oliver/Mike ter Maat                                          1             0.18%
+Randall Terry                                                     4            0.18%
+Donald J Trump/JD Vance                                376         69.50%
+Jill Stein/Rudolph Ware                                      2          0.37%
+Kamala D Harris/Tim Walz                              148         27.36%
+Write-in                                                        2          0.37%
+Total                                                                                           541             100.00%
+Overvotes                                                     0
+Undervoies                                                   4
+US Representative, 2nd District (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 29 undervotes), 823 registered voters, turnout 66.22%
+Cliff Bentz                                                           355           68.80%
+Michael Kurt Stettler                                           20           3.88%
+Dan Ruby                                               141         27.33%
+Write-in                                                        0          0.00%
+Total                                                                                           516             100.00%
+Overvotes                                                     0
+Undervotes                                                  29
+Secretary of State (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 33 undervotes), 823 registered voters, turnout 66.22%
+Nathalie Paravicini                                              13           2.54%
+Dennis Linthicum                                          350         68.36%
+Tobias Read                                               149         29.10%
+Write-in                                                        0          0.00%
+Total                                                        512        100.00%
+Overvotes                                                     0
+Undervotes                                                  33
+State Treasurer (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 39 undervotes), 823 registered voters, turnout 66.22%
+Mary King                                                             35            6.92%
+Brian J Boquist                                              353         69.76%
+Elizabeth Steiner                                          118         23.32%
+Write-in                                                        0          0.00%
+Total                                                                                                        506              100.00%
+Overvotes                                                     0
+Undervotes                                                  39
+Attorney General (Vote for 1}
+545 ballots (0 over voted ballots, 0 overvotes, 32 undervotes), 823 registered voters, turnout 66.22%
+Will Lathrop                                                371         72.32%
+Dan Rayfield                                               142         27.68%
+Write-in                                                        0          0.00%
+Total                                                        513        100.00%
+Overvotes                                                     0
+Undervotes                                                  32
+State Senator, 30th District (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 111 undervotes), 823 registered voters, turnout 66.22%
+Mike McLane                                                  427          98.39%
+Write-in                                                        7          1.61%

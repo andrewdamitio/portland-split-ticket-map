@@ -1,0 +1,17 @@
+Sr ———__
+Ballots Cast per Contest with Precincts                                          Page: 101 of 147
+Washington County November 5 2024 General Election                                      2024-12-02
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                     09:11:39
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+City of Tualatin, Council Member, Position 2 (Vote for 1)
+Precinct                Ballots         Reg.            Total Christen Sacco            Write-in                 Over       Under
+Cast     Voters        Votes                                            Votes      Votes
+Precinct 394           248        353          141        140 99.29%          1 0.71%          0        107
+Precinct 420          3223      4148         1939      1901 98.04%         38 1.96%          )       1284
+Precinct 423          3051       4495         1964      1931 98.32%         33 1.68%          0)       1087
+Precinct 428          1359       1967          862       848 98.38%         14 1.62%          0       497
+Precinct 433          2171       2698         1284      1248 97.20%         36 2.80%          1        886
+Precinct 436          2242      2612         1300      1274 98.00%         26 2.00%          1        941
+Precinct 444         121      150        77      77_100.00%       0 0.00%       ft)      44
+Total                12415     16423         7567      7419 98.04%        148 1.96%          2      4846

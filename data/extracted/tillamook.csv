@@ -1,0 +1,610 @@
+county,precinct_label,contest,type,choice,votes
+Tillamook,BAY,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),20
+Tillamook,BAY,United States President and Vice President,candidate,Cornel West (PRO),1
+Tillamook,BAY,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Tillamook,BAY,United States President and Vice President,candidate,Randall Terry (CON),2
+Tillamook,BAY,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),489
+Tillamook,BAY,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),8
+Tillamook,BAY,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),489
+Tillamook,BAY,United States President and Vice President,writein,,6
+Tillamook,BAY,United States President and Vice President,total_votes,,1019
+Tillamook,BAY,United States President and Vice President,overvotes,,1
+Tillamook,BAY,United States President and Vice President,undervotes,,8
+Tillamook,BAY,United States President and Vice President,ballots_cast,,1028
+Tillamook,BAY,United States President and Vice President,registered,,1345
+Tillamook,BAY,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),532
+Tillamook,BAY,"State Representative, 32nd District",candidate,Andy Davis (DEM),445
+Tillamook,BAY,"State Representative, 32nd District",writein,,0
+Tillamook,BAY,"State Representative, 32nd District",total_votes,,977
+Tillamook,BAY,"State Representative, 32nd District",overvotes,,1
+Tillamook,BAY,"State Representative, 32nd District",undervotes,,50
+Tillamook,BAY,"State Representative, 32nd District",ballots_cast,,1028
+Tillamook,BAY,"State Representative, 32nd District",registered,,1345
+Tillamook,BEAVER,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),8
+Tillamook,BEAVER,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,BEAVER,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Tillamook,BEAVER,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,BEAVER,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),453
+Tillamook,BEAVER,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Tillamook,BEAVER,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),209
+Tillamook,BEAVER,United States President and Vice President,writein,,1
+Tillamook,BEAVER,United States President and Vice President,total_votes,,678
+Tillamook,BEAVER,United States President and Vice President,overvotes,,0
+Tillamook,BEAVER,United States President and Vice President,undervotes,,3
+Tillamook,BEAVER,United States President and Vice President,ballots_cast,,681
+Tillamook,BEAVER,United States President and Vice President,registered,,927
+Tillamook,BEAVER,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),472
+Tillamook,BEAVER,"State Representative, 32nd District",candidate,Andy Davis (DEM),183
+Tillamook,BEAVER,"State Representative, 32nd District",writein,,0
+Tillamook,BEAVER,"State Representative, 32nd District",total_votes,,655
+Tillamook,BEAVER,"State Representative, 32nd District",overvotes,,0
+Tillamook,BEAVER,"State Representative, 32nd District",undervotes,,26
+Tillamook,BEAVER,"State Representative, 32nd District",ballots_cast,,681
+Tillamook,BEAVER,"State Representative, 32nd District",registered,,927
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),4
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),264
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Tillamook,CARNAHAN,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),104
+Tillamook,CARNAHAN,United States President and Vice President,writein,,3
+Tillamook,CARNAHAN,United States President and Vice President,total_votes,,378
+Tillamook,CARNAHAN,United States President and Vice President,overvotes,,0
+Tillamook,CARNAHAN,United States President and Vice President,undervotes,,2
+Tillamook,CARNAHAN,United States President and Vice President,ballots_cast,,380
+Tillamook,CARNAHAN,United States President and Vice President,registered,,509
+Tillamook,CARNAHAN,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),272
+Tillamook,CARNAHAN,"State Representative, 32nd District",candidate,Andy Davis (DEM),90
+Tillamook,CARNAHAN,"State Representative, 32nd District",writein,,4
+Tillamook,CARNAHAN,"State Representative, 32nd District",total_votes,,366
+Tillamook,CARNAHAN,"State Representative, 32nd District",overvotes,,0
+Tillamook,CARNAHAN,"State Representative, 32nd District",undervotes,,14
+Tillamook,CARNAHAN,"State Representative, 32nd District",ballots_cast,,380
+Tillamook,CARNAHAN,"State Representative, 32nd District",registered,,509
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),1
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),197
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Tillamook,CLOVERDALE,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),123
+Tillamook,CLOVERDALE,United States President and Vice President,writein,,0
+Tillamook,CLOVERDALE,United States President and Vice President,total_votes,,322
+Tillamook,CLOVERDALE,United States President and Vice President,overvotes,,0
+Tillamook,CLOVERDALE,United States President and Vice President,undervotes,,2
+Tillamook,CLOVERDALE,United States President and Vice President,ballots_cast,,324
+Tillamook,CLOVERDALE,United States President and Vice President,registered,,431
+Tillamook,CLOVERDALE,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),209
+Tillamook,CLOVERDALE,"State Representative, 32nd District",candidate,Andy Davis (DEM),96
+Tillamook,CLOVERDALE,"State Representative, 32nd District",writein,,0
+Tillamook,CLOVERDALE,"State Representative, 32nd District",total_votes,,305
+Tillamook,CLOVERDALE,"State Representative, 32nd District",overvotes,,0
+Tillamook,CLOVERDALE,"State Representative, 32nd District",undervotes,,19
+Tillamook,CLOVERDALE,"State Representative, 32nd District",ballots_cast,,324
+Tillamook,CLOVERDALE,"State Representative, 32nd District",registered,,431
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),3
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),93
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Tillamook,EASTSIDE,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),62
+Tillamook,EASTSIDE,United States President and Vice President,writein,,1
+Tillamook,EASTSIDE,United States President and Vice President,total_votes,,159
+Tillamook,EASTSIDE,United States President and Vice President,overvotes,,0
+Tillamook,EASTSIDE,United States President and Vice President,undervotes,,5
+Tillamook,EASTSIDE,United States President and Vice President,ballots_cast,,164
+Tillamook,EASTSIDE,United States President and Vice President,registered,,239
+Tillamook,EASTSIDE,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),98
+Tillamook,EASTSIDE,"State Representative, 32nd District",candidate,Andy Davis (DEM),55
+Tillamook,EASTSIDE,"State Representative, 32nd District",writein,,1
+Tillamook,EASTSIDE,"State Representative, 32nd District",total_votes,,154
+Tillamook,EASTSIDE,"State Representative, 32nd District",overvotes,,0
+Tillamook,EASTSIDE,"State Representative, 32nd District",undervotes,,10
+Tillamook,EASTSIDE,"State Representative, 32nd District",ballots_cast,,164
+Tillamook,EASTSIDE,"State Representative, 32nd District",registered,,239
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),749
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Tillamook,FAIRVIEW,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),428
+Tillamook,FAIRVIEW,United States President and Vice President,writein,,3
+Tillamook,FAIRVIEW,United States President and Vice President,total_votes,,1198
+Tillamook,FAIRVIEW,United States President and Vice President,overvotes,,0
+Tillamook,FAIRVIEW,United States President and Vice President,undervotes,,18
+Tillamook,FAIRVIEW,United States President and Vice President,ballots_cast,,1216
+Tillamook,FAIRVIEW,United States President and Vice President,registered,,1585
+Tillamook,FAIRVIEW,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),802
+Tillamook,FAIRVIEW,"State Representative, 32nd District",candidate,Andy Davis (DEM),352
+Tillamook,FAIRVIEW,"State Representative, 32nd District",writein,,3
+Tillamook,FAIRVIEW,"State Representative, 32nd District",total_votes,,1157
+Tillamook,FAIRVIEW,"State Representative, 32nd District",overvotes,,0
+Tillamook,FAIRVIEW,"State Representative, 32nd District",undervotes,,59
+Tillamook,FAIRVIEW,"State Representative, 32nd District",ballots_cast,,1216
+Tillamook,FAIRVIEW,"State Representative, 32nd District",registered,,1585
+Tillamook,FOLEY,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Tillamook,FOLEY,United States President and Vice President,candidate,Cornel West (PRO),2
+Tillamook,FOLEY,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,FOLEY,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,FOLEY,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),240
+Tillamook,FOLEY,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Tillamook,FOLEY,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),227
+Tillamook,FOLEY,United States President and Vice President,writein,,2
+Tillamook,FOLEY,United States President and Vice President,total_votes,,486
+Tillamook,FOLEY,United States President and Vice President,overvotes,,0
+Tillamook,FOLEY,United States President and Vice President,undervotes,,1
+Tillamook,FOLEY,United States President and Vice President,ballots_cast,,487
+Tillamook,FOLEY,United States President and Vice President,registered,,644
+Tillamook,FOLEY,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),247
+Tillamook,FOLEY,"State Representative, 32nd District",candidate,Andy Davis (DEM),213
+Tillamook,FOLEY,"State Representative, 32nd District",writein,,0
+Tillamook,FOLEY,"State Representative, 32nd District",total_votes,,460
+Tillamook,FOLEY,"State Representative, 32nd District",overvotes,,0
+Tillamook,FOLEY,"State Representative, 32nd District",undervotes,,27
+Tillamook,FOLEY,"State Representative, 32nd District",ballots_cast,,487
+Tillamook,FOLEY,"State Representative, 32nd District",registered,,644
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Cornel West (PRO),1
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),369
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Tillamook,GARIBALDI,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),364
+Tillamook,GARIBALDI,United States President and Vice President,writein,,3
+Tillamook,GARIBALDI,United States President and Vice President,total_votes,,759
+Tillamook,GARIBALDI,United States President and Vice President,overvotes,,1
+Tillamook,GARIBALDI,United States President and Vice President,undervotes,,7
+Tillamook,GARIBALDI,United States President and Vice President,ballots_cast,,767
+Tillamook,GARIBALDI,United States President and Vice President,registered,,990
+Tillamook,GARIBALDI,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),393
+Tillamook,GARIBALDI,"State Representative, 32nd District",candidate,Andy Davis (DEM),334
+Tillamook,GARIBALDI,"State Representative, 32nd District",writein,,2
+Tillamook,GARIBALDI,"State Representative, 32nd District",total_votes,,729
+Tillamook,GARIBALDI,"State Representative, 32nd District",overvotes,,0
+Tillamook,GARIBALDI,"State Representative, 32nd District",undervotes,,38
+Tillamook,GARIBALDI,"State Representative, 32nd District",ballots_cast,,767
+Tillamook,GARIBALDI,"State Representative, 32nd District",registered,,990
+Tillamook,HEBO,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),3
+Tillamook,HEBO,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,HEBO,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,HEBO,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,HEBO,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),231
+Tillamook,HEBO,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Tillamook,HEBO,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),131
+Tillamook,HEBO,United States President and Vice President,writein,,2
+Tillamook,HEBO,United States President and Vice President,total_votes,,373
+Tillamook,HEBO,United States President and Vice President,overvotes,,0
+Tillamook,HEBO,United States President and Vice President,undervotes,,3
+Tillamook,HEBO,United States President and Vice President,ballots_cast,,376
+Tillamook,HEBO,United States President and Vice President,registered,,541
+Tillamook,HEBO,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),235
+Tillamook,HEBO,"State Representative, 32nd District",candidate,Andy Davis (DEM),122
+Tillamook,HEBO,"State Representative, 32nd District",writein,,0
+Tillamook,HEBO,"State Representative, 32nd District",total_votes,,357
+Tillamook,HEBO,"State Representative, 32nd District",overvotes,,0
+Tillamook,HEBO,"State Representative, 32nd District",undervotes,,19
+Tillamook,HEBO,"State Representative, 32nd District",ballots_cast,,376
+Tillamook,HEBO,"State Representative, 32nd District",registered,,541
+Tillamook,KILCHIS,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Tillamook,KILCHIS,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,KILCHIS,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Tillamook,KILCHIS,United States President and Vice President,candidate,Randall Terry (CON),2
+Tillamook,KILCHIS,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),315
+Tillamook,KILCHIS,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Tillamook,KILCHIS,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),166
+Tillamook,KILCHIS,United States President and Vice President,writein,,0
+Tillamook,KILCHIS,United States President and Vice President,total_votes,,499
+Tillamook,KILCHIS,United States President and Vice President,overvotes,,0
+Tillamook,KILCHIS,United States President and Vice President,undervotes,,2
+Tillamook,KILCHIS,United States President and Vice President,ballots_cast,,501
+Tillamook,KILCHIS,United States President and Vice President,registered,,721
+Tillamook,KILCHIS,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),328
+Tillamook,KILCHIS,"State Representative, 32nd District",candidate,Andy Davis (DEM),149
+Tillamook,KILCHIS,"State Representative, 32nd District",writein,,1
+Tillamook,KILCHIS,"State Representative, 32nd District",total_votes,,478
+Tillamook,KILCHIS,"State Representative, 32nd District",overvotes,,0
+Tillamook,KILCHIS,"State Representative, 32nd District",undervotes,,23
+Tillamook,KILCHIS,"State Representative, 32nd District",ballots_cast,,501
+Tillamook,KILCHIS,"State Representative, 32nd District",registered,,721
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),2
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),319
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Tillamook,MAPLELEAF,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),138
+Tillamook,MAPLELEAF,United States President and Vice President,writein,,2
+Tillamook,MAPLELEAF,United States President and Vice President,total_votes,,463
+Tillamook,MAPLELEAF,United States President and Vice President,overvotes,,0
+Tillamook,MAPLELEAF,United States President and Vice President,undervotes,,11
+Tillamook,MAPLELEAF,United States President and Vice President,ballots_cast,,474
+Tillamook,MAPLELEAF,United States President and Vice President,registered,,612
+Tillamook,MAPLELEAF,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),340
+Tillamook,MAPLELEAF,"State Representative, 32nd District",candidate,Andy Davis (DEM),114
+Tillamook,MAPLELEAF,"State Representative, 32nd District",writein,,2
+Tillamook,MAPLELEAF,"State Representative, 32nd District",total_votes,,456
+Tillamook,MAPLELEAF,"State Representative, 32nd District",overvotes,,0
+Tillamook,MAPLELEAF,"State Representative, 32nd District",undervotes,,18
+Tillamook,MAPLELEAF,"State Representative, 32nd District",ballots_cast,,474
+Tillamook,MAPLELEAF,"State Representative, 32nd District",registered,,612
+Tillamook,NEHALEM,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),8
+Tillamook,NEHALEM,United States President and Vice President,candidate,Cornel West (PRO),2
+Tillamook,NEHALEM,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,NEHALEM,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,NEHALEM,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),160
+Tillamook,NEHALEM,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Tillamook,NEHALEM,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),301
+Tillamook,NEHALEM,United States President and Vice President,writein,,2
+Tillamook,NEHALEM,United States President and Vice President,total_votes,,481
+Tillamook,NEHALEM,United States President and Vice President,overvotes,,0
+Tillamook,NEHALEM,United States President and Vice President,undervotes,,6
+Tillamook,NEHALEM,United States President and Vice President,ballots_cast,,487
+Tillamook,NEHALEM,United States President and Vice President,registered,,595
+Tillamook,NEHALEM,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),170
+Tillamook,NEHALEM,"State Representative, 32nd District",candidate,Andy Davis (DEM),291
+Tillamook,NEHALEM,"State Representative, 32nd District",writein,,0
+Tillamook,NEHALEM,"State Representative, 32nd District",total_votes,,461
+Tillamook,NEHALEM,"State Representative, 32nd District",overvotes,,0
+Tillamook,NEHALEM,"State Representative, 32nd District",undervotes,,26
+Tillamook,NEHALEM,"State Representative, 32nd District",ballots_cast,,487
+Tillamook,NEHALEM,"State Representative, 32nd District",registered,,595
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),9
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Cornel West (PRO),2
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),7
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),227
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),7
+Tillamook,NESKOWIN,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),370
+Tillamook,NESKOWIN,United States President and Vice President,writein,,3
+Tillamook,NESKOWIN,United States President and Vice President,total_votes,,626
+Tillamook,NESKOWIN,United States President and Vice President,overvotes,,0
+Tillamook,NESKOWIN,United States President and Vice President,undervotes,,4
+Tillamook,NESKOWIN,United States President and Vice President,ballots_cast,,630
+Tillamook,NESKOWIN,United States President and Vice President,registered,,757
+Tillamook,NESKOWIN,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),257
+Tillamook,NESKOWIN,"State Representative, 32nd District",candidate,Andy Davis (DEM),348
+Tillamook,NESKOWIN,"State Representative, 32nd District",writein,,0
+Tillamook,NESKOWIN,"State Representative, 32nd District",total_votes,,605
+Tillamook,NESKOWIN,"State Representative, 32nd District",overvotes,,0
+Tillamook,NESKOWIN,"State Representative, 32nd District",undervotes,,25
+Tillamook,NESKOWIN,"State Representative, 32nd District",ballots_cast,,630
+Tillamook,NESKOWIN,"State Representative, 32nd District",registered,,757
+Tillamook,NETARTS,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Tillamook,NETARTS,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,NETARTS,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Tillamook,NETARTS,United States President and Vice President,candidate,Randall Terry (CON),4
+Tillamook,NETARTS,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),335
+Tillamook,NETARTS,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),8
+Tillamook,NETARTS,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),447
+Tillamook,NETARTS,United States President and Vice President,writein,,7
+Tillamook,NETARTS,United States President and Vice President,total_votes,,814
+Tillamook,NETARTS,United States President and Vice President,overvotes,,0
+Tillamook,NETARTS,United States President and Vice President,undervotes,,6
+Tillamook,NETARTS,United States President and Vice President,ballots_cast,,820
+Tillamook,NETARTS,United States President and Vice President,registered,,987
+Tillamook,NETARTS,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),358
+Tillamook,NETARTS,"State Representative, 32nd District",candidate,Andy Davis (DEM),416
+Tillamook,NETARTS,"State Representative, 32nd District",writein,,1
+Tillamook,NETARTS,"State Representative, 32nd District",total_votes,,775
+Tillamook,NETARTS,"State Representative, 32nd District",overvotes,,0
+Tillamook,NETARTS,"State Representative, 32nd District",undervotes,,45
+Tillamook,NETARTS,"State Representative, 32nd District",ballots_cast,,820
+Tillamook,NETARTS,"State Representative, 32nd District",registered,,987
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),2
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Cornel West (PRO),4
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),87
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Tillamook,OCEANSIDE,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),198
+Tillamook,OCEANSIDE,United States President and Vice President,writein,,4
+Tillamook,OCEANSIDE,United States President and Vice President,total_votes,,302
+Tillamook,OCEANSIDE,United States President and Vice President,overvotes,,0
+Tillamook,OCEANSIDE,United States President and Vice President,undervotes,,1
+Tillamook,OCEANSIDE,United States President and Vice President,ballots_cast,,303
+Tillamook,OCEANSIDE,United States President and Vice President,registered,,329
+Tillamook,OCEANSIDE,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),113
+Tillamook,OCEANSIDE,"State Representative, 32nd District",candidate,Andy Davis (DEM),178
+Tillamook,OCEANSIDE,"State Representative, 32nd District",writein,,0
+Tillamook,OCEANSIDE,"State Representative, 32nd District",total_votes,,291
+Tillamook,OCEANSIDE,"State Representative, 32nd District",overvotes,,0
+Tillamook,OCEANSIDE,"State Representative, 32nd District",undervotes,,12
+Tillamook,OCEANSIDE,"State Representative, 32nd District",ballots_cast,,303
+Tillamook,OCEANSIDE,"State Representative, 32nd District",registered,,329
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),14
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Cornel West (PRO),4
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),10
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),371
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),14
+Tillamook,PINE GROVE,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),1174
+Tillamook,PINE GROVE,United States President and Vice President,writein,,5
+Tillamook,PINE GROVE,United States President and Vice President,total_votes,,1592
+Tillamook,PINE GROVE,United States President and Vice President,overvotes,,0
+Tillamook,PINE GROVE,United States President and Vice President,undervotes,,15
+Tillamook,PINE GROVE,United States President and Vice President,ballots_cast,,1607
+Tillamook,PINE GROVE,United States President and Vice President,registered,,1863
+Tillamook,PINE GROVE,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),419
+Tillamook,PINE GROVE,"State Representative, 32nd District",candidate,Andy Davis (DEM),1103
+Tillamook,PINE GROVE,"State Representative, 32nd District",writein,,0
+Tillamook,PINE GROVE,"State Representative, 32nd District",total_votes,,1522
+Tillamook,PINE GROVE,"State Representative, 32nd District",overvotes,,1
+Tillamook,PINE GROVE,"State Representative, 32nd District",undervotes,,84
+Tillamook,PINE GROVE,"State Representative, 32nd District",ballots_cast,,1607
+Tillamook,PINE GROVE,"State Representative, 32nd District",registered,,1863
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),24
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Cornel West (PRO),3
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),495
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),15
+Tillamook,ROCKAWAY,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),670
+Tillamook,ROCKAWAY,United States President and Vice President,writein,,4
+Tillamook,ROCKAWAY,United States President and Vice President,total_votes,,1212
+Tillamook,ROCKAWAY,United States President and Vice President,overvotes,,0
+Tillamook,ROCKAWAY,United States President and Vice President,undervotes,,13
+Tillamook,ROCKAWAY,United States President and Vice President,ballots_cast,,1225
+Tillamook,ROCKAWAY,United States President and Vice President,registered,,1556
+Tillamook,ROCKAWAY,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),563
+Tillamook,ROCKAWAY,"State Representative, 32nd District",candidate,Andy Davis (DEM),584
+Tillamook,ROCKAWAY,"State Representative, 32nd District",writein,,2
+Tillamook,ROCKAWAY,"State Representative, 32nd District",total_votes,,1149
+Tillamook,ROCKAWAY,"State Representative, 32nd District",overvotes,,0
+Tillamook,ROCKAWAY,"State Representative, 32nd District",undervotes,,76
+Tillamook,ROCKAWAY,"State Representative, 32nd District",ballots_cast,,1225
+Tillamook,ROCKAWAY,"State Representative, 32nd District",registered,,1556
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),6
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),322
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),115
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,writein,,1
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,total_votes,,446
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,overvotes,,0
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,undervotes,,6
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,ballots_cast,,452
+Tillamook,SOUTH PRAIRIE WEST,United States President and Vice President,registered,,608
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),329
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",candidate,Andy Davis (DEM),102
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",writein,,2
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",total_votes,,433
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",overvotes,,0
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",undervotes,,19
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",ballots_cast,,452
+Tillamook,SOUTH PRAIRIE WEST,"State Representative, 32nd District",registered,,608
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),3
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Cornel West (PRO),1
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),332
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),77
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,writein,,1
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,total_votes,,416
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,overvotes,,0
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,undervotes,,6
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,ballots_cast,,422
+Tillamook,SOUTH PRAIRIE EAST,United States President and Vice President,registered,,548
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),330
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",candidate,Andy Davis (DEM),71
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",writein,,3
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",total_votes,,404
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",overvotes,,0
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",undervotes,,18
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",ballots_cast,,422
+Tillamook,SOUTH PRAIRIE EAST,"State Representative, 32nd District",registered,,548
+Tillamook,TRASK,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),6
+Tillamook,TRASK,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,TRASK,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Tillamook,TRASK,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,TRASK,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),140
+Tillamook,TRASK,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Tillamook,TRASK,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),70
+Tillamook,TRASK,United States President and Vice President,writein,,2
+Tillamook,TRASK,United States President and Vice President,total_votes,,218
+Tillamook,TRASK,United States President and Vice President,overvotes,,0
+Tillamook,TRASK,United States President and Vice President,undervotes,,2
+Tillamook,TRASK,United States President and Vice President,ballots_cast,,220
+Tillamook,TRASK,United States President and Vice President,registered,,337
+Tillamook,TRASK,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),139
+Tillamook,TRASK,"State Representative, 32nd District",candidate,Andy Davis (DEM),70
+Tillamook,TRASK,"State Representative, 32nd District",writein,,1
+Tillamook,TRASK,"State Representative, 32nd District",total_votes,,210
+Tillamook,TRASK,"State Representative, 32nd District",overvotes,,0
+Tillamook,TRASK,"State Representative, 32nd District",undervotes,,10
+Tillamook,TRASK,"State Representative, 32nd District",ballots_cast,,220
+Tillamook,TRASK,"State Representative, 32nd District",registered,,337
+Tillamook,UNION,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Tillamook,UNION,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,UNION,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Tillamook,UNION,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,UNION,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),448
+Tillamook,UNION,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),12
+Tillamook,UNION,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),576
+Tillamook,UNION,United States President and Vice President,writein,,9
+Tillamook,UNION,United States President and Vice President,total_votes,,1064
+Tillamook,UNION,United States President and Vice President,overvotes,,0
+Tillamook,UNION,United States President and Vice President,undervotes,,4
+Tillamook,UNION,United States President and Vice President,ballots_cast,,1068
+Tillamook,UNION,United States President and Vice President,registered,,1323
+Tillamook,UNION,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),501
+Tillamook,UNION,"State Representative, 32nd District",candidate,Andy Davis (DEM),517
+Tillamook,UNION,"State Representative, 32nd District",writein,,0
+Tillamook,UNION,"State Representative, 32nd District",total_votes,,1018
+Tillamook,UNION,"State Representative, 32nd District",overvotes,,0
+Tillamook,UNION,"State Representative, 32nd District",undervotes,,50
+Tillamook,UNION,"State Representative, 32nd District",ballots_cast,,1068
+Tillamook,UNION,"State Representative, 32nd District",registered,,1323
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),7
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),121
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Tillamook,WESTSIDE,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),146
+Tillamook,WESTSIDE,United States President and Vice President,writein,,2
+Tillamook,WESTSIDE,United States President and Vice President,total_votes,,277
+Tillamook,WESTSIDE,United States President and Vice President,overvotes,,0
+Tillamook,WESTSIDE,United States President and Vice President,undervotes,,3
+Tillamook,WESTSIDE,United States President and Vice President,ballots_cast,,280
+Tillamook,WESTSIDE,United States President and Vice President,registered,,355
+Tillamook,WESTSIDE,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),133
+Tillamook,WESTSIDE,"State Representative, 32nd District",candidate,Andy Davis (DEM),126
+Tillamook,WESTSIDE,"State Representative, 32nd District",writein,,0
+Tillamook,WESTSIDE,"State Representative, 32nd District",total_votes,,259
+Tillamook,WESTSIDE,"State Representative, 32nd District",overvotes,,0
+Tillamook,WESTSIDE,"State Representative, 32nd District",undervotes,,21
+Tillamook,WESTSIDE,"State Representative, 32nd District",ballots_cast,,280
+Tillamook,WESTSIDE,"State Representative, 32nd District",registered,,355
+Tillamook,WHEELER,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),8
+Tillamook,WHEELER,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,WHEELER,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Tillamook,WHEELER,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,WHEELER,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),119
+Tillamook,WHEELER,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Tillamook,WHEELER,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),284
+Tillamook,WHEELER,United States President and Vice President,writein,,0
+Tillamook,WHEELER,United States President and Vice President,total_votes,,414
+Tillamook,WHEELER,United States President and Vice President,overvotes,,0
+Tillamook,WHEELER,United States President and Vice President,undervotes,,5
+Tillamook,WHEELER,United States President and Vice President,ballots_cast,,419
+Tillamook,WHEELER,United States President and Vice President,registered,,524
+Tillamook,WHEELER,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),140
+Tillamook,WHEELER,"State Representative, 32nd District",candidate,Andy Davis (DEM),255
+Tillamook,WHEELER,"State Representative, 32nd District",writein,,0
+Tillamook,WHEELER,"State Representative, 32nd District",total_votes,,395
+Tillamook,WHEELER,"State Representative, 32nd District",overvotes,,0
+Tillamook,WHEELER,"State Representative, 32nd District",undervotes,,24
+Tillamook,WHEELER,"State Representative, 32nd District",ballots_cast,,419
+Tillamook,WHEELER,"State Representative, 32nd District",registered,,524
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Cornel West (PRO),1
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Randall Terry (CON),2
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),225
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Tillamook,TILLAMOOK #1,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),184
+Tillamook,TILLAMOOK #1,United States President and Vice President,writein,,4
+Tillamook,TILLAMOOK #1,United States President and Vice President,total_votes,,432
+Tillamook,TILLAMOOK #1,United States President and Vice President,overvotes,,0
+Tillamook,TILLAMOOK #1,United States President and Vice President,undervotes,,4
+Tillamook,TILLAMOOK #1,United States President and Vice President,ballots_cast,,436
+Tillamook,TILLAMOOK #1,United States President and Vice President,registered,,609
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),234
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",candidate,Andy Davis (DEM),174
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",writein,,5
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",total_votes,,413
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",overvotes,,0
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",undervotes,,23
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",ballots_cast,,436
+Tillamook,TILLAMOOK #1,"State Representative, 32nd District",registered,,609
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),5
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),167
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Tillamook,TILLAMOOK #2,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),163
+Tillamook,TILLAMOOK #2,United States President and Vice President,writein,,1
+Tillamook,TILLAMOOK #2,United States President and Vice President,total_votes,,338
+Tillamook,TILLAMOOK #2,United States President and Vice President,overvotes,,0
+Tillamook,TILLAMOOK #2,United States President and Vice President,undervotes,,2
+Tillamook,TILLAMOOK #2,United States President and Vice President,ballots_cast,,340
+Tillamook,TILLAMOOK #2,United States President and Vice President,registered,,542
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),178
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",candidate,Andy Davis (DEM),143
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",writein,,2
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",total_votes,,323
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",overvotes,,0
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",undervotes,,17
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",ballots_cast,,340
+Tillamook,TILLAMOOK #2,"State Representative, 32nd District",registered,,542
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),10
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Cornel West (PRO),2
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Randall Terry (CON),1
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),161
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Tillamook,TILLAMOOK #3,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),138
+Tillamook,TILLAMOOK #3,United States President and Vice President,writein,,3
+Tillamook,TILLAMOOK #3,United States President and Vice President,total_votes,,320
+Tillamook,TILLAMOOK #3,United States President and Vice President,overvotes,,0
+Tillamook,TILLAMOOK #3,United States President and Vice President,undervotes,,2
+Tillamook,TILLAMOOK #3,United States President and Vice President,ballots_cast,,322
+Tillamook,TILLAMOOK #3,United States President and Vice President,registered,,575
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),169
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",candidate,Andy Davis (DEM),124
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",writein,,2
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",total_votes,,295
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",overvotes,,0
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",undervotes,,27
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",ballots_cast,,322
+Tillamook,TILLAMOOK #3,"State Representative, 32nd District",registered,,575
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),2
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Cornel West (PRO),1
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),190
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Tillamook,TILLAMOOK #4,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),145
+Tillamook,TILLAMOOK #4,United States President and Vice President,writein,,0
+Tillamook,TILLAMOOK #4,United States President and Vice President,total_votes,,341
+Tillamook,TILLAMOOK #4,United States President and Vice President,overvotes,,0
+Tillamook,TILLAMOOK #4,United States President and Vice President,undervotes,,3
+Tillamook,TILLAMOOK #4,United States President and Vice President,ballots_cast,,344
+Tillamook,TILLAMOOK #4,United States President and Vice President,registered,,562
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),208
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",candidate,Andy Davis (DEM),118
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",writein,,2
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",total_votes,,328
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",overvotes,,0
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",undervotes,,16
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",ballots_cast,,344
+Tillamook,TILLAMOOK #4,"State Representative, 32nd District",registered,,562
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),176
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Tillamook,TILLAMOOK #5,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),133
+Tillamook,TILLAMOOK #5,United States President and Vice President,writein,,1
+Tillamook,TILLAMOOK #5,United States President and Vice President,total_votes,,324
+Tillamook,TILLAMOOK #5,United States President and Vice President,overvotes,,1
+Tillamook,TILLAMOOK #5,United States President and Vice President,undervotes,,1
+Tillamook,TILLAMOOK #5,United States President and Vice President,ballots_cast,,326
+Tillamook,TILLAMOOK #5,United States President and Vice President,registered,,564
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),190
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",candidate,Andy Davis (DEM),121
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",writein,,0
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",total_votes,,311
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",overvotes,,0
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",undervotes,,15
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",ballots_cast,,326
+Tillamook,TILLAMOOK #5,"State Representative, 32nd District",registered,,564
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),6
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Cornel West (PRO),0
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Randall Terry (CON),0
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),176
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Tillamook,TILLAMOOK #6,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),115
+Tillamook,TILLAMOOK #6,United States President and Vice President,writein,,0
+Tillamook,TILLAMOOK #6,United States President and Vice President,total_votes,,301
+Tillamook,TILLAMOOK #6,United States President and Vice President,overvotes,,0
+Tillamook,TILLAMOOK #6,United States President and Vice President,undervotes,,5
+Tillamook,TILLAMOOK #6,United States President and Vice President,ballots_cast,,306
+Tillamook,TILLAMOOK #6,United States President and Vice President,registered,,495
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),191
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",candidate,Andy Davis (DEM),94
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",writein,,1
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",total_votes,,286
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",overvotes,,0
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",undervotes,,20
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",ballots_cast,,306
+Tillamook,TILLAMOOK #6,"State Representative, 32nd District",registered,,495

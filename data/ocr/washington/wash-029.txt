@@ -1,0 +1,44 @@
+SS SSS EEE
+
+Ballots Cast per Contest with Precincts                                          Page: 29 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                     09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+Attorney General (Vote for 1)
+
+Precinct                 Ballots         Reg.            Total      Will Lathrop            Dan Rayfield              Write-in                 Over       Under
+Cast  Voters    Votes                            Votes  Votes
+Precinct 428     1359   1967    1262   485 38.43%   776 61.49%    1 0.08%    0    97
+Precinct 429    2699   3785    2526   973 38.52%   1551 61.40%    2 0.08%    0   173
+Precinct 430     2310   2835    2174   1278 58.79%   892 41.03%    4 0.18%    rt)   136
+Precinct 431     775   945    748   465 62.17%   283 37.83%    0 0.00%    1    26
+Precinct 432     306   401    295   101 34.24%   194 65.76%    0 0.00%    0   11
+Precinct 433     2171   2698    2055   857 41.70%   1196 58.20%    2 0.10%    1   115
+Precinct 434    4401   5831    4156   1541 37.08%   2609 62.78%    6 0.14%    ¢)   245
+Precinct 435    4132   5143    3858   1784 46.24%   2071 53.68%    3 0.08%    rt)   274
+Precinct 436     2242   2612    2111   1010 47.84%   1100 52.11%  - 4 0.05%    0)   131
+Precinct 437     63    82     58   21 36.21%    37 63.79%    0 0.00%    0    5
+Precinct 438     493   641    477   311 65.20%   165 34.59%    1 0.21%    0   16
+Precinct 439     2375   3122    2227   720 32.33%   1506 67.62%    1 0.04%    0   148
+Precinct 440     1461   2096    1367   514 37.60%   849 62.11%    4 0.29%    0    94
+Precinct 441     70    87     67    13 19.40%    54 80.60%    0 0.00%    0    3
+Precinct 442     2708   3394    2532   1217 48.06%   1312 51.82%    3 0.12%    4)   176
+Precinct 443     11    11     14    11 100.00%    0 0.00%    0 0.00%    0)    1)
+Precinct 444     121   150    118    72 61.02%    46 38.98%    0 0.00%    0    3
+Precinct 445      1    1     1    1 100.00%    0 0.00%    0 0.00%    0    )
+Precinct 446     107   197     98    34 34.69%    64 65.31%    0 0.00%    0    9
+Precinct 447     285   344    273   166 60.81%   107 39.19%    0 0.00%    0    12
+Precinct 448     771   956    717   303 42.26%   413 57.60%    1 0.14%    0    54
+Precinct 449     293   346    284   165 58.10%   119 41.90%    0 0.00%    0    9
+Precinct 450     170   208    162   119 73.46%    43 26.54%    0 0.00%    i)    8
+Precinct 451     1066   1450    985   330 33.50%   654 66.40%    1 0.10%    )    81
+Precinct 452      99   131     94    54 57.45%    40 42.55%    0 0.00%    1)    5
+Precinct 453      11    13     11    6 54.55%    5 45.45%    0 0.00%    0    0
+Precinct 454    19   27    19   18 94.74%   1 5.26%   0 0.00%   0   0
+Precinct 455     1486   2157    1391   367 26.38%   1023 73.54%    1 0.07%    ¢)    95
+Precinct 456      7    8     7    0 0.00%    7_100.00%    Q 0.00%    )    )
+Total      300013 400012   281241 105751 37.60% 175184 62.29%   306 0.11%    11  18761

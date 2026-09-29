@@ -1,0 +1,53 @@
+# Wallowa County, November 5, 2024 General Election - "Detail Results By Precinct" (data/sources/wallowa-2024-general.pdf)
+# Faint scan, one section per precinct (1-12); transcribed from the page images. Contest "Total" = ballots.
+
+contest: President
+source: pages 2, 8, 14, 20, 26, 31, 36, 41, 46, 51, 56, 61
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | overvotes | undervotes | ballots_cast
+1: 14 1 4 0 489 2 234 9 0 10 763
+2: 10 0 3 0 329 2 185 3 0 8 540
+3: 8 0 2 1 246 2 93 2 0 8 362
+4: 7 1 0 1 244 4 113 0 0 7 377
+5: 11 3 1 0 425 5 277 4 1 7 734
+6: 13 1 3 0 564 3 295 2 1 10 892
+7: 8 2 2 1 312 1 95 2 0 3 426
+8: 8 1 1 2 311 4 94 2 1 3 427
+9: 3 0 1 1 285 3 129 0 0 2 424
+10: 1 0 0 0 98 0 32 2 0 2 135
+11: 2 0 0 0 46 0 21 0 0 0 69
+12: 0 0 0 0 17 0 5 0 0 0 22
+TOTAL: n/a
+
+contest: State Senator, 29th District
+source: pages 3, 9, 15, 21, 27, 32, 37, 42, 47, 52, 57, 62
+cols: Wildbill | Nash | writein | overvotes | undervotes | ballots_cast
+1: 106 606 1 0 50 763
+2: 97 398 3 0 42 540
+3: 61 284 0 0 17 362
+4: 56 289 3 0 29 377
+5: 136 504 3 1 90 734
+6: 123 679 4 0 86 892
+7: 41 351 3 0 31 426
+8: 58 336 0 0 33 427
+9: 55 323 4 0 42 424
+10: 18 100 1 0 16 135
+11: 7 58 0 0 4 69
+12: 5 16 0 0 1 22
+TOTAL: n/a
+
+contest: State Representative, 58th District
+source: pages 3, 9, 15, 21, 27, 32, 37, 42, 47, 52, 57, 62
+cols: Levy | writein | overvotes | undervotes | ballots_cast
+1: 552 6 0 205 763
+2: 379 6 0 155 540
+3: 265 1 0 96 362
+4: 282 6 0 89 377
+5: 484 6 0 244 734
+6: 623 9 0 260 892
+7: 336 2 0 88 426
+8: 317 3 0 107 427
+9: 305 5 0 114 424
+10: 96 1 0 38 135
+11: 46 0 0 23 69
+12: 16 1 0 5 22
+TOTAL: n/a

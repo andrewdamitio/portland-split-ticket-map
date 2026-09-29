@@ -1,0 +1,60 @@
+SSS EEE
+Statement of Votes Cast by Geography                                             Page: 2 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                          2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Total                                                                                                        434              100.00%
+Overvotes                                                     0
+Undervotes                                                 111
+State Representative, 59th District (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 30 undervotes), 823 registered voters, turnout 66.22%
+Vikki Breese-lverson                                      371         72.04%
+Brian K Samp                                                  139          26.99%
+Write-in                                                        5          0.97%
+Total                                                        515        100.00%
+Overvotes                                                     0
+Undervotes                                                  30
+Judge of the Supreme Court, Position 1 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 163 undervotes), 823 registered voters, turnout 66.22%
+Stephen K Bushong                                          376          98.43%
+Write-in                                                        6          1.57%
+Total                                                                                           382            100.00%
+Overvotes                                                     0
+Undervotes                                                 163
+Judge of the Supreme Court, Position 7 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 173 undervotes), 823 registered voters, turnout 66.22%
+Bronson D James                                         365         98.12%
+Write-in                                                        7          1.88%
+Total                                                                                                        372              100.00%
+Overvotes                                                     0
+Undervotes                                                 173
+Crook County Commissioner, Position 3 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 39 undervotes), 823 registered voters, turnout 66.22%
+Seth Crawford                                                 239          47.23%
+Ken A Fahlgren                                                  265          52.37%
+Write-in                                                        2          0.40%
+Total                                                                                                        506              100.00%
+Overvotes                                                     0
+Undervotes                                                  39
+Crook County Sheriff (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 132 undervotes), 823 registered voters, turnout 66.22%
+John W Gautney                                                     404           97.82%
+Write-in                                                                                                 9                  2.18%
+Total                                                                                           413            100.00%
+Overvotes                                                     0
+Undervotes                                                 132
+Mayor (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 140 undervotes), 823 registered voters, turnout 66.22%
+Jason Beebe                                               397         98.02%
+Write-in                                                        8          1.98%
+Total                                                                                                        405              100.00%
+Overvotes                                                     0
+Undervotes                                                 140
+City Council Member (Vote for 3)
+545 ballots (0 over voted ballots, 0 overvotes, 620 undervotes), 823 registered voters, turnout 66.22%
+Jerry M Brummer                                            347         34.19%
+Marvin Sumner                                                317          31.23%
+Steve Uffelman                                                332          32.71%

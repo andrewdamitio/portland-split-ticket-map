@@ -1,0 +1,17 @@
+ee ESS
+Ballots Cast per Contest with Precincts                                        Page: 102 of 147
+Washington County November 5 2024. General Election                                       2024-12-02
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+Official Results
+Total Ballots Cast: 301 105. Registered Voters: 400012, Overall Turnout: 75.27%
+City of Tualatin, Council Member, Position 4 (Vote for 1)
+Precinct                   Ballots          Reg.              Total      Danny O'Neal            Cyndy Hillier                Write-in                    Over        Under
+Cast     Voters        Votes                                                                Votes      Votes
+Precinct 394           248        353          173        46 26.59%        126 72.83%          1 0.58%          0         75
+Precinct 420          3223      4148         2623       898 34.24%       1713 65.31%         12 0.46%          0       600
+Precinct 423          3051       4495         2439       783 32.10%       1637 67.12%         19 0.78%          0       612
+Precinct 428          1359       1967         1049       341 32.51%       707 67.40%          1 0.10%          0       310
+Precinct 433          2171       2698         1797       637 35.45%       1150 64.00%         10 0.56%          0       374
+Precinct 436          2242      2612         1843       645 35.00%      1190 64.57%          8 0.43%          0       399
+Precinct 444            121        150           92        47 51.09%         45 48.91%          0 0.00%          fe)         29
+Total                12415     16423        10016      3397 33.92%      6568 65.58%         51 0.51%          0      2399

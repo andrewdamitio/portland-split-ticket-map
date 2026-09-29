@@ -1,0 +1,17 @@
+ae SS ESS eee eee ey
+Ballots Cast per Contest with Precincts                                          Page: 100 of 147
+Washington County November 5 2024 General Election                                     2024-12-02
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                        09:11:39
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+City of Tigard, Council Members (Vote for 3)
+Precinct             Ballots       Reg.          Total       Write-in              Write-in              Write-in              Over      Under
+Cast     Voters         Votes                                                                    Votes      Votes
+Precinct 400                   3519           4835                7111                38 0.53%               15 0.21%                 6 0.08%                 g           3437
+Precinct 402                   6413            8042               13316                74 0.56%                27 0.20%                14 0.11%                  0            5923
+Precinct 404                    5913            7979               12149                86 0.71%                34 0.28%                 19 0.16%                  )            5581
+Precinct 405                    7546            9349               15387                84 0.55%                30 0.19%                  8 0.05%                  3            7248
+Precinct 409                   4511            5979                9121                38 0.42%                12 0.13%                  7 0.08%                  g            4403
+Precinct 411                    1311            1764                2544                 7 0.28%                 2 0.08%                  0 0.00%                 0            1389
+Precinct 427                  1301            1637               2605               14 0.54%                9 0.35%                 1 0.04%                )           1298
+Total                                  30514            39585                 62233                341 0.55%                129 0.21%                  55 0.09%                  30           29279

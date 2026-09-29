@@ -1,0 +1,449 @@
+{
+ "President": [
+  {
+   "pages": [
+    1,
+    2,
+    3
+   ],
+   "cols": [
+    "cand:Robert F Kennedy Jr/Nicole Shanahan",
+    "cand:Cornel West",
+    "cand:Chase Oliver/Mike ter Maat",
+    "cand:Randall Terry"
+   ]
+  },
+  {
+   "pages": [
+    4,
+    5,
+    6
+   ],
+   "cols": [
+    "cand:Donald J Trump/JD Vance",
+    "cand:Jill Stein/Rudolph Ware",
+    "cand:Kamala D Harris/Tim Walz",
+    "writein"
+   ]
+  },
+  {
+   "pages": [
+    7,
+    8,
+    9
+   ],
+   "cols": [
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Senator, 14th District": [
+  {
+   "pages": [
+    30
+   ],
+   "cols": [
+    "cand:Katy Brumbelow",
+    "cand:Kate Lieber",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Senator, 18th District": [
+  {
+   "pages": [
+    31
+   ],
+   "cols": [
+    "cand:Brian Pierson",
+    "cand:Winsvey E Campos",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 25th District": [
+  {
+   "pages": [
+    32
+   ],
+   "cols": [
+    "cand:Ben Bowman",
+    "cand:Bob Niemeyer",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 26th District": [
+  {
+   "pages": [
+    33
+   ],
+   "cols": [
+    "cand:Courtney Neron",
+    "cand:Jason E Fields",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 27th District": [
+  {
+   "pages": [
+    34
+   ],
+   "cols": [
+    "cand:Victoria Kingsbury",
+    "cand:Ken Helm",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 28th District": [
+  {
+   "pages": [
+    35
+   ],
+   "cols": [
+    "cand:Dacia Grayber",
+    "cand:Charles (Chick) Mengis",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 29th District": [
+  {
+   "pages": [
+    36
+   ],
+   "cols": [
+    "cand:Susan McLain",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 30th District": [
+  {
+   "pages": [
+    37
+   ],
+   "cols": [
+    "cand:Nathan Sosa",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 31st District": [
+  {
+   "pages": [
+    38
+   ],
+   "cols": [
+    "cand:Jordan Gutierrez",
+    "cand:Darcey Edwards",
+    "cand:Robert Miller",
+    "writein"
+   ]
+  },
+  {
+   "pages": [
+    39
+   ],
+   "cols": [
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 33rd District": [
+  {
+   "pages": [
+    40
+   ],
+   "cols": [
+    "cand:Stan Baumhofer",
+    "cand:Thomas J Busse",
+    "cand:Shannon Jones Isadore",
+    "writein"
+   ]
+  },
+  {
+   "pages": [
+    41
+   ],
+   "cols": [
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 34th District": [
+  {
+   "pages": [
+    42
+   ],
+   "cols": [
+    "cand:John Verbeek",
+    "cand:Lisa Reynolds",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 35th District": [
+  {
+   "pages": [
+    43
+   ],
+   "cols": [
+    "cand:Dan Martin",
+    "cand:Farrah Chaichi",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 36th District": [
+  {
+   "pages": [
+    44
+   ],
+   "cols": [
+    "cand:Hai Pham",
+    "cand:Shawn Chummar",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 37th District": [
+  {
+   "pages": [
+    45
+   ],
+   "cols": [
+    "cand:Jules Walters",
+    "cand:Ben Edtl",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "_fixes": {
+  "President": {
+   "363@4": [
+    2946,
+    3775,
+    2910,
+    698,
+    31,
+    2097,
+    19
+   ],
+   "375@2": [
+    279,
+    324,
+    272,
+    3,
+    0,
+    0,
+    0
+   ],
+   "375@8": [
+    279,
+    324,
+    272,
+    1,
+    6
+   ],
+   "422@2": [
+    17,
+    21,
+    17,
+    0,
+    0,
+    0,
+    0
+   ],
+   "425@2": [
+    683,
+    821,
+    674,
+    7,
+    0,
+    1,
+    0
+   ],
+   "443@3": [
+    11,
+    11,
+    11,
+    0,
+    0,
+    0,
+    0
+   ],
+   "445@9": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "455@6": [
+    1491,
+    2157,
+    1474,
+    346,
+    10,
+    1074,
+    9
+   ],
+   "456@3": [
+    7,
+    8,
+    7,
+    0,
+    0,
+    0,
+    0
+   ],
+   "456@6": [
+    7,
+    8,
+    7,
+    0,
+    0,
+    7,
+    0
+   ],
+   "374@5": [
+    9,
+    11,
+    9,
+    4,
+    0,
+    5,
+    0
+   ],
+   "317@7": [
+    170,
+    290,
+    167,
+    0,
+    3
+   ],
+   "327@7": [
+    5329,
+    7091,
+    5283,
+    4,
+    42
+   ]
+  },
+  "State Senator, 18th District": {
+   "456@31": [
+    7,
+    8,
+    7,
+    0,
+    7,
+    0,
+    0,
+    0
+   ]
+  },
+  "State Representative, 25th District": {
+   "409@32": [
+    4511,
+    5979,
+    4185,
+    2859,
+    1319,
+    7,
+    1,
+    325
+   ]
+  },
+  "State Representative, 28th District": {
+   "401@35": [
+    1860,
+    2186,
+    1740,
+    1378,
+    361,
+    1,
+    0,
+    120
+   ]
+  },
+  "State Representative, 29th District": {
+   "445@36": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  "State Representative, 30th District": {
+   "329@37": [
+    7692,
+    10184,
+    5341,
+    5157,
+    184,
+    0,
+    2351
+   ]
+  },
+  "State Representative, 31st District": {
+   "443@38": [
+    11,
+    11,
+    11,
+    0,
+    11,
+    0,
+    0
+   ]
+  },
+  "State Representative, 36th District": {
+   "456@44": [
+    7,
+    8,
+    7,
+    7,
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ },
+ "_pages": "data/ocr/washington/wash-%03d.txt",
+ "_rename": {
+  "3414@36": "341"
+ }
+}

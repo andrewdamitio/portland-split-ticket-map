@@ -1,0 +1,400 @@
+county,precinct_label,contest,type,choice,votes
+Lake,1 SILVER LAKE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Lake,1 SILVER LAKE,President,candidate,Cornel West,0
+Lake,1 SILVER LAKE,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,1 SILVER LAKE,President,candidate,Randall Terry,0
+Lake,1 SILVER LAKE,President,candidate,Donald J Trump / JD Vance,109
+Lake,1 SILVER LAKE,President,candidate,Jill Stein / Rudolph Ware,1
+Lake,1 SILVER LAKE,President,candidate,Kamala D Harris / Tim Walz,28
+Lake,1 SILVER LAKE,President,writein,,0
+Lake,1 SILVER LAKE,President,overvotes,,0
+Lake,1 SILVER LAKE,President,undervotes,,5
+Lake,1 SILVER LAKE,President,total_votes,,140
+Lake,2 SUMMER LAKE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Lake,2 SUMMER LAKE,President,candidate,Cornel West,0
+Lake,2 SUMMER LAKE,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,2 SUMMER LAKE,President,candidate,Randall Terry,0
+Lake,2 SUMMER LAKE,President,candidate,Donald J Trump / JD Vance,61
+Lake,2 SUMMER LAKE,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,2 SUMMER LAKE,President,candidate,Kamala D Harris / Tim Walz,26
+Lake,2 SUMMER LAKE,President,writein,,0
+Lake,2 SUMMER LAKE,President,overvotes,,1
+Lake,2 SUMMER LAKE,President,undervotes,,1
+Lake,2 SUMMER LAKE,President,total_votes,,87
+Lake,3 PAISLEY,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,3
+Lake,3 PAISLEY,President,candidate,Cornel West,0
+Lake,3 PAISLEY,President,candidate,Chase Oliver / Mike ter Maat,1
+Lake,3 PAISLEY,President,candidate,Randall Terry,0
+Lake,3 PAISLEY,President,candidate,Donald J Trump / JD Vance,156
+Lake,3 PAISLEY,President,candidate,Jill Stein / Rudolph Ware,2
+Lake,3 PAISLEY,President,candidate,Kamala D Harris / Tim Walz,33
+Lake,3 PAISLEY,President,writein,,0
+Lake,3 PAISLEY,President,overvotes,,0
+Lake,3 PAISLEY,President,undervotes,,6
+Lake,3 PAISLEY,President,total_votes,,195
+Lake,4 CROOKED CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Lake,4 CROOKED CREEK,President,candidate,Cornel West,0
+Lake,4 CROOKED CREEK,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,4 CROOKED CREEK,President,candidate,Randall Terry,0
+Lake,4 CROOKED CREEK,President,candidate,Donald J Trump / JD Vance,247
+Lake,4 CROOKED CREEK,President,candidate,Jill Stein / Rudolph Ware,3
+Lake,4 CROOKED CREEK,President,candidate,Kamala D Harris / Tim Walz,25
+Lake,4 CROOKED CREEK,President,writein,,2
+Lake,4 CROOKED CREEK,President,overvotes,,0
+Lake,4 CROOKED CREEK,President,undervotes,,3
+Lake,4 CROOKED CREEK,President,total_votes,,279
+Lake,5 NORTH WARNER,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Lake,5 NORTH WARNER,President,candidate,Cornel West,0
+Lake,5 NORTH WARNER,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,5 NORTH WARNER,President,candidate,Randall Terry,0
+Lake,5 NORTH WARNER,President,candidate,Donald J Trump / JD Vance,56
+Lake,5 NORTH WARNER,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,5 NORTH WARNER,President,candidate,Kamala D Harris / Tim Walz,5
+Lake,5 NORTH WARNER,President,writein,,0
+Lake,5 NORTH WARNER,President,overvotes,,0
+Lake,5 NORTH WARNER,President,undervotes,,0
+Lake,5 NORTH WARNER,President,total_votes,,61
+Lake,6 SOUTH WARNER,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Lake,6 SOUTH WARNER,President,candidate,Cornel West,0
+Lake,6 SOUTH WARNER,President,candidate,Chase Oliver / Mike ter Maat,1
+Lake,6 SOUTH WARNER,President,candidate,Randall Terry,0
+Lake,6 SOUTH WARNER,President,candidate,Donald J Trump / JD Vance,62
+Lake,6 SOUTH WARNER,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,6 SOUTH WARNER,President,candidate,Kamala D Harris / Tim Walz,3
+Lake,6 SOUTH WARNER,President,writein,,0
+Lake,6 SOUTH WARNER,President,overvotes,,0
+Lake,6 SOUTH WARNER,President,undervotes,,0
+Lake,6 SOUTH WARNER,President,total_votes,,66
+Lake,7 NORTH LAKEVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Lake,7 NORTH LAKEVIEW,President,candidate,Cornel West,0
+Lake,7 NORTH LAKEVIEW,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,7 NORTH LAKEVIEW,President,candidate,Randall Terry,0
+Lake,7 NORTH LAKEVIEW,President,candidate,Donald J Trump / JD Vance,169
+Lake,7 NORTH LAKEVIEW,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,7 NORTH LAKEVIEW,President,candidate,Kamala D Harris / Tim Walz,35
+Lake,7 NORTH LAKEVIEW,President,writein,,0
+Lake,7 NORTH LAKEVIEW,President,overvotes,,0
+Lake,7 NORTH LAKEVIEW,President,undervotes,,1
+Lake,7 NORTH LAKEVIEW,President,total_votes,,211
+Lake,8 SOUTH LAKEVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Lake,8 SOUTH LAKEVIEW,President,candidate,Cornel West,0
+Lake,8 SOUTH LAKEVIEW,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,8 SOUTH LAKEVIEW,President,candidate,Randall Terry,1
+Lake,8 SOUTH LAKEVIEW,President,candidate,Donald J Trump / JD Vance,168
+Lake,8 SOUTH LAKEVIEW,President,candidate,Jill Stein / Rudolph Ware,1
+Lake,8 SOUTH LAKEVIEW,President,candidate,Kamala D Harris / Tim Walz,54
+Lake,8 SOUTH LAKEVIEW,President,writein,,1
+Lake,8 SOUTH LAKEVIEW,President,overvotes,,0
+Lake,8 SOUTH LAKEVIEW,President,undervotes,,1
+Lake,8 SOUTH LAKEVIEW,President,total_votes,,230
+Lake,9 FREMONT,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Lake,9 FREMONT,President,candidate,Cornel West,0
+Lake,9 FREMONT,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,9 FREMONT,President,candidate,Randall Terry,0
+Lake,9 FREMONT,President,candidate,Donald J Trump / JD Vance,162
+Lake,9 FREMONT,President,candidate,Jill Stein / Rudolph Ware,1
+Lake,9 FREMONT,President,candidate,Kamala D Harris / Tim Walz,55
+Lake,9 FREMONT,President,writein,,2
+Lake,9 FREMONT,President,overvotes,,0
+Lake,9 FREMONT,President,undervotes,,2
+Lake,9 FREMONT,President,total_votes,,224
+Lake,10 GOOSE LAKE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Lake,10 GOOSE LAKE,President,candidate,Cornel West,0
+Lake,10 GOOSE LAKE,President,candidate,Chase Oliver / Mike ter Maat,1
+Lake,10 GOOSE LAKE,President,candidate,Randall Terry,0
+Lake,10 GOOSE LAKE,President,candidate,Donald J Trump / JD Vance,215
+Lake,10 GOOSE LAKE,President,candidate,Jill Stein / Rudolph Ware,1
+Lake,10 GOOSE LAKE,President,candidate,Kamala D Harris / Tim Walz,20
+Lake,10 GOOSE LAKE,President,writein,,0
+Lake,10 GOOSE LAKE,President,overvotes,,0
+Lake,10 GOOSE LAKE,President,undervotes,,2
+Lake,10 GOOSE LAKE,President,total_votes,,238
+Lake,11 COGSWELL CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Lake,11 COGSWELL CREEK,President,candidate,Cornel West,0
+Lake,11 COGSWELL CREEK,President,candidate,Chase Oliver / Mike ter Maat,1
+Lake,11 COGSWELL CREEK,President,candidate,Randall Terry,0
+Lake,11 COGSWELL CREEK,President,candidate,Donald J Trump / JD Vance,216
+Lake,11 COGSWELL CREEK,President,candidate,Jill Stein / Rudolph Ware,1
+Lake,11 COGSWELL CREEK,President,candidate,Kamala D Harris / Tim Walz,37
+Lake,11 COGSWELL CREEK,President,writein,,0
+Lake,11 COGSWELL CREEK,President,overvotes,,1
+Lake,11 COGSWELL CREEK,President,undervotes,,2
+Lake,11 COGSWELL CREEK,President,total_votes,,259
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Cornel West,0
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Chase Oliver / Mike ter Maat,1
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Randall Terry,0
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Donald J Trump / JD Vance,461
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Jill Stein / Rudolph Ware,1
+Lake,12 THOMPSON CREEK WESTSIDE,President,candidate,Kamala D Harris / Tim Walz,65
+Lake,12 THOMPSON CREEK WESTSIDE,President,writein,,2
+Lake,12 THOMPSON CREEK WESTSIDE,President,overvotes,,1
+Lake,12 THOMPSON CREEK WESTSIDE,President,undervotes,,8
+Lake,12 THOMPSON CREEK WESTSIDE,President,total_votes,,536
+Lake,13 CHRISTMAS VALLEY,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,14
+Lake,13 CHRISTMAS VALLEY,President,candidate,Cornel West,0
+Lake,13 CHRISTMAS VALLEY,President,candidate,Chase Oliver / Mike ter Maat,3
+Lake,13 CHRISTMAS VALLEY,President,candidate,Randall Terry,1
+Lake,13 CHRISTMAS VALLEY,President,candidate,Donald J Trump / JD Vance,711
+Lake,13 CHRISTMAS VALLEY,President,candidate,Jill Stein / Rudolph Ware,3
+Lake,13 CHRISTMAS VALLEY,President,candidate,Kamala D Harris / Tim Walz,157
+Lake,13 CHRISTMAS VALLEY,President,writein,,3
+Lake,13 CHRISTMAS VALLEY,President,overvotes,,2
+Lake,13 CHRISTMAS VALLEY,President,undervotes,,8
+Lake,13 CHRISTMAS VALLEY,President,total_votes,,892
+Lake,14 FORT ROCK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Lake,14 FORT ROCK,President,candidate,Cornel West,0
+Lake,14 FORT ROCK,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,14 FORT ROCK,President,candidate,Randall Terry,0
+Lake,14 FORT ROCK,President,candidate,Donald J Trump / JD Vance,124
+Lake,14 FORT ROCK,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,14 FORT ROCK,President,candidate,Kamala D Harris / Tim Walz,20
+Lake,14 FORT ROCK,President,writein,,1
+Lake,14 FORT ROCK,President,overvotes,,0
+Lake,14 FORT ROCK,President,undervotes,,2
+Lake,14 FORT ROCK,President,total_votes,,146
+Lake,15 WEST LAKEVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Lake,15 WEST LAKEVIEW,President,candidate,Cornel West,0
+Lake,15 WEST LAKEVIEW,President,candidate,Chase Oliver / Mike ter Maat,1
+Lake,15 WEST LAKEVIEW,President,candidate,Randall Terry,1
+Lake,15 WEST LAKEVIEW,President,candidate,Donald J Trump / JD Vance,92
+Lake,15 WEST LAKEVIEW,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,15 WEST LAKEVIEW,President,candidate,Kamala D Harris / Tim Walz,25
+Lake,15 WEST LAKEVIEW,President,writein,,0
+Lake,15 WEST LAKEVIEW,President,overvotes,,1
+Lake,15 WEST LAKEVIEW,President,undervotes,,3
+Lake,15 WEST LAKEVIEW,President,total_votes,,123
+Lake,16 NEW PINE CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Lake,16 NEW PINE CREEK,President,candidate,Cornel West,0
+Lake,16 NEW PINE CREEK,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,16 NEW PINE CREEK,President,candidate,Randall Terry,0
+Lake,16 NEW PINE CREEK,President,candidate,Donald J Trump / JD Vance,60
+Lake,16 NEW PINE CREEK,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,16 NEW PINE CREEK,President,candidate,Kamala D Harris / Tim Walz,14
+Lake,16 NEW PINE CREEK,President,writein,,0
+Lake,16 NEW PINE CREEK,President,overvotes,,0
+Lake,16 NEW PINE CREEK,President,undervotes,,0
+Lake,16 NEW PINE CREEK,President,total_votes,,74
+Lake,18 VALLEY FALLS,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Lake,18 VALLEY FALLS,President,candidate,Cornel West,0
+Lake,18 VALLEY FALLS,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,18 VALLEY FALLS,President,candidate,Randall Terry,0
+Lake,18 VALLEY FALLS,President,candidate,Donald J Trump / JD Vance,35
+Lake,18 VALLEY FALLS,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,18 VALLEY FALLS,President,candidate,Kamala D Harris / Tim Walz,2
+Lake,18 VALLEY FALLS,President,writein,,0
+Lake,18 VALLEY FALLS,President,overvotes,,0
+Lake,18 VALLEY FALLS,President,undervotes,,0
+Lake,18 VALLEY FALLS,President,total_votes,,37
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Cornel West,0
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Chase Oliver / Mike ter Maat,0
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Randall Terry,0
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Donald J Trump / JD Vance,153
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,20 NORTH CENTRAL LAKEVIEW,President,candidate,Kamala D Harris / Tim Walz,29
+Lake,20 NORTH CENTRAL LAKEVIEW,President,writein,,2
+Lake,20 NORTH CENTRAL LAKEVIEW,President,overvotes,,0
+Lake,20 NORTH CENTRAL LAKEVIEW,President,undervotes,,1
+Lake,20 NORTH CENTRAL LAKEVIEW,President,total_votes,,191
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Cornel West,0
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Chase Oliver / Mike ter Maat,2
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Randall Terry,1
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Donald J Trump / JD Vance,164
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Jill Stein / Rudolph Ware,0
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,candidate,Kamala D Harris / Tim Walz,48
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,writein,,1
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,overvotes,,0
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,undervotes,,3
+Lake,21 SOUTH CENTRAL LAKEVIEW,President,total_votes,,224
+Lake,1 SILVER LAKE,"State Senator, 30th District",candidate,Mike McLane,105
+Lake,1 SILVER LAKE,"State Senator, 30th District",writein,,1
+Lake,1 SILVER LAKE,"State Senator, 30th District",overvotes,,0
+Lake,1 SILVER LAKE,"State Senator, 30th District",undervotes,,39
+Lake,1 SILVER LAKE,"State Senator, 30th District",total_votes,,106
+Lake,2 SUMMER LAKE,"State Senator, 30th District",candidate,Mike McLane,62
+Lake,2 SUMMER LAKE,"State Senator, 30th District",writein,,5
+Lake,2 SUMMER LAKE,"State Senator, 30th District",overvotes,,0
+Lake,2 SUMMER LAKE,"State Senator, 30th District",undervotes,,22
+Lake,2 SUMMER LAKE,"State Senator, 30th District",total_votes,,67
+Lake,3 PAISLEY,"State Senator, 30th District",candidate,Mike McLane,162
+Lake,3 PAISLEY,"State Senator, 30th District",writein,,0
+Lake,3 PAISLEY,"State Senator, 30th District",overvotes,,0
+Lake,3 PAISLEY,"State Senator, 30th District",undervotes,,39
+Lake,3 PAISLEY,"State Senator, 30th District",total_votes,,162
+Lake,4 CROOKED CREEK,"State Senator, 30th District",candidate,Mike McLane,220
+Lake,4 CROOKED CREEK,"State Senator, 30th District",writein,,3
+Lake,4 CROOKED CREEK,"State Senator, 30th District",overvotes,,0
+Lake,4 CROOKED CREEK,"State Senator, 30th District",undervotes,,59
+Lake,4 CROOKED CREEK,"State Senator, 30th District",total_votes,,223
+Lake,5 NORTH WARNER,"State Senator, 30th District",candidate,Mike McLane,48
+Lake,5 NORTH WARNER,"State Senator, 30th District",writein,,0
+Lake,5 NORTH WARNER,"State Senator, 30th District",overvotes,,0
+Lake,5 NORTH WARNER,"State Senator, 30th District",undervotes,,13
+Lake,5 NORTH WARNER,"State Senator, 30th District",total_votes,,48
+Lake,6 SOUTH WARNER,"State Senator, 30th District",candidate,Mike McLane,59
+Lake,6 SOUTH WARNER,"State Senator, 30th District",writein,,0
+Lake,6 SOUTH WARNER,"State Senator, 30th District",overvotes,,0
+Lake,6 SOUTH WARNER,"State Senator, 30th District",undervotes,,7
+Lake,6 SOUTH WARNER,"State Senator, 30th District",total_votes,,59
+Lake,7 NORTH LAKEVIEW,"State Senator, 30th District",candidate,Mike McLane,168
+Lake,7 NORTH LAKEVIEW,"State Senator, 30th District",writein,,3
+Lake,7 NORTH LAKEVIEW,"State Senator, 30th District",overvotes,,0
+Lake,7 NORTH LAKEVIEW,"State Senator, 30th District",undervotes,,41
+Lake,7 NORTH LAKEVIEW,"State Senator, 30th District",total_votes,,171
+Lake,8 SOUTH LAKEVIEW,"State Senator, 30th District",candidate,Mike McLane,164
+Lake,8 SOUTH LAKEVIEW,"State Senator, 30th District",writein,,0
+Lake,8 SOUTH LAKEVIEW,"State Senator, 30th District",overvotes,,0
+Lake,8 SOUTH LAKEVIEW,"State Senator, 30th District",undervotes,,67
+Lake,8 SOUTH LAKEVIEW,"State Senator, 30th District",total_votes,,164
+Lake,9 FREMONT,"State Senator, 30th District",candidate,Mike McLane,175
+Lake,9 FREMONT,"State Senator, 30th District",writein,,1
+Lake,9 FREMONT,"State Senator, 30th District",overvotes,,0
+Lake,9 FREMONT,"State Senator, 30th District",undervotes,,50
+Lake,9 FREMONT,"State Senator, 30th District",total_votes,,176
+Lake,10 GOOSE LAKE,"State Senator, 30th District",candidate,Mike McLane,182
+Lake,10 GOOSE LAKE,"State Senator, 30th District",writein,,1
+Lake,10 GOOSE LAKE,"State Senator, 30th District",overvotes,,0
+Lake,10 GOOSE LAKE,"State Senator, 30th District",undervotes,,57
+Lake,10 GOOSE LAKE,"State Senator, 30th District",total_votes,,183
+Lake,11 COGSWELL CREEK,"State Senator, 30th District",candidate,Mike McLane,217
+Lake,11 COGSWELL CREEK,"State Senator, 30th District",writein,,2
+Lake,11 COGSWELL CREEK,"State Senator, 30th District",overvotes,,0
+Lake,11 COGSWELL CREEK,"State Senator, 30th District",undervotes,,43
+Lake,11 COGSWELL CREEK,"State Senator, 30th District",total_votes,,219
+Lake,12 THOMPSON CREEK WESTSIDE,"State Senator, 30th District",candidate,Mike McLane,422
+Lake,12 THOMPSON CREEK WESTSIDE,"State Senator, 30th District",writein,,2
+Lake,12 THOMPSON CREEK WESTSIDE,"State Senator, 30th District",overvotes,,0
+Lake,12 THOMPSON CREEK WESTSIDE,"State Senator, 30th District",undervotes,,121
+Lake,12 THOMPSON CREEK WESTSIDE,"State Senator, 30th District",total_votes,,424
+Lake,13 CHRISTMAS VALLEY,"State Senator, 30th District",candidate,Mike McLane,695
+Lake,13 CHRISTMAS VALLEY,"State Senator, 30th District",writein,,13
+Lake,13 CHRISTMAS VALLEY,"State Senator, 30th District",overvotes,,0
+Lake,13 CHRISTMAS VALLEY,"State Senator, 30th District",undervotes,,194
+Lake,13 CHRISTMAS VALLEY,"State Senator, 30th District",total_votes,,708
+Lake,14 FORT ROCK,"State Senator, 30th District",candidate,Mike McLane,104
+Lake,14 FORT ROCK,"State Senator, 30th District",writein,,0
+Lake,14 FORT ROCK,"State Senator, 30th District",overvotes,,0
+Lake,14 FORT ROCK,"State Senator, 30th District",undervotes,,44
+Lake,14 FORT ROCK,"State Senator, 30th District",total_votes,,104
+Lake,15 WEST LAKEVIEW,"State Senator, 30th District",candidate,Mike McLane,95
+Lake,15 WEST LAKEVIEW,"State Senator, 30th District",writein,,0
+Lake,15 WEST LAKEVIEW,"State Senator, 30th District",overvotes,,0
+Lake,15 WEST LAKEVIEW,"State Senator, 30th District",undervotes,,32
+Lake,15 WEST LAKEVIEW,"State Senator, 30th District",total_votes,,95
+Lake,16 NEW PINE CREEK,"State Senator, 30th District",candidate,Mike McLane,56
+Lake,16 NEW PINE CREEK,"State Senator, 30th District",writein,,0
+Lake,16 NEW PINE CREEK,"State Senator, 30th District",overvotes,,0
+Lake,16 NEW PINE CREEK,"State Senator, 30th District",undervotes,,18
+Lake,16 NEW PINE CREEK,"State Senator, 30th District",total_votes,,56
+Lake,18 VALLEY FALLS,"State Senator, 30th District",candidate,Mike McLane,33
+Lake,18 VALLEY FALLS,"State Senator, 30th District",writein,,0
+Lake,18 VALLEY FALLS,"State Senator, 30th District",overvotes,,0
+Lake,18 VALLEY FALLS,"State Senator, 30th District",undervotes,,4
+Lake,18 VALLEY FALLS,"State Senator, 30th District",total_votes,,33
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Senator, 30th District",candidate,Mike McLane,160
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Senator, 30th District",writein,,4
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Senator, 30th District",overvotes,,0
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Senator, 30th District",undervotes,,28
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Senator, 30th District",total_votes,,164
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Senator, 30th District",candidate,Mike McLane,177
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Senator, 30th District",writein,,2
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Senator, 30th District",overvotes,,0
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Senator, 30th District",undervotes,,48
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Senator, 30th District",total_votes,,179
+Lake,1 SILVER LAKE,"State Representative, 60th District",candidate,Mark Owens,102
+Lake,1 SILVER LAKE,"State Representative, 60th District",writein,,1
+Lake,1 SILVER LAKE,"State Representative, 60th District",overvotes,,0
+Lake,1 SILVER LAKE,"State Representative, 60th District",undervotes,,42
+Lake,1 SILVER LAKE,"State Representative, 60th District",total_votes,,103
+Lake,2 SUMMER LAKE,"State Representative, 60th District",candidate,Mark Owens,69
+Lake,2 SUMMER LAKE,"State Representative, 60th District",writein,,3
+Lake,2 SUMMER LAKE,"State Representative, 60th District",overvotes,,0
+Lake,2 SUMMER LAKE,"State Representative, 60th District",undervotes,,17
+Lake,2 SUMMER LAKE,"State Representative, 60th District",total_votes,,72
+Lake,3 PAISLEY,"State Representative, 60th District",candidate,Mark Owens,159
+Lake,3 PAISLEY,"State Representative, 60th District",writein,,0
+Lake,3 PAISLEY,"State Representative, 60th District",overvotes,,0
+Lake,3 PAISLEY,"State Representative, 60th District",undervotes,,42
+Lake,3 PAISLEY,"State Representative, 60th District",total_votes,,159
+Lake,4 CROOKED CREEK,"State Representative, 60th District",candidate,Mark Owens,205
+Lake,4 CROOKED CREEK,"State Representative, 60th District",writein,,5
+Lake,4 CROOKED CREEK,"State Representative, 60th District",overvotes,,0
+Lake,4 CROOKED CREEK,"State Representative, 60th District",undervotes,,72
+Lake,4 CROOKED CREEK,"State Representative, 60th District",total_votes,,210
+Lake,5 NORTH WARNER,"State Representative, 60th District",candidate,Mark Owens,48
+Lake,5 NORTH WARNER,"State Representative, 60th District",writein,,0
+Lake,5 NORTH WARNER,"State Representative, 60th District",overvotes,,0
+Lake,5 NORTH WARNER,"State Representative, 60th District",undervotes,,13
+Lake,5 NORTH WARNER,"State Representative, 60th District",total_votes,,48
+Lake,6 SOUTH WARNER,"State Representative, 60th District",candidate,Mark Owens,60
+Lake,6 SOUTH WARNER,"State Representative, 60th District",writein,,0
+Lake,6 SOUTH WARNER,"State Representative, 60th District",overvotes,,0
+Lake,6 SOUTH WARNER,"State Representative, 60th District",undervotes,,6
+Lake,6 SOUTH WARNER,"State Representative, 60th District",total_votes,,60
+Lake,7 NORTH LAKEVIEW,"State Representative, 60th District",candidate,Mark Owens,160
+Lake,7 NORTH LAKEVIEW,"State Representative, 60th District",writein,,4
+Lake,7 NORTH LAKEVIEW,"State Representative, 60th District",overvotes,,0
+Lake,7 NORTH LAKEVIEW,"State Representative, 60th District",undervotes,,48
+Lake,7 NORTH LAKEVIEW,"State Representative, 60th District",total_votes,,164
+Lake,8 SOUTH LAKEVIEW,"State Representative, 60th District",candidate,Mark Owens,167
+Lake,8 SOUTH LAKEVIEW,"State Representative, 60th District",writein,,0
+Lake,8 SOUTH LAKEVIEW,"State Representative, 60th District",overvotes,,0
+Lake,8 SOUTH LAKEVIEW,"State Representative, 60th District",undervotes,,64
+Lake,8 SOUTH LAKEVIEW,"State Representative, 60th District",total_votes,,167
+Lake,9 FREMONT,"State Representative, 60th District",candidate,Mark Owens,166
+Lake,9 FREMONT,"State Representative, 60th District",writein,,3
+Lake,9 FREMONT,"State Representative, 60th District",overvotes,,0
+Lake,9 FREMONT,"State Representative, 60th District",undervotes,,57
+Lake,9 FREMONT,"State Representative, 60th District",total_votes,,169
+Lake,10 GOOSE LAKE,"State Representative, 60th District",candidate,Mark Owens,178
+Lake,10 GOOSE LAKE,"State Representative, 60th District",writein,,1
+Lake,10 GOOSE LAKE,"State Representative, 60th District",overvotes,,0
+Lake,10 GOOSE LAKE,"State Representative, 60th District",undervotes,,61
+Lake,10 GOOSE LAKE,"State Representative, 60th District",total_votes,,179
+Lake,11 COGSWELL CREEK,"State Representative, 60th District",candidate,Mark Owens,216
+Lake,11 COGSWELL CREEK,"State Representative, 60th District",writein,,3
+Lake,11 COGSWELL CREEK,"State Representative, 60th District",overvotes,,0
+Lake,11 COGSWELL CREEK,"State Representative, 60th District",undervotes,,43
+Lake,11 COGSWELL CREEK,"State Representative, 60th District",total_votes,,219
+Lake,12 THOMPSON CREEK WESTSIDE,"State Representative, 60th District",candidate,Mark Owens,406
+Lake,12 THOMPSON CREEK WESTSIDE,"State Representative, 60th District",writein,,2
+Lake,12 THOMPSON CREEK WESTSIDE,"State Representative, 60th District",overvotes,,0
+Lake,12 THOMPSON CREEK WESTSIDE,"State Representative, 60th District",undervotes,,137
+Lake,12 THOMPSON CREEK WESTSIDE,"State Representative, 60th District",total_votes,,408
+Lake,13 CHRISTMAS VALLEY,"State Representative, 60th District",candidate,Mark Owens,685
+Lake,13 CHRISTMAS VALLEY,"State Representative, 60th District",writein,,8
+Lake,13 CHRISTMAS VALLEY,"State Representative, 60th District",overvotes,,0
+Lake,13 CHRISTMAS VALLEY,"State Representative, 60th District",undervotes,,209
+Lake,13 CHRISTMAS VALLEY,"State Representative, 60th District",total_votes,,693
+Lake,14 FORT ROCK,"State Representative, 60th District",candidate,Mark Owens,111
+Lake,14 FORT ROCK,"State Representative, 60th District",writein,,0
+Lake,14 FORT ROCK,"State Representative, 60th District",overvotes,,0
+Lake,14 FORT ROCK,"State Representative, 60th District",undervotes,,37
+Lake,14 FORT ROCK,"State Representative, 60th District",total_votes,,111
+Lake,15 WEST LAKEVIEW,"State Representative, 60th District",candidate,Mark Owens,97
+Lake,15 WEST LAKEVIEW,"State Representative, 60th District",writein,,0
+Lake,15 WEST LAKEVIEW,"State Representative, 60th District",overvotes,,0
+Lake,15 WEST LAKEVIEW,"State Representative, 60th District",undervotes,,30
+Lake,15 WEST LAKEVIEW,"State Representative, 60th District",total_votes,,97
+Lake,16 NEW PINE CREEK,"State Representative, 60th District",candidate,Mark Owens,54
+Lake,16 NEW PINE CREEK,"State Representative, 60th District",writein,,0
+Lake,16 NEW PINE CREEK,"State Representative, 60th District",overvotes,,0
+Lake,16 NEW PINE CREEK,"State Representative, 60th District",undervotes,,20
+Lake,16 NEW PINE CREEK,"State Representative, 60th District",total_votes,,54
+Lake,18 VALLEY FALLS,"State Representative, 60th District",candidate,Mark Owens,33
+Lake,18 VALLEY FALLS,"State Representative, 60th District",writein,,0
+Lake,18 VALLEY FALLS,"State Representative, 60th District",overvotes,,0
+Lake,18 VALLEY FALLS,"State Representative, 60th District",undervotes,,4
+Lake,18 VALLEY FALLS,"State Representative, 60th District",total_votes,,33
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Representative, 60th District",candidate,Mark Owens,156
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Representative, 60th District",writein,,5
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Representative, 60th District",overvotes,,0
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Representative, 60th District",undervotes,,31
+Lake,20 NORTH CENTRAL LAKEVIEW,"State Representative, 60th District",total_votes,,161
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Representative, 60th District",candidate,Mark Owens,176
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Representative, 60th District",writein,,4
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Representative, 60th District",overvotes,,0
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Representative, 60th District",undervotes,,47
+Lake,21 SOUTH CENTRAL LAKEVIEW,"State Representative, 60th District",total_votes,,180

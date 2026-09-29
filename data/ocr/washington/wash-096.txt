@@ -1,0 +1,13 @@
+SSS. SSS SSS SSS SSS SSS 00 S058 52S SS
+Ballots Cast per Contest with Precincts                                         Page: 96 of 147
+Washington County November 5 2024 General Election                                      2024-12-02
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+City of Sherwood, Council Members (Vote for 3)
+Precinct              Ballots       Reg.          Total       Write-in              Write-in               Over      Under
+Cast      Voters         Votes                                                  Votes      Votes
+Precinct 424            4657       5850          8283          35 0.42%          22 0.27%           )       5688
+Precinct 435            4132       5143          7548          32 0.42%          16 0.21%           3       4845
+Precinct 442            2708       3394          4996          17 0.34%           9 0.18%           3       3125
+Total                  11497      14387         20827          84 0.40%          47 0.23%           6      13658

@@ -1,0 +1,30 @@
+TE EEE
+
+Ballots Cast per Contest with Precincts                                            Page: 33 of 147
+
+Washington County November 5 2024 General Election                                      2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+State Representative, 26th District (Vote for 1)
+
+Precinct                 Ballots         Reg.            Total Courtney Neron        Jason E Fields             Write-in                 Over       Under
+Cast    Voters       Votes                                                         Votes     Votes
+Precinct 397         2943      3691        2793      1599 57.25%      1190 42.61%         4 0.14%         0       150
+Precinct 411          1311      1764        1203       807 67.08%       395 32.83%         1 0.08%         4)       108
+Precinct 413         1455      1875        1364       869 63.71%       495 36.29%         0 0.00%         1        90
+Precinct 415          850      1188         795       505 63.52%       288 36.23%         2 0.25%         0        55
+Precinct 419         1789      2104        1670      1062 63.59%       607 36.35%         1 0.06%         rt)       119
+Precinct 424         4657      5850        4363      2302 52.76%      2059 47.19%         2 0.05%         )       294
+Precinct 425          683       821         653       264 40.43%       389 59.57%         0 0.00%         0        30
+Precinct 427         1301      1637        1212       757 62.46%       455 37.54%         0 0.00%         )        89
+Precinct 432          306       401         289       192 66.44%        97 33.56%         0 0.00%         0        17
+Precinct 435         4132      5143        3893      2195 56.38%      1692 43.46%         6 0.15%         0       239
+Precinct 442         2708      3394        2546      1376 54.05%      1167 45.84%         3 0.12%         0       162
+Precinct 447          285       344         273       106 38.83%       166 60.81%         1 0.37%         0        12
+Precinct 448          771       956         698       422 60.46%       276 39.54%         0 0.00%         0        73
+Precinct 453           11        13          11         5 45.45%         6 54.55%         0 0.00%         0         0
+Precinct 454           19        27          19         1 5.26%        18 94.74%         0 0.00%         0         0
+Total              23221     29208       21782     12462 57.21%      9300 42.70%        20 0.09%         1      1438

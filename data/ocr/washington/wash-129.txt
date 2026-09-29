@@ -1,0 +1,44 @@
+SSS SSS ——
+
+Ballots Cast per Contest with Precincts                                         Page: 129 of 147
+
+Washington County November 5 2024 General Election                                    2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+Question 117 (Vote for 1)
+
+Precinct      Ballots   Reg.    Total   Yes       No      Over  Under
+Cast  Voters    Votes                   Votes  Votes
+Precinct 428    1359   1967    1255   634 50.52%   621 49.48%    0   104
+Precinct 429     2699   3785    2519   1206 47.88%   1313 52.12%    0   180
+Precinct 430     2310   2835    2198   760 34.58%   1438 65.42%    1   1114
+Precinct 431     775   945    745   265 35.57%   480 64.43%    0    30
+Precinct 432     306   401    282   151 53.55%   131 46.45%    0   24
+Precinct 433     2171   2698    2045   919 44.94%   1126 55.06%    1   125
+Precinct 434     4401   5831    4142   2020 48.77%   2122 51.23%    1   258
+Precinct 435     4132   5143    3882   1668 42.97%   2214 57.03%    0   250
+Precinct 436     2242   2612    2092   809 38.67%   1283 61.33%    0   150
+Precinct 437     63    82     60    31 51.67%    29 48.33%    0    3
+Precinct 438     493   641    475   152 32.00%   323 68.00%    0    18
+Precinct 439     2375   3122    2206   1298 58.84%   908 41.16%    0   169
+Precinct 440    1461   2096    1379   751 54.46%   628 45.54%    0    82
+Precinct 441     70    87     67   46 68.66%    21 31.34%    0)    3
+Precinct 442     2708   3394    2519   1085 43.07%   1434 56.93%    0   189
+Precinct 443      11    11     11    3 27.27%    8 72.73%    0    0
+Precinct 444     121   150     115    45 39.13%    70 60.87%    0    6
+Precinct 445      1    1     1    1 100.00%    0 0.00%    0    )
+Precinct 446     107   197     100    46 46.00%    54 54.00%    0    7
+Precinct 447     285   344    273    90 32.97%   183 67.03%    0    12
+Precinct 448     771   956    717   316 44.07%   401 55.93%    0    54
+Precinct 449     293   346    284   100 35.21%   184 64.79%    0    9
+Precinct 450     170   208     164    44 26.83%   120 73.17%    0    6
+Precinct 451     1066   1450    1000   544 54.40%   456 45.60%    0    66
+Precinct 452     99   134     93   32 34.41%    61 65.59%    )    6
+Precinct 453    11   13    11   1 9.09%   10 90.91%   0   )
+Precinct 454     19   27     18    7 38.89%    11 61.11%    0)    1
+Precinct 455     1486   2157    1379   780 56.56%   599 43.44%    1   106
+Precinct 456     7    8     7    6 85.71%    1 14.29%    ft)    0
+Total       300013 400012   281527 139282 49.47% 142245 50.53%    35  18451

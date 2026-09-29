@@ -1,0 +1,94 @@
+[
+ {
+  "page": "data/manual/polk-p01-stats.txt",
+  "county": "Polk",
+  "left": {
+   "contest": "President",
+   "cols": [
+    "registered",
+    "ballots_cast"
+   ]
+  }
+ },
+ {
+  "page": "data/manual/polk-p02-pres.txt",
+  "county": "Polk",
+  "left": {
+   "contest": "President",
+   "cols": [
+    "cand:Robert F Kennedy Jr/Nicole Shanahan (WTP)",
+    "cand:Cornel West (PRO)",
+    "cand:Chase Oliver/Mike ter Maat (LBT)",
+    "cand:Randall Terry (CON)",
+    "cand:Donald J Trump/JD Vance (REP)",
+    "cand:Jill Stein/Rudolph Ware (PGP)",
+    "cand:Kamala D Harris/Tim Walz (DEM)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/manual/polk-p07-sd12.txt",
+  "county": "Polk",
+  "left": {
+   "contest": "State Senator, 12th District",
+   "cols": [
+    "cand:Andrea Kennedy-Smith (IND)",
+    "cand:Bruce W Starr (REP)",
+    "cand:Scott Hooper (DEM)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/manual/polk-p08-hd20.txt",
+  "county": "Polk",
+  "left": {
+   "contest": "State Representative, 20th District",
+   "cols": [
+    "cand:Paul Evans (DEM)",
+    "cand:Kevin S Chambers (REP)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/manual/polk-p08-hd23.txt",
+  "county": "Polk",
+  "left": {
+   "contest": "State Representative, 23rd District",
+   "cols": [
+    "cand:Kriss Wright (DEM)",
+    "cand:Anna M Scharf (REP)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ },
+ {
+  "page": "data/manual/polk-p09-hd24.txt",
+  "county": "Polk",
+  "left": {
+   "contest": "State Representative, 24th District",
+   "cols": [
+    "cand:Lucetta A Elmer (REP)",
+    "cand:Lisa Pool (DEM)",
+    "writein",
+    "total_votes",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ }
+]

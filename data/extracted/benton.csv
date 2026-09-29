@@ -1,0 +1,393 @@
+county,precinct_label,contest,type,choice,votes
+Benton,01,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),55
+Benton,01,President,candidate,Cornel West (PRO),11
+Benton,01,President,candidate,Chase Oliver/Mike ter Maat (LBT),16
+Benton,01,President,candidate,Randall Terry (CON),3
+Benton,01,President,candidate,Donald J Trump/JD Vance (REP),835
+Benton,01,President,candidate,Jill Stein/Rudolph Ware (PGP),53
+Benton,01,President,candidate,Kamala D Harris/Tim Walz (DEM),3307
+Benton,01,President,writein,,29
+Benton,01,President,total_votes,,4309
+Benton,01,President,overvotes,,0
+Benton,01,President,undervotes,,37
+Benton,02,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),19
+Benton,02,President,candidate,Cornel West (PRO),13
+Benton,02,President,candidate,Chase Oliver/Mike ter Maat (LBT),9
+Benton,02,President,candidate,Randall Terry (CON),0
+Benton,02,President,candidate,Donald J Trump/JD Vance (REP),265
+Benton,02,President,candidate,Jill Stein/Rudolph Ware (PGP),36
+Benton,02,President,candidate,Kamala D Harris/Tim Walz (DEM),1272
+Benton,02,President,writein,,19
+Benton,02,President,total_votes,,1633
+Benton,02,President,overvotes,,1
+Benton,02,President,undervotes,,17
+Benton,03,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),51
+Benton,03,President,candidate,Cornel West (PRO),10
+Benton,03,President,candidate,Chase Oliver/Mike ter Maat (LBT),9
+Benton,03,President,candidate,Randall Terry (CON),3
+Benton,03,President,candidate,Donald J Trump/JD Vance (REP),612
+Benton,03,President,candidate,Jill Stein/Rudolph Ware (PGP),57
+Benton,03,President,candidate,Kamala D Harris/Tim Walz (DEM),2535
+Benton,03,President,writein,,21
+Benton,03,President,total_votes,,3298
+Benton,03,President,overvotes,,0
+Benton,03,President,undervotes,,32
+Benton,04,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Benton,04,President,candidate,Cornel West (PRO),7
+Benton,04,President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Benton,04,President,candidate,Randall Terry (CON),1
+Benton,04,President,candidate,Donald J Trump/JD Vance (REP),128
+Benton,04,President,candidate,Jill Stein/Rudolph Ware (PGP),17
+Benton,04,President,candidate,Kamala D Harris/Tim Walz (DEM),833
+Benton,04,President,writein,,10
+Benton,04,President,total_votes,,1013
+Benton,04,President,overvotes,,0
+Benton,04,President,undervotes,,6
+Benton,05,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),24
+Benton,05,President,candidate,Cornel West (PRO),10
+Benton,05,President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Benton,05,President,candidate,Randall Terry (CON),1
+Benton,05,President,candidate,Donald J Trump/JD Vance (REP),243
+Benton,05,President,candidate,Jill Stein/Rudolph Ware (PGP),42
+Benton,05,President,candidate,Kamala D Harris/Tim Walz (DEM),1638
+Benton,05,President,writein,,20
+Benton,05,President,total_votes,,1983
+Benton,05,President,overvotes,,2
+Benton,05,President,undervotes,,13
+Benton,06,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),34
+Benton,06,President,candidate,Cornel West (PRO),18
+Benton,06,President,candidate,Chase Oliver/Mike ter Maat (LBT),17
+Benton,06,President,candidate,Randall Terry (CON),7
+Benton,06,President,candidate,Donald J Trump/JD Vance (REP),483
+Benton,06,President,candidate,Jill Stein/Rudolph Ware (PGP),62
+Benton,06,President,candidate,Kamala D Harris/Tim Walz (DEM),2406
+Benton,06,President,writein,,28
+Benton,06,President,total_votes,,3055
+Benton,06,President,overvotes,,2
+Benton,06,President,undervotes,,29
+Benton,07,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),60
+Benton,07,President,candidate,Cornel West (PRO),12
+Benton,07,President,candidate,Chase Oliver/Mike ter Maat (LBT),12
+Benton,07,President,candidate,Randall Terry (CON),5
+Benton,07,President,candidate,Donald J Trump/JD Vance (REP),422
+Benton,07,President,candidate,Jill Stein/Rudolph Ware (PGP),46
+Benton,07,President,candidate,Kamala D Harris/Tim Walz (DEM),3003
+Benton,07,President,writein,,27
+Benton,07,President,total_votes,,3587
+Benton,07,President,overvotes,,0
+Benton,07,President,undervotes,,36
+Benton,08,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),37
+Benton,08,President,candidate,Cornel West (PRO),14
+Benton,08,President,candidate,Chase Oliver/Mike ter Maat (LBT),16
+Benton,08,President,candidate,Randall Terry (CON),2
+Benton,08,President,candidate,Donald J Trump/JD Vance (REP),726
+Benton,08,President,candidate,Jill Stein/Rudolph Ware (PGP),47
+Benton,08,President,candidate,Kamala D Harris/Tim Walz (DEM),3752
+Benton,08,President,writein,,42
+Benton,08,President,total_votes,,4636
+Benton,08,President,overvotes,,2
+Benton,08,President,undervotes,,42
+Benton,09,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),47
+Benton,09,President,candidate,Cornel West (PRO),15
+Benton,09,President,candidate,Chase Oliver/Mike ter Maat (LBT),15
+Benton,09,President,candidate,Randall Terry (CON),3
+Benton,09,President,candidate,Donald J Trump/JD Vance (REP),764
+Benton,09,President,candidate,Jill Stein/Rudolph Ware (PGP),49
+Benton,09,President,candidate,Kamala D Harris/Tim Walz (DEM),2321
+Benton,09,President,writein,,20
+Benton,09,President,total_votes,,3234
+Benton,09,President,overvotes,,1
+Benton,09,President,undervotes,,28
+Benton,10,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),59
+Benton,10,President,candidate,Cornel West (PRO),13
+Benton,10,President,candidate,Chase Oliver/Mike ter Maat (LBT),17
+Benton,10,President,candidate,Randall Terry (CON),1
+Benton,10,President,candidate,Donald J Trump/JD Vance (REP),1114
+Benton,10,President,candidate,Jill Stein/Rudolph Ware (PGP),31
+Benton,10,President,candidate,Kamala D Harris/Tim Walz (DEM),1891
+Benton,10,President,writein,,29
+Benton,10,President,total_votes,,3155
+Benton,10,President,overvotes,,0
+Benton,10,President,undervotes,,23
+Benton,11,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),87
+Benton,11,President,candidate,Cornel West (PRO),4
+Benton,11,President,candidate,Chase Oliver/Mike ter Maat (LBT),36
+Benton,11,President,candidate,Randall Terry (CON),8
+Benton,11,President,candidate,Donald J Trump/JD Vance (REP),2606
+Benton,11,President,candidate,Jill Stein/Rudolph Ware (PGP),41
+Benton,11,President,candidate,Kamala D Harris/Tim Walz (DEM),3164
+Benton,11,President,writein,,40
+Benton,11,President,total_votes,,5986
+Benton,11,President,overvotes,,1
+Benton,11,President,undervotes,,81
+Benton,12,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Benton,12,President,candidate,Cornel West (PRO),3
+Benton,12,President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Benton,12,President,candidate,Randall Terry (CON),1
+Benton,12,President,candidate,Donald J Trump/JD Vance (REP),272
+Benton,12,President,candidate,Jill Stein/Rudolph Ware (PGP),8
+Benton,12,President,candidate,Kamala D Harris/Tim Walz (DEM),463
+Benton,12,President,writein,,2
+Benton,12,President,total_votes,,770
+Benton,12,President,overvotes,,0
+Benton,12,President,undervotes,,20
+Benton,13,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Benton,13,President,candidate,Cornel West (PRO),0
+Benton,13,President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Benton,13,President,candidate,Randall Terry (CON),0
+Benton,13,President,candidate,Donald J Trump/JD Vance (REP),208
+Benton,13,President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Benton,13,President,candidate,Kamala D Harris/Tim Walz (DEM),149
+Benton,13,President,writein,,1
+Benton,13,President,total_votes,,373
+Benton,13,President,overvotes,,0
+Benton,13,President,undervotes,,3
+Benton,14,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),6
+Benton,14,President,candidate,Cornel West (PRO),0
+Benton,14,President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Benton,14,President,candidate,Randall Terry (CON),0
+Benton,14,President,candidate,Donald J Trump/JD Vance (REP),365
+Benton,14,President,candidate,Jill Stein/Rudolph Ware (PGP),14
+Benton,14,President,candidate,Kamala D Harris/Tim Walz (DEM),224
+Benton,14,President,writein,,3
+Benton,14,President,total_votes,,617
+Benton,14,President,overvotes,,0
+Benton,14,President,undervotes,,6
+Benton,15,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),47
+Benton,15,President,candidate,Cornel West (PRO),8
+Benton,15,President,candidate,Chase Oliver/Mike ter Maat (LBT),14
+Benton,15,President,candidate,Randall Terry (CON),1
+Benton,15,President,candidate,Donald J Trump/JD Vance (REP),1284
+Benton,15,President,candidate,Jill Stein/Rudolph Ware (PGP),28
+Benton,15,President,candidate,Kamala D Harris/Tim Walz (DEM),1443
+Benton,15,President,writein,,20
+Benton,15,President,total_votes,,2845
+Benton,15,President,overvotes,,0
+Benton,15,President,undervotes,,22
+Benton,16,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),62
+Benton,16,President,candidate,Cornel West (PRO),16
+Benton,16,President,candidate,Chase Oliver/Mike ter Maat (LBT),26
+Benton,16,President,candidate,Randall Terry (CON),16
+Benton,16,President,candidate,Donald J Trump/JD Vance (REP),1569
+Benton,16,President,candidate,Jill Stein/Rudolph Ware (PGP),52
+Benton,16,President,candidate,Kamala D Harris/Tim Walz (DEM),3593
+Benton,16,President,writein,,49
+Benton,16,President,total_votes,,5383
+Benton,16,President,overvotes,,3
+Benton,16,President,undervotes,,57
+Benton,17,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),1
+Benton,17,President,candidate,Cornel West (PRO),2
+Benton,17,President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Benton,17,President,candidate,Randall Terry (CON),0
+Benton,17,President,candidate,Donald J Trump/JD Vance (REP),13
+Benton,17,President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Benton,17,President,candidate,Kamala D Harris/Tim Walz (DEM),31
+Benton,17,President,writein,,0
+Benton,17,President,total_votes,,49
+Benton,17,President,overvotes,,0
+Benton,17,President,undervotes,,0
+Benton,18,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),25
+Benton,18,President,candidate,Cornel West (PRO),1
+Benton,18,President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Benton,18,President,candidate,Randall Terry (CON),1
+Benton,18,President,candidate,Donald J Trump/JD Vance (REP),786
+Benton,18,President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Benton,18,President,candidate,Kamala D Harris/Tim Walz (DEM),649
+Benton,18,President,writein,,20
+Benton,18,President,total_votes,,1491
+Benton,18,President,overvotes,,2
+Benton,18,President,undervotes,,16
+Benton,19,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),9
+Benton,19,President,candidate,Cornel West (PRO),0
+Benton,19,President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Benton,19,President,candidate,Randall Terry (CON),0
+Benton,19,President,candidate,Donald J Trump/JD Vance (REP),502
+Benton,19,President,candidate,Jill Stein/Rudolph Ware (PGP),10
+Benton,19,President,candidate,Kamala D Harris/Tim Walz (DEM),660
+Benton,19,President,writein,,10
+Benton,19,President,total_votes,,1196
+Benton,19,President,overvotes,,1
+Benton,19,President,undervotes,,17
+Benton,20,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Benton,20,President,candidate,Cornel West (PRO),1
+Benton,20,President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Benton,20,President,candidate,Randall Terry (CON),1
+Benton,20,President,candidate,Donald J Trump/JD Vance (REP),526
+Benton,20,President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Benton,20,President,candidate,Kamala D Harris/Tim Walz (DEM),305
+Benton,20,President,writein,,5
+Benton,20,President,total_votes,,860
+Benton,20,President,overvotes,,0
+Benton,20,President,undervotes,,18
+Benton,21,President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),10
+Benton,21,President,candidate,Cornel West (PRO),0
+Benton,21,President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Benton,21,President,candidate,Randall Terry (CON),2
+Benton,21,President,candidate,Donald J Trump/JD Vance (REP),464
+Benton,21,President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Benton,21,President,candidate,Kamala D Harris/Tim Walz (DEM),270
+Benton,21,President,writein,,2
+Benton,21,President,total_votes,,759
+Benton,21,President,overvotes,,1
+Benton,21,President,undervotes,,7
+Benton,10,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),1702
+Benton,10,"State Senator, 5th District",candidate,Dick Anderson (REP),1302
+Benton,10,"State Senator, 5th District",writein,,3
+Benton,10,"State Senator, 5th District",total_votes,,3007
+Benton,10,"State Senator, 5th District",overvotes,,0
+Benton,10,"State Senator, 5th District",undervotes,,162
+Benton,13,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),143
+Benton,13,"State Senator, 5th District",candidate,Dick Anderson (REP),218
+Benton,13,"State Senator, 5th District",writein,,0
+Benton,13,"State Senator, 5th District",total_votes,,361
+Benton,13,"State Senator, 5th District",overvotes,,0
+Benton,13,"State Senator, 5th District",undervotes,,15
+Benton,14,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),211
+Benton,14,"State Senator, 5th District",candidate,Dick Anderson (REP),389
+Benton,14,"State Senator, 5th District",writein,,0
+Benton,14,"State Senator, 5th District",total_votes,,600
+Benton,14,"State Senator, 5th District",overvotes,,0
+Benton,14,"State Senator, 5th District",undervotes,,23
+Benton,15,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),1246
+Benton,15,"State Senator, 5th District",candidate,Dick Anderson (REP),1483
+Benton,15,"State Senator, 5th District",writein,,5
+Benton,15,"State Senator, 5th District",total_votes,,2734
+Benton,15,"State Senator, 5th District",overvotes,,2
+Benton,15,"State Senator, 5th District",undervotes,,125
+Benton,19,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),575
+Benton,19,"State Senator, 5th District",candidate,Dick Anderson (REP),571
+Benton,19,"State Senator, 5th District",writein,,3
+Benton,19,"State Senator, 5th District",total_votes,,1149
+Benton,19,"State Senator, 5th District",overvotes,,0
+Benton,19,"State Senator, 5th District",undervotes,,56
+Benton,20,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),274
+Benton,20,"State Senator, 5th District",candidate,Dick Anderson (REP),565
+Benton,20,"State Senator, 5th District",writein,,0
+Benton,20,"State Senator, 5th District",total_votes,,839
+Benton,20,"State Senator, 5th District",overvotes,,0
+Benton,20,"State Senator, 5th District",undervotes,,37
+Benton,21,"State Senator, 5th District",candidate,Jo Beaudreau (DEM),234
+Benton,21,"State Senator, 5th District",candidate,Dick Anderson (REP),498
+Benton,21,"State Senator, 5th District",writein,,1
+Benton,21,"State Senator, 5th District",total_votes,,733
+Benton,21,"State Senator, 5th District",overvotes,,0
+Benton,21,"State Senator, 5th District",undervotes,,34
+Benton,10,"State Representative, 10th District",candidate,David Gomberg (DEM),2234
+Benton,10,"State Representative, 10th District",writein,,72
+Benton,10,"State Representative, 10th District",total_votes,,2306
+Benton,10,"State Representative, 10th District",overvotes,,0
+Benton,10,"State Representative, 10th District",undervotes,,863
+Benton,11,"State Representative, 15th District",candidate,Terrence Virnig (DEM),2664
+Benton,11,"State Representative, 15th District",candidate,Shelly Boshart Davis (REP),3156
+Benton,11,"State Representative, 15th District",writein,,7
+Benton,11,"State Representative, 15th District",total_votes,,5827
+Benton,11,"State Representative, 15th District",overvotes,,0
+Benton,11,"State Representative, 15th District",undervotes,,221
+Benton,13,"State Representative, 10th District",candidate,David Gomberg (DEM),239
+Benton,13,"State Representative, 10th District",writein,,13
+Benton,13,"State Representative, 10th District",total_votes,,252
+Benton,13,"State Representative, 10th District",overvotes,,0
+Benton,13,"State Representative, 10th District",undervotes,,124
+Benton,14,"State Representative, 10th District",candidate,David Gomberg (DEM),335
+Benton,14,"State Representative, 10th District",writein,,24
+Benton,14,"State Representative, 10th District",total_votes,,359
+Benton,14,"State Representative, 10th District",overvotes,,0
+Benton,14,"State Representative, 10th District",undervotes,,264
+Benton,15,"State Representative, 10th District",candidate,David Gomberg (DEM),1751
+Benton,15,"State Representative, 10th District",writein,,62
+Benton,15,"State Representative, 10th District",total_votes,,1813
+Benton,15,"State Representative, 10th District",overvotes,,0
+Benton,15,"State Representative, 10th District",undervotes,,1048
+Benton,17,"State Representative, 15th District",candidate,Terrence Virnig (DEM),28
+Benton,17,"State Representative, 15th District",candidate,Shelly Boshart Davis (REP),18
+Benton,17,"State Representative, 15th District",writein,,0
+Benton,17,"State Representative, 15th District",total_votes,,46
+Benton,17,"State Representative, 15th District",overvotes,,0
+Benton,17,"State Representative, 15th District",undervotes,,3
+Benton,19,"State Representative, 10th District",candidate,David Gomberg (DEM),790
+Benton,19,"State Representative, 10th District",writein,,23
+Benton,19,"State Representative, 10th District",total_votes,,813
+Benton,19,"State Representative, 10th District",overvotes,,0
+Benton,19,"State Representative, 10th District",undervotes,,392
+Benton,20,"State Representative, 10th District",candidate,David Gomberg (DEM),486
+Benton,20,"State Representative, 10th District",writein,,15
+Benton,20,"State Representative, 10th District",total_votes,,501
+Benton,20,"State Representative, 10th District",overvotes,,0
+Benton,20,"State Representative, 10th District",undervotes,,375
+Benton,21,"State Representative, 10th District",candidate,David Gomberg (DEM),413
+Benton,21,"State Representative, 10th District",writein,,17
+Benton,21,"State Representative, 10th District",total_votes,,430
+Benton,21,"State Representative, 10th District",overvotes,,0
+Benton,21,"State Representative, 10th District",undervotes,,337
+Benton,01,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),482
+Benton,01,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),3232
+Benton,01,"State Representative, 16th District",writein,,42
+Benton,01,"State Representative, 16th District",total_votes,,3756
+Benton,01,"State Representative, 16th District",overvotes,,0
+Benton,01,"State Representative, 16th District",undervotes,,554
+Benton,02,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),366
+Benton,02,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),1056
+Benton,02,"State Representative, 16th District",writein,,11
+Benton,02,"State Representative, 16th District",total_votes,,1433
+Benton,02,"State Representative, 16th District",overvotes,,0
+Benton,02,"State Representative, 16th District",undervotes,,202
+Benton,03,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),542
+Benton,03,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),2392
+Benton,03,"State Representative, 16th District",writein,,25
+Benton,03,"State Representative, 16th District",total_votes,,2959
+Benton,03,"State Representative, 16th District",overvotes,,0
+Benton,03,"State Representative, 16th District",undervotes,,354
+Benton,04,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),179
+Benton,04,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),712
+Benton,04,"State Representative, 16th District",writein,,8
+Benton,04,"State Representative, 16th District",total_votes,,899
+Benton,04,"State Representative, 16th District",overvotes,,0
+Benton,04,"State Representative, 16th District",undervotes,,97
+Benton,05,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),370
+Benton,05,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),1402
+Benton,05,"State Representative, 16th District",writein,,8
+Benton,05,"State Representative, 16th District",total_votes,,1780
+Benton,05,"State Representative, 16th District",overvotes,,0
+Benton,05,"State Representative, 16th District",undervotes,,184
+Benton,06,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),494
+Benton,06,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),2183
+Benton,06,"State Representative, 16th District",writein,,42
+Benton,06,"State Representative, 16th District",total_votes,,2719
+Benton,06,"State Representative, 16th District",overvotes,,1
+Benton,06,"State Representative, 16th District",undervotes,,343
+Benton,07,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),424
+Benton,07,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),2796
+Benton,07,"State Representative, 16th District",writein,,23
+Benton,07,"State Representative, 16th District",total_votes,,3243
+Benton,07,"State Representative, 16th District",overvotes,,0
+Benton,07,"State Representative, 16th District",undervotes,,340
+Benton,08,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),468
+Benton,08,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),3641
+Benton,08,"State Representative, 16th District",writein,,32
+Benton,08,"State Representative, 16th District",total_votes,,4141
+Benton,08,"State Representative, 16th District",overvotes,,2
+Benton,08,"State Representative, 16th District",undervotes,,480
+Benton,09,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),501
+Benton,09,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),2296
+Benton,09,"State Representative, 16th District",writein,,43
+Benton,09,"State Representative, 16th District",total_votes,,2840
+Benton,09,"State Representative, 16th District",overvotes,,2
+Benton,09,"State Representative, 16th District",undervotes,,414
+Benton,12,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),104
+Benton,12,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),546
+Benton,12,"State Representative, 16th District",writein,,10
+Benton,12,"State Representative, 16th District",total_votes,,660
+Benton,12,"State Representative, 16th District",overvotes,,0
+Benton,12,"State Representative, 16th District",undervotes,,128
+Benton,16,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),675
+Benton,16,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),3753
+Benton,16,"State Representative, 16th District",writein,,98
+Benton,16,"State Representative, 16th District",total_votes,,4526
+Benton,16,"State Representative, 16th District",overvotes,,1
+Benton,16,"State Representative, 16th District",undervotes,,876
+Benton,18,"State Representative, 16th District",candidate,Michael A Beilstein (PGP),176
+Benton,18,"State Representative, 16th District",candidate,Sarah Finger McDonald (DEM),885
+Benton,18,"State Representative, 16th District",writein,,46
+Benton,18,"State Representative, 16th District",total_votes,,1107
+Benton,18,"State Representative, 16th District",overvotes,,0
+Benton,18,"State Representative, 16th District",undervotes,,400

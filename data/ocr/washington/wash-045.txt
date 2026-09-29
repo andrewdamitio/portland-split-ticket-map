@@ -1,0 +1,26 @@
+See ee SS SS SS eS SSS
+
+Ballots Cast per Contest with Precincts                                          Page: 45 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                     09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+State Representative, 37th District (Vote for 1)
+
+Precinct                   Ballots          Reg.             Total      Jules Walters               Ben Edtl                  Write-in                   Over        Under
+Cast    Voters       Votes                                                         Votes     Votes
+Precinct 348           27        36          24        13 54.17%        11 45.83%         0 0.00%         0         3
+Precinct 394          248       353         223       145 65.02%        77 34.53%         1 0.45%         0)        25
+Precinct 396          830      1093         771       510 66.15%       261 33.85%         0 0.00%         0)        59
+Precinct 420         3223      4148        3047      1880 61.70%      1162 38.14%         5 0.16%         0       176
+Precinct 423         3051      4495        2862      1898 66.32%       959 33.51%         5 0.17%         0       189
+Precinct 428          1359      1967        1246       793 63.64%       453 36.36%         0 0.00%         0       113
+Precinct 433         2171      2698        2036      1215 59.68%       816 40.08%         5 0.25%         0       135
+Precinct 436         2242      2612        2079      1164 55.99%       912 43.87%         3 0.14%         0       163
+Precinct 437           63        82          59        36 61.02%        23 38.98%         0 0.00%         0         4
+Precinct 438          493       641         469       172 36.67%       296 63.11%         1 0.21%         0        24
+Precinct 444           121       150         116        50 43.10%        66 56.90%         0 0.00%         1)         5
+Total              13828     18275       12932      7876 60.90%      5036 38.94%        20 0.15%         0       896

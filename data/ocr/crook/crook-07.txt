@@ -1,0 +1,60 @@
+FSS a
+Statement of Votes Cast by Geography                                             Page: 7 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                               2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+No                                                           195         47.79%
+Total                                                                                           408            100.00%
+Overvotes                                                     1
+Undervotes                                                  40
+Question 7-116 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 41 undervotes), 711 registered voters, turnout 63.15%
+Yes                                                          171         41.91%
+No                                                           237         58.09%
+Total                                                                                                        408              {00.00%
+Overvotes                                                     0
+Undervotes                                                  41
+Question 7-117 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 33 undervotes), 711 registered voters, turnout 63.15%
+Yes                                                          136         32.69%
+No                                                           280         67.31%
+Total                                                                                           416            100.00%
+Overvotes                                                     0
+Undervotes                                                  33
+Question 7-118 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 34 undervotes), 711 registered voters, turnout 63.15%
+Yes                                                           83         20.00%
+No                                                           332         80.00%
+Total                                                        415        {00.00%
+Overvotes                                                     0
+Undervotes                                                  34
+Question 7-119 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 41 undervotes), 711 registered voters, turnout 63.15%
+Yes                                                          188         46.08%
+No                                                           220         §3.92%
+Total                                                                                                        408              100.00%
+Overvotes                                                     ie]
+Undervotes                                                  41
+Precinct 03
+President (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 1 undervotes), 529 registered voters, turnout 47.07%
+Robert F Kennedy Jr/Nicole Shanahan                      3           1.21%
+Cornel West                                                       0           0.00%
+Chase Oliver/Mike ter Maat                                        2            0.81%
+Randall Terry                                                     1           0.40%
+Donald J Trump/JD Vance                                160         64.52%
+Jill Stein/Rudolph Ware                                     3          1.21%
+Kamala D Harris/Tim Walz                                  79         31.85%
+Write-in                                                        0          0.00%
+Total                                                                                                         248              100.00%
+Overvotes                                                     0
+Undervotes                                                    1
+US Representative, 2nd District (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 12 undervotes), 529 registered voters, turnout 47.07%
+Cliff Bentz                                                           149          62.87%
+Michael Kurt Stettler                                             12            5.06%
+Dan Ruby                                                    75         31.65%
+Write-in                                                        1           0.42%

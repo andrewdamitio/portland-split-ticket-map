@@ -1,0 +1,28 @@
+# Harney County, November 5, 2024 General Election - Official Abstract of Votes (data/sources/harney-2024-general.pdf)
+# Scanned, clerk-certified pages; transcribed from the page images (OCR agreed). Three precincts: 21, 25, 26.
+# The abstract does not print ballots cast per precinct; votes + over + under gives the same number
+# (1387 / 876 / 2027) in the President, State Senate and State House contests.
+
+contest: President
+source: page 4
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | overvotes | undervotes
+21: 43 1 5 1 977 7 334 5 0 14
+25: 23 3 4 0 639 1 192 5 1 8
+26: 30 1 4 4 1691 3 271 11 1 11
+TOTAL: 96 5 13 5 3307 11 797 21 2 33
+
+contest: State Senator, 30th District
+source: page 9
+cols: McLane | writein | overvotes | undervotes
+21: 985 19 0 383
+25: 623 10 0 243
+26: 1401 10 0 616
+TOTAL: 3009 39 0 1242
+
+contest: State Representative, 60th District
+source: page 10
+cols: Owens | writein | overvotes | undervotes
+21: 1048 26 1 312
+25: 667 20 0 189
+26: 1647 27 0 353
+TOTAL: 3362 73 1 854

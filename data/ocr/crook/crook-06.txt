@@ -1,0 +1,60 @@
+~~ L_L =  ————————————————e—eeeeee
+Statement of Votes Cast by Geography                                               Page: 6 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                        2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                     09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Write-in                                                        8          2.33%
+Total                                                                                                        344              100.00%
+Overvotes                                                     0
+Undervotes                                                 105
+Mayor (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 115 undervotes), 711 registered voters, turnout 63.15%
+Jason Beebe                                               323         96.71%
+Write-in                                                                       11              3.29%
+Total                                                                                                        334              100.00%
+Overvotes                                                     0
+Undervotes                                                 115
+City Council Member (Vote for 3)
+449 ballots (0 over voted ballots, 0 overvotes, 526 undervotes), 711 registered voters, turnout 63.15%
+Jerry M Brummer                                           288         35.08%
+Marvin Sumner                                                256          31.18%
+Steve Uffelman                                            264         32.16%
+Write-in                                                        7          0.85%
+Write-in                                                        4          0.49%
+Write-in                                                        2          0.24%
+Total                                                                                           821             {00.00%
+Overvotes                                                     0
+Undervotes                                                 526
+Crook County Soil Water Conservation D Z 1 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 150 undervotes), 711 registered voters, turnout 63.15%
+Jason R Dennis                                            295         98.66%
+Write-in                                                        4          1.34%
+Total                                                        299        100.00%
+Overvotes                                                     0
+Undervotes                                                 150
+Crook County Soil Water Conservation D Z 2 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 406 undervotes), 711 registered voters, turnout 63.15%
+Write-in                                                                                                     43              100.00%
+Total                                                          43        100.00%
+Overvotes                                                     0
+Undervotes                                                 406
+Crook County Soil Water Conservation D Z 3 (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 139 undervotes), 711 registered voters, turnout 63.15%
+Gary Bedortha                                                 307         99.03%
+Write-in                                                        3          0.97%
+Total                                                        310        100.00%
+Overvotes                                                     0
+Undervotes                                                 139
+Crook County Soil Water Conservation D At Lrg (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 157 undervotes), 711 registered voters, turnout 63.15%
+John William Dehler Ill                                      287         98.29%
+Write-in                                                                                                        5                   1.71%
+Total                                                                                                        292              100.00%
+Overvotes                                                     0
+Undervotes                                                 157
+Question 7-115 (Vote for 1)
+449 ballots (1 over voted ballots, 1 overvotes, 40 undervotes), 711 registered voters, turnout 63.15%
+Yes                                                          213         52.21%

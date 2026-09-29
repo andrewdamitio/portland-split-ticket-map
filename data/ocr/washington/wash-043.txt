@@ -1,0 +1,27 @@
+eee: al
+
+Ballots Cast per Contest with Precincts                                          Page: 43 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+State Representative, 35th District (Vote for 1)
+
+Precinct                 Ballots         Reg.            Total       Dan Martin           Farrah Chaichi             Write-in                 Over       Under
+Cast     Voters        Votes                                                            Votes     Votes
+Precinct 302          2551      3883        2340       895 38.25%      1443 61.67%         2 0.09%         2       209
+Precinct 319          5196      7387        4750      1599 33.66%      3143 66.17%         8 0.17%         0       446
+Precinct 351          3169      5180        2855       884 30.96%      1963 68.76%         8 0.28%         )       314
+Precinct 352          1138      1942         1037       188 18.13%       847 81.68%         2 0.19%         0       101
+Precinct 355          1364      1790         1256       338 26.91%       916 72.93%         2 0.16%         0       108
+Precinct 356          1662      2500         1522       536 35.22%       984 64.65%         2 0.13%         0       140
+Precinct 357           813      1354         719       234 32.55%       485 67.45%         0 0.00%         0        94
+Precinct 359          2324      3149        2104       560 26.62%      1538 73.10%         6 0.29%         0       220
+Precinct 360          2836      4158        2620       710 27.10%      1903 72.63%         7 0.27%         1       215
+Precinct 361          2052      3060         1892       390 20.61%      1499 79.23%         3 0.16%         0       160
+Precinct 382          3905      6108        3558      1266 35.58%      2287 64.28%         5 0.14%         0       347
+Precinct 446           107       197           95        31 32.63%        64 67.37%         0 0.00%         )        12
+Total               27117     40708       24748      7631 30.83%     17072 68.98%        45 0.18%         3      2366

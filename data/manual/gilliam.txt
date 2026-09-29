@@ -1,0 +1,26 @@
+# Gilliam County, November 5, 2024 General Election - Official Abstract (data/sources/gilliam-2024-general.pdf)
+# Scanned spreadsheet; transcribed from the page images. Precinct labels as in the map data (#1, #6, #7).
+
+contest: President
+source: page 1
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | overvotes | undervotes | ballots_cast | registered
+#1: 7 0 3 0 373 4 93 0 1 5 486 639
+#6: 3 0 3 1 190 1 87 2 0 10 297 356
+#7: 8 0 0 0 242 4 111 2 0 7 374 449
+TOTAL: 18 0 6 1 805 9 291 4 1 22 1157 1444
+
+contest: State Senator, 29th District
+source: page 2
+cols: Wildbill | Nash | writein | overvotes | undervotes | ballots_cast
+#1: 52 382 2 1 49 486
+#6: 36 214 2 0 45 297
+#7: 38 268 0 0 68 374
+TOTAL: 126 864 4 1 162 1157
+
+contest: State Representative, 57th District
+source: page 2
+cols: Smith | writein | overvotes | undervotes | ballots_cast
+#1: 382 9 0 95 486
+#6: 223 4 0 70 297
+#7: 273 7 0 94 374
+TOTAL: 878 20 0 259 1157

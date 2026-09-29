@@ -1,0 +1,126 @@
+county,precinct_label,contest,type,choice,votes
+Morrow,01 BOARDMAN,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,47
+Morrow,01 BOARDMAN,President,candidate,Cornel West,1
+Morrow,01 BOARDMAN,President,candidate,Chase Oliver / Mike ter Maat,3
+Morrow,01 BOARDMAN,President,candidate,Randall Terry,0
+Morrow,01 BOARDMAN,President,candidate,Donald J Trump / JD Vance,793
+Morrow,01 BOARDMAN,President,candidate,Jill Stein / Rudolph Ware,7
+Morrow,01 BOARDMAN,President,candidate,Kamala D Harris / Tim Walz,462
+Morrow,01 BOARDMAN,President,writein,,14
+Morrow,01 BOARDMAN,President,overvotes,,0
+Morrow,01 BOARDMAN,President,undervotes,,12
+Morrow,01 BOARDMAN,President,ballots_cast,,1339
+Morrow,01 BOARDMAN,President,total_votes,,1327
+Morrow,02 IRRIGON,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,35
+Morrow,02 IRRIGON,President,candidate,Cornel West,0
+Morrow,02 IRRIGON,President,candidate,Chase Oliver / Mike ter Maat,6
+Morrow,02 IRRIGON,President,candidate,Randall Terry,5
+Morrow,02 IRRIGON,President,candidate,Donald J Trump / JD Vance,1152
+Morrow,02 IRRIGON,President,candidate,Jill Stein / Rudolph Ware,4
+Morrow,02 IRRIGON,President,candidate,Kamala D Harris / Tim Walz,326
+Morrow,02 IRRIGON,President,writein,,4
+Morrow,02 IRRIGON,President,overvotes,,5
+Morrow,02 IRRIGON,President,undervotes,,9
+Morrow,02 IRRIGON,President,ballots_cast,,1546
+Morrow,02 IRRIGON,President,total_votes,,1532
+Morrow,03 LEXINGTON,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Morrow,03 LEXINGTON,President,candidate,Cornel West,1
+Morrow,03 LEXINGTON,President,candidate,Chase Oliver / Mike ter Maat,3
+Morrow,03 LEXINGTON,President,candidate,Randall Terry,3
+Morrow,03 LEXINGTON,President,candidate,Donald J Trump / JD Vance,314
+Morrow,03 LEXINGTON,President,candidate,Jill Stein / Rudolph Ware,0
+Morrow,03 LEXINGTON,President,candidate,Kamala D Harris / Tim Walz,44
+Morrow,03 LEXINGTON,President,writein,,2
+Morrow,03 LEXINGTON,President,overvotes,,0
+Morrow,03 LEXINGTON,President,undervotes,,4
+Morrow,03 LEXINGTON,President,ballots_cast,,380
+Morrow,03 LEXINGTON,President,total_votes,,376
+Morrow,04 IONE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Morrow,04 IONE,President,candidate,Cornel West,0
+Morrow,04 IONE,President,candidate,Chase Oliver / Mike ter Maat,1
+Morrow,04 IONE,President,candidate,Randall Terry,2
+Morrow,04 IONE,President,candidate,Donald J Trump / JD Vance,279
+Morrow,04 IONE,President,candidate,Jill Stein / Rudolph Ware,0
+Morrow,04 IONE,President,candidate,Kamala D Harris / Tim Walz,73
+Morrow,04 IONE,President,writein,,4
+Morrow,04 IONE,President,overvotes,,1
+Morrow,04 IONE,President,undervotes,,8
+Morrow,04 IONE,President,ballots_cast,,373
+Morrow,04 IONE,President,total_votes,,364
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,19
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Cornel West,2
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Chase Oliver / Mike ter Maat,4
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Randall Terry,0
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Donald J Trump / JD Vance,870
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Jill Stein / Rudolph Ware,2
+Morrow,05 HEPPNER/HARDMAN,President,candidate,Kamala D Harris / Tim Walz,233
+Morrow,05 HEPPNER/HARDMAN,President,writein,,3
+Morrow,05 HEPPNER/HARDMAN,President,overvotes,,0
+Morrow,05 HEPPNER/HARDMAN,President,undervotes,,10
+Morrow,05 HEPPNER/HARDMAN,President,ballots_cast,,1143
+Morrow,05 HEPPNER/HARDMAN,President,total_votes,,1133
+Morrow,01 BOARDMAN,"State Senator, 29th District",candidate,Tania Wildbill,245
+Morrow,01 BOARDMAN,"State Senator, 29th District",candidate,Todd Nash,942
+Morrow,01 BOARDMAN,"State Senator, 29th District",writein,,2
+Morrow,01 BOARDMAN,"State Senator, 29th District",overvotes,,0
+Morrow,01 BOARDMAN,"State Senator, 29th District",undervotes,,150
+Morrow,01 BOARDMAN,"State Senator, 29th District",ballots_cast,,1339
+Morrow,01 BOARDMAN,"State Senator, 29th District",total_votes,,1189
+Morrow,02 IRRIGON,"State Senator, 29th District",candidate,Tania Wildbill,251
+Morrow,02 IRRIGON,"State Senator, 29th District",candidate,Todd Nash,1128
+Morrow,02 IRRIGON,"State Senator, 29th District",writein,,4
+Morrow,02 IRRIGON,"State Senator, 29th District",overvotes,,0
+Morrow,02 IRRIGON,"State Senator, 29th District",undervotes,,163
+Morrow,02 IRRIGON,"State Senator, 29th District",ballots_cast,,1546
+Morrow,02 IRRIGON,"State Senator, 29th District",total_votes,,1383
+Morrow,03 LEXINGTON,"State Senator, 29th District",candidate,Tania Wildbill,32
+Morrow,03 LEXINGTON,"State Senator, 29th District",candidate,Todd Nash,303
+Morrow,03 LEXINGTON,"State Senator, 29th District",writein,,0
+Morrow,03 LEXINGTON,"State Senator, 29th District",overvotes,,0
+Morrow,03 LEXINGTON,"State Senator, 29th District",undervotes,,45
+Morrow,03 LEXINGTON,"State Senator, 29th District",ballots_cast,,380
+Morrow,03 LEXINGTON,"State Senator, 29th District",total_votes,,335
+Morrow,04 IONE,"State Senator, 29th District",candidate,Tania Wildbill,38
+Morrow,04 IONE,"State Senator, 29th District",candidate,Todd Nash,298
+Morrow,04 IONE,"State Senator, 29th District",writein,,0
+Morrow,04 IONE,"State Senator, 29th District",overvotes,,0
+Morrow,04 IONE,"State Senator, 29th District",undervotes,,37
+Morrow,04 IONE,"State Senator, 29th District",ballots_cast,,373
+Morrow,04 IONE,"State Senator, 29th District",total_votes,,336
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",candidate,Tania Wildbill,134
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",candidate,Todd Nash,866
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",writein,,5
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",overvotes,,0
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",undervotes,,137
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",ballots_cast,,1142
+Morrow,05 HEPPNER/HARDMAN,"State Senator, 29th District",total_votes,,1005
+Morrow,01 BOARDMAN,"State Representative, 57th District",candidate,Greg Smith,1008
+Morrow,01 BOARDMAN,"State Representative, 57th District",writein,,32
+Morrow,01 BOARDMAN,"State Representative, 57th District",overvotes,,0
+Morrow,01 BOARDMAN,"State Representative, 57th District",undervotes,,299
+Morrow,01 BOARDMAN,"State Representative, 57th District",ballots_cast,,1339
+Morrow,01 BOARDMAN,"State Representative, 57th District",total_votes,,1040
+Morrow,02 IRRIGON,"State Representative, 57th District",candidate,Greg Smith,1190
+Morrow,02 IRRIGON,"State Representative, 57th District",writein,,35
+Morrow,02 IRRIGON,"State Representative, 57th District",overvotes,,0
+Morrow,02 IRRIGON,"State Representative, 57th District",undervotes,,321
+Morrow,02 IRRIGON,"State Representative, 57th District",ballots_cast,,1546
+Morrow,02 IRRIGON,"State Representative, 57th District",total_votes,,1225
+Morrow,03 LEXINGTON,"State Representative, 57th District",candidate,Greg Smith,264
+Morrow,03 LEXINGTON,"State Representative, 57th District",writein,,10
+Morrow,03 LEXINGTON,"State Representative, 57th District",overvotes,,0
+Morrow,03 LEXINGTON,"State Representative, 57th District",undervotes,,106
+Morrow,03 LEXINGTON,"State Representative, 57th District",ballots_cast,,380
+Morrow,03 LEXINGTON,"State Representative, 57th District",total_votes,,274
+Morrow,04 IONE,"State Representative, 57th District",candidate,Greg Smith,250
+Morrow,04 IONE,"State Representative, 57th District",writein,,19
+Morrow,04 IONE,"State Representative, 57th District",overvotes,,0
+Morrow,04 IONE,"State Representative, 57th District",undervotes,,104
+Morrow,04 IONE,"State Representative, 57th District",ballots_cast,,373
+Morrow,04 IONE,"State Representative, 57th District",total_votes,,269
+Morrow,05 HEPPNER/HARDMAN,"State Representative, 57th District",candidate,Greg Smith,829
+Morrow,05 HEPPNER/HARDMAN,"State Representative, 57th District",writein,,42
+Morrow,05 HEPPNER/HARDMAN,"State Representative, 57th District",overvotes,,0
+Morrow,05 HEPPNER/HARDMAN,"State Representative, 57th District",undervotes,,271
+Morrow,05 HEPPNER/HARDMAN,"State Representative, 57th District",ballots_cast,,1142
+Morrow,05 HEPPNER/HARDMAN,"State Representative, 57th District",total_votes,,871

@@ -1,0 +1,62 @@
+LLL LLLLDRD_—~yELEESEEEEEEEEEEcx—— a rr ry
+Statement of Votes Cast by Geography                                              Page: 4 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                        2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Total                                                                                           512             100.00%
+Overvotes                                                     0
+Undervotes                                                  33
+Question 7-118 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 33 undervotes), 823 registered voters, turnout 66.22%
+Yes                                                           95         18.55%
+No                                                          417         81.45%
+Total                                                                                           512             100.00%
+Overvotes                                                     0
+Undervotes                                                  33
+Question 7-119 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 46 undervotes), 823 registered voters, turnout 66.22%
+Yes                                                         197         39.48%
+No                                                          302         60.52%
+Total                                                                                           499             100.00%
+Overvotes                                                     0
+Undervotes                                                  46
+Precinct 02
+President (Vote for 1)
+449 ballots (1 over voted ballots, 1 overvotes, 2 undervotes), 711 registered voters, turnout 63.15%
+Robert F Kennedy Jr/Nicole Shanahan                     8           1.79%
+Cornel West                                                      0           0.00%
+Chase Oliver/Mike ter Maat                                      2            0.45%
+Randall Terry                                                          2            0.45%
+Donald J Trump/JD Vance                               321         71.97%
+Jill Stein/Rudolph Ware                                      1           0.22%
+Kamala D Harris/Tim Walz                               110         24.66%
+Write-in                                                        2          0.45%
+Total                                                        446        {00.00%
+Overvotes                                                     1
+Undervotes                                                   2
+US Representative, 2nd District (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 28 undervotes), 711 registered voters, turnout 63.15%
+Cliff Bentz                                                           299           71.02%
+Michael Kurt Stettler                                                  17             4.04%
+Dan Ruby                                                  104         24.70%
+Write-in                                                        1           0.24%
+Total                                                                                           421             100.00%
+Overvotes                                                     0
+Undervotes                                                  28
+Secretary of State (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 27 undervotes), 711 registered voters, turnout 63.15%
+Nathalie Paravicini                                              10           2.37%
+Dennis Linthicum                                              304          72.04%
+Tobias Read                                                    106          25.12%
+Write-in                                                        2          0.47%
+Total                                                                         422          100.00%
+Overvotes                                                     0
+Undervotes                                                  27
+State Treasurer (Vote for 1)
+449 ballots (0 over voted ballots, 0 overvotes, 37 undervotes), 711 registered voters, turnout 63.15%
+Mary King                                                        21            5.10%
+Brian J Boquist                                              298         72.33%
+Elizabeth Steiner                                            92         22.33%

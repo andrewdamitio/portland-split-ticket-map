@@ -1,0 +1,9 @@
+# Polk p.8 left, HD 20: Evans(DEM) Chambers(REP) WriteIn TotalVotes Over Under
+Precinct 122 522 623 4 1,149 0 55
+Precinct 134 2,560 2,113 7 4,680 0 307
+Precinct 136 1,930 1,563 7 3,500 1 198
+Precinct 140 1,867 1,291 8 3,166 1 231
+Precinct 146 2,258 1,557 12 3,827 0 199
+Precinct 178 2,572 1,769 11 4,352 1 267
+Precinct 182 2,509 1,759 13 4,281 1 251
+Totals 14,218 10,675 62 24,955 4 1,508

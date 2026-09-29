@@ -1,0 +1,523 @@
+county,precinct_label,contest,type,choice,votes
+Coos,01,President,ballots_cast,,1507
+Coos,01,President,registered,,2040
+Coos,01,President,total_votes,,1493
+Coos,01,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,15
+Coos,01,President,candidate,Cornel West,1
+Coos,01,President,candidate,Chase Oliver / Mike ter Maat,6
+Coos,01,President,candidate,Randall Terry,3
+Coos,01,President,candidate,Donald J Trump / JD Vance,998
+Coos,01,President,candidate,Jill Stein / Rudolph Ware,1
+Coos,01,President,candidate,Kamala D Harris / Tim Walz,469
+Coos,01,President,writein,,0
+Coos,01,President,overvotes,,0
+Coos,01,President,undervotes,,14
+Coos,02,President,ballots_cast,,2857
+Coos,02,President,registered,,3615
+Coos,02,President,total_votes,,2828
+Coos,02,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,35
+Coos,02,President,candidate,Cornel West,4
+Coos,02,President,candidate,Chase Oliver / Mike ter Maat,6
+Coos,02,President,candidate,Randall Terry,2
+Coos,02,President,candidate,Donald J Trump / JD Vance,1733
+Coos,02,President,candidate,Jill Stein / Rudolph Ware,10
+Coos,02,President,candidate,Kamala D Harris / Tim Walz,1027
+Coos,02,President,writein,,11
+Coos,02,President,overvotes,,0
+Coos,02,President,undervotes,,29
+Coos,03,President,ballots_cast,,3020
+Coos,03,President,registered,,4309
+Coos,03,President,total_votes,,2977
+Coos,03,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,69
+Coos,03,President,candidate,Cornel West,7
+Coos,03,President,candidate,Chase Oliver / Mike ter Maat,10
+Coos,03,President,candidate,Randall Terry,6
+Coos,03,President,candidate,Donald J Trump / JD Vance,1624
+Coos,03,President,candidate,Jill Stein / Rudolph Ware,19
+Coos,03,President,candidate,Kamala D Harris / Tim Walz,1227
+Coos,03,President,writein,,15
+Coos,03,President,overvotes,,0
+Coos,03,President,undervotes,,43
+Coos,04,President,ballots_cast,,2198
+Coos,04,President,registered,,3069
+Coos,04,President,total_votes,,2172
+Coos,04,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,35
+Coos,04,President,candidate,Cornel West,2
+Coos,04,President,candidate,Chase Oliver / Mike ter Maat,5
+Coos,04,President,candidate,Randall Terry,4
+Coos,04,President,candidate,Donald J Trump / JD Vance,1031
+Coos,04,President,candidate,Jill Stein / Rudolph Ware,16
+Coos,04,President,candidate,Kamala D Harris / Tim Walz,1069
+Coos,04,President,writein,,10
+Coos,04,President,overvotes,,1
+Coos,04,President,undervotes,,25
+Coos,05,President,ballots_cast,,3507
+Coos,05,President,registered,,5343
+Coos,05,President,total_votes,,3459
+Coos,05,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,85
+Coos,05,President,candidate,Cornel West,5
+Coos,05,President,candidate,Chase Oliver / Mike ter Maat,12
+Coos,05,President,candidate,Randall Terry,7
+Coos,05,President,candidate,Donald J Trump / JD Vance,1803
+Coos,05,President,candidate,Jill Stein / Rudolph Ware,17
+Coos,05,President,candidate,Kamala D Harris / Tim Walz,1515
+Coos,05,President,writein,,15
+Coos,05,President,overvotes,,1
+Coos,05,President,undervotes,,47
+Coos,06,President,ballots_cast,,2062
+Coos,06,President,registered,,2828
+Coos,06,President,total_votes,,2030
+Coos,06,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,27
+Coos,06,President,candidate,Cornel West,5
+Coos,06,President,candidate,Chase Oliver / Mike ter Maat,6
+Coos,06,President,candidate,Randall Terry,1
+Coos,06,President,candidate,Donald J Trump / JD Vance,981
+Coos,06,President,candidate,Jill Stein / Rudolph Ware,15
+Coos,06,President,candidate,Kamala D Harris / Tim Walz,986
+Coos,06,President,writein,,9
+Coos,06,President,overvotes,,0
+Coos,06,President,undervotes,,32
+Coos,07,President,ballots_cast,,2384
+Coos,07,President,registered,,3452
+Coos,07,President,total_votes,,2347
+Coos,07,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,41
+Coos,07,President,candidate,Cornel West,3
+Coos,07,President,candidate,Chase Oliver / Mike ter Maat,9
+Coos,07,President,candidate,Randall Terry,3
+Coos,07,President,candidate,Donald J Trump / JD Vance,1178
+Coos,07,President,candidate,Jill Stein / Rudolph Ware,23
+Coos,07,President,candidate,Kamala D Harris / Tim Walz,1078
+Coos,07,President,writein,,12
+Coos,07,President,overvotes,,0
+Coos,07,President,undervotes,,37
+Coos,08,President,ballots_cast,,3401
+Coos,08,President,registered,,5154
+Coos,08,President,total_votes,,3370
+Coos,08,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,77
+Coos,08,President,candidate,Cornel West,5
+Coos,08,President,candidate,Chase Oliver / Mike ter Maat,11
+Coos,08,President,candidate,Randall Terry,1
+Coos,08,President,candidate,Donald J Trump / JD Vance,2058
+Coos,08,President,candidate,Jill Stein / Rudolph Ware,21
+Coos,08,President,candidate,Kamala D Harris / Tim Walz,1186
+Coos,08,President,writein,,11
+Coos,08,President,overvotes,,0
+Coos,08,President,undervotes,,31
+Coos,09,President,ballots_cast,,335
+Coos,09,President,registered,,516
+Coos,09,President,total_votes,,330
+Coos,09,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Coos,09,President,candidate,Cornel West,0
+Coos,09,President,candidate,Chase Oliver / Mike ter Maat,1
+Coos,09,President,candidate,Randall Terry,0
+Coos,09,President,candidate,Donald J Trump / JD Vance,156
+Coos,09,President,candidate,Jill Stein / Rudolph Ware,1
+Coos,09,President,candidate,Kamala D Harris / Tim Walz,166
+Coos,09,President,writein,,0
+Coos,09,President,overvotes,,0
+Coos,09,President,undervotes,,5
+Coos,10,President,ballots_cast,,2380
+Coos,10,President,registered,,3054
+Coos,10,President,total_votes,,2356
+Coos,10,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,22
+Coos,10,President,candidate,Cornel West,2
+Coos,10,President,candidate,Chase Oliver / Mike ter Maat,8
+Coos,10,President,candidate,Randall Terry,3
+Coos,10,President,candidate,Donald J Trump / JD Vance,1558
+Coos,10,President,candidate,Jill Stein / Rudolph Ware,6
+Coos,10,President,candidate,Kamala D Harris / Tim Walz,739
+Coos,10,President,writein,,18
+Coos,10,President,overvotes,,0
+Coos,10,President,undervotes,,24
+Coos,11,President,ballots_cast,,1928
+Coos,11,President,registered,,2541
+Coos,11,President,total_votes,,1908
+Coos,11,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,38
+Coos,11,President,candidate,Cornel West,1
+Coos,11,President,candidate,Chase Oliver / Mike ter Maat,3
+Coos,11,President,candidate,Randall Terry,1
+Coos,11,President,candidate,Donald J Trump / JD Vance,1335
+Coos,11,President,candidate,Jill Stein / Rudolph Ware,6
+Coos,11,President,candidate,Kamala D Harris / Tim Walz,513
+Coos,11,President,writein,,11
+Coos,11,President,overvotes,,0
+Coos,11,President,undervotes,,20
+Coos,12,President,ballots_cast,,2090
+Coos,12,President,registered,,2934
+Coos,12,President,total_votes,,2068
+Coos,12,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,47
+Coos,12,President,candidate,Cornel West,1
+Coos,12,President,candidate,Chase Oliver / Mike ter Maat,6
+Coos,12,President,candidate,Randall Terry,2
+Coos,12,President,candidate,Donald J Trump / JD Vance,1283
+Coos,12,President,candidate,Jill Stein / Rudolph Ware,8
+Coos,12,President,candidate,Kamala D Harris / Tim Walz,716
+Coos,12,President,writein,,5
+Coos,12,President,overvotes,,0
+Coos,12,President,undervotes,,22
+Coos,13,President,ballots_cast,,1290
+Coos,13,President,registered,,1899
+Coos,13,President,total_votes,,1272
+Coos,13,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,25
+Coos,13,President,candidate,Cornel West,2
+Coos,13,President,candidate,Chase Oliver / Mike ter Maat,6
+Coos,13,President,candidate,Randall Terry,1
+Coos,13,President,candidate,Donald J Trump / JD Vance,854
+Coos,13,President,candidate,Jill Stein / Rudolph Ware,4
+Coos,13,President,candidate,Kamala D Harris / Tim Walz,371
+Coos,13,President,writein,,9
+Coos,13,President,overvotes,,2
+Coos,13,President,undervotes,,16
+Coos,14,President,ballots_cast,,1675
+Coos,14,President,registered,,2133
+Coos,14,President,total_votes,,1657
+Coos,14,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,17
+Coos,14,President,candidate,Cornel West,0
+Coos,14,President,candidate,Chase Oliver / Mike ter Maat,1
+Coos,14,President,candidate,Randall Terry,1
+Coos,14,President,candidate,Donald J Trump / JD Vance,1296
+Coos,14,President,candidate,Jill Stein / Rudolph Ware,3
+Coos,14,President,candidate,Kamala D Harris / Tim Walz,334
+Coos,14,President,writein,,5
+Coos,14,President,overvotes,,0
+Coos,14,President,undervotes,,18
+Coos,15,President,ballots_cast,,492
+Coos,15,President,registered,,640
+Coos,15,President,total_votes,,487
+Coos,15,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,11
+Coos,15,President,candidate,Cornel West,0
+Coos,15,President,candidate,Chase Oliver / Mike ter Maat,0
+Coos,15,President,candidate,Randall Terry,0
+Coos,15,President,candidate,Donald J Trump / JD Vance,347
+Coos,15,President,candidate,Jill Stein / Rudolph Ware,0
+Coos,15,President,candidate,Kamala D Harris / Tim Walz,128
+Coos,15,President,writein,,1
+Coos,15,President,overvotes,,1
+Coos,15,President,undervotes,,4
+Coos,16,President,ballots_cast,,2104
+Coos,16,President,registered,,2683
+Coos,16,President,total_votes,,2065
+Coos,16,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,35
+Coos,16,President,candidate,Cornel West,1
+Coos,16,President,candidate,Chase Oliver / Mike ter Maat,6
+Coos,16,President,candidate,Randall Terry,1
+Coos,16,President,candidate,Donald J Trump / JD Vance,937
+Coos,16,President,candidate,Jill Stein / Rudolph Ware,15
+Coos,16,President,candidate,Kamala D Harris / Tim Walz,1056
+Coos,16,President,writein,,14
+Coos,16,President,overvotes,,1
+Coos,16,President,undervotes,,38
+Coos,17,President,ballots_cast,,2588
+Coos,17,President,registered,,3410
+Coos,17,President,total_votes,,2559
+Coos,17,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,41
+Coos,17,President,candidate,Cornel West,6
+Coos,17,President,candidate,Chase Oliver / Mike ter Maat,3
+Coos,17,President,candidate,Randall Terry,3
+Coos,17,President,candidate,Donald J Trump / JD Vance,1459
+Coos,17,President,candidate,Jill Stein / Rudolph Ware,18
+Coos,17,President,candidate,Kamala D Harris / Tim Walz,1023
+Coos,17,President,writein,,6
+Coos,17,President,overvotes,,0
+Coos,17,President,undervotes,,29
+Coos,18,President,ballots_cast,,357
+Coos,18,President,registered,,502
+Coos,18,President,total_votes,,357
+Coos,18,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Coos,18,President,candidate,Cornel West,0
+Coos,18,President,candidate,Chase Oliver / Mike ter Maat,2
+Coos,18,President,candidate,Randall Terry,0
+Coos,18,President,candidate,Donald J Trump / JD Vance,218
+Coos,18,President,candidate,Jill Stein / Rudolph Ware,3
+Coos,18,President,candidate,Kamala D Harris / Tim Walz,128
+Coos,18,President,writein,,2
+Coos,18,President,overvotes,,0
+Coos,18,President,undervotes,,0
+Coos,10,"State Senator, 1st District",ballots_cast,,2378
+Coos,10,"State Senator, 1st District",registered,,3054
+Coos,10,"State Senator, 1st District",total_votes,,2227
+Coos,10,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,595
+Coos,10,"State Senator, 1st District",candidate,David Brock Smith,1623
+Coos,10,"State Senator, 1st District",writein,,9
+Coos,10,"State Senator, 1st District",overvotes,,0
+Coos,10,"State Senator, 1st District",undervotes,,151
+Coos,11,"State Senator, 1st District",ballots_cast,,1925
+Coos,11,"State Senator, 1st District",registered,,2541
+Coos,11,"State Senator, 1st District",total_votes,,1805
+Coos,11,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,413
+Coos,11,"State Senator, 1st District",candidate,David Brock Smith,1382
+Coos,11,"State Senator, 1st District",writein,,10
+Coos,11,"State Senator, 1st District",overvotes,,1
+Coos,11,"State Senator, 1st District",undervotes,,119
+Coos,12,"State Senator, 1st District",ballots_cast,,2089
+Coos,12,"State Senator, 1st District",registered,,2934
+Coos,12,"State Senator, 1st District",total_votes,,1938
+Coos,12,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,591
+Coos,12,"State Senator, 1st District",candidate,David Brock Smith,1345
+Coos,12,"State Senator, 1st District",writein,,2
+Coos,12,"State Senator, 1st District",overvotes,,1
+Coos,12,"State Senator, 1st District",undervotes,,150
+Coos,13,"State Senator, 1st District",ballots_cast,,1290
+Coos,13,"State Senator, 1st District",registered,,1899
+Coos,13,"State Senator, 1st District",total_votes,,1217
+Coos,13,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,307
+Coos,13,"State Senator, 1st District",candidate,David Brock Smith,902
+Coos,13,"State Senator, 1st District",writein,,8
+Coos,13,"State Senator, 1st District",overvotes,,1
+Coos,13,"State Senator, 1st District",undervotes,,72
+Coos,14,"State Senator, 1st District",ballots_cast,,1673
+Coos,14,"State Senator, 1st District",registered,,2133
+Coos,14,"State Senator, 1st District",total_votes,,1567
+Coos,14,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,282
+Coos,14,"State Senator, 1st District",candidate,David Brock Smith,1271
+Coos,14,"State Senator, 1st District",writein,,14
+Coos,14,"State Senator, 1st District",overvotes,,1
+Coos,14,"State Senator, 1st District",undervotes,,105
+Coos,15,"State Senator, 1st District",ballots_cast,,492
+Coos,15,"State Senator, 1st District",registered,,640
+Coos,15,"State Senator, 1st District",total_votes,,453
+Coos,15,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,107
+Coos,15,"State Senator, 1st District",candidate,David Brock Smith,346
+Coos,15,"State Senator, 1st District",writein,,0
+Coos,15,"State Senator, 1st District",overvotes,,0
+Coos,15,"State Senator, 1st District",undervotes,,39
+Coos,16,"State Senator, 1st District",ballots_cast,,2100
+Coos,16,"State Senator, 1st District",registered,,2683
+Coos,16,"State Senator, 1st District",total_votes,,1951
+Coos,16,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,917
+Coos,16,"State Senator, 1st District",candidate,David Brock Smith,1030
+Coos,16,"State Senator, 1st District",writein,,4
+Coos,16,"State Senator, 1st District",overvotes,,0
+Coos,16,"State Senator, 1st District",undervotes,,149
+Coos,17,"State Senator, 1st District",ballots_cast,,2580
+Coos,17,"State Senator, 1st District",registered,,3410
+Coos,17,"State Senator, 1st District",total_votes,,2410
+Coos,17,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,864
+Coos,17,"State Senator, 1st District",candidate,David Brock Smith,1542
+Coos,17,"State Senator, 1st District",writein,,4
+Coos,17,"State Senator, 1st District",overvotes,,0
+Coos,17,"State Senator, 1st District",undervotes,,170
+Coos,18,"State Senator, 1st District",ballots_cast,,357
+Coos,18,"State Senator, 1st District",registered,,502
+Coos,18,"State Senator, 1st District",total_votes,,336
+Coos,18,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,99
+Coos,18,"State Senator, 1st District",candidate,David Brock Smith,236
+Coos,18,"State Senator, 1st District",writein,,1
+Coos,18,"State Senator, 1st District",overvotes,,0
+Coos,18,"State Senator, 1st District",undervotes,,21
+Coos,01,"State Senator, 5th District",ballots_cast,,1504
+Coos,01,"State Senator, 5th District",registered,,2040
+Coos,01,"State Senator, 5th District",total_votes,,1419
+Coos,01,"State Senator, 5th District",candidate,Jo Beaudreau,401
+Coos,01,"State Senator, 5th District",candidate,Dick Anderson,1018
+Coos,01,"State Senator, 5th District",writein,,0
+Coos,01,"State Senator, 5th District",overvotes,,0
+Coos,01,"State Senator, 5th District",undervotes,,85
+Coos,02,"State Senator, 5th District",ballots_cast,,2851
+Coos,02,"State Senator, 5th District",registered,,3615
+Coos,02,"State Senator, 5th District",total_votes,,2707
+Coos,02,"State Senator, 5th District",candidate,Jo Beaudreau,842
+Coos,02,"State Senator, 5th District",candidate,Dick Anderson,1863
+Coos,02,"State Senator, 5th District",writein,,2
+Coos,02,"State Senator, 5th District",overvotes,,0
+Coos,02,"State Senator, 5th District",undervotes,,144
+Coos,03,"State Senator, 5th District",ballots_cast,,3016
+Coos,03,"State Senator, 5th District",registered,,4309
+Coos,03,"State Senator, 5th District",total_votes,,2820
+Coos,03,"State Senator, 5th District",candidate,Jo Beaudreau,1045
+Coos,03,"State Senator, 5th District",candidate,Dick Anderson,1775
+Coos,03,"State Senator, 5th District",writein,,0
+Coos,03,"State Senator, 5th District",overvotes,,0
+Coos,03,"State Senator, 5th District",undervotes,,196
+Coos,04,"State Senator, 5th District",ballots_cast,,2197
+Coos,04,"State Senator, 5th District",registered,,3069
+Coos,04,"State Senator, 5th District",total_votes,,2030
+Coos,04,"State Senator, 5th District",candidate,Jo Beaudreau,953
+Coos,04,"State Senator, 5th District",candidate,Dick Anderson,1074
+Coos,04,"State Senator, 5th District",writein,,3
+Coos,04,"State Senator, 5th District",overvotes,,0
+Coos,04,"State Senator, 5th District",undervotes,,167
+Coos,05,"State Senator, 5th District",ballots_cast,,3500
+Coos,05,"State Senator, 5th District",registered,,5343
+Coos,05,"State Senator, 5th District",total_votes,,3265
+Coos,05,"State Senator, 5th District",candidate,Jo Beaudreau,1344
+Coos,05,"State Senator, 5th District",candidate,Dick Anderson,1916
+Coos,05,"State Senator, 5th District",writein,,5
+Coos,05,"State Senator, 5th District",overvotes,,1
+Coos,05,"State Senator, 5th District",undervotes,,234
+Coos,06,"State Senator, 5th District",ballots_cast,,2057
+Coos,06,"State Senator, 5th District",registered,,2828
+Coos,06,"State Senator, 5th District",total_votes,,1924
+Coos,06,"State Senator, 5th District",candidate,Jo Beaudreau,862
+Coos,06,"State Senator, 5th District",candidate,Dick Anderson,1055
+Coos,06,"State Senator, 5th District",writein,,7
+Coos,06,"State Senator, 5th District",overvotes,,0
+Coos,06,"State Senator, 5th District",undervotes,,133
+Coos,07,"State Senator, 5th District",ballots_cast,,2375
+Coos,07,"State Senator, 5th District",registered,,3452
+Coos,07,"State Senator, 5th District",total_votes,,2216
+Coos,07,"State Senator, 5th District",candidate,Jo Beaudreau,968
+Coos,07,"State Senator, 5th District",candidate,Dick Anderson,1246
+Coos,07,"State Senator, 5th District",writein,,2
+Coos,07,"State Senator, 5th District",overvotes,,0
+Coos,07,"State Senator, 5th District",undervotes,,159
+Coos,08,"State Senator, 5th District",ballots_cast,,3393
+Coos,08,"State Senator, 5th District",registered,,5154
+Coos,08,"State Senator, 5th District",total_votes,,3165
+Coos,08,"State Senator, 5th District",candidate,Jo Beaudreau,1075
+Coos,08,"State Senator, 5th District",candidate,Dick Anderson,2085
+Coos,08,"State Senator, 5th District",writein,,5
+Coos,08,"State Senator, 5th District",overvotes,,0
+Coos,08,"State Senator, 5th District",undervotes,,228
+Coos,09,"State Senator, 5th District",ballots_cast,,333
+Coos,09,"State Senator, 5th District",registered,,516
+Coos,09,"State Senator, 5th District",total_votes,,310
+Coos,09,"State Senator, 5th District",candidate,Jo Beaudreau,152
+Coos,09,"State Senator, 5th District",candidate,Dick Anderson,158
+Coos,09,"State Senator, 5th District",writein,,0
+Coos,09,"State Senator, 5th District",overvotes,,0
+Coos,09,"State Senator, 5th District",undervotes,,23
+Coos,10,"State Representative, 1st District",ballots_cast,,2378
+Coos,10,"State Representative, 1st District",registered,,3054
+Coos,10,"State Representative, 1st District",total_votes,,2241
+Coos,10,"State Representative, 1st District",candidate,Court Boice,1592
+Coos,10,"State Representative, 1st District",candidate,Bret Cecil,646
+Coos,10,"State Representative, 1st District",writein,,3
+Coos,10,"State Representative, 1st District",overvotes,,0
+Coos,10,"State Representative, 1st District",undervotes,,137
+Coos,11,"State Representative, 1st District",ballots_cast,,1925
+Coos,11,"State Representative, 1st District",registered,,2541
+Coos,11,"State Representative, 1st District",total_votes,,1806
+Coos,11,"State Representative, 1st District",candidate,Court Boice,1328
+Coos,11,"State Representative, 1st District",candidate,Bret Cecil,473
+Coos,11,"State Representative, 1st District",writein,,5
+Coos,11,"State Representative, 1st District",overvotes,,0
+Coos,11,"State Representative, 1st District",undervotes,,119
+Coos,12,"State Representative, 1st District",ballots_cast,,2089
+Coos,12,"State Representative, 1st District",registered,,2934
+Coos,12,"State Representative, 1st District",total_votes,,1944
+Coos,12,"State Representative, 1st District",candidate,Court Boice,1292
+Coos,12,"State Representative, 1st District",candidate,Bret Cecil,651
+Coos,12,"State Representative, 1st District",writein,,1
+Coos,12,"State Representative, 1st District",overvotes,,0
+Coos,12,"State Representative, 1st District",undervotes,,145
+Coos,13,"State Representative, 1st District",ballots_cast,,1290
+Coos,13,"State Representative, 1st District",registered,,1899
+Coos,13,"State Representative, 1st District",total_votes,,1225
+Coos,13,"State Representative, 1st District",candidate,Court Boice,888
+Coos,13,"State Representative, 1st District",candidate,Bret Cecil,336
+Coos,13,"State Representative, 1st District",writein,,1
+Coos,13,"State Representative, 1st District",overvotes,,0
+Coos,13,"State Representative, 1st District",undervotes,,65
+Coos,14,"State Representative, 1st District",ballots_cast,,1673
+Coos,14,"State Representative, 1st District",registered,,2133
+Coos,14,"State Representative, 1st District",total_votes,,1578
+Coos,14,"State Representative, 1st District",candidate,Court Boice,1271
+Coos,14,"State Representative, 1st District",candidate,Bret Cecil,304
+Coos,14,"State Representative, 1st District",writein,,3
+Coos,14,"State Representative, 1st District",overvotes,,0
+Coos,14,"State Representative, 1st District",undervotes,,95
+Coos,15,"State Representative, 1st District",ballots_cast,,492
+Coos,15,"State Representative, 1st District",registered,,640
+Coos,15,"State Representative, 1st District",total_votes,,460
+Coos,15,"State Representative, 1st District",candidate,Court Boice,349
+Coos,15,"State Representative, 1st District",candidate,Bret Cecil,111
+Coos,15,"State Representative, 1st District",writein,,0
+Coos,15,"State Representative, 1st District",overvotes,,0
+Coos,15,"State Representative, 1st District",undervotes,,32
+Coos,16,"State Representative, 1st District",ballots_cast,,2100
+Coos,16,"State Representative, 1st District",registered,,2683
+Coos,16,"State Representative, 1st District",total_votes,,1950
+Coos,16,"State Representative, 1st District",candidate,Court Boice,970
+Coos,16,"State Representative, 1st District",candidate,Bret Cecil,979
+Coos,16,"State Representative, 1st District",writein,,1
+Coos,16,"State Representative, 1st District",overvotes,,1
+Coos,16,"State Representative, 1st District",undervotes,,149
+Coos,17,"State Representative, 1st District",ballots_cast,,2580
+Coos,17,"State Representative, 1st District",registered,,3410
+Coos,17,"State Representative, 1st District",total_votes,,2419
+Coos,17,"State Representative, 1st District",candidate,Court Boice,1500
+Coos,17,"State Representative, 1st District",candidate,Bret Cecil,917
+Coos,17,"State Representative, 1st District",writein,,2
+Coos,17,"State Representative, 1st District",overvotes,,0
+Coos,17,"State Representative, 1st District",undervotes,,161
+Coos,18,"State Representative, 1st District",ballots_cast,,357
+Coos,18,"State Representative, 1st District",registered,,502
+Coos,18,"State Representative, 1st District",total_votes,,332
+Coos,18,"State Representative, 1st District",candidate,Court Boice,223
+Coos,18,"State Representative, 1st District",candidate,Bret Cecil,109
+Coos,18,"State Representative, 1st District",writein,,0
+Coos,18,"State Representative, 1st District",overvotes,,0
+Coos,18,"State Representative, 1st District",undervotes,,25
+Coos,01,"State Representative, 9th District",ballots_cast,,1504
+Coos,01,"State Representative, 9th District",registered,,2040
+Coos,01,"State Representative, 9th District",total_votes,,1413
+Coos,01,"State Representative, 9th District",candidate,Boomer Wright,1035
+Coos,01,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,377
+Coos,01,"State Representative, 9th District",writein,,1
+Coos,01,"State Representative, 9th District",overvotes,,0
+Coos,01,"State Representative, 9th District",undervotes,,91
+Coos,02,"State Representative, 9th District",ballots_cast,,2851
+Coos,02,"State Representative, 9th District",registered,,3615
+Coos,02,"State Representative, 9th District",total_votes,,2670
+Coos,02,"State Representative, 9th District",candidate,Boomer Wright,1902
+Coos,02,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,765
+Coos,02,"State Representative, 9th District",writein,,3
+Coos,02,"State Representative, 9th District",overvotes,,0
+Coos,02,"State Representative, 9th District",undervotes,,181
+Coos,03,"State Representative, 9th District",ballots_cast,,3016
+Coos,03,"State Representative, 9th District",registered,,4309
+Coos,03,"State Representative, 9th District",total_votes,,2810
+Coos,03,"State Representative, 9th District",candidate,Boomer Wright,1871
+Coos,03,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,938
+Coos,03,"State Representative, 9th District",writein,,1
+Coos,03,"State Representative, 9th District",overvotes,,0
+Coos,03,"State Representative, 9th District",undervotes,,206
+Coos,04,"State Representative, 9th District",ballots_cast,,2197
+Coos,04,"State Representative, 9th District",registered,,3069
+Coos,04,"State Representative, 9th District",total_votes,,2012
+Coos,04,"State Representative, 9th District",candidate,Boomer Wright,1139
+Coos,04,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,870
+Coos,04,"State Representative, 9th District",writein,,3
+Coos,04,"State Representative, 9th District",overvotes,,0
+Coos,04,"State Representative, 9th District",undervotes,,185
+Coos,05,"State Representative, 9th District",ballots_cast,,3500
+Coos,05,"State Representative, 9th District",registered,,5343
+Coos,05,"State Representative, 9th District",total_votes,,3227
+Coos,05,"State Representative, 9th District",candidate,Boomer Wright,1944
+Coos,05,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,1273
+Coos,05,"State Representative, 9th District",writein,,10
+Coos,05,"State Representative, 9th District",overvotes,,0
+Coos,05,"State Representative, 9th District",undervotes,,273
+Coos,06,"State Representative, 9th District",ballots_cast,,2057
+Coos,06,"State Representative, 9th District",registered,,2828
+Coos,06,"State Representative, 9th District",total_votes,,1902
+Coos,06,"State Representative, 9th District",candidate,Boomer Wright,1093
+Coos,06,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,805
+Coos,06,"State Representative, 9th District",writein,,4
+Coos,06,"State Representative, 9th District",overvotes,,0
+Coos,06,"State Representative, 9th District",undervotes,,155
+Coos,07,"State Representative, 9th District",ballots_cast,,2375
+Coos,07,"State Representative, 9th District",registered,,3452
+Coos,07,"State Representative, 9th District",total_votes,,2181
+Coos,07,"State Representative, 9th District",candidate,Boomer Wright,1268
+Coos,07,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,908
+Coos,07,"State Representative, 9th District",writein,,5
+Coos,07,"State Representative, 9th District",overvotes,,0
+Coos,07,"State Representative, 9th District",undervotes,,194
+Coos,08,"State Representative, 9th District",ballots_cast,,3393
+Coos,08,"State Representative, 9th District",registered,,5154
+Coos,08,"State Representative, 9th District",total_votes,,3173
+Coos,08,"State Representative, 9th District",candidate,Boomer Wright,2157
+Coos,08,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,1009
+Coos,08,"State Representative, 9th District",writein,,7
+Coos,08,"State Representative, 9th District",overvotes,,0
+Coos,08,"State Representative, 9th District",undervotes,,220
+Coos,09,"State Representative, 9th District",ballots_cast,,333
+Coos,09,"State Representative, 9th District",registered,,516
+Coos,09,"State Representative, 9th District",total_votes,,307
+Coos,09,"State Representative, 9th District",candidate,Boomer Wright,166
+Coos,09,"State Representative, 9th District",candidate,William (Mrk) Mrkvicka,141
+Coos,09,"State Representative, 9th District",writein,,0
+Coos,09,"State Representative, 9th District",overvotes,,0
+Coos,09,"State Representative, 9th District",undervotes,,26

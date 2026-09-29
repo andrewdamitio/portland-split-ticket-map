@@ -1,0 +1,28 @@
+# Wheeler County, November 5, 2024 General Election - "Detail Results By Precinct" (data/sources/wheeler-2024-general.pdf)
+# Scanned, clerk-certified report, one section per precinct (FOS = Fossil, MIT = Mitchell, SPR = Spray);
+# transcribed from the page images. The map numbers them 1, 3, 4, matched by their Harris/Trump counts.
+# Contest "Total" = ballots cast.
+
+contest: President
+source: pages 1, 6, 11
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | overvotes | undervotes | ballots_cast
+1 FOS: 13 0 1 0 256 6 103 1 0 9 389
+3 MIT: 2 0 2 0 150 0 52 1 0 4 211
+4 SPR: 10 0 2 0 212 1 55 1 1 9 291
+TOTAL: n/a
+
+contest: State Senator, 29th District
+source: pages 2, 7, 12
+cols: Wildbill | Nash | writein | overvotes | undervotes | ballots_cast
+1 FOS: 37 279 2 0 71 389
+3 MIT: 23 156 1 0 31 211
+4 SPR: 30 219 0 0 42 291
+TOTAL: n/a
+
+contest: State Representative, 57th District
+source: pages 2, 7, 12
+cols: Smith | writein | overvotes | undervotes | ballots_cast
+1 FOS: 276 5 0 108 389
+3 MIT: 168 6 0 37 211
+4 SPR: 222 4 0 65 291
+TOTAL: n/a

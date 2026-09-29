@@ -1,0 +1,31 @@
+EE SS
+
+Ballots Cast per Contest with Precincts                                          Page: 42 of 147
+
+Washington County November 5 2024 General Election                                    2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:11:39
+
+Official Results
+Total Ballots Cast: 301 105, Registered Voters: 400012, Overall Turnout: 75.27%
+State Representative, 34th District (Vote for 1)
+
+Precinct                  Ballots         Reg.             Total     John Verbeek          Lisa Reynolds              Write-in                  Over        Under
+Cast  Voters    Votes                             Votes   Votes
+Precinct 306     579   796    551   122 22.14%   429 77.86%    0 0.00%    0    28
+Precinct 325     155   287    140    36 25.71%   103 73.57%    1 0.71%    1)    15
+Precinct 331     2399   3344    2208   602 27.26%   1597 72.33%    9 0.41%    ft)   191
+Precinct 358     2526   3368    2331   685 29.39%   1644 70.53%    2 0.09%    ft)   195
+Precinct 363     2925   3775    2689   709 26.37%   1977 73.52%    3 0.11%    0   236
+Precinct 364     4460   5420    4094   1142 27.89%   2948 72.01%    4 0.10%    t)   366
+Precinct 367    4269   5549    3925   1099 28.00%   2821 71.87%    5 0.13%    )   344
+Precinct 368     3793   4976    3478   1016 29.21%   2457 70.64%    5 0.14%    2   313
+Precinct 371    2037   2542    1887   536 28.40%   1351 71.60%    0 0.00%    1   149
+Precinct 376     1779   2268    1628   508 31.20%   1115 68.49%    5 0.31%    0   151
+Precinct 377     2251   2804    2078   637 30.65%   1439 69.25%    2 0.10%    0   173
+Precinct 381     475   606    441   110 24.94%   331 75.06%    0 0.00%    0    34
+Precinct 387     21    46     21    10 47.62%    11 52.38%    0 0.00%    0    0
+Precinct 390     2098   2643    1925   614 31.90%   1307 67.90%    4 0.21%    0   173
+Precinct 403    1374   1708    1242   411 33.09%   830 66.83%    1 0.08%    0   132
+Precinct 439     2375   3122    2200   598 27.18%   1600 72.73%    2 0.09%    )   175
+Total       33516  43254   30838   8835 28.65%  21960 71.21%    43 0.14%    3   2675

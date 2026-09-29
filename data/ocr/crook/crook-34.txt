@@ -1,0 +1,59 @@
+—_—_——— SQ
+Statement of Votes Cast by Geography                                             Page: 34 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                              2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                 Votes        Vote %
+State Treasurer (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 113 undervotes), 2915 registered voters, turnout 85.18%
+Mary King                                                        76           3.21%
+Brian J Boquist                                           1749         73.83%
+Elizabeth Steiner                                          544         22.96%
+Write-in                                                        0          0.00%
+Total                                                       2369       100.00%
+Overvotes                                                     1
+Undervotes                                                 113
+Attorney General (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 92 undervotes), 2915 registered voters, turnout 85.18%
+Will Lathrop                                                          1815           75.94%
+Dan Rayfield                                               572         23.93%
+Write-in                                                                                                        3                   0.13%
+Total                                                                                                      2390              100.00%
+Overvotes                                                     4
+Undervotes                                                  92
+State Senator, 30th District (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 601 undervotes), 2915 registered voters, turnout 85.18%
+Mike McLane                                                 1847         98.19%
+Write-in                                                       34          1.81%
+Total                                                                                          1881             100.00%
+Overvotes                                                     1
+Undervotes                                                 601
+State Representative, 59th District (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 98 undervotes), 2915 registered voters, turnout 85.18%
+Vikki Breese-Iverson                                   1834        76.93%
+Brian K Samp                                              543         22.78%
+Write-in                                                        7          0.29%
+Total                                                       2384       {00.00%
+Overvotes                                                     1
+Undervotes                                                  98
+Judge of the Supreme Court, Position 1 (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 1040 undervotes), 2915 registered voters, turnout 85.18%
+Stephen K Bushong                                         1391          96.46%
+Write-in                                                       51          3.54%
+Total                                                                                                      1442              100.00%
+Overvotes                                                     1
+Undervotes                                1040
+Judge of the Supreme Court, Position 7 (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 1150 undervotes), 2915 registered voters, turnout 85.18%
+Bronson D James                                        1299         97.52%
+Write-in                                                       33          2.48%
+Total                                                       1332        100.00%
+Overvotes                                                     4
+Undervotes                                                                         1150
+Crook County Commissioner, Position 3 (Vote for 1)
+2483 ballots (1 over voted ballots, 1 overvotes, 269 undervotes), 2915 registered voters, turnout 85.18%
+Seth Crawford                                            1263         57.07%
+Ken A Fahlgren                                                937         42.34%
+Write-in                                                                                                      13                   0.59%

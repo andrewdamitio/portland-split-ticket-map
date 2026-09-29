@@ -1,0 +1,73 @@
+{
+ "_pages": "data/.cache/text/klamath.raw.txt",
+ "_base": [
+  "total_votes"
+ ],
+ "President": [
+  {
+   "pages": [
+    1
+   ],
+   "cols": [
+    "cand:Robert F Kennedy Jr/Nicole Shanahan",
+    "cand:Cornel West",
+    "cand:Chase Oliver/Mike ter Maat",
+    "cand:Randall Terry",
+    "cand:Donald J Trump/JD Vance"
+   ]
+  },
+  {
+   "pages": [
+    2
+   ],
+   "cols": [
+    "cand:Jill Stein/Rudolph Ware",
+    "cand:Kamala D Harris/Tim Walz",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Senator, 28th District": [
+  {
+   "pages": [
+    7
+   ],
+   "cols": [
+    "cand:Dylan Gutridge",
+    "cand:Diane Linthicum",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 55th District": [
+  {
+   "pages": [
+    8
+   ],
+   "cols": [
+    "cand:James Williamson",
+    "cand:E Werner Reschke",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ],
+ "State Representative, 56th District": [
+  {
+   "pages": [
+    9
+   ],
+   "cols": [
+    "cand:Emily G McIntire",
+    "writein",
+    "overvotes",
+    "undervotes"
+   ]
+  }
+ ]
+}

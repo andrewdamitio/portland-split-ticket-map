@@ -1,0 +1,705 @@
+county,precinct_label,contest,type,choice,votes
+Lincoln,01 WALDPORT,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,22
+Lincoln,01 WALDPORT,President,candidate,Cornel West,0
+Lincoln,01 WALDPORT,President,candidate,Chase Oliver / Mike ter Maat,4
+Lincoln,01 WALDPORT,President,candidate,Randall Terry,2
+Lincoln,01 WALDPORT,President,candidate,Donald J Trump / JD Vance,536
+Lincoln,01 WALDPORT,President,candidate,Jill Stein / Rudolph Ware,10
+Lincoln,01 WALDPORT,President,candidate,Kamala D Harris / Tim Walz,863
+Lincoln,01 WALDPORT,President,writein,,3
+Lincoln,01 WALDPORT,President,total_votes,,1440
+Lincoln,01 WALDPORT,President,overvotes,,0
+Lincoln,01 WALDPORT,President,undervotes,,8
+Lincoln,02 ALSEA,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Lincoln,02 ALSEA,President,candidate,Cornel West,0
+Lincoln,02 ALSEA,President,candidate,Chase Oliver / Mike ter Maat,2
+Lincoln,02 ALSEA,President,candidate,Randall Terry,0
+Lincoln,02 ALSEA,President,candidate,Donald J Trump / JD Vance,289
+Lincoln,02 ALSEA,President,candidate,Jill Stein / Rudolph Ware,3
+Lincoln,02 ALSEA,President,candidate,Kamala D Harris / Tim Walz,288
+Lincoln,02 ALSEA,President,writein,,0
+Lincoln,02 ALSEA,President,total_votes,,591
+Lincoln,02 ALSEA,President,overvotes,,2
+Lincoln,02 ALSEA,President,undervotes,,6
+Lincoln,03 SEAVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,11
+Lincoln,03 SEAVIEW,President,candidate,Cornel West,2
+Lincoln,03 SEAVIEW,President,candidate,Chase Oliver / Mike ter Maat,7
+Lincoln,03 SEAVIEW,President,candidate,Randall Terry,0
+Lincoln,03 SEAVIEW,President,candidate,Donald J Trump / JD Vance,295
+Lincoln,03 SEAVIEW,President,candidate,Jill Stein / Rudolph Ware,15
+Lincoln,03 SEAVIEW,President,candidate,Kamala D Harris / Tim Walz,489
+Lincoln,03 SEAVIEW,President,writein,,5
+Lincoln,03 SEAVIEW,President,total_votes,,824
+Lincoln,03 SEAVIEW,President,overvotes,,0
+Lincoln,03 SEAVIEW,President,undervotes,,7
+Lincoln,04 TIDEWATER,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Lincoln,04 TIDEWATER,President,candidate,Cornel West,1
+Lincoln,04 TIDEWATER,President,candidate,Chase Oliver / Mike ter Maat,1
+Lincoln,04 TIDEWATER,President,candidate,Randall Terry,0
+Lincoln,04 TIDEWATER,President,candidate,Donald J Trump / JD Vance,266
+Lincoln,04 TIDEWATER,President,candidate,Jill Stein / Rudolph Ware,0
+Lincoln,04 TIDEWATER,President,candidate,Kamala D Harris / Tim Walz,204
+Lincoln,04 TIDEWATER,President,writein,,1
+Lincoln,04 TIDEWATER,President,total_votes,,482
+Lincoln,04 TIDEWATER,President,overvotes,,0
+Lincoln,04 TIDEWATER,President,undervotes,,5
+Lincoln,05 YACHATS,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,10
+Lincoln,05 YACHATS,President,candidate,Cornel West,0
+Lincoln,05 YACHATS,President,candidate,Chase Oliver / Mike ter Maat,3
+Lincoln,05 YACHATS,President,candidate,Randall Terry,1
+Lincoln,05 YACHATS,President,candidate,Donald J Trump / JD Vance,185
+Lincoln,05 YACHATS,President,candidate,Jill Stein / Rudolph Ware,18
+Lincoln,05 YACHATS,President,candidate,Kamala D Harris / Tim Walz,875
+Lincoln,05 YACHATS,President,writein,,3
+Lincoln,05 YACHATS,President,total_votes,,1095
+Lincoln,05 YACHATS,President,overvotes,,0
+Lincoln,05 YACHATS,President,undervotes,,7
+Lincoln,06 BAYVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,14
+Lincoln,06 BAYVIEW,President,candidate,Cornel West,2
+Lincoln,06 BAYVIEW,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,06 BAYVIEW,President,candidate,Randall Terry,1
+Lincoln,06 BAYVIEW,President,candidate,Donald J Trump / JD Vance,411
+Lincoln,06 BAYVIEW,President,candidate,Jill Stein / Rudolph Ware,5
+Lincoln,06 BAYVIEW,President,candidate,Kamala D Harris / Tim Walz,776
+Lincoln,06 BAYVIEW,President,writein,,1
+Lincoln,06 BAYVIEW,President,total_votes,,1215
+Lincoln,06 BAYVIEW,President,overvotes,,2
+Lincoln,06 BAYVIEW,President,undervotes,,14
+Lincoln,07 SEAL ROCK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,21
+Lincoln,07 SEAL ROCK,President,candidate,Cornel West,2
+Lincoln,07 SEAL ROCK,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,07 SEAL ROCK,President,candidate,Randall Terry,0
+Lincoln,07 SEAL ROCK,President,candidate,Donald J Trump / JD Vance,426
+Lincoln,07 SEAL ROCK,President,candidate,Jill Stein / Rudolph Ware,7
+Lincoln,07 SEAL ROCK,President,candidate,Kamala D Harris / Tim Walz,697
+Lincoln,07 SEAL ROCK,President,writein,,3
+Lincoln,07 SEAL ROCK,President,total_votes,,1161
+Lincoln,07 SEAL ROCK,President,overvotes,,0
+Lincoln,07 SEAL ROCK,President,undervotes,,10
+Lincoln,08 SOUTH BEACH,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,16
+Lincoln,08 SOUTH BEACH,President,candidate,Cornel West,1
+Lincoln,08 SOUTH BEACH,President,candidate,Chase Oliver / Mike ter Maat,2
+Lincoln,08 SOUTH BEACH,President,candidate,Randall Terry,0
+Lincoln,08 SOUTH BEACH,President,candidate,Donald J Trump / JD Vance,376
+Lincoln,08 SOUTH BEACH,President,candidate,Jill Stein / Rudolph Ware,9
+Lincoln,08 SOUTH BEACH,President,candidate,Kamala D Harris / Tim Walz,610
+Lincoln,08 SOUTH BEACH,President,writein,,6
+Lincoln,08 SOUTH BEACH,President,total_votes,,1020
+Lincoln,08 SOUTH BEACH,President,overvotes,,1
+Lincoln,08 SOUTH BEACH,President,undervotes,,7
+Lincoln,09 NYE CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,13
+Lincoln,09 NYE CREEK,President,candidate,Cornel West,6
+Lincoln,09 NYE CREEK,President,candidate,Chase Oliver / Mike ter Maat,1
+Lincoln,09 NYE CREEK,President,candidate,Randall Terry,0
+Lincoln,09 NYE CREEK,President,candidate,Donald J Trump / JD Vance,216
+Lincoln,09 NYE CREEK,President,candidate,Jill Stein / Rudolph Ware,11
+Lincoln,09 NYE CREEK,President,candidate,Kamala D Harris / Tim Walz,545
+Lincoln,09 NYE CREEK,President,writein,,8
+Lincoln,09 NYE CREEK,President,total_votes,,800
+Lincoln,09 NYE CREEK,President,overvotes,,0
+Lincoln,09 NYE CREEK,President,undervotes,,6
+Lincoln,10 NEWPORT BAY,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Lincoln,10 NEWPORT BAY,President,candidate,Cornel West,0
+Lincoln,10 NEWPORT BAY,President,candidate,Chase Oliver / Mike ter Maat,6
+Lincoln,10 NEWPORT BAY,President,candidate,Randall Terry,1
+Lincoln,10 NEWPORT BAY,President,candidate,Donald J Trump / JD Vance,168
+Lincoln,10 NEWPORT BAY,President,candidate,Jill Stein / Rudolph Ware,3
+Lincoln,10 NEWPORT BAY,President,candidate,Kamala D Harris / Tim Walz,399
+Lincoln,10 NEWPORT BAY,President,writein,,5
+Lincoln,10 NEWPORT BAY,President,total_votes,,591
+Lincoln,10 NEWPORT BAY,President,overvotes,,0
+Lincoln,10 NEWPORT BAY,President,undervotes,,8
+Lincoln,11 OCEANVIEW,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,15
+Lincoln,11 OCEANVIEW,President,candidate,Cornel West,0
+Lincoln,11 OCEANVIEW,President,candidate,Chase Oliver / Mike ter Maat,4
+Lincoln,11 OCEANVIEW,President,candidate,Randall Terry,0
+Lincoln,11 OCEANVIEW,President,candidate,Donald J Trump / JD Vance,237
+Lincoln,11 OCEANVIEW,President,candidate,Jill Stein / Rudolph Ware,13
+Lincoln,11 OCEANVIEW,President,candidate,Kamala D Harris / Tim Walz,474
+Lincoln,11 OCEANVIEW,President,writein,,6
+Lincoln,11 OCEANVIEW,President,total_votes,,749
+Lincoln,11 OCEANVIEW,President,overvotes,,0
+Lincoln,11 OCEANVIEW,President,undervotes,,6
+Lincoln,12 YAQUINA,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,21
+Lincoln,12 YAQUINA,President,candidate,Cornel West,2
+Lincoln,12 YAQUINA,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,12 YAQUINA,President,candidate,Randall Terry,1
+Lincoln,12 YAQUINA,President,candidate,Donald J Trump / JD Vance,441
+Lincoln,12 YAQUINA,President,candidate,Jill Stein / Rudolph Ware,11
+Lincoln,12 YAQUINA,President,candidate,Kamala D Harris / Tim Walz,672
+Lincoln,12 YAQUINA,President,writein,,12
+Lincoln,12 YAQUINA,President,total_votes,,1165
+Lincoln,12 YAQUINA,President,overvotes,,0
+Lincoln,12 YAQUINA,President,undervotes,,7
+Lincoln,13 PACIFIC,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,24
+Lincoln,13 PACIFIC,President,candidate,Cornel West,2
+Lincoln,13 PACIFIC,President,candidate,Chase Oliver / Mike ter Maat,10
+Lincoln,13 PACIFIC,President,candidate,Randall Terry,1
+Lincoln,13 PACIFIC,President,candidate,Donald J Trump / JD Vance,402
+Lincoln,13 PACIFIC,President,candidate,Jill Stein / Rudolph Ware,9
+Lincoln,13 PACIFIC,President,candidate,Kamala D Harris / Tim Walz,677
+Lincoln,13 PACIFIC,President,writein,,7
+Lincoln,13 PACIFIC,President,total_votes,,1132
+Lincoln,13 PACIFIC,President,overvotes,,0
+Lincoln,13 PACIFIC,President,undervotes,,10
+Lincoln,14 AGATE BEACH,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,23
+Lincoln,14 AGATE BEACH,President,candidate,Cornel West,0
+Lincoln,14 AGATE BEACH,President,candidate,Chase Oliver / Mike ter Maat,4
+Lincoln,14 AGATE BEACH,President,candidate,Randall Terry,2
+Lincoln,14 AGATE BEACH,President,candidate,Donald J Trump / JD Vance,399
+Lincoln,14 AGATE BEACH,President,candidate,Jill Stein / Rudolph Ware,10
+Lincoln,14 AGATE BEACH,President,candidate,Kamala D Harris / Tim Walz,703
+Lincoln,14 AGATE BEACH,President,writein,,6
+Lincoln,14 AGATE BEACH,President,total_votes,,1147
+Lincoln,14 AGATE BEACH,President,overvotes,,1
+Lincoln,14 AGATE BEACH,President,undervotes,,2
+Lincoln,15 OTTER ROCK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Lincoln,15 OTTER ROCK,President,candidate,Cornel West,0
+Lincoln,15 OTTER ROCK,President,candidate,Chase Oliver / Mike ter Maat,1
+Lincoln,15 OTTER ROCK,President,candidate,Randall Terry,0
+Lincoln,15 OTTER ROCK,President,candidate,Donald J Trump / JD Vance,118
+Lincoln,15 OTTER ROCK,President,candidate,Jill Stein / Rudolph Ware,0
+Lincoln,15 OTTER ROCK,President,candidate,Kamala D Harris / Tim Walz,248
+Lincoln,15 OTTER ROCK,President,writein,,3
+Lincoln,15 OTTER ROCK,President,total_votes,,374
+Lincoln,15 OTTER ROCK,President,overvotes,,0
+Lincoln,15 OTTER ROCK,President,undervotes,,3
+Lincoln,16 DEPOE BAY,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,11
+Lincoln,16 DEPOE BAY,President,candidate,Cornel West,1
+Lincoln,16 DEPOE BAY,President,candidate,Chase Oliver / Mike ter Maat,6
+Lincoln,16 DEPOE BAY,President,candidate,Randall Terry,0
+Lincoln,16 DEPOE BAY,President,candidate,Donald J Trump / JD Vance,377
+Lincoln,16 DEPOE BAY,President,candidate,Jill Stein / Rudolph Ware,5
+Lincoln,16 DEPOE BAY,President,candidate,Kamala D Harris / Tim Walz,696
+Lincoln,16 DEPOE BAY,President,writein,,3
+Lincoln,16 DEPOE BAY,President,total_votes,,1099
+Lincoln,16 DEPOE BAY,President,overvotes,,1
+Lincoln,16 DEPOE BAY,President,undervotes,,6
+Lincoln,17 FOGARTY CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,14
+Lincoln,17 FOGARTY CREEK,President,candidate,Cornel West,2
+Lincoln,17 FOGARTY CREEK,President,candidate,Chase Oliver / Mike ter Maat,2
+Lincoln,17 FOGARTY CREEK,President,candidate,Randall Terry,0
+Lincoln,17 FOGARTY CREEK,President,candidate,Donald J Trump / JD Vance,384
+Lincoln,17 FOGARTY CREEK,President,candidate,Jill Stein / Rudolph Ware,4
+Lincoln,17 FOGARTY CREEK,President,candidate,Kamala D Harris / Tim Walz,697
+Lincoln,17 FOGARTY CREEK,President,writein,,6
+Lincoln,17 FOGARTY CREEK,President,total_votes,,1109
+Lincoln,17 FOGARTY CREEK,President,overvotes,,0
+Lincoln,17 FOGARTY CREEK,President,undervotes,,12
+Lincoln,18 KERN,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,24
+Lincoln,18 KERN,President,candidate,Cornel West,0
+Lincoln,18 KERN,President,candidate,Chase Oliver / Mike ter Maat,2
+Lincoln,18 KERN,President,candidate,Randall Terry,2
+Lincoln,18 KERN,President,candidate,Donald J Trump / JD Vance,349
+Lincoln,18 KERN,President,candidate,Jill Stein / Rudolph Ware,8
+Lincoln,18 KERN,President,candidate,Kamala D Harris / Tim Walz,691
+Lincoln,18 KERN,President,writein,,6
+Lincoln,18 KERN,President,total_votes,,1082
+Lincoln,18 KERN,President,overvotes,,0
+Lincoln,18 KERN,President,undervotes,,4
+Lincoln,19 SCHOONER CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,22
+Lincoln,19 SCHOONER CREEK,President,candidate,Cornel West,4
+Lincoln,19 SCHOONER CREEK,President,candidate,Chase Oliver / Mike ter Maat,3
+Lincoln,19 SCHOONER CREEK,President,candidate,Randall Terry,3
+Lincoln,19 SCHOONER CREEK,President,candidate,Donald J Trump / JD Vance,592
+Lincoln,19 SCHOONER CREEK,President,candidate,Jill Stein / Rudolph Ware,7
+Lincoln,19 SCHOONER CREEK,President,candidate,Kamala D Harris / Tim Walz,758
+Lincoln,19 SCHOONER CREEK,President,writein,,5
+Lincoln,19 SCHOONER CREEK,President,total_votes,,1394
+Lincoln,19 SCHOONER CREEK,President,overvotes,,1
+Lincoln,19 SCHOONER CREEK,President,undervotes,,11
+Lincoln,20 DELAKE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,24
+Lincoln,20 DELAKE,President,candidate,Cornel West,4
+Lincoln,20 DELAKE,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,20 DELAKE,President,candidate,Randall Terry,2
+Lincoln,20 DELAKE,President,candidate,Donald J Trump / JD Vance,567
+Lincoln,20 DELAKE,President,candidate,Jill Stein / Rudolph Ware,18
+Lincoln,20 DELAKE,President,candidate,Kamala D Harris / Tim Walz,1028
+Lincoln,20 DELAKE,President,writein,,7
+Lincoln,20 DELAKE,President,total_votes,,1655
+Lincoln,20 DELAKE,President,overvotes,,1
+Lincoln,20 DELAKE,President,undervotes,,9
+Lincoln,21 OCEANLAKE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,24
+Lincoln,21 OCEANLAKE,President,candidate,Cornel West,1
+Lincoln,21 OCEANLAKE,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,21 OCEANLAKE,President,candidate,Randall Terry,0
+Lincoln,21 OCEANLAKE,President,candidate,Donald J Trump / JD Vance,458
+Lincoln,21 OCEANLAKE,President,candidate,Jill Stein / Rudolph Ware,14
+Lincoln,21 OCEANLAKE,President,candidate,Kamala D Harris / Tim Walz,833
+Lincoln,21 OCEANLAKE,President,writein,,9
+Lincoln,21 OCEANLAKE,President,total_votes,,1344
+Lincoln,21 OCEANLAKE,President,overvotes,,1
+Lincoln,21 OCEANLAKE,President,undervotes,,13
+Lincoln,22 SUNSET WEST,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,29
+Lincoln,22 SUNSET WEST,President,candidate,Cornel West,2
+Lincoln,22 SUNSET WEST,President,candidate,Chase Oliver / Mike ter Maat,3
+Lincoln,22 SUNSET WEST,President,candidate,Randall Terry,1
+Lincoln,22 SUNSET WEST,President,candidate,Donald J Trump / JD Vance,641
+Lincoln,22 SUNSET WEST,President,candidate,Jill Stein / Rudolph Ware,11
+Lincoln,22 SUNSET WEST,President,candidate,Kamala D Harris / Tim Walz,1010
+Lincoln,22 SUNSET WEST,President,writein,,3
+Lincoln,22 SUNSET WEST,President,total_votes,,1700
+Lincoln,22 SUNSET WEST,President,overvotes,,2
+Lincoln,22 SUNSET WEST,President,undervotes,,8
+Lincoln,23 SUNSET EAST,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,27
+Lincoln,23 SUNSET EAST,President,candidate,Cornel West,0
+Lincoln,23 SUNSET EAST,President,candidate,Chase Oliver / Mike ter Maat,4
+Lincoln,23 SUNSET EAST,President,candidate,Randall Terry,1
+Lincoln,23 SUNSET EAST,President,candidate,Donald J Trump / JD Vance,475
+Lincoln,23 SUNSET EAST,President,candidate,Jill Stein / Rudolph Ware,4
+Lincoln,23 SUNSET EAST,President,candidate,Kamala D Harris / Tim Walz,428
+Lincoln,23 SUNSET EAST,President,writein,,5
+Lincoln,23 SUNSET EAST,President,total_votes,,944
+Lincoln,23 SUNSET EAST,President,overvotes,,0
+Lincoln,23 SUNSET EAST,President,undervotes,,8
+Lincoln,24 ROSE LODGE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,14
+Lincoln,24 ROSE LODGE,President,candidate,Cornel West,1
+Lincoln,24 ROSE LODGE,President,candidate,Chase Oliver / Mike ter Maat,4
+Lincoln,24 ROSE LODGE,President,candidate,Randall Terry,0
+Lincoln,24 ROSE LODGE,President,candidate,Donald J Trump / JD Vance,372
+Lincoln,24 ROSE LODGE,President,candidate,Jill Stein / Rudolph Ware,4
+Lincoln,24 ROSE LODGE,President,candidate,Kamala D Harris / Tim Walz,290
+Lincoln,24 ROSE LODGE,President,writein,,0
+Lincoln,24 ROSE LODGE,President,total_votes,,685
+Lincoln,24 ROSE LODGE,President,overvotes,,0
+Lincoln,24 ROSE LODGE,President,undervotes,,1
+Lincoln,25 BIG ELK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Lincoln,25 BIG ELK,President,candidate,Cornel West,1
+Lincoln,25 BIG ELK,President,candidate,Chase Oliver / Mike ter Maat,0
+Lincoln,25 BIG ELK,President,candidate,Randall Terry,0
+Lincoln,25 BIG ELK,President,candidate,Donald J Trump / JD Vance,62
+Lincoln,25 BIG ELK,President,candidate,Jill Stein / Rudolph Ware,0
+Lincoln,25 BIG ELK,President,candidate,Kamala D Harris / Tim Walz,24
+Lincoln,25 BIG ELK,President,writein,,0
+Lincoln,25 BIG ELK,President,total_votes,,89
+Lincoln,25 BIG ELK,President,overvotes,,0
+Lincoln,25 BIG ELK,President,undervotes,,1
+Lincoln,26 ELK CITY,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Lincoln,26 ELK CITY,President,candidate,Cornel West,0
+Lincoln,26 ELK CITY,President,candidate,Chase Oliver / Mike ter Maat,0
+Lincoln,26 ELK CITY,President,candidate,Randall Terry,0
+Lincoln,26 ELK CITY,President,candidate,Donald J Trump / JD Vance,58
+Lincoln,26 ELK CITY,President,candidate,Jill Stein / Rudolph Ware,0
+Lincoln,26 ELK CITY,President,candidate,Kamala D Harris / Tim Walz,21
+Lincoln,26 ELK CITY,President,writein,,0
+Lincoln,26 ELK CITY,President,total_votes,,79
+Lincoln,26 ELK CITY,President,overvotes,,0
+Lincoln,26 ELK CITY,President,undervotes,,1
+Lincoln,27 FRUITVALE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,11
+Lincoln,27 FRUITVALE,President,candidate,Cornel West,0
+Lincoln,27 FRUITVALE,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,27 FRUITVALE,President,candidate,Randall Terry,2
+Lincoln,27 FRUITVALE,President,candidate,Donald J Trump / JD Vance,442
+Lincoln,27 FRUITVALE,President,candidate,Jill Stein / Rudolph Ware,8
+Lincoln,27 FRUITVALE,President,candidate,Kamala D Harris / Tim Walz,279
+Lincoln,27 FRUITVALE,President,writein,,4
+Lincoln,27 FRUITVALE,President,total_votes,,751
+Lincoln,27 FRUITVALE,President,overvotes,,1
+Lincoln,27 FRUITVALE,President,undervotes,,8
+Lincoln,28 EDDYVILLE,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Lincoln,28 EDDYVILLE,President,candidate,Cornel West,0
+Lincoln,28 EDDYVILLE,President,candidate,Chase Oliver / Mike ter Maat,1
+Lincoln,28 EDDYVILLE,President,candidate,Randall Terry,0
+Lincoln,28 EDDYVILLE,President,candidate,Donald J Trump / JD Vance,220
+Lincoln,28 EDDYVILLE,President,candidate,Jill Stein / Rudolph Ware,2
+Lincoln,28 EDDYVILLE,President,candidate,Kamala D Harris / Tim Walz,142
+Lincoln,28 EDDYVILLE,President,writein,,3
+Lincoln,28 EDDYVILLE,President,total_votes,,376
+Lincoln,28 EDDYVILLE,President,overvotes,,0
+Lincoln,28 EDDYVILLE,President,undervotes,,3
+Lincoln,29 SILETZ,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,30
+Lincoln,29 SILETZ,President,candidate,Cornel West,1
+Lincoln,29 SILETZ,President,candidate,Chase Oliver / Mike ter Maat,7
+Lincoln,29 SILETZ,President,candidate,Randall Terry,0
+Lincoln,29 SILETZ,President,candidate,Donald J Trump / JD Vance,612
+Lincoln,29 SILETZ,President,candidate,Jill Stein / Rudolph Ware,5
+Lincoln,29 SILETZ,President,candidate,Kamala D Harris / Tim Walz,617
+Lincoln,29 SILETZ,President,writein,,6
+Lincoln,29 SILETZ,President,total_votes,,1278
+Lincoln,29 SILETZ,President,overvotes,,0
+Lincoln,29 SILETZ,President,undervotes,,10
+Lincoln,30 ROCK CREEK,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Lincoln,30 ROCK CREEK,President,candidate,Cornel West,0
+Lincoln,30 ROCK CREEK,President,candidate,Chase Oliver / Mike ter Maat,2
+Lincoln,30 ROCK CREEK,President,candidate,Randall Terry,0
+Lincoln,30 ROCK CREEK,President,candidate,Donald J Trump / JD Vance,106
+Lincoln,30 ROCK CREEK,President,candidate,Jill Stein / Rudolph Ware,5
+Lincoln,30 ROCK CREEK,President,candidate,Kamala D Harris / Tim Walz,129
+Lincoln,30 ROCK CREEK,President,writein,,1
+Lincoln,30 ROCK CREEK,President,total_votes,,247
+Lincoln,30 ROCK CREEK,President,overvotes,,0
+Lincoln,30 ROCK CREEK,President,undervotes,,2
+Lincoln,31 EAST TOLEDO,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,18
+Lincoln,31 EAST TOLEDO,President,candidate,Cornel West,4
+Lincoln,31 EAST TOLEDO,President,candidate,Chase Oliver / Mike ter Maat,0
+Lincoln,31 EAST TOLEDO,President,candidate,Randall Terry,0
+Lincoln,31 EAST TOLEDO,President,candidate,Donald J Trump / JD Vance,627
+Lincoln,31 EAST TOLEDO,President,candidate,Jill Stein / Rudolph Ware,11
+Lincoln,31 EAST TOLEDO,President,candidate,Kamala D Harris / Tim Walz,510
+Lincoln,31 EAST TOLEDO,President,writein,,2
+Lincoln,31 EAST TOLEDO,President,total_votes,,1172
+Lincoln,31 EAST TOLEDO,President,overvotes,,0
+Lincoln,31 EAST TOLEDO,President,undervotes,,10
+Lincoln,32 SOUTH TOLEDO,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,18
+Lincoln,32 SOUTH TOLEDO,President,candidate,Cornel West,3
+Lincoln,32 SOUTH TOLEDO,President,candidate,Chase Oliver / Mike ter Maat,5
+Lincoln,32 SOUTH TOLEDO,President,candidate,Randall Terry,0
+Lincoln,32 SOUTH TOLEDO,President,candidate,Donald J Trump / JD Vance,538
+Lincoln,32 SOUTH TOLEDO,President,candidate,Jill Stein / Rudolph Ware,7
+Lincoln,32 SOUTH TOLEDO,President,candidate,Kamala D Harris / Tim Walz,439
+Lincoln,32 SOUTH TOLEDO,President,writein,,4
+Lincoln,32 SOUTH TOLEDO,President,total_votes,,1014
+Lincoln,32 SOUTH TOLEDO,President,overvotes,,0
+Lincoln,32 SOUTH TOLEDO,President,undervotes,,5
+Lincoln,01 WALDPORT,"State Senator, 5th District",candidate,Jo Beaudreau,727
+Lincoln,01 WALDPORT,"State Senator, 5th District",candidate,Dick Anderson,643
+Lincoln,01 WALDPORT,"State Senator, 5th District",writein,,2
+Lincoln,01 WALDPORT,"State Senator, 5th District",total_votes,,1372
+Lincoln,01 WALDPORT,"State Senator, 5th District",overvotes,,0
+Lincoln,01 WALDPORT,"State Senator, 5th District",undervotes,,76
+Lincoln,02 ALSEA,"State Senator, 5th District",candidate,Jo Beaudreau,244
+Lincoln,02 ALSEA,"State Senator, 5th District",candidate,Dick Anderson,312
+Lincoln,02 ALSEA,"State Senator, 5th District",writein,,0
+Lincoln,02 ALSEA,"State Senator, 5th District",total_votes,,556
+Lincoln,02 ALSEA,"State Senator, 5th District",overvotes,,1
+Lincoln,02 ALSEA,"State Senator, 5th District",undervotes,,42
+Lincoln,03 SEAVIEW,"State Senator, 5th District",candidate,Jo Beaudreau,456
+Lincoln,03 SEAVIEW,"State Senator, 5th District",candidate,Dick Anderson,347
+Lincoln,03 SEAVIEW,"State Senator, 5th District",writein,,0
+Lincoln,03 SEAVIEW,"State Senator, 5th District",total_votes,,803
+Lincoln,03 SEAVIEW,"State Senator, 5th District",overvotes,,0
+Lincoln,03 SEAVIEW,"State Senator, 5th District",undervotes,,28
+Lincoln,04 TIDEWATER,"State Senator, 5th District",candidate,Jo Beaudreau,187
+Lincoln,04 TIDEWATER,"State Senator, 5th District",candidate,Dick Anderson,276
+Lincoln,04 TIDEWATER,"State Senator, 5th District",writein,,2
+Lincoln,04 TIDEWATER,"State Senator, 5th District",total_votes,,465
+Lincoln,04 TIDEWATER,"State Senator, 5th District",overvotes,,0
+Lincoln,04 TIDEWATER,"State Senator, 5th District",undervotes,,22
+Lincoln,05 YACHATS,"State Senator, 5th District",candidate,Jo Beaudreau,807
+Lincoln,05 YACHATS,"State Senator, 5th District",candidate,Dick Anderson,250
+Lincoln,05 YACHATS,"State Senator, 5th District",writein,,1
+Lincoln,05 YACHATS,"State Senator, 5th District",total_votes,,1058
+Lincoln,05 YACHATS,"State Senator, 5th District",overvotes,,0
+Lincoln,05 YACHATS,"State Senator, 5th District",undervotes,,44
+Lincoln,06 BAYVIEW,"State Senator, 5th District",candidate,Jo Beaudreau,704
+Lincoln,06 BAYVIEW,"State Senator, 5th District",candidate,Dick Anderson,468
+Lincoln,06 BAYVIEW,"State Senator, 5th District",writein,,1
+Lincoln,06 BAYVIEW,"State Senator, 5th District",total_votes,,1173
+Lincoln,06 BAYVIEW,"State Senator, 5th District",overvotes,,0
+Lincoln,06 BAYVIEW,"State Senator, 5th District",undervotes,,58
+Lincoln,07 SEAL ROCK,"State Senator, 5th District",candidate,Jo Beaudreau,623
+Lincoln,07 SEAL ROCK,"State Senator, 5th District",candidate,Dick Anderson,485
+Lincoln,07 SEAL ROCK,"State Senator, 5th District",writein,,4
+Lincoln,07 SEAL ROCK,"State Senator, 5th District",total_votes,,1112
+Lincoln,07 SEAL ROCK,"State Senator, 5th District",overvotes,,0
+Lincoln,07 SEAL ROCK,"State Senator, 5th District",undervotes,,59
+Lincoln,08 SOUTH BEACH,"State Senator, 5th District",candidate,Jo Beaudreau,547
+Lincoln,08 SOUTH BEACH,"State Senator, 5th District",candidate,Dick Anderson,427
+Lincoln,08 SOUTH BEACH,"State Senator, 5th District",writein,,1
+Lincoln,08 SOUTH BEACH,"State Senator, 5th District",total_votes,,975
+Lincoln,08 SOUTH BEACH,"State Senator, 5th District",overvotes,,1
+Lincoln,08 SOUTH BEACH,"State Senator, 5th District",undervotes,,52
+Lincoln,09 NYE CREEK,"State Senator, 5th District",candidate,Jo Beaudreau,508
+Lincoln,09 NYE CREEK,"State Senator, 5th District",candidate,Dick Anderson,255
+Lincoln,09 NYE CREEK,"State Senator, 5th District",writein,,2
+Lincoln,09 NYE CREEK,"State Senator, 5th District",total_votes,,765
+Lincoln,09 NYE CREEK,"State Senator, 5th District",overvotes,,0
+Lincoln,09 NYE CREEK,"State Senator, 5th District",undervotes,,41
+Lincoln,10 NEWPORT BAY,"State Senator, 5th District",candidate,Jo Beaudreau,344
+Lincoln,10 NEWPORT BAY,"State Senator, 5th District",candidate,Dick Anderson,226
+Lincoln,10 NEWPORT BAY,"State Senator, 5th District",writein,,0
+Lincoln,10 NEWPORT BAY,"State Senator, 5th District",total_votes,,570
+Lincoln,10 NEWPORT BAY,"State Senator, 5th District",overvotes,,0
+Lincoln,10 NEWPORT BAY,"State Senator, 5th District",undervotes,,29
+Lincoln,11 OCEANVIEW,"State Senator, 5th District",candidate,Jo Beaudreau,440
+Lincoln,11 OCEANVIEW,"State Senator, 5th District",candidate,Dick Anderson,281
+Lincoln,11 OCEANVIEW,"State Senator, 5th District",writein,,0
+Lincoln,11 OCEANVIEW,"State Senator, 5th District",total_votes,,721
+Lincoln,11 OCEANVIEW,"State Senator, 5th District",overvotes,,0
+Lincoln,11 OCEANVIEW,"State Senator, 5th District",undervotes,,34
+Lincoln,12 YAQUINA,"State Senator, 5th District",candidate,Jo Beaudreau,572
+Lincoln,12 YAQUINA,"State Senator, 5th District",candidate,Dick Anderson,535
+Lincoln,12 YAQUINA,"State Senator, 5th District",writein,,2
+Lincoln,12 YAQUINA,"State Senator, 5th District",total_votes,,1109
+Lincoln,12 YAQUINA,"State Senator, 5th District",overvotes,,0
+Lincoln,12 YAQUINA,"State Senator, 5th District",undervotes,,63
+Lincoln,13 PACIFIC,"State Senator, 5th District",candidate,Jo Beaudreau,582
+Lincoln,13 PACIFIC,"State Senator, 5th District",candidate,Dick Anderson,505
+Lincoln,13 PACIFIC,"State Senator, 5th District",writein,,0
+Lincoln,13 PACIFIC,"State Senator, 5th District",total_votes,,1087
+Lincoln,13 PACIFIC,"State Senator, 5th District",overvotes,,0
+Lincoln,13 PACIFIC,"State Senator, 5th District",undervotes,,55
+Lincoln,14 AGATE BEACH,"State Senator, 5th District",candidate,Jo Beaudreau,630
+Lincoln,14 AGATE BEACH,"State Senator, 5th District",candidate,Dick Anderson,464
+Lincoln,14 AGATE BEACH,"State Senator, 5th District",writein,,2
+Lincoln,14 AGATE BEACH,"State Senator, 5th District",total_votes,,1096
+Lincoln,14 AGATE BEACH,"State Senator, 5th District",overvotes,,0
+Lincoln,14 AGATE BEACH,"State Senator, 5th District",undervotes,,54
+Lincoln,15 OTTER ROCK,"State Senator, 5th District",candidate,Jo Beaudreau,214
+Lincoln,15 OTTER ROCK,"State Senator, 5th District",candidate,Dick Anderson,143
+Lincoln,15 OTTER ROCK,"State Senator, 5th District",writein,,0
+Lincoln,15 OTTER ROCK,"State Senator, 5th District",total_votes,,357
+Lincoln,15 OTTER ROCK,"State Senator, 5th District",overvotes,,0
+Lincoln,15 OTTER ROCK,"State Senator, 5th District",undervotes,,20
+Lincoln,16 DEPOE BAY,"State Senator, 5th District",candidate,Jo Beaudreau,604
+Lincoln,16 DEPOE BAY,"State Senator, 5th District",candidate,Dick Anderson,446
+Lincoln,16 DEPOE BAY,"State Senator, 5th District",writein,,0
+Lincoln,16 DEPOE BAY,"State Senator, 5th District",total_votes,,1050
+Lincoln,16 DEPOE BAY,"State Senator, 5th District",overvotes,,0
+Lincoln,16 DEPOE BAY,"State Senator, 5th District",undervotes,,56
+Lincoln,17 FOGARTY CREEK,"State Senator, 5th District",candidate,Jo Beaudreau,591
+Lincoln,17 FOGARTY CREEK,"State Senator, 5th District",candidate,Dick Anderson,474
+Lincoln,17 FOGARTY CREEK,"State Senator, 5th District",writein,,1
+Lincoln,17 FOGARTY CREEK,"State Senator, 5th District",total_votes,,1066
+Lincoln,17 FOGARTY CREEK,"State Senator, 5th District",overvotes,,0
+Lincoln,17 FOGARTY CREEK,"State Senator, 5th District",undervotes,,55
+Lincoln,18 KERN,"State Senator, 5th District",candidate,Jo Beaudreau,596
+Lincoln,18 KERN,"State Senator, 5th District",candidate,Dick Anderson,440
+Lincoln,18 KERN,"State Senator, 5th District",writein,,2
+Lincoln,18 KERN,"State Senator, 5th District",total_votes,,1038
+Lincoln,18 KERN,"State Senator, 5th District",overvotes,,0
+Lincoln,18 KERN,"State Senator, 5th District",undervotes,,48
+Lincoln,19 SCHOONER CREEK,"State Senator, 5th District",candidate,Jo Beaudreau,653
+Lincoln,19 SCHOONER CREEK,"State Senator, 5th District",candidate,Dick Anderson,693
+Lincoln,19 SCHOONER CREEK,"State Senator, 5th District",writein,,1
+Lincoln,19 SCHOONER CREEK,"State Senator, 5th District",total_votes,,1347
+Lincoln,19 SCHOONER CREEK,"State Senator, 5th District",overvotes,,0
+Lincoln,19 SCHOONER CREEK,"State Senator, 5th District",undervotes,,59
+Lincoln,20 DELAKE,"State Senator, 5th District",candidate,Jo Beaudreau,894
+Lincoln,20 DELAKE,"State Senator, 5th District",candidate,Dick Anderson,687
+Lincoln,20 DELAKE,"State Senator, 5th District",writein,,2
+Lincoln,20 DELAKE,"State Senator, 5th District",total_votes,,1583
+Lincoln,20 DELAKE,"State Senator, 5th District",overvotes,,0
+Lincoln,20 DELAKE,"State Senator, 5th District",undervotes,,82
+Lincoln,21 OCEANLAKE,"State Senator, 5th District",candidate,Jo Beaudreau,715
+Lincoln,21 OCEANLAKE,"State Senator, 5th District",candidate,Dick Anderson,583
+Lincoln,21 OCEANLAKE,"State Senator, 5th District",writein,,4
+Lincoln,21 OCEANLAKE,"State Senator, 5th District",total_votes,,1302
+Lincoln,21 OCEANLAKE,"State Senator, 5th District",overvotes,,0
+Lincoln,21 OCEANLAKE,"State Senator, 5th District",undervotes,,56
+Lincoln,22 SUNSET WEST,"State Senator, 5th District",candidate,Jo Beaudreau,864
+Lincoln,22 SUNSET WEST,"State Senator, 5th District",candidate,Dick Anderson,760
+Lincoln,22 SUNSET WEST,"State Senator, 5th District",writein,,4
+Lincoln,22 SUNSET WEST,"State Senator, 5th District",total_votes,,1628
+Lincoln,22 SUNSET WEST,"State Senator, 5th District",overvotes,,0
+Lincoln,22 SUNSET WEST,"State Senator, 5th District",undervotes,,82
+Lincoln,23 SUNSET EAST,"State Senator, 5th District",candidate,Jo Beaudreau,398
+Lincoln,23 SUNSET EAST,"State Senator, 5th District",candidate,Dick Anderson,512
+Lincoln,23 SUNSET EAST,"State Senator, 5th District",writein,,4
+Lincoln,23 SUNSET EAST,"State Senator, 5th District",total_votes,,914
+Lincoln,23 SUNSET EAST,"State Senator, 5th District",overvotes,,0
+Lincoln,23 SUNSET EAST,"State Senator, 5th District",undervotes,,38
+Lincoln,24 ROSE LODGE,"State Senator, 5th District",candidate,Jo Beaudreau,260
+Lincoln,24 ROSE LODGE,"State Senator, 5th District",candidate,Dick Anderson,381
+Lincoln,24 ROSE LODGE,"State Senator, 5th District",writein,,3
+Lincoln,24 ROSE LODGE,"State Senator, 5th District",total_votes,,644
+Lincoln,24 ROSE LODGE,"State Senator, 5th District",overvotes,,0
+Lincoln,24 ROSE LODGE,"State Senator, 5th District",undervotes,,42
+Lincoln,25 BIG ELK,"State Senator, 5th District",candidate,Jo Beaudreau,25
+Lincoln,25 BIG ELK,"State Senator, 5th District",candidate,Dick Anderson,63
+Lincoln,25 BIG ELK,"State Senator, 5th District",writein,,0
+Lincoln,25 BIG ELK,"State Senator, 5th District",total_votes,,88
+Lincoln,25 BIG ELK,"State Senator, 5th District",overvotes,,0
+Lincoln,25 BIG ELK,"State Senator, 5th District",undervotes,,2
+Lincoln,26 ELK CITY,"State Senator, 5th District",candidate,Jo Beaudreau,13
+Lincoln,26 ELK CITY,"State Senator, 5th District",candidate,Dick Anderson,64
+Lincoln,26 ELK CITY,"State Senator, 5th District",writein,,0
+Lincoln,26 ELK CITY,"State Senator, 5th District",total_votes,,77
+Lincoln,26 ELK CITY,"State Senator, 5th District",overvotes,,0
+Lincoln,26 ELK CITY,"State Senator, 5th District",undervotes,,3
+Lincoln,27 FRUITVALE,"State Senator, 5th District",candidate,Jo Beaudreau,250
+Lincoln,27 FRUITVALE,"State Senator, 5th District",candidate,Dick Anderson,465
+Lincoln,27 FRUITVALE,"State Senator, 5th District",writein,,1
+Lincoln,27 FRUITVALE,"State Senator, 5th District",total_votes,,716
+Lincoln,27 FRUITVALE,"State Senator, 5th District",overvotes,,0
+Lincoln,27 FRUITVALE,"State Senator, 5th District",undervotes,,44
+Lincoln,28 EDDYVILLE,"State Senator, 5th District",candidate,Jo Beaudreau,120
+Lincoln,28 EDDYVILLE,"State Senator, 5th District",candidate,Dick Anderson,221
+Lincoln,28 EDDYVILLE,"State Senator, 5th District",writein,,0
+Lincoln,28 EDDYVILLE,"State Senator, 5th District",total_votes,,341
+Lincoln,28 EDDYVILLE,"State Senator, 5th District",overvotes,,0
+Lincoln,28 EDDYVILLE,"State Senator, 5th District",undervotes,,38
+Lincoln,29 SILETZ,"State Senator, 5th District",candidate,Jo Beaudreau,525
+Lincoln,29 SILETZ,"State Senator, 5th District",candidate,Dick Anderson,690
+Lincoln,29 SILETZ,"State Senator, 5th District",writein,,2
+Lincoln,29 SILETZ,"State Senator, 5th District",total_votes,,1217
+Lincoln,29 SILETZ,"State Senator, 5th District",overvotes,,0
+Lincoln,29 SILETZ,"State Senator, 5th District",undervotes,,71
+Lincoln,30 ROCK CREEK,"State Senator, 5th District",candidate,Jo Beaudreau,117
+Lincoln,30 ROCK CREEK,"State Senator, 5th District",candidate,Dick Anderson,112
+Lincoln,30 ROCK CREEK,"State Senator, 5th District",writein,,1
+Lincoln,30 ROCK CREEK,"State Senator, 5th District",total_votes,,230
+Lincoln,30 ROCK CREEK,"State Senator, 5th District",overvotes,,0
+Lincoln,30 ROCK CREEK,"State Senator, 5th District",undervotes,,19
+Lincoln,31 EAST TOLEDO,"State Senator, 5th District",candidate,Jo Beaudreau,443
+Lincoln,31 EAST TOLEDO,"State Senator, 5th District",candidate,Dick Anderson,681
+Lincoln,31 EAST TOLEDO,"State Senator, 5th District",writein,,1
+Lincoln,31 EAST TOLEDO,"State Senator, 5th District",total_votes,,1125
+Lincoln,31 EAST TOLEDO,"State Senator, 5th District",overvotes,,0
+Lincoln,31 EAST TOLEDO,"State Senator, 5th District",undervotes,,57
+Lincoln,32 SOUTH TOLEDO,"State Senator, 5th District",candidate,Jo Beaudreau,393
+Lincoln,32 SOUTH TOLEDO,"State Senator, 5th District",candidate,Dick Anderson,576
+Lincoln,32 SOUTH TOLEDO,"State Senator, 5th District",writein,,0
+Lincoln,32 SOUTH TOLEDO,"State Senator, 5th District",total_votes,,969
+Lincoln,32 SOUTH TOLEDO,"State Senator, 5th District",overvotes,,0
+Lincoln,32 SOUTH TOLEDO,"State Senator, 5th District",undervotes,,50
+Lincoln,01 WALDPORT,"State Representative, 10th District",candidate,David Gomberg,1025
+Lincoln,01 WALDPORT,"State Representative, 10th District",writein,,14
+Lincoln,01 WALDPORT,"State Representative, 10th District",total_votes,,1039
+Lincoln,01 WALDPORT,"State Representative, 10th District",overvotes,,0
+Lincoln,01 WALDPORT,"State Representative, 10th District",undervotes,,409
+Lincoln,02 ALSEA,"State Representative, 10th District",candidate,David Gomberg,378
+Lincoln,02 ALSEA,"State Representative, 10th District",writein,,5
+Lincoln,02 ALSEA,"State Representative, 10th District",total_votes,,383
+Lincoln,02 ALSEA,"State Representative, 10th District",overvotes,,1
+Lincoln,02 ALSEA,"State Representative, 10th District",undervotes,,215
+Lincoln,03 SEAVIEW,"State Representative, 10th District",candidate,David Gomberg,577
+Lincoln,03 SEAVIEW,"State Representative, 10th District",writein,,15
+Lincoln,03 SEAVIEW,"State Representative, 10th District",total_votes,,592
+Lincoln,03 SEAVIEW,"State Representative, 10th District",overvotes,,0
+Lincoln,03 SEAVIEW,"State Representative, 10th District",undervotes,,239
+Lincoln,04 TIDEWATER,"State Representative, 10th District",candidate,David Gomberg,287
+Lincoln,04 TIDEWATER,"State Representative, 10th District",writein,,9
+Lincoln,04 TIDEWATER,"State Representative, 10th District",total_votes,,296
+Lincoln,04 TIDEWATER,"State Representative, 10th District",overvotes,,0
+Lincoln,04 TIDEWATER,"State Representative, 10th District",undervotes,,191
+Lincoln,05 YACHATS,"State Representative, 10th District",candidate,David Gomberg,866
+Lincoln,05 YACHATS,"State Representative, 10th District",writein,,7
+Lincoln,05 YACHATS,"State Representative, 10th District",total_votes,,873
+Lincoln,05 YACHATS,"State Representative, 10th District",overvotes,,0
+Lincoln,05 YACHATS,"State Representative, 10th District",undervotes,,229
+Lincoln,06 BAYVIEW,"State Representative, 10th District",candidate,David Gomberg,858
+Lincoln,06 BAYVIEW,"State Representative, 10th District",writein,,16
+Lincoln,06 BAYVIEW,"State Representative, 10th District",total_votes,,874
+Lincoln,06 BAYVIEW,"State Representative, 10th District",overvotes,,0
+Lincoln,06 BAYVIEW,"State Representative, 10th District",undervotes,,357
+Lincoln,07 SEAL ROCK,"State Representative, 10th District",candidate,David Gomberg,799
+Lincoln,07 SEAL ROCK,"State Representative, 10th District",writein,,23
+Lincoln,07 SEAL ROCK,"State Representative, 10th District",total_votes,,822
+Lincoln,07 SEAL ROCK,"State Representative, 10th District",overvotes,,0
+Lincoln,07 SEAL ROCK,"State Representative, 10th District",undervotes,,349
+Lincoln,08 SOUTH BEACH,"State Representative, 10th District",candidate,David Gomberg,727
+Lincoln,08 SOUTH BEACH,"State Representative, 10th District",writein,,12
+Lincoln,08 SOUTH BEACH,"State Representative, 10th District",total_votes,,739
+Lincoln,08 SOUTH BEACH,"State Representative, 10th District",overvotes,,0
+Lincoln,08 SOUTH BEACH,"State Representative, 10th District",undervotes,,289
+Lincoln,09 NYE CREEK,"State Representative, 10th District",candidate,David Gomberg,593
+Lincoln,09 NYE CREEK,"State Representative, 10th District",writein,,6
+Lincoln,09 NYE CREEK,"State Representative, 10th District",total_votes,,599
+Lincoln,09 NYE CREEK,"State Representative, 10th District",overvotes,,0
+Lincoln,09 NYE CREEK,"State Representative, 10th District",undervotes,,207
+Lincoln,10 NEWPORT BAY,"State Representative, 10th District",candidate,David Gomberg,450
+Lincoln,10 NEWPORT BAY,"State Representative, 10th District",writein,,5
+Lincoln,10 NEWPORT BAY,"State Representative, 10th District",total_votes,,455
+Lincoln,10 NEWPORT BAY,"State Representative, 10th District",overvotes,,0
+Lincoln,10 NEWPORT BAY,"State Representative, 10th District",undervotes,,144
+Lincoln,11 OCEANVIEW,"State Representative, 10th District",candidate,David Gomberg,554
+Lincoln,11 OCEANVIEW,"State Representative, 10th District",writein,,8
+Lincoln,11 OCEANVIEW,"State Representative, 10th District",total_votes,,562
+Lincoln,11 OCEANVIEW,"State Representative, 10th District",overvotes,,0
+Lincoln,11 OCEANVIEW,"State Representative, 10th District",undervotes,,193
+Lincoln,12 YAQUINA,"State Representative, 10th District",candidate,David Gomberg,793
+Lincoln,12 YAQUINA,"State Representative, 10th District",writein,,18
+Lincoln,12 YAQUINA,"State Representative, 10th District",total_votes,,811
+Lincoln,12 YAQUINA,"State Representative, 10th District",overvotes,,0
+Lincoln,12 YAQUINA,"State Representative, 10th District",undervotes,,361
+Lincoln,13 PACIFIC,"State Representative, 10th District",candidate,David Gomberg,802
+Lincoln,13 PACIFIC,"State Representative, 10th District",writein,,19
+Lincoln,13 PACIFIC,"State Representative, 10th District",total_votes,,821
+Lincoln,13 PACIFIC,"State Representative, 10th District",overvotes,,0
+Lincoln,13 PACIFIC,"State Representative, 10th District",undervotes,,321
+Lincoln,14 AGATE BEACH,"State Representative, 10th District",candidate,David Gomberg,821
+Lincoln,14 AGATE BEACH,"State Representative, 10th District",writein,,17
+Lincoln,14 AGATE BEACH,"State Representative, 10th District",total_votes,,838
+Lincoln,14 AGATE BEACH,"State Representative, 10th District",overvotes,,0
+Lincoln,14 AGATE BEACH,"State Representative, 10th District",undervotes,,312
+Lincoln,15 OTTER ROCK,"State Representative, 10th District",candidate,David Gomberg,278
+Lincoln,15 OTTER ROCK,"State Representative, 10th District",writein,,8
+Lincoln,15 OTTER ROCK,"State Representative, 10th District",total_votes,,286
+Lincoln,15 OTTER ROCK,"State Representative, 10th District",overvotes,,0
+Lincoln,15 OTTER ROCK,"State Representative, 10th District",undervotes,,91
+Lincoln,16 DEPOE BAY,"State Representative, 10th District",candidate,David Gomberg,799
+Lincoln,16 DEPOE BAY,"State Representative, 10th District",writein,,12
+Lincoln,16 DEPOE BAY,"State Representative, 10th District",total_votes,,811
+Lincoln,16 DEPOE BAY,"State Representative, 10th District",overvotes,,0
+Lincoln,16 DEPOE BAY,"State Representative, 10th District",undervotes,,295
+Lincoln,17 FOGARTY CREEK,"State Representative, 10th District",candidate,David Gomberg,795
+Lincoln,17 FOGARTY CREEK,"State Representative, 10th District",writein,,7
+Lincoln,17 FOGARTY CREEK,"State Representative, 10th District",total_votes,,802
+Lincoln,17 FOGARTY CREEK,"State Representative, 10th District",overvotes,,0
+Lincoln,17 FOGARTY CREEK,"State Representative, 10th District",undervotes,,319
+Lincoln,18 KERN,"State Representative, 10th District",candidate,David Gomberg,756
+Lincoln,18 KERN,"State Representative, 10th District",writein,,24
+Lincoln,18 KERN,"State Representative, 10th District",total_votes,,780
+Lincoln,18 KERN,"State Representative, 10th District",overvotes,,0
+Lincoln,18 KERN,"State Representative, 10th District",undervotes,,306
+Lincoln,19 SCHOONER CREEK,"State Representative, 10th District",candidate,David Gomberg,963
+Lincoln,19 SCHOONER CREEK,"State Representative, 10th District",writein,,27
+Lincoln,19 SCHOONER CREEK,"State Representative, 10th District",total_votes,,990
+Lincoln,19 SCHOONER CREEK,"State Representative, 10th District",overvotes,,0
+Lincoln,19 SCHOONER CREEK,"State Representative, 10th District",undervotes,,416
+Lincoln,20 DELAKE,"State Representative, 10th District",candidate,David Gomberg,1217
+Lincoln,20 DELAKE,"State Representative, 10th District",writein,,26
+Lincoln,20 DELAKE,"State Representative, 10th District",total_votes,,1243
+Lincoln,20 DELAKE,"State Representative, 10th District",overvotes,,0
+Lincoln,20 DELAKE,"State Representative, 10th District",undervotes,,422
+Lincoln,21 OCEANLAKE,"State Representative, 10th District",candidate,David Gomberg,961
+Lincoln,21 OCEANLAKE,"State Representative, 10th District",writein,,24
+Lincoln,21 OCEANLAKE,"State Representative, 10th District",total_votes,,985
+Lincoln,21 OCEANLAKE,"State Representative, 10th District",overvotes,,0
+Lincoln,21 OCEANLAKE,"State Representative, 10th District",undervotes,,373
+Lincoln,22 SUNSET WEST,"State Representative, 10th District",candidate,David Gomberg,1198
+Lincoln,22 SUNSET WEST,"State Representative, 10th District",writein,,34
+Lincoln,22 SUNSET WEST,"State Representative, 10th District",total_votes,,1232
+Lincoln,22 SUNSET WEST,"State Representative, 10th District",overvotes,,0
+Lincoln,22 SUNSET WEST,"State Representative, 10th District",undervotes,,478
+Lincoln,23 SUNSET EAST,"State Representative, 10th District",candidate,David Gomberg,693
+Lincoln,23 SUNSET EAST,"State Representative, 10th District",writein,,14
+Lincoln,23 SUNSET EAST,"State Representative, 10th District",total_votes,,707
+Lincoln,23 SUNSET EAST,"State Representative, 10th District",overvotes,,0
+Lincoln,23 SUNSET EAST,"State Representative, 10th District",undervotes,,245
+Lincoln,24 ROSE LODGE,"State Representative, 10th District",candidate,David Gomberg,436
+Lincoln,24 ROSE LODGE,"State Representative, 10th District",writein,,23
+Lincoln,24 ROSE LODGE,"State Representative, 10th District",total_votes,,459
+Lincoln,24 ROSE LODGE,"State Representative, 10th District",overvotes,,0
+Lincoln,24 ROSE LODGE,"State Representative, 10th District",undervotes,,227
+Lincoln,25 BIG ELK,"State Representative, 10th District",candidate,David Gomberg,41
+Lincoln,25 BIG ELK,"State Representative, 10th District",writein,,6
+Lincoln,25 BIG ELK,"State Representative, 10th District",total_votes,,47
+Lincoln,25 BIG ELK,"State Representative, 10th District",overvotes,,0
+Lincoln,25 BIG ELK,"State Representative, 10th District",undervotes,,43
+Lincoln,26 ELK CITY,"State Representative, 10th District",candidate,David Gomberg,42
+Lincoln,26 ELK CITY,"State Representative, 10th District",writein,,0
+Lincoln,26 ELK CITY,"State Representative, 10th District",total_votes,,42
+Lincoln,26 ELK CITY,"State Representative, 10th District",overvotes,,0
+Lincoln,26 ELK CITY,"State Representative, 10th District",undervotes,,38
+Lincoln,27 FRUITVALE,"State Representative, 10th District",candidate,David Gomberg,437
+Lincoln,27 FRUITVALE,"State Representative, 10th District",writein,,16
+Lincoln,27 FRUITVALE,"State Representative, 10th District",total_votes,,453
+Lincoln,27 FRUITVALE,"State Representative, 10th District",overvotes,,0
+Lincoln,27 FRUITVALE,"State Representative, 10th District",undervotes,,307
+Lincoln,28 EDDYVILLE,"State Representative, 10th District",candidate,David Gomberg,214
+Lincoln,28 EDDYVILLE,"State Representative, 10th District",writein,,7
+Lincoln,28 EDDYVILLE,"State Representative, 10th District",total_votes,,221
+Lincoln,28 EDDYVILLE,"State Representative, 10th District",overvotes,,0
+Lincoln,28 EDDYVILLE,"State Representative, 10th District",undervotes,,158
+Lincoln,29 SILETZ,"State Representative, 10th District",candidate,David Gomberg,846
+Lincoln,29 SILETZ,"State Representative, 10th District",writein,,19
+Lincoln,29 SILETZ,"State Representative, 10th District",total_votes,,865
+Lincoln,29 SILETZ,"State Representative, 10th District",overvotes,,0
+Lincoln,29 SILETZ,"State Representative, 10th District",undervotes,,423
+Lincoln,30 ROCK CREEK,"State Representative, 10th District",candidate,David Gomberg,145
+Lincoln,30 ROCK CREEK,"State Representative, 10th District",writein,,5
+Lincoln,30 ROCK CREEK,"State Representative, 10th District",total_votes,,150
+Lincoln,30 ROCK CREEK,"State Representative, 10th District",overvotes,,0
+Lincoln,30 ROCK CREEK,"State Representative, 10th District",undervotes,,99
+Lincoln,31 EAST TOLEDO,"State Representative, 10th District",candidate,David Gomberg,760
+Lincoln,31 EAST TOLEDO,"State Representative, 10th District",writein,,25
+Lincoln,31 EAST TOLEDO,"State Representative, 10th District",total_votes,,785
+Lincoln,31 EAST TOLEDO,"State Representative, 10th District",overvotes,,0
+Lincoln,31 EAST TOLEDO,"State Representative, 10th District",undervotes,,397
+Lincoln,32 SOUTH TOLEDO,"State Representative, 10th District",candidate,David Gomberg,659
+Lincoln,32 SOUTH TOLEDO,"State Representative, 10th District",writein,,22
+Lincoln,32 SOUTH TOLEDO,"State Representative, 10th District",total_votes,,681
+Lincoln,32 SOUTH TOLEDO,"State Representative, 10th District",overvotes,,0
+Lincoln,32 SOUTH TOLEDO,"State Representative, 10th District",undervotes,,338

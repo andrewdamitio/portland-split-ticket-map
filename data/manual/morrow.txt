@@ -1,0 +1,34 @@
+# Morrow County, November 5, 2024 General Election - "Detail Results By Precinct" (data/sources/morrow-2024-general.pdf)
+# Scanned report, one section per precinct; transcribed from the page images (OCR was unreadable on the
+# dotted leader lines). Each contest's "Total" is used as ballots_cast; votes + over + under equals it in
+# every row. (Precinct 05's page-2 contests total 1142 vs 1143 for President, as printed.)
+
+contest: President
+source: pages 1, 6, 11, 16, 21
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | overvotes | undervotes | ballots_cast
+01 BOARDMAN: 47 1 3 0 793 7 462 14 0 12 1339
+02 IRRIGON: 35 0 6 5 1152 4 326 4 5 9 1546
+03 LEXINGTON: 9 1 3 3 314 0 44 2 0 4 380
+04 IONE: 5 0 1 2 279 0 73 4 1 8 373
+05 HEPPNER/HARDMAN: 19 2 4 0 870 2 233 3 0 10 1143
+TOTAL: n/a
+
+contest: State Senator, 29th District
+source: pages 2, 7, 12, 17, 22
+cols: Wildbill | Nash | writein | overvotes | undervotes | ballots_cast
+01 BOARDMAN: 245 942 2 0 150 1339
+02 IRRIGON: 251 1128 4 0 163 1546
+03 LEXINGTON: 32 303 0 0 45 380
+04 IONE: 38 298 0 0 37 373
+05 HEPPNER/HARDMAN: 134 866 5 0 137 1142
+TOTAL: n/a
+
+contest: State Representative, 57th District
+source: pages 2, 7, 12, 17, 22
+cols: Smith | writein | overvotes | undervotes | ballots_cast
+01 BOARDMAN: 1008 32 0 299 1339
+02 IRRIGON: 1190 35 0 321 1546
+03 LEXINGTON: 264 10 0 106 380
+04 IONE: 250 19 0 104 373
+05 HEPPNER/HARDMAN: 829 42 0 271 1142
+TOTAL: n/a

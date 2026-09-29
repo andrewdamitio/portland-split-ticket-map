@@ -1,0 +1,1223 @@
+county,precinct_label,contest,type,choice,votes
+Josephine,01,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,61
+Josephine,01,US President & Vice President,candidate,Cornel West,10
+Josephine,01,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,11
+Josephine,01,US President & Vice President,candidate,Randall Terry,4
+Josephine,01,US President & Vice President,candidate,Donald J Trump/JD Vance,1910
+Josephine,01,US President & Vice President,candidate,Jill Stein/Rudolph Ware,20
+Josephine,01,US President & Vice President,candidate,Kamala D Harris/Tim Walz,1498
+Josephine,01,US President & Vice President,writein,,28
+Josephine,01,US President & Vice President,total_votes,,3542
+Josephine,01,US President & Vice President,overvotes,,5
+Josephine,01,US President & Vice President,undervotes,,43
+Josephine,01,US President & Vice President,ballots_cast,,3590
+Josephine,01,"State Senator, 2nd District",candidate,Tracy Thompson,1455
+Josephine,01,"State Senator, 2nd District",candidate,Noah Robinson,1870
+Josephine,01,"State Senator, 2nd District",writein,,8
+Josephine,01,"State Senator, 2nd District",total_votes,,3333
+Josephine,01,"State Senator, 2nd District",overvotes,,0
+Josephine,01,"State Senator, 2nd District",undervotes,,251
+Josephine,01,"State Senator, 2nd District",ballots_cast,,3584
+Josephine,01,"State Representative, 3rd District",candidate,Dwayne Yunker,1937
+Josephine,01,"State Representative, 3rd District",candidate,Mark J Seligman,1162
+Josephine,01,"State Representative, 3rd District",writein,,133
+Josephine,01,"State Representative, 3rd District",total_votes,,3232
+Josephine,01,"State Representative, 3rd District",overvotes,,0
+Josephine,01,"State Representative, 3rd District",undervotes,,352
+Josephine,01,"State Representative, 3rd District",ballots_cast,,3584
+Josephine,02,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,78
+Josephine,02,US President & Vice President,candidate,Cornel West,4
+Josephine,02,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,9
+Josephine,02,US President & Vice President,candidate,Randall Terry,4
+Josephine,02,US President & Vice President,candidate,Donald J Trump/JD Vance,3112
+Josephine,02,US President & Vice President,candidate,Jill Stein/Rudolph Ware,10
+Josephine,02,US President & Vice President,candidate,Kamala D Harris/Tim Walz,1693
+Josephine,02,US President & Vice President,writein,,28
+Josephine,02,US President & Vice President,total_votes,,4938
+Josephine,02,US President & Vice President,overvotes,,0
+Josephine,02,US President & Vice President,undervotes,,43
+Josephine,02,US President & Vice President,ballots_cast,,4981
+Josephine,02,"State Senator, 2nd District",candidate,Tracy Thompson,1598
+Josephine,02,"State Senator, 2nd District",candidate,Noah Robinson,3004
+Josephine,02,"State Senator, 2nd District",writein,,8
+Josephine,02,"State Senator, 2nd District",total_votes,,4610
+Josephine,02,"State Senator, 2nd District",overvotes,,0
+Josephine,02,"State Senator, 2nd District",undervotes,,364
+Josephine,02,"State Senator, 2nd District",ballots_cast,,4974
+Josephine,02,"State Representative, 3rd District",candidate,Dwayne Yunker,3088
+Josephine,02,"State Representative, 3rd District",candidate,Mark J Seligman,1340
+Josephine,02,"State Representative, 3rd District",writein,,90
+Josephine,02,"State Representative, 3rd District",total_votes,,4518
+Josephine,02,"State Representative, 3rd District",overvotes,,2
+Josephine,02,"State Representative, 3rd District",undervotes,,454
+Josephine,02,"State Representative, 3rd District",ballots_cast,,4974
+Josephine,03,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Josephine,03,US President & Vice President,candidate,Cornel West,2
+Josephine,03,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,6
+Josephine,03,US President & Vice President,candidate,Randall Terry,2
+Josephine,03,US President & Vice President,candidate,Donald J Trump/JD Vance,886
+Josephine,03,US President & Vice President,candidate,Jill Stein/Rudolph Ware,6
+Josephine,03,US President & Vice President,candidate,Kamala D Harris/Tim Walz,616
+Josephine,03,US President & Vice President,writein,,12
+Josephine,03,US President & Vice President,total_votes,,1548
+Josephine,03,US President & Vice President,overvotes,,0
+Josephine,03,US President & Vice President,undervotes,,15
+Josephine,03,US President & Vice President,ballots_cast,,1563
+Josephine,03,"State Senator, 2nd District",candidate,Tracy Thompson,595
+Josephine,03,"State Senator, 2nd District",candidate,Noah Robinson,859
+Josephine,03,"State Senator, 2nd District",writein,,4
+Josephine,03,"State Senator, 2nd District",total_votes,,1458
+Josephine,03,"State Senator, 2nd District",overvotes,,0
+Josephine,03,"State Senator, 2nd District",undervotes,,104
+Josephine,03,"State Senator, 2nd District",ballots_cast,,1562
+Josephine,03,"State Representative, 3rd District",candidate,Dwayne Yunker,893
+Josephine,03,"State Representative, 3rd District",candidate,Mark J Seligman,486
+Josephine,03,"State Representative, 3rd District",writein,,47
+Josephine,03,"State Representative, 3rd District",total_votes,,1426
+Josephine,03,"State Representative, 3rd District",overvotes,,0
+Josephine,03,"State Representative, 3rd District",undervotes,,136
+Josephine,03,"State Representative, 3rd District",ballots_cast,,1562
+Josephine,04,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Josephine,04,US President & Vice President,candidate,Cornel West,2
+Josephine,04,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,9
+Josephine,04,US President & Vice President,candidate,Randall Terry,5
+Josephine,04,US President & Vice President,candidate,Donald J Trump/JD Vance,647
+Josephine,04,US President & Vice President,candidate,Jill Stein/Rudolph Ware,9
+Josephine,04,US President & Vice President,candidate,Kamala D Harris/Tim Walz,525
+Josephine,04,US President & Vice President,writein,,7
+Josephine,04,US President & Vice President,total_votes,,1231
+Josephine,04,US President & Vice President,overvotes,,0
+Josephine,04,US President & Vice President,undervotes,,13
+Josephine,04,US President & Vice President,ballots_cast,,1244
+Josephine,04,"State Senator, 2nd District",candidate,Tracy Thompson,495
+Josephine,04,"State Senator, 2nd District",candidate,Noah Robinson,636
+Josephine,04,"State Senator, 2nd District",writein,,1
+Josephine,04,"State Senator, 2nd District",total_votes,,1132
+Josephine,04,"State Senator, 2nd District",overvotes,,0
+Josephine,04,"State Senator, 2nd District",undervotes,,110
+Josephine,04,"State Senator, 2nd District",ballots_cast,,1242
+Josephine,04,"State Representative, 3rd District",candidate,Dwayne Yunker,650
+Josephine,04,"State Representative, 3rd District",candidate,Mark J Seligman,419
+Josephine,04,"State Representative, 3rd District",writein,,26
+Josephine,04,"State Representative, 3rd District",total_votes,,1095
+Josephine,04,"State Representative, 3rd District",overvotes,,0
+Josephine,04,"State Representative, 3rd District",undervotes,,147
+Josephine,04,"State Representative, 3rd District",ballots_cast,,1242
+Josephine,05,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,21
+Josephine,05,US President & Vice President,candidate,Cornel West,2
+Josephine,05,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,05,US President & Vice President,candidate,Randall Terry,2
+Josephine,05,US President & Vice President,candidate,Donald J Trump/JD Vance,854
+Josephine,05,US President & Vice President,candidate,Jill Stein/Rudolph Ware,9
+Josephine,05,US President & Vice President,candidate,Kamala D Harris/Tim Walz,568
+Josephine,05,US President & Vice President,writein,,8
+Josephine,05,US President & Vice President,total_votes,,1468
+Josephine,05,US President & Vice President,overvotes,,0
+Josephine,05,US President & Vice President,undervotes,,10
+Josephine,05,US President & Vice President,ballots_cast,,1478
+Josephine,05,"State Senator, 2nd District",candidate,Tracy Thompson,554
+Josephine,05,"State Senator, 2nd District",candidate,Noah Robinson,810
+Josephine,05,"State Senator, 2nd District",writein,,1
+Josephine,05,"State Senator, 2nd District",total_votes,,1365
+Josephine,05,"State Senator, 2nd District",overvotes,,0
+Josephine,05,"State Senator, 2nd District",undervotes,,110
+Josephine,05,"State Senator, 2nd District",ballots_cast,,1475
+Josephine,05,"State Representative, 3rd District",candidate,Dwayne Yunker,836
+Josephine,05,"State Representative, 3rd District",candidate,Mark J Seligman,475
+Josephine,05,"State Representative, 3rd District",writein,,32
+Josephine,05,"State Representative, 3rd District",total_votes,,1343
+Josephine,05,"State Representative, 3rd District",overvotes,,1
+Josephine,05,"State Representative, 3rd District",undervotes,,131
+Josephine,05,"State Representative, 3rd District",ballots_cast,,1475
+Josephine,06,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,8
+Josephine,06,US President & Vice President,candidate,Cornel West,1
+Josephine,06,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,06,US President & Vice President,candidate,Randall Terry,1
+Josephine,06,US President & Vice President,candidate,Donald J Trump/JD Vance,567
+Josephine,06,US President & Vice President,candidate,Jill Stein/Rudolph Ware,2
+Josephine,06,US President & Vice President,candidate,Kamala D Harris/Tim Walz,316
+Josephine,06,US President & Vice President,writein,,3
+Josephine,06,US President & Vice President,total_votes,,902
+Josephine,06,US President & Vice President,overvotes,,0
+Josephine,06,US President & Vice President,undervotes,,9
+Josephine,06,US President & Vice President,ballots_cast,,911
+Josephine,06,"State Senator, 2nd District",candidate,Tracy Thompson,287
+Josephine,06,"State Senator, 2nd District",candidate,Noah Robinson,552
+Josephine,06,"State Senator, 2nd District",writein,,2
+Josephine,06,"State Senator, 2nd District",total_votes,,841
+Josephine,06,"State Senator, 2nd District",overvotes,,0
+Josephine,06,"State Senator, 2nd District",undervotes,,70
+Josephine,06,"State Senator, 2nd District",ballots_cast,,911
+Josephine,06,"State Representative, 3rd District",candidate,Dwayne Yunker,556
+Josephine,06,"State Representative, 3rd District",candidate,Mark J Seligman,238
+Josephine,06,"State Representative, 3rd District",writein,,27
+Josephine,06,"State Representative, 3rd District",total_votes,,821
+Josephine,06,"State Representative, 3rd District",overvotes,,0
+Josephine,06,"State Representative, 3rd District",undervotes,,90
+Josephine,06,"State Representative, 3rd District",ballots_cast,,911
+Josephine,07,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,40
+Josephine,07,US President & Vice President,candidate,Cornel West,1
+Josephine,07,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,10
+Josephine,07,US President & Vice President,candidate,Randall Terry,2
+Josephine,07,US President & Vice President,candidate,Donald J Trump/JD Vance,1147
+Josephine,07,US President & Vice President,candidate,Jill Stein/Rudolph Ware,15
+Josephine,07,US President & Vice President,candidate,Kamala D Harris/Tim Walz,791
+Josephine,07,US President & Vice President,writein,,10
+Josephine,07,US President & Vice President,total_votes,,2016
+Josephine,07,US President & Vice President,overvotes,,0
+Josephine,07,US President & Vice President,undervotes,,11
+Josephine,07,US President & Vice President,ballots_cast,,2027
+Josephine,07,"State Senator, 2nd District",candidate,Tracy Thompson,758
+Josephine,07,"State Senator, 2nd District",candidate,Noah Robinson,1104
+Josephine,07,"State Senator, 2nd District",writein,,5
+Josephine,07,"State Senator, 2nd District",total_votes,,1867
+Josephine,07,"State Senator, 2nd District",overvotes,,0
+Josephine,07,"State Senator, 2nd District",undervotes,,160
+Josephine,07,"State Senator, 2nd District",ballots_cast,,2027
+Josephine,07,"State Representative, 3rd District",candidate,Dwayne Yunker,1122
+Josephine,07,"State Representative, 3rd District",candidate,Mark J Seligman,662
+Josephine,07,"State Representative, 3rd District",writein,,52
+Josephine,07,"State Representative, 3rd District",total_votes,,1836
+Josephine,07,"State Representative, 3rd District",overvotes,,0
+Josephine,07,"State Representative, 3rd District",undervotes,,191
+Josephine,07,"State Representative, 3rd District",ballots_cast,,2027
+Josephine,08,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,46
+Josephine,08,US President & Vice President,candidate,Cornel West,2
+Josephine,08,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,11
+Josephine,08,US President & Vice President,candidate,Randall Terry,2
+Josephine,08,US President & Vice President,candidate,Donald J Trump/JD Vance,1895
+Josephine,08,US President & Vice President,candidate,Jill Stein/Rudolph Ware,12
+Josephine,08,US President & Vice President,candidate,Kamala D Harris/Tim Walz,1101
+Josephine,08,US President & Vice President,writein,,21
+Josephine,08,US President & Vice President,total_votes,,3090
+Josephine,08,US President & Vice President,overvotes,,0
+Josephine,08,US President & Vice President,undervotes,,31
+Josephine,08,US President & Vice President,ballots_cast,,3121
+Josephine,08,"State Senator, 2nd District",candidate,Tracy Thompson,1030
+Josephine,08,"State Senator, 2nd District",candidate,Noah Robinson,1853
+Josephine,08,"State Senator, 2nd District",writein,,2
+Josephine,08,"State Senator, 2nd District",total_votes,,2885
+Josephine,08,"State Senator, 2nd District",overvotes,,0
+Josephine,08,"State Senator, 2nd District",undervotes,,230
+Josephine,08,"State Senator, 2nd District",ballots_cast,,3115
+Josephine,08,"State Representative, 3rd District",candidate,Dwayne Yunker,1895
+Josephine,08,"State Representative, 3rd District",candidate,Mark J Seligman,870
+Josephine,08,"State Representative, 3rd District",writein,,52
+Josephine,08,"State Representative, 3rd District",total_votes,,2817
+Josephine,08,"State Representative, 3rd District",overvotes,,0
+Josephine,08,"State Representative, 3rd District",undervotes,,298
+Josephine,08,"State Representative, 3rd District",ballots_cast,,3115
+Josephine,09,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Josephine,09,US President & Vice President,candidate,Cornel West,2
+Josephine,09,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,09,US President & Vice President,candidate,Randall Terry,0
+Josephine,09,US President & Vice President,candidate,Donald J Trump/JD Vance,87
+Josephine,09,US President & Vice President,candidate,Jill Stein/Rudolph Ware,0
+Josephine,09,US President & Vice President,candidate,Kamala D Harris/Tim Walz,40
+Josephine,09,US President & Vice President,writein,,2
+Josephine,09,US President & Vice President,total_votes,,134
+Josephine,09,US President & Vice President,overvotes,,0
+Josephine,09,US President & Vice President,undervotes,,1
+Josephine,09,US President & Vice President,ballots_cast,,135
+Josephine,09,"State Senator, 2nd District",candidate,Tracy Thompson,43
+Josephine,09,"State Senator, 2nd District",candidate,Noah Robinson,85
+Josephine,09,"State Senator, 2nd District",writein,,0
+Josephine,09,"State Senator, 2nd District",total_votes,,128
+Josephine,09,"State Senator, 2nd District",overvotes,,0
+Josephine,09,"State Senator, 2nd District",undervotes,,7
+Josephine,09,"State Senator, 2nd District",ballots_cast,,135
+Josephine,09,"State Representative, 3rd District",candidate,Dwayne Yunker,83
+Josephine,09,"State Representative, 3rd District",candidate,Mark J Seligman,36
+Josephine,09,"State Representative, 3rd District",writein,,8
+Josephine,09,"State Representative, 3rd District",total_votes,,127
+Josephine,09,"State Representative, 3rd District",overvotes,,0
+Josephine,09,"State Representative, 3rd District",undervotes,,8
+Josephine,09,"State Representative, 3rd District",ballots_cast,,135
+Josephine,10,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Josephine,10,US President & Vice President,candidate,Cornel West,0
+Josephine,10,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,10,US President & Vice President,candidate,Randall Terry,1
+Josephine,10,US President & Vice President,candidate,Donald J Trump/JD Vance,131
+Josephine,10,US President & Vice President,candidate,Jill Stein/Rudolph Ware,0
+Josephine,10,US President & Vice President,candidate,Kamala D Harris/Tim Walz,80
+Josephine,10,US President & Vice President,writein,,0
+Josephine,10,US President & Vice President,total_votes,,215
+Josephine,10,US President & Vice President,overvotes,,0
+Josephine,10,US President & Vice President,undervotes,,2
+Josephine,10,US President & Vice President,ballots_cast,,217
+Josephine,10,"State Senator, 2nd District",candidate,Tracy Thompson,78
+Josephine,10,"State Senator, 2nd District",candidate,Noah Robinson,128
+Josephine,10,"State Senator, 2nd District",writein,,0
+Josephine,10,"State Senator, 2nd District",total_votes,,206
+Josephine,10,"State Senator, 2nd District",overvotes,,0
+Josephine,10,"State Senator, 2nd District",undervotes,,10
+Josephine,10,"State Senator, 2nd District",ballots_cast,,216
+Josephine,10,"State Representative, 3rd District",candidate,Dwayne Yunker,126
+Josephine,10,"State Representative, 3rd District",candidate,Mark J Seligman,69
+Josephine,10,"State Representative, 3rd District",writein,,4
+Josephine,10,"State Representative, 3rd District",total_votes,,199
+Josephine,10,"State Representative, 3rd District",overvotes,,0
+Josephine,10,"State Representative, 3rd District",undervotes,,17
+Josephine,10,"State Representative, 3rd District",ballots_cast,,216
+Josephine,11,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,8
+Josephine,11,US President & Vice President,candidate,Cornel West,1
+Josephine,11,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,11,US President & Vice President,candidate,Randall Terry,0
+Josephine,11,US President & Vice President,candidate,Donald J Trump/JD Vance,156
+Josephine,11,US President & Vice President,candidate,Jill Stein/Rudolph Ware,2
+Josephine,11,US President & Vice President,candidate,Kamala D Harris/Tim Walz,114
+Josephine,11,US President & Vice President,writein,,1
+Josephine,11,US President & Vice President,total_votes,,286
+Josephine,11,US President & Vice President,overvotes,,0
+Josephine,11,US President & Vice President,undervotes,,3
+Josephine,11,US President & Vice President,ballots_cast,,289
+Josephine,11,"State Senator, 2nd District",candidate,Tracy Thompson,111
+Josephine,11,"State Senator, 2nd District",candidate,Noah Robinson,162
+Josephine,11,"State Senator, 2nd District",writein,,1
+Josephine,11,"State Senator, 2nd District",total_votes,,274
+Josephine,11,"State Senator, 2nd District",overvotes,,0
+Josephine,11,"State Senator, 2nd District",undervotes,,14
+Josephine,11,"State Senator, 2nd District",ballots_cast,,288
+Josephine,11,"State Representative, 3rd District",candidate,Dwayne Yunker,170
+Josephine,11,"State Representative, 3rd District",candidate,Mark J Seligman,92
+Josephine,11,"State Representative, 3rd District",writein,,6
+Josephine,11,"State Representative, 3rd District",total_votes,,268
+Josephine,11,"State Representative, 3rd District",overvotes,,0
+Josephine,11,"State Representative, 3rd District",undervotes,,20
+Josephine,11,"State Representative, 3rd District",ballots_cast,,288
+Josephine,12,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Josephine,12,US President & Vice President,candidate,Cornel West,0
+Josephine,12,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,12,US President & Vice President,candidate,Randall Terry,0
+Josephine,12,US President & Vice President,candidate,Donald J Trump/JD Vance,133
+Josephine,12,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,12,US President & Vice President,candidate,Kamala D Harris/Tim Walz,109
+Josephine,12,US President & Vice President,writein,,4
+Josephine,12,US President & Vice President,total_votes,,249
+Josephine,12,US President & Vice President,overvotes,,0
+Josephine,12,US President & Vice President,undervotes,,4
+Josephine,12,US President & Vice President,ballots_cast,,253
+Josephine,12,"State Senator, 2nd District",candidate,Tracy Thompson,101
+Josephine,12,"State Senator, 2nd District",candidate,Noah Robinson,142
+Josephine,12,"State Senator, 2nd District",writein,,0
+Josephine,12,"State Senator, 2nd District",total_votes,,243
+Josephine,12,"State Senator, 2nd District",overvotes,,0
+Josephine,12,"State Senator, 2nd District",undervotes,,10
+Josephine,12,"State Senator, 2nd District",ballots_cast,,253
+Josephine,12,"State Representative, 3rd District",candidate,Dwayne Yunker,139
+Josephine,12,"State Representative, 3rd District",candidate,Mark J Seligman,91
+Josephine,12,"State Representative, 3rd District",writein,,4
+Josephine,12,"State Representative, 3rd District",total_votes,,234
+Josephine,12,"State Representative, 3rd District",overvotes,,0
+Josephine,12,"State Representative, 3rd District",undervotes,,19
+Josephine,12,"State Representative, 3rd District",ballots_cast,,253
+Josephine,13,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,5
+Josephine,13,US President & Vice President,candidate,Cornel West,0
+Josephine,13,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,13,US President & Vice President,candidate,Randall Terry,0
+Josephine,13,US President & Vice President,candidate,Donald J Trump/JD Vance,137
+Josephine,13,US President & Vice President,candidate,Jill Stein/Rudolph Ware,3
+Josephine,13,US President & Vice President,candidate,Kamala D Harris/Tim Walz,66
+Josephine,13,US President & Vice President,writein,,1
+Josephine,13,US President & Vice President,total_votes,,212
+Josephine,13,US President & Vice President,overvotes,,0
+Josephine,13,US President & Vice President,undervotes,,4
+Josephine,13,US President & Vice President,ballots_cast,,216
+Josephine,13,"State Senator, 2nd District",candidate,Tracy Thompson,61
+Josephine,13,"State Senator, 2nd District",candidate,Noah Robinson,141
+Josephine,13,"State Senator, 2nd District",writein,,0
+Josephine,13,"State Senator, 2nd District",total_votes,,202
+Josephine,13,"State Senator, 2nd District",overvotes,,0
+Josephine,13,"State Senator, 2nd District",undervotes,,14
+Josephine,13,"State Senator, 2nd District",ballots_cast,,216
+Josephine,13,"State Representative, 3rd District",candidate,Dwayne Yunker,137
+Josephine,13,"State Representative, 3rd District",candidate,Mark J Seligman,54
+Josephine,13,"State Representative, 3rd District",writein,,5
+Josephine,13,"State Representative, 3rd District",total_votes,,196
+Josephine,13,"State Representative, 3rd District",overvotes,,0
+Josephine,13,"State Representative, 3rd District",undervotes,,20
+Josephine,13,"State Representative, 3rd District",ballots_cast,,216
+Josephine,14,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Josephine,14,US President & Vice President,candidate,Cornel West,1
+Josephine,14,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,14,US President & Vice President,candidate,Randall Terry,0
+Josephine,14,US President & Vice President,candidate,Donald J Trump/JD Vance,61
+Josephine,14,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,14,US President & Vice President,candidate,Kamala D Harris/Tim Walz,28
+Josephine,14,US President & Vice President,writein,,1
+Josephine,14,US President & Vice President,total_votes,,94
+Josephine,14,US President & Vice President,overvotes,,0
+Josephine,14,US President & Vice President,undervotes,,2
+Josephine,14,US President & Vice President,ballots_cast,,96
+Josephine,14,"State Senator, 2nd District",candidate,Tracy Thompson,31
+Josephine,14,"State Senator, 2nd District",candidate,Noah Robinson,62
+Josephine,14,"State Senator, 2nd District",writein,,0
+Josephine,14,"State Senator, 2nd District",total_votes,,93
+Josephine,14,"State Senator, 2nd District",overvotes,,0
+Josephine,14,"State Senator, 2nd District",undervotes,,3
+Josephine,14,"State Senator, 2nd District",ballots_cast,,96
+Josephine,14,"State Representative, 3rd District",candidate,Dwayne Yunker,60
+Josephine,14,"State Representative, 3rd District",candidate,Mark J Seligman,31
+Josephine,14,"State Representative, 3rd District",writein,,0
+Josephine,14,"State Representative, 3rd District",total_votes,,91
+Josephine,14,"State Representative, 3rd District",overvotes,,0
+Josephine,14,"State Representative, 3rd District",undervotes,,5
+Josephine,14,"State Representative, 3rd District",ballots_cast,,96
+Josephine,15,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,12
+Josephine,15,US President & Vice President,candidate,Cornel West,0
+Josephine,15,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,3
+Josephine,15,US President & Vice President,candidate,Randall Terry,3
+Josephine,15,US President & Vice President,candidate,Donald J Trump/JD Vance,862
+Josephine,15,US President & Vice President,candidate,Jill Stein/Rudolph Ware,5
+Josephine,15,US President & Vice President,candidate,Kamala D Harris/Tim Walz,334
+Josephine,15,US President & Vice President,writein,,8
+Josephine,15,US President & Vice President,total_votes,,1227
+Josephine,15,US President & Vice President,overvotes,,0
+Josephine,15,US President & Vice President,undervotes,,16
+Josephine,15,US President & Vice President,ballots_cast,,1243
+Josephine,15,"State Senator, 2nd District",candidate,Tracy Thompson,325
+Josephine,15,"State Senator, 2nd District",candidate,Noah Robinson,845
+Josephine,15,"State Senator, 2nd District",writein,,1
+Josephine,15,"State Senator, 2nd District",total_votes,,1171
+Josephine,15,"State Senator, 2nd District",overvotes,,0
+Josephine,15,"State Senator, 2nd District",undervotes,,72
+Josephine,15,"State Senator, 2nd District",ballots_cast,,1243
+Josephine,15,"State Representative, 3rd District",candidate,Dwayne Yunker,882
+Josephine,15,"State Representative, 3rd District",candidate,Mark J Seligman,249
+Josephine,15,"State Representative, 3rd District",writein,,18
+Josephine,15,"State Representative, 3rd District",total_votes,,1149
+Josephine,15,"State Representative, 3rd District",overvotes,,0
+Josephine,15,"State Representative, 3rd District",undervotes,,94
+Josephine,15,"State Representative, 3rd District",ballots_cast,,1243
+Josephine,16,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,7
+Josephine,16,US President & Vice President,candidate,Cornel West,0
+Josephine,16,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,16,US President & Vice President,candidate,Randall Terry,0
+Josephine,16,US President & Vice President,candidate,Donald J Trump/JD Vance,238
+Josephine,16,US President & Vice President,candidate,Jill Stein/Rudolph Ware,4
+Josephine,16,US President & Vice President,candidate,Kamala D Harris/Tim Walz,80
+Josephine,16,US President & Vice President,writein,,1
+Josephine,16,US President & Vice President,total_votes,,330
+Josephine,16,US President & Vice President,overvotes,,1
+Josephine,16,US President & Vice President,undervotes,,4
+Josephine,16,US President & Vice President,ballots_cast,,335
+Josephine,16,"State Senator, 2nd District",candidate,Tracy Thompson,72
+Josephine,16,"State Senator, 2nd District",candidate,Noah Robinson,242
+Josephine,16,"State Senator, 2nd District",writein,,0
+Josephine,16,"State Senator, 2nd District",total_votes,,314
+Josephine,16,"State Senator, 2nd District",overvotes,,0
+Josephine,16,"State Senator, 2nd District",undervotes,,21
+Josephine,16,"State Senator, 2nd District",ballots_cast,,335
+Josephine,16,"State Representative, 3rd District",candidate,Dwayne Yunker,241
+Josephine,16,"State Representative, 3rd District",candidate,Mark J Seligman,67
+Josephine,16,"State Representative, 3rd District",writein,,1
+Josephine,16,"State Representative, 3rd District",total_votes,,309
+Josephine,16,"State Representative, 3rd District",overvotes,,0
+Josephine,16,"State Representative, 3rd District",undervotes,,26
+Josephine,16,"State Representative, 3rd District",ballots_cast,,335
+Josephine,17,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Josephine,17,US President & Vice President,candidate,Cornel West,2
+Josephine,17,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,17,US President & Vice President,candidate,Randall Terry,3
+Josephine,17,US President & Vice President,candidate,Donald J Trump/JD Vance,829
+Josephine,17,US President & Vice President,candidate,Jill Stein/Rudolph Ware,4
+Josephine,17,US President & Vice President,candidate,Kamala D Harris/Tim Walz,450
+Josephine,17,US President & Vice President,writein,,5
+Josephine,17,US President & Vice President,total_votes,,1307
+Josephine,17,US President & Vice President,overvotes,,1
+Josephine,17,US President & Vice President,undervotes,,12
+Josephine,17,US President & Vice President,ballots_cast,,1320
+Josephine,17,"State Senator, 2nd District",candidate,Tracy Thompson,423
+Josephine,17,"State Senator, 2nd District",candidate,Noah Robinson,822
+Josephine,17,"State Senator, 2nd District",writein,,3
+Josephine,17,"State Senator, 2nd District",total_votes,,1248
+Josephine,17,"State Senator, 2nd District",overvotes,,0
+Josephine,17,"State Senator, 2nd District",undervotes,,68
+Josephine,17,"State Senator, 2nd District",ballots_cast,,1316
+Josephine,17,"State Representative, 3rd District",candidate,Dwayne Yunker,847
+Josephine,17,"State Representative, 3rd District",candidate,Mark J Seligman,360
+Josephine,17,"State Representative, 3rd District",writein,,19
+Josephine,17,"State Representative, 3rd District",total_votes,,1226
+Josephine,17,"State Representative, 3rd District",overvotes,,0
+Josephine,17,"State Representative, 3rd District",undervotes,,90
+Josephine,17,"State Representative, 3rd District",ballots_cast,,1316
+Josephine,18,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,21
+Josephine,18,US President & Vice President,candidate,Cornel West,3
+Josephine,18,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,18,US President & Vice President,candidate,Randall Terry,3
+Josephine,18,US President & Vice President,candidate,Donald J Trump/JD Vance,954
+Josephine,18,US President & Vice President,candidate,Jill Stein/Rudolph Ware,9
+Josephine,18,US President & Vice President,candidate,Kamala D Harris/Tim Walz,444
+Josephine,18,US President & Vice President,writein,,11
+Josephine,18,US President & Vice President,total_votes,,1446
+Josephine,18,US President & Vice President,overvotes,,1
+Josephine,18,US President & Vice President,undervotes,,20
+Josephine,18,US President & Vice President,ballots_cast,,1467
+Josephine,18,"State Senator, 2nd District",candidate,Tracy Thompson,426
+Josephine,18,"State Senator, 2nd District",candidate,Noah Robinson,945
+Josephine,18,"State Senator, 2nd District",writein,,1
+Josephine,18,"State Senator, 2nd District",total_votes,,1372
+Josephine,18,"State Senator, 2nd District",overvotes,,0
+Josephine,18,"State Senator, 2nd District",undervotes,,92
+Josephine,18,"State Senator, 2nd District",ballots_cast,,1464
+Josephine,18,"State Representative, 3rd District",candidate,Dwayne Yunker,977
+Josephine,18,"State Representative, 3rd District",candidate,Mark J Seligman,340
+Josephine,18,"State Representative, 3rd District",writein,,22
+Josephine,18,"State Representative, 3rd District",total_votes,,1339
+Josephine,18,"State Representative, 3rd District",overvotes,,0
+Josephine,18,"State Representative, 3rd District",undervotes,,125
+Josephine,18,"State Representative, 3rd District",ballots_cast,,1464
+Josephine,19,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Josephine,19,US President & Vice President,candidate,Cornel West,0
+Josephine,19,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,3
+Josephine,19,US President & Vice President,candidate,Randall Terry,1
+Josephine,19,US President & Vice President,candidate,Donald J Trump/JD Vance,1128
+Josephine,19,US President & Vice President,candidate,Jill Stein/Rudolph Ware,5
+Josephine,19,US President & Vice President,candidate,Kamala D Harris/Tim Walz,431
+Josephine,19,US President & Vice President,writein,,14
+Josephine,19,US President & Vice President,total_votes,,1597
+Josephine,19,US President & Vice President,overvotes,,1
+Josephine,19,US President & Vice President,undervotes,,19
+Josephine,19,US President & Vice President,ballots_cast,,1617
+Josephine,19,"State Senator, 2nd District",candidate,Tracy Thompson,423
+Josephine,19,"State Senator, 2nd District",candidate,Noah Robinson,1084
+Josephine,19,"State Senator, 2nd District",writein,,2
+Josephine,19,"State Senator, 2nd District",total_votes,,1509
+Josephine,19,"State Senator, 2nd District",overvotes,,0
+Josephine,19,"State Senator, 2nd District",undervotes,,104
+Josephine,19,"State Senator, 2nd District",ballots_cast,,1613
+Josephine,19,"State Representative, 3rd District",candidate,Dwayne Yunker,1119
+Josephine,19,"State Representative, 3rd District",candidate,Mark J Seligman,362
+Josephine,19,"State Representative, 3rd District",writein,,20
+Josephine,19,"State Representative, 3rd District",total_votes,,1501
+Josephine,19,"State Representative, 3rd District",overvotes,,0
+Josephine,19,"State Representative, 3rd District",undervotes,,112
+Josephine,19,"State Representative, 3rd District",ballots_cast,,1613
+Josephine,20,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,7
+Josephine,20,US President & Vice President,candidate,Cornel West,0
+Josephine,20,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,20,US President & Vice President,candidate,Randall Terry,0
+Josephine,20,US President & Vice President,candidate,Donald J Trump/JD Vance,139
+Josephine,20,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,20,US President & Vice President,candidate,Kamala D Harris/Tim Walz,78
+Josephine,20,US President & Vice President,writein,,1
+Josephine,20,US President & Vice President,total_votes,,227
+Josephine,20,US President & Vice President,overvotes,,0
+Josephine,20,US President & Vice President,undervotes,,2
+Josephine,20,US President & Vice President,ballots_cast,,229
+Josephine,20,"State Senator, 2nd District",candidate,Tracy Thompson,74
+Josephine,20,"State Senator, 2nd District",candidate,Noah Robinson,145
+Josephine,20,"State Senator, 2nd District",writein,,1
+Josephine,20,"State Senator, 2nd District",total_votes,,220
+Josephine,20,"State Senator, 2nd District",overvotes,,0
+Josephine,20,"State Senator, 2nd District",undervotes,,7
+Josephine,20,"State Senator, 2nd District",ballots_cast,,227
+Josephine,20,"State Representative, 4th District",candidate,Richard Chasm,74
+Josephine,20,"State Representative, 4th District",candidate,Alek Skarlatos,145
+Josephine,20,"State Representative, 4th District",writein,,0
+Josephine,20,"State Representative, 4th District",total_votes,,219
+Josephine,20,"State Representative, 4th District",overvotes,,0
+Josephine,20,"State Representative, 4th District",undervotes,,8
+Josephine,20,"State Representative, 4th District",ballots_cast,,227
+Josephine,21,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,34
+Josephine,21,US President & Vice President,candidate,Cornel West,2
+Josephine,21,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,8
+Josephine,21,US President & Vice President,candidate,Randall Terry,1
+Josephine,21,US President & Vice President,candidate,Donald J Trump/JD Vance,1734
+Josephine,21,US President & Vice President,candidate,Jill Stein/Rudolph Ware,7
+Josephine,21,US President & Vice President,candidate,Kamala D Harris/Tim Walz,825
+Josephine,21,US President & Vice President,writein,,19
+Josephine,21,US President & Vice President,total_votes,,2630
+Josephine,21,US President & Vice President,overvotes,,1
+Josephine,21,US President & Vice President,undervotes,,30
+Josephine,21,US President & Vice President,ballots_cast,,2661
+Josephine,21,"State Senator, 2nd District",candidate,Tracy Thompson,798
+Josephine,21,"State Senator, 2nd District",candidate,Noah Robinson,1694
+Josephine,21,"State Senator, 2nd District",writein,,7
+Josephine,21,"State Senator, 2nd District",total_votes,,2499
+Josephine,21,"State Senator, 2nd District",overvotes,,0
+Josephine,21,"State Senator, 2nd District",undervotes,,161
+Josephine,21,"State Senator, 2nd District",ballots_cast,,2660
+Josephine,21,"State Representative, 4th District",candidate,Richard Chasm,764
+Josephine,21,"State Representative, 4th District",candidate,Alek Skarlatos,1706
+Josephine,21,"State Representative, 4th District",writein,,5
+Josephine,21,"State Representative, 4th District",total_votes,,2475
+Josephine,21,"State Representative, 4th District",overvotes,,1
+Josephine,21,"State Representative, 4th District",undervotes,,184
+Josephine,21,"State Representative, 4th District",ballots_cast,,2660
+Josephine,22,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Josephine,22,US President & Vice President,candidate,Cornel West,0
+Josephine,22,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,22,US President & Vice President,candidate,Randall Terry,0
+Josephine,22,US President & Vice President,candidate,Donald J Trump/JD Vance,799
+Josephine,22,US President & Vice President,candidate,Jill Stein/Rudolph Ware,5
+Josephine,22,US President & Vice President,candidate,Kamala D Harris/Tim Walz,303
+Josephine,22,US President & Vice President,writein,,4
+Josephine,22,US President & Vice President,total_votes,,1131
+Josephine,22,US President & Vice President,overvotes,,0
+Josephine,22,US President & Vice President,undervotes,,7
+Josephine,22,US President & Vice President,ballots_cast,,1138
+Josephine,22,"State Senator, 2nd District",candidate,Tracy Thompson,272
+Josephine,22,"State Senator, 2nd District",candidate,Noah Robinson,787
+Josephine,22,"State Senator, 2nd District",writein,,3
+Josephine,22,"State Senator, 2nd District",total_votes,,1062
+Josephine,22,"State Senator, 2nd District",overvotes,,0
+Josephine,22,"State Senator, 2nd District",undervotes,,74
+Josephine,22,"State Senator, 2nd District",ballots_cast,,1136
+Josephine,22,"State Representative, 4th District",candidate,Richard Chasm,255
+Josephine,22,"State Representative, 4th District",candidate,Alek Skarlatos,790
+Josephine,22,"State Representative, 4th District",writein,,2
+Josephine,22,"State Representative, 4th District",total_votes,,1047
+Josephine,22,"State Representative, 4th District",overvotes,,0
+Josephine,22,"State Representative, 4th District",undervotes,,89
+Josephine,22,"State Representative, 4th District",ballots_cast,,1136
+Josephine,23,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,6
+Josephine,23,US President & Vice President,candidate,Cornel West,1
+Josephine,23,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,23,US President & Vice President,candidate,Randall Terry,0
+Josephine,23,US President & Vice President,candidate,Donald J Trump/JD Vance,220
+Josephine,23,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,23,US President & Vice President,candidate,Kamala D Harris/Tim Walz,93
+Josephine,23,US President & Vice President,writein,,2
+Josephine,23,US President & Vice President,total_votes,,323
+Josephine,23,US President & Vice President,overvotes,,0
+Josephine,23,US President & Vice President,undervotes,,5
+Josephine,23,US President & Vice President,ballots_cast,,328
+Josephine,23,"State Senator, 2nd District",candidate,Tracy Thompson,84
+Josephine,23,"State Senator, 2nd District",candidate,Noah Robinson,223
+Josephine,23,"State Senator, 2nd District",writein,,0
+Josephine,23,"State Senator, 2nd District",total_votes,,307
+Josephine,23,"State Senator, 2nd District",overvotes,,0
+Josephine,23,"State Senator, 2nd District",undervotes,,21
+Josephine,23,"State Senator, 2nd District",ballots_cast,,328
+Josephine,23,"State Representative, 4th District",candidate,Richard Chasm,80
+Josephine,23,"State Representative, 4th District",candidate,Alek Skarlatos,218
+Josephine,23,"State Representative, 4th District",writein,,0
+Josephine,23,"State Representative, 4th District",total_votes,,298
+Josephine,23,"State Representative, 4th District",overvotes,,0
+Josephine,23,"State Representative, 4th District",undervotes,,30
+Josephine,23,"State Representative, 4th District",ballots_cast,,328
+Josephine,24,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,6
+Josephine,24,US President & Vice President,candidate,Cornel West,0
+Josephine,24,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,24,US President & Vice President,candidate,Randall Terry,0
+Josephine,24,US President & Vice President,candidate,Donald J Trump/JD Vance,383
+Josephine,24,US President & Vice President,candidate,Jill Stein/Rudolph Ware,3
+Josephine,24,US President & Vice President,candidate,Kamala D Harris/Tim Walz,165
+Josephine,24,US President & Vice President,writein,,1
+Josephine,24,US President & Vice President,total_votes,,562
+Josephine,24,US President & Vice President,overvotes,,1
+Josephine,24,US President & Vice President,undervotes,,5
+Josephine,24,US President & Vice President,ballots_cast,,568
+Josephine,24,"State Senator, 2nd District",candidate,Tracy Thompson,156
+Josephine,24,"State Senator, 2nd District",candidate,Noah Robinson,375
+Josephine,24,"State Senator, 2nd District",writein,,2
+Josephine,24,"State Senator, 2nd District",total_votes,,533
+Josephine,24,"State Senator, 2nd District",overvotes,,0
+Josephine,24,"State Senator, 2nd District",undervotes,,34
+Josephine,24,"State Senator, 2nd District",ballots_cast,,567
+Josephine,24,"State Representative, 3rd District",candidate,Dwayne Yunker,388
+Josephine,24,"State Representative, 3rd District",candidate,Mark J Seligman,124
+Josephine,24,"State Representative, 3rd District",writein,,15
+Josephine,24,"State Representative, 3rd District",total_votes,,527
+Josephine,24,"State Representative, 3rd District",overvotes,,0
+Josephine,24,"State Representative, 3rd District",undervotes,,40
+Josephine,24,"State Representative, 3rd District",ballots_cast,,567
+Josephine,25,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Josephine,25,US President & Vice President,candidate,Cornel West,1
+Josephine,25,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,8
+Josephine,25,US President & Vice President,candidate,Randall Terry,0
+Josephine,25,US President & Vice President,candidate,Donald J Trump/JD Vance,675
+Josephine,25,US President & Vice President,candidate,Jill Stein/Rudolph Ware,2
+Josephine,25,US President & Vice President,candidate,Kamala D Harris/Tim Walz,313
+Josephine,25,US President & Vice President,writein,,5
+Josephine,25,US President & Vice President,total_votes,,1019
+Josephine,25,US President & Vice President,overvotes,,0
+Josephine,25,US President & Vice President,undervotes,,7
+Josephine,25,US President & Vice President,ballots_cast,,1026
+Josephine,25,"State Senator, 2nd District",candidate,Tracy Thompson,300
+Josephine,25,"State Senator, 2nd District",candidate,Noah Robinson,656
+Josephine,25,"State Senator, 2nd District",writein,,0
+Josephine,25,"State Senator, 2nd District",total_votes,,956
+Josephine,25,"State Senator, 2nd District",overvotes,,0
+Josephine,25,"State Senator, 2nd District",undervotes,,69
+Josephine,25,"State Senator, 2nd District",ballots_cast,,1025
+Josephine,25,"State Representative, 4th District",candidate,Richard Chasm,278
+Josephine,25,"State Representative, 4th District",candidate,Alek Skarlatos,662
+Josephine,25,"State Representative, 4th District",writein,,1
+Josephine,25,"State Representative, 4th District",total_votes,,941
+Josephine,25,"State Representative, 4th District",overvotes,,0
+Josephine,25,"State Representative, 4th District",undervotes,,84
+Josephine,25,"State Representative, 4th District",ballots_cast,,1025
+Josephine,26,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,11
+Josephine,26,US President & Vice President,candidate,Cornel West,1
+Josephine,26,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,26,US President & Vice President,candidate,Randall Terry,0
+Josephine,26,US President & Vice President,candidate,Donald J Trump/JD Vance,349
+Josephine,26,US President & Vice President,candidate,Jill Stein/Rudolph Ware,2
+Josephine,26,US President & Vice President,candidate,Kamala D Harris/Tim Walz,179
+Josephine,26,US President & Vice President,writein,,10
+Josephine,26,US President & Vice President,total_votes,,553
+Josephine,26,US President & Vice President,overvotes,,0
+Josephine,26,US President & Vice President,undervotes,,4
+Josephine,26,US President & Vice President,ballots_cast,,557
+Josephine,26,"State Senator, 2nd District",candidate,Tracy Thompson,180
+Josephine,26,"State Senator, 2nd District",candidate,Noah Robinson,353
+Josephine,26,"State Senator, 2nd District",writein,,0
+Josephine,26,"State Senator, 2nd District",total_votes,,533
+Josephine,26,"State Senator, 2nd District",overvotes,,0
+Josephine,26,"State Senator, 2nd District",undervotes,,24
+Josephine,26,"State Senator, 2nd District",ballots_cast,,557
+Josephine,26,"State Representative, 3rd District",candidate,Dwayne Yunker,358
+Josephine,26,"State Representative, 3rd District",candidate,Mark J Seligman,158
+Josephine,26,"State Representative, 3rd District",writein,,8
+Josephine,26,"State Representative, 3rd District",total_votes,,524
+Josephine,26,"State Representative, 3rd District",overvotes,,0
+Josephine,26,"State Representative, 3rd District",undervotes,,33
+Josephine,26,"State Representative, 3rd District",ballots_cast,,557
+Josephine,27,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,5
+Josephine,27,US President & Vice President,candidate,Cornel West,0
+Josephine,27,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,27,US President & Vice President,candidate,Randall Terry,1
+Josephine,27,US President & Vice President,candidate,Donald J Trump/JD Vance,314
+Josephine,27,US President & Vice President,candidate,Jill Stein/Rudolph Ware,4
+Josephine,27,US President & Vice President,candidate,Kamala D Harris/Tim Walz,132
+Josephine,27,US President & Vice President,writein,,3
+Josephine,27,US President & Vice President,total_votes,,460
+Josephine,27,US President & Vice President,overvotes,,0
+Josephine,27,US President & Vice President,undervotes,,4
+Josephine,27,US President & Vice President,ballots_cast,,464
+Josephine,27,"State Senator, 2nd District",candidate,Tracy Thompson,137
+Josephine,27,"State Senator, 2nd District",candidate,Noah Robinson,291
+Josephine,27,"State Senator, 2nd District",writein,,0
+Josephine,27,"State Senator, 2nd District",total_votes,,428
+Josephine,27,"State Senator, 2nd District",overvotes,,0
+Josephine,27,"State Senator, 2nd District",undervotes,,35
+Josephine,27,"State Senator, 2nd District",ballots_cast,,463
+Josephine,27,"State Representative, 4th District",candidate,Richard Chasm,131
+Josephine,27,"State Representative, 4th District",candidate,Alek Skarlatos,297
+Josephine,27,"State Representative, 4th District",writein,,0
+Josephine,27,"State Representative, 4th District",total_votes,,428
+Josephine,27,"State Representative, 4th District",overvotes,,0
+Josephine,27,"State Representative, 4th District",undervotes,,35
+Josephine,27,"State Representative, 4th District",ballots_cast,,463
+Josephine,28,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,11
+Josephine,28,US President & Vice President,candidate,Cornel West,2
+Josephine,28,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,7
+Josephine,28,US President & Vice President,candidate,Randall Terry,0
+Josephine,28,US President & Vice President,candidate,Donald J Trump/JD Vance,309
+Josephine,28,US President & Vice President,candidate,Jill Stein/Rudolph Ware,4
+Josephine,28,US President & Vice President,candidate,Kamala D Harris/Tim Walz,140
+Josephine,28,US President & Vice President,writein,,2
+Josephine,28,US President & Vice President,total_votes,,475
+Josephine,28,US President & Vice President,overvotes,,0
+Josephine,28,US President & Vice President,undervotes,,7
+Josephine,28,US President & Vice President,ballots_cast,,482
+Josephine,28,"State Senator, 2nd District",candidate,Tracy Thompson,149
+Josephine,28,"State Senator, 2nd District",candidate,Noah Robinson,295
+Josephine,28,"State Senator, 2nd District",writein,,0
+Josephine,28,"State Senator, 2nd District",total_votes,,444
+Josephine,28,"State Senator, 2nd District",overvotes,,0
+Josephine,28,"State Senator, 2nd District",undervotes,,37
+Josephine,28,"State Senator, 2nd District",ballots_cast,,481
+Josephine,28,"State Representative, 3rd District",candidate,Dwayne Yunker,303
+Josephine,28,"State Representative, 3rd District",candidate,Mark J Seligman,116
+Josephine,28,"State Representative, 3rd District",writein,,10
+Josephine,28,"State Representative, 3rd District",total_votes,,429
+Josephine,28,"State Representative, 3rd District",overvotes,,0
+Josephine,28,"State Representative, 3rd District",undervotes,,52
+Josephine,28,"State Representative, 3rd District",ballots_cast,,481
+Josephine,29,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Josephine,29,US President & Vice President,candidate,Cornel West,0
+Josephine,29,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,29,US President & Vice President,candidate,Randall Terry,0
+Josephine,29,US President & Vice President,candidate,Donald J Trump/JD Vance,36
+Josephine,29,US President & Vice President,candidate,Jill Stein/Rudolph Ware,0
+Josephine,29,US President & Vice President,candidate,Kamala D Harris/Tim Walz,9
+Josephine,29,US President & Vice President,writein,,0
+Josephine,29,US President & Vice President,total_votes,,46
+Josephine,29,US President & Vice President,overvotes,,0
+Josephine,29,US President & Vice President,undervotes,,0
+Josephine,29,US President & Vice President,ballots_cast,,46
+Josephine,29,"State Senator, 2nd District",candidate,Tracy Thompson,11
+Josephine,29,"State Senator, 2nd District",candidate,Noah Robinson,32
+Josephine,29,"State Senator, 2nd District",writein,,0
+Josephine,29,"State Senator, 2nd District",total_votes,,43
+Josephine,29,"State Senator, 2nd District",overvotes,,0
+Josephine,29,"State Senator, 2nd District",undervotes,,3
+Josephine,29,"State Senator, 2nd District",ballots_cast,,46
+Josephine,29,"State Representative, 3rd District",candidate,Dwayne Yunker,33
+Josephine,29,"State Representative, 3rd District",candidate,Mark J Seligman,6
+Josephine,29,"State Representative, 3rd District",writein,,2
+Josephine,29,"State Representative, 3rd District",total_votes,,41
+Josephine,29,"State Representative, 3rd District",overvotes,,0
+Josephine,29,"State Representative, 3rd District",undervotes,,5
+Josephine,29,"State Representative, 3rd District",ballots_cast,,46
+Josephine,30,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Josephine,30,US President & Vice President,candidate,Cornel West,3
+Josephine,30,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,5
+Josephine,30,US President & Vice President,candidate,Randall Terry,1
+Josephine,30,US President & Vice President,candidate,Donald J Trump/JD Vance,598
+Josephine,30,US President & Vice President,candidate,Jill Stein/Rudolph Ware,7
+Josephine,30,US President & Vice President,candidate,Kamala D Harris/Tim Walz,364
+Josephine,30,US President & Vice President,writein,,6
+Josephine,30,US President & Vice President,total_votes,,1002
+Josephine,30,US President & Vice President,overvotes,,1
+Josephine,30,US President & Vice President,undervotes,,10
+Josephine,30,US President & Vice President,ballots_cast,,1013
+Josephine,30,"State Senator, 2nd District",candidate,Tracy Thompson,347
+Josephine,30,"State Senator, 2nd District",candidate,Noah Robinson,603
+Josephine,30,"State Senator, 2nd District",writein,,3
+Josephine,30,"State Senator, 2nd District",total_votes,,953
+Josephine,30,"State Senator, 2nd District",overvotes,,0
+Josephine,30,"State Senator, 2nd District",undervotes,,58
+Josephine,30,"State Senator, 2nd District",ballots_cast,,1011
+Josephine,30,"State Representative, 3rd District",candidate,Dwayne Yunker,610
+Josephine,30,"State Representative, 3rd District",candidate,Mark J Seligman,283
+Josephine,30,"State Representative, 3rd District",writein,,29
+Josephine,30,"State Representative, 3rd District",total_votes,,922
+Josephine,30,"State Representative, 3rd District",overvotes,,0
+Josephine,30,"State Representative, 3rd District",undervotes,,89
+Josephine,30,"State Representative, 3rd District",ballots_cast,,1011
+Josephine,31,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,45
+Josephine,31,US President & Vice President,candidate,Cornel West,3
+Josephine,31,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,8
+Josephine,31,US President & Vice President,candidate,Randall Terry,2
+Josephine,31,US President & Vice President,candidate,Donald J Trump/JD Vance,1337
+Josephine,31,US President & Vice President,candidate,Jill Stein/Rudolph Ware,31
+Josephine,31,US President & Vice President,candidate,Kamala D Harris/Tim Walz,1083
+Josephine,31,US President & Vice President,writein,,13
+Josephine,31,US President & Vice President,total_votes,,2522
+Josephine,31,US President & Vice President,overvotes,,0
+Josephine,31,US President & Vice President,undervotes,,27
+Josephine,31,US President & Vice President,ballots_cast,,2549
+Josephine,31,"State Senator, 2nd District",candidate,Tracy Thompson,1082
+Josephine,31,"State Senator, 2nd District",candidate,Noah Robinson,1328
+Josephine,31,"State Senator, 2nd District",writein,,4
+Josephine,31,"State Senator, 2nd District",total_votes,,2414
+Josephine,31,"State Senator, 2nd District",overvotes,,0
+Josephine,31,"State Senator, 2nd District",undervotes,,131
+Josephine,31,"State Senator, 2nd District",ballots_cast,,2545
+Josephine,31,"State Representative, 3rd District",candidate,Dwayne Yunker,1328
+Josephine,31,"State Representative, 3rd District",candidate,Mark J Seligman,888
+Josephine,31,"State Representative, 3rd District",writein,,92
+Josephine,31,"State Representative, 3rd District",total_votes,,2308
+Josephine,31,"State Representative, 3rd District",overvotes,,1
+Josephine,31,"State Representative, 3rd District",undervotes,,236
+Josephine,31,"State Representative, 3rd District",ballots_cast,,2545
+Josephine,32,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Josephine,32,US President & Vice President,candidate,Cornel West,1
+Josephine,32,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,2
+Josephine,32,US President & Vice President,candidate,Randall Terry,1
+Josephine,32,US President & Vice President,candidate,Donald J Trump/JD Vance,138
+Josephine,32,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,32,US President & Vice President,candidate,Kamala D Harris/Tim Walz,67
+Josephine,32,US President & Vice President,writein,,0
+Josephine,32,US President & Vice President,total_votes,,211
+Josephine,32,US President & Vice President,overvotes,,0
+Josephine,32,US President & Vice President,undervotes,,4
+Josephine,32,US President & Vice President,ballots_cast,,215
+Josephine,32,"State Senator, 2nd District",candidate,Tracy Thompson,63
+Josephine,32,"State Senator, 2nd District",candidate,Noah Robinson,138
+Josephine,32,"State Senator, 2nd District",writein,,0
+Josephine,32,"State Senator, 2nd District",total_votes,,201
+Josephine,32,"State Senator, 2nd District",overvotes,,0
+Josephine,32,"State Senator, 2nd District",undervotes,,13
+Josephine,32,"State Senator, 2nd District",ballots_cast,,214
+Josephine,32,"State Representative, 4th District",candidate,Richard Chasm,63
+Josephine,32,"State Representative, 4th District",candidate,Alek Skarlatos,138
+Josephine,32,"State Representative, 4th District",writein,,0
+Josephine,32,"State Representative, 4th District",total_votes,,201
+Josephine,32,"State Representative, 4th District",overvotes,,0
+Josephine,32,"State Representative, 4th District",undervotes,,13
+Josephine,32,"State Representative, 4th District",ballots_cast,,214
+Josephine,33,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,12
+Josephine,33,US President & Vice President,candidate,Cornel West,0
+Josephine,33,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,33,US President & Vice President,candidate,Randall Terry,0
+Josephine,33,US President & Vice President,candidate,Donald J Trump/JD Vance,426
+Josephine,33,US President & Vice President,candidate,Jill Stein/Rudolph Ware,2
+Josephine,33,US President & Vice President,candidate,Kamala D Harris/Tim Walz,192
+Josephine,33,US President & Vice President,writein,,2
+Josephine,33,US President & Vice President,total_votes,,634
+Josephine,33,US President & Vice President,overvotes,,0
+Josephine,33,US President & Vice President,undervotes,,6
+Josephine,33,US President & Vice President,ballots_cast,,640
+Josephine,33,"State Senator, 2nd District",candidate,Tracy Thompson,184
+Josephine,33,"State Senator, 2nd District",candidate,Noah Robinson,418
+Josephine,33,"State Senator, 2nd District",writein,,0
+Josephine,33,"State Senator, 2nd District",total_votes,,602
+Josephine,33,"State Senator, 2nd District",overvotes,,0
+Josephine,33,"State Senator, 2nd District",undervotes,,38
+Josephine,33,"State Senator, 2nd District",ballots_cast,,640
+Josephine,33,"State Representative, 3rd District",candidate,Dwayne Yunker,429
+Josephine,33,"State Representative, 3rd District",candidate,Mark J Seligman,167
+Josephine,33,"State Representative, 3rd District",writein,,3
+Josephine,33,"State Representative, 3rd District",total_votes,,599
+Josephine,33,"State Representative, 3rd District",overvotes,,0
+Josephine,33,"State Representative, 3rd District",undervotes,,41
+Josephine,33,"State Representative, 3rd District",ballots_cast,,640
+Josephine,34,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,4
+Josephine,34,US President & Vice President,candidate,Cornel West,0
+Josephine,34,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,34,US President & Vice President,candidate,Randall Terry,1
+Josephine,34,US President & Vice President,candidate,Donald J Trump/JD Vance,182
+Josephine,34,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,34,US President & Vice President,candidate,Kamala D Harris/Tim Walz,145
+Josephine,34,US President & Vice President,writein,,3
+Josephine,34,US President & Vice President,total_votes,,336
+Josephine,34,US President & Vice President,overvotes,,1
+Josephine,34,US President & Vice President,undervotes,,5
+Josephine,34,US President & Vice President,ballots_cast,,342
+Josephine,34,"State Senator, 2nd District",candidate,Tracy Thompson,142
+Josephine,34,"State Senator, 2nd District",candidate,Noah Robinson,182
+Josephine,34,"State Senator, 2nd District",writein,,1
+Josephine,34,"State Senator, 2nd District",total_votes,,325
+Josephine,34,"State Senator, 2nd District",overvotes,,0
+Josephine,34,"State Senator, 2nd District",undervotes,,17
+Josephine,34,"State Senator, 2nd District",ballots_cast,,342
+Josephine,34,"State Representative, 3rd District",candidate,Dwayne Yunker,184
+Josephine,34,"State Representative, 3rd District",candidate,Mark J Seligman,106
+Josephine,34,"State Representative, 3rd District",writein,,13
+Josephine,34,"State Representative, 3rd District",total_votes,,303
+Josephine,34,"State Representative, 3rd District",overvotes,,0
+Josephine,34,"State Representative, 3rd District",undervotes,,39
+Josephine,34,"State Representative, 3rd District",ballots_cast,,342
+Josephine,35,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,8
+Josephine,35,US President & Vice President,candidate,Cornel West,1
+Josephine,35,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,35,US President & Vice President,candidate,Randall Terry,1
+Josephine,35,US President & Vice President,candidate,Donald J Trump/JD Vance,541
+Josephine,35,US President & Vice President,candidate,Jill Stein/Rudolph Ware,7
+Josephine,35,US President & Vice President,candidate,Kamala D Harris/Tim Walz,216
+Josephine,35,US President & Vice President,writein,,1
+Josephine,35,US President & Vice President,total_votes,,776
+Josephine,35,US President & Vice President,overvotes,,0
+Josephine,35,US President & Vice President,undervotes,,8
+Josephine,35,US President & Vice President,ballots_cast,,784
+Josephine,35,"State Senator, 2nd District",candidate,Tracy Thompson,202
+Josephine,35,"State Senator, 2nd District",candidate,Noah Robinson,528
+Josephine,35,"State Senator, 2nd District",writein,,1
+Josephine,35,"State Senator, 2nd District",total_votes,,731
+Josephine,35,"State Senator, 2nd District",overvotes,,0
+Josephine,35,"State Senator, 2nd District",undervotes,,53
+Josephine,35,"State Senator, 2nd District",ballots_cast,,784
+Josephine,35,"State Representative, 4th District",candidate,Richard Chasm,202
+Josephine,35,"State Representative, 4th District",candidate,Alek Skarlatos,529
+Josephine,35,"State Representative, 4th District",writein,,1
+Josephine,35,"State Representative, 4th District",total_votes,,732
+Josephine,35,"State Representative, 4th District",overvotes,,0
+Josephine,35,"State Representative, 4th District",undervotes,,52
+Josephine,35,"State Representative, 4th District",ballots_cast,,784
+Josephine,36,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,23
+Josephine,36,US President & Vice President,candidate,Cornel West,1
+Josephine,36,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,36,US President & Vice President,candidate,Randall Terry,4
+Josephine,36,US President & Vice President,candidate,Donald J Trump/JD Vance,1177
+Josephine,36,US President & Vice President,candidate,Jill Stein/Rudolph Ware,7
+Josephine,36,US President & Vice President,candidate,Kamala D Harris/Tim Walz,477
+Josephine,36,US President & Vice President,writein,,10
+Josephine,36,US President & Vice President,total_votes,,1703
+Josephine,36,US President & Vice President,overvotes,,0
+Josephine,36,US President & Vice President,undervotes,,18
+Josephine,36,US President & Vice President,ballots_cast,,1721
+Josephine,36,"State Senator, 2nd District",candidate,Tracy Thompson,469
+Josephine,36,"State Senator, 2nd District",candidate,Noah Robinson,1146
+Josephine,36,"State Senator, 2nd District",writein,,4
+Josephine,36,"State Senator, 2nd District",total_votes,,1619
+Josephine,36,"State Senator, 2nd District",overvotes,,0
+Josephine,36,"State Senator, 2nd District",undervotes,,97
+Josephine,36,"State Senator, 2nd District",ballots_cast,,1716
+Josephine,36,"State Representative, 3rd District",candidate,Dwayne Yunker,1166
+Josephine,36,"State Representative, 3rd District",candidate,Mark J Seligman,366
+Josephine,36,"State Representative, 3rd District",writein,,42
+Josephine,36,"State Representative, 3rd District",total_votes,,1574
+Josephine,36,"State Representative, 3rd District",overvotes,,0
+Josephine,36,"State Representative, 3rd District",undervotes,,142
+Josephine,36,"State Representative, 3rd District",ballots_cast,,1716
+Josephine,37,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,26
+Josephine,37,US President & Vice President,candidate,Cornel West,4
+Josephine,37,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,3
+Josephine,37,US President & Vice President,candidate,Randall Terry,1
+Josephine,37,US President & Vice President,candidate,Donald J Trump/JD Vance,707
+Josephine,37,US President & Vice President,candidate,Jill Stein/Rudolph Ware,8
+Josephine,37,US President & Vice President,candidate,Kamala D Harris/Tim Walz,365
+Josephine,37,US President & Vice President,writein,,6
+Josephine,37,US President & Vice President,total_votes,,1120
+Josephine,37,US President & Vice President,overvotes,,0
+Josephine,37,US President & Vice President,undervotes,,6
+Josephine,37,US President & Vice President,ballots_cast,,1126
+Josephine,37,"State Senator, 2nd District",candidate,Tracy Thompson,347
+Josephine,37,"State Senator, 2nd District",candidate,Noah Robinson,742
+Josephine,37,"State Senator, 2nd District",writein,,0
+Josephine,37,"State Senator, 2nd District",total_votes,,1089
+Josephine,37,"State Senator, 2nd District",overvotes,,0
+Josephine,37,"State Senator, 2nd District",undervotes,,35
+Josephine,37,"State Senator, 2nd District",ballots_cast,,1124
+Josephine,37,"State Representative, 3rd District",candidate,Dwayne Yunker,733
+Josephine,37,"State Representative, 3rd District",candidate,Mark J Seligman,294
+Josephine,37,"State Representative, 3rd District",writein,,21
+Josephine,37,"State Representative, 3rd District",total_votes,,1048
+Josephine,37,"State Representative, 3rd District",overvotes,,1
+Josephine,37,"State Representative, 3rd District",undervotes,,75
+Josephine,37,"State Representative, 3rd District",ballots_cast,,1124
+Josephine,38,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,33
+Josephine,38,US President & Vice President,candidate,Cornel West,3
+Josephine,38,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,11
+Josephine,38,US President & Vice President,candidate,Randall Terry,2
+Josephine,38,US President & Vice President,candidate,Donald J Trump/JD Vance,1655
+Josephine,38,US President & Vice President,candidate,Jill Stein/Rudolph Ware,10
+Josephine,38,US President & Vice President,candidate,Kamala D Harris/Tim Walz,751
+Josephine,38,US President & Vice President,writein,,14
+Josephine,38,US President & Vice President,total_votes,,2479
+Josephine,38,US President & Vice President,overvotes,,0
+Josephine,38,US President & Vice President,undervotes,,18
+Josephine,38,US President & Vice President,ballots_cast,,2497
+Josephine,38,"State Senator, 2nd District",candidate,Tracy Thompson,734
+Josephine,38,"State Senator, 2nd District",candidate,Noah Robinson,1617
+Josephine,38,"State Senator, 2nd District",writein,,2
+Josephine,38,"State Senator, 2nd District",total_votes,,2353
+Josephine,38,"State Senator, 2nd District",overvotes,,0
+Josephine,38,"State Senator, 2nd District",undervotes,,141
+Josephine,38,"State Senator, 2nd District",ballots_cast,,2494
+Josephine,38,"State Representative, 3rd District",candidate,Dwayne Yunker,1644
+Josephine,38,"State Representative, 3rd District",candidate,Mark J Seligman,607
+Josephine,38,"State Representative, 3rd District",writein,,44
+Josephine,38,"State Representative, 3rd District",total_votes,,2295
+Josephine,38,"State Representative, 3rd District",overvotes,,0
+Josephine,38,"State Representative, 3rd District",undervotes,,199
+Josephine,38,"State Representative, 3rd District",ballots_cast,,2494
+Josephine,39,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,12
+Josephine,39,US President & Vice President,candidate,Cornel West,0
+Josephine,39,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,4
+Josephine,39,US President & Vice President,candidate,Randall Terry,1
+Josephine,39,US President & Vice President,candidate,Donald J Trump/JD Vance,854
+Josephine,39,US President & Vice President,candidate,Jill Stein/Rudolph Ware,6
+Josephine,39,US President & Vice President,candidate,Kamala D Harris/Tim Walz,388
+Josephine,39,US President & Vice President,writein,,11
+Josephine,39,US President & Vice President,total_votes,,1276
+Josephine,39,US President & Vice President,overvotes,,0
+Josephine,39,US President & Vice President,undervotes,,8
+Josephine,39,US President & Vice President,ballots_cast,,1284
+Josephine,39,"State Senator, 2nd District",candidate,Tracy Thompson,368
+Josephine,39,"State Senator, 2nd District",candidate,Noah Robinson,843
+Josephine,39,"State Senator, 2nd District",writein,,4
+Josephine,39,"State Senator, 2nd District",total_votes,,1215
+Josephine,39,"State Senator, 2nd District",overvotes,,0
+Josephine,39,"State Senator, 2nd District",undervotes,,67
+Josephine,39,"State Senator, 2nd District",ballots_cast,,1282
+Josephine,39,"State Representative, 4th District",candidate,Richard Chasm,354
+Josephine,39,"State Representative, 4th District",candidate,Alek Skarlatos,850
+Josephine,39,"State Representative, 4th District",writein,,2
+Josephine,39,"State Representative, 4th District",total_votes,,1206
+Josephine,39,"State Representative, 4th District",overvotes,,0
+Josephine,39,"State Representative, 4th District",undervotes,,76
+Josephine,39,"State Representative, 4th District",ballots_cast,,1282
+Josephine,40,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Josephine,40,US President & Vice President,candidate,Cornel West,3
+Josephine,40,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,2
+Josephine,40,US President & Vice President,candidate,Randall Terry,1
+Josephine,40,US President & Vice President,candidate,Donald J Trump/JD Vance,340
+Josephine,40,US President & Vice President,candidate,Jill Stein/Rudolph Ware,9
+Josephine,40,US President & Vice President,candidate,Kamala D Harris/Tim Walz,330
+Josephine,40,US President & Vice President,writein,,2
+Josephine,40,US President & Vice President,total_votes,,702
+Josephine,40,US President & Vice President,overvotes,,1
+Josephine,40,US President & Vice President,undervotes,,13
+Josephine,40,US President & Vice President,ballots_cast,,716
+Josephine,40,"State Senator, 2nd District",candidate,Tracy Thompson,337
+Josephine,40,"State Senator, 2nd District",candidate,Noah Robinson,327
+Josephine,40,"State Senator, 2nd District",writein,,0
+Josephine,40,"State Senator, 2nd District",total_votes,,664
+Josephine,40,"State Senator, 2nd District",overvotes,,0
+Josephine,40,"State Senator, 2nd District",undervotes,,50
+Josephine,40,"State Senator, 2nd District",ballots_cast,,714
+Josephine,40,"State Representative, 3rd District",candidate,Dwayne Yunker,332
+Josephine,40,"State Representative, 3rd District",candidate,Mark J Seligman,289
+Josephine,40,"State Representative, 3rd District",writein,,17
+Josephine,40,"State Representative, 3rd District",total_votes,,638
+Josephine,40,"State Representative, 3rd District",overvotes,,0
+Josephine,40,"State Representative, 3rd District",undervotes,,76
+Josephine,40,"State Representative, 3rd District",ballots_cast,,714
+Josephine,41,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Josephine,41,US President & Vice President,candidate,Cornel West,0
+Josephine,41,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,41,US President & Vice President,candidate,Randall Terry,0
+Josephine,41,US President & Vice President,candidate,Donald J Trump/JD Vance,76
+Josephine,41,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,41,US President & Vice President,candidate,Kamala D Harris/Tim Walz,26
+Josephine,41,US President & Vice President,writein,,0
+Josephine,41,US President & Vice President,total_votes,,106
+Josephine,41,US President & Vice President,overvotes,,0
+Josephine,41,US President & Vice President,undervotes,,1
+Josephine,41,US President & Vice President,ballots_cast,,107
+Josephine,41,"State Senator, 2nd District",candidate,Tracy Thompson,28
+Josephine,41,"State Senator, 2nd District",candidate,Noah Robinson,68
+Josephine,41,"State Senator, 2nd District",writein,,0
+Josephine,41,"State Senator, 2nd District",total_votes,,96
+Josephine,41,"State Senator, 2nd District",overvotes,,0
+Josephine,41,"State Senator, 2nd District",undervotes,,11
+Josephine,41,"State Senator, 2nd District",ballots_cast,,107
+Josephine,41,"State Representative, 4th District",candidate,Richard Chasm,24
+Josephine,41,"State Representative, 4th District",candidate,Alek Skarlatos,72
+Josephine,41,"State Representative, 4th District",writein,,0
+Josephine,41,"State Representative, 4th District",total_votes,,96
+Josephine,41,"State Representative, 4th District",overvotes,,0
+Josephine,41,"State Representative, 4th District",undervotes,,11
+Josephine,41,"State Representative, 4th District",ballots_cast,,107
+Josephine,42,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,14
+Josephine,42,US President & Vice President,candidate,Cornel West,0
+Josephine,42,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,3
+Josephine,42,US President & Vice President,candidate,Randall Terry,0
+Josephine,42,US President & Vice President,candidate,Donald J Trump/JD Vance,1145
+Josephine,42,US President & Vice President,candidate,Jill Stein/Rudolph Ware,10
+Josephine,42,US President & Vice President,candidate,Kamala D Harris/Tim Walz,425
+Josephine,42,US President & Vice President,writein,,7
+Josephine,42,US President & Vice President,total_votes,,1604
+Josephine,42,US President & Vice President,overvotes,,0
+Josephine,42,US President & Vice President,undervotes,,19
+Josephine,42,US President & Vice President,ballots_cast,,1623
+Josephine,42,"State Senator, 2nd District",candidate,Tracy Thompson,419
+Josephine,42,"State Senator, 2nd District",candidate,Noah Robinson,1112
+Josephine,42,"State Senator, 2nd District",writein,,4
+Josephine,42,"State Senator, 2nd District",total_votes,,1535
+Josephine,42,"State Senator, 2nd District",overvotes,,0
+Josephine,42,"State Senator, 2nd District",undervotes,,86
+Josephine,42,"State Senator, 2nd District",ballots_cast,,1621
+Josephine,42,"State Representative, 4th District",candidate,Richard Chasm,395
+Josephine,42,"State Representative, 4th District",candidate,Alek Skarlatos,1131
+Josephine,42,"State Representative, 4th District",writein,,2
+Josephine,42,"State Representative, 4th District",total_votes,,1528
+Josephine,42,"State Representative, 4th District",overvotes,,0
+Josephine,42,"State Representative, 4th District",undervotes,,93
+Josephine,42,"State Representative, 4th District",ballots_cast,,1621
+Josephine,43,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Josephine,43,US President & Vice President,candidate,Cornel West,0
+Josephine,43,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,2
+Josephine,43,US President & Vice President,candidate,Randall Terry,0
+Josephine,43,US President & Vice President,candidate,Donald J Trump/JD Vance,822
+Josephine,43,US President & Vice President,candidate,Jill Stein/Rudolph Ware,3
+Josephine,43,US President & Vice President,candidate,Kamala D Harris/Tim Walz,331
+Josephine,43,US President & Vice President,writein,,3
+Josephine,43,US President & Vice President,total_votes,,1179
+Josephine,43,US President & Vice President,overvotes,,0
+Josephine,43,US President & Vice President,undervotes,,18
+Josephine,43,US President & Vice President,ballots_cast,,1197
+Josephine,43,"State Senator, 2nd District",candidate,Tracy Thompson,328
+Josephine,43,"State Senator, 2nd District",candidate,Noah Robinson,790
+Josephine,43,"State Senator, 2nd District",writein,,3
+Josephine,43,"State Senator, 2nd District",total_votes,,1121
+Josephine,43,"State Senator, 2nd District",overvotes,,0
+Josephine,43,"State Senator, 2nd District",undervotes,,76
+Josephine,43,"State Senator, 2nd District",ballots_cast,,1197
+Josephine,43,"State Representative, 4th District",candidate,Richard Chasm,307
+Josephine,43,"State Representative, 4th District",candidate,Alek Skarlatos,807
+Josephine,43,"State Representative, 4th District",writein,,4
+Josephine,43,"State Representative, 4th District",total_votes,,1118
+Josephine,43,"State Representative, 4th District",overvotes,,0
+Josephine,43,"State Representative, 4th District",undervotes,,79
+Josephine,43,"State Representative, 4th District",ballots_cast,,1197
+Josephine,44,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Josephine,44,US President & Vice President,candidate,Cornel West,1
+Josephine,44,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,44,US President & Vice President,candidate,Randall Terry,1
+Josephine,44,US President & Vice President,candidate,Donald J Trump/JD Vance,102
+Josephine,44,US President & Vice President,candidate,Jill Stein/Rudolph Ware,2
+Josephine,44,US President & Vice President,candidate,Kamala D Harris/Tim Walz,63
+Josephine,44,US President & Vice President,writein,,1
+Josephine,44,US President & Vice President,total_votes,,174
+Josephine,44,US President & Vice President,overvotes,,0
+Josephine,44,US President & Vice President,undervotes,,2
+Josephine,44,US President & Vice President,ballots_cast,,176
+Josephine,44,"State Senator, 2nd District",candidate,Tracy Thompson,63
+Josephine,44,"State Senator, 2nd District",candidate,Noah Robinson,99
+Josephine,44,"State Senator, 2nd District",writein,,1
+Josephine,44,"State Senator, 2nd District",total_votes,,163
+Josephine,44,"State Senator, 2nd District",overvotes,,0
+Josephine,44,"State Senator, 2nd District",undervotes,,13
+Josephine,44,"State Senator, 2nd District",ballots_cast,,176
+Josephine,44,"State Representative, 3rd District",candidate,Dwayne Yunker,101
+Josephine,44,"State Representative, 3rd District",candidate,Mark J Seligman,50
+Josephine,44,"State Representative, 3rd District",writein,,9
+Josephine,44,"State Representative, 3rd District",total_votes,,160
+Josephine,44,"State Representative, 3rd District",overvotes,,0
+Josephine,44,"State Representative, 3rd District",undervotes,,16
+Josephine,44,"State Representative, 3rd District",ballots_cast,,176
+Josephine,45,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Josephine,45,US President & Vice President,candidate,Cornel West,2
+Josephine,45,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,45,US President & Vice President,candidate,Randall Terry,0
+Josephine,45,US President & Vice President,candidate,Donald J Trump/JD Vance,90
+Josephine,45,US President & Vice President,candidate,Jill Stein/Rudolph Ware,1
+Josephine,45,US President & Vice President,candidate,Kamala D Harris/Tim Walz,32
+Josephine,45,US President & Vice President,writein,,2
+Josephine,45,US President & Vice President,total_votes,,128
+Josephine,45,US President & Vice President,overvotes,,0
+Josephine,45,US President & Vice President,undervotes,,2
+Josephine,45,US President & Vice President,ballots_cast,,130
+Josephine,45,"State Senator, 2nd District",candidate,Tracy Thompson,34
+Josephine,45,"State Senator, 2nd District",candidate,Noah Robinson,91
+Josephine,45,"State Senator, 2nd District",writein,,0
+Josephine,45,"State Senator, 2nd District",total_votes,,125
+Josephine,45,"State Senator, 2nd District",overvotes,,0
+Josephine,45,"State Senator, 2nd District",undervotes,,3
+Josephine,45,"State Senator, 2nd District",ballots_cast,,128
+Josephine,45,"State Representative, 4th District",candidate,Richard Chasm,29
+Josephine,45,"State Representative, 4th District",candidate,Alek Skarlatos,93
+Josephine,45,"State Representative, 4th District",writein,,0
+Josephine,45,"State Representative, 4th District",total_votes,,122
+Josephine,45,"State Representative, 4th District",overvotes,,0
+Josephine,45,"State Representative, 4th District",undervotes,,6
+Josephine,45,"State Representative, 4th District",ballots_cast,,128
+Josephine,46,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,7
+Josephine,46,US President & Vice President,candidate,Cornel West,0
+Josephine,46,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,1
+Josephine,46,US President & Vice President,candidate,Randall Terry,0
+Josephine,46,US President & Vice President,candidate,Donald J Trump/JD Vance,164
+Josephine,46,US President & Vice President,candidate,Jill Stein/Rudolph Ware,4
+Josephine,46,US President & Vice President,candidate,Kamala D Harris/Tim Walz,102
+Josephine,46,US President & Vice President,writein,,1
+Josephine,46,US President & Vice President,total_votes,,279
+Josephine,46,US President & Vice President,overvotes,,0
+Josephine,46,US President & Vice President,undervotes,,0
+Josephine,46,US President & Vice President,ballots_cast,,279
+Josephine,46,"State Senator, 2nd District",candidate,Tracy Thompson,92
+Josephine,46,"State Senator, 2nd District",candidate,Noah Robinson,165
+Josephine,46,"State Senator, 2nd District",writein,,1
+Josephine,46,"State Senator, 2nd District",total_votes,,258
+Josephine,46,"State Senator, 2nd District",overvotes,,0
+Josephine,46,"State Senator, 2nd District",undervotes,,21
+Josephine,46,"State Senator, 2nd District",ballots_cast,,279
+Josephine,46,"State Representative, 3rd District",candidate,Dwayne Yunker,161
+Josephine,46,"State Representative, 3rd District",candidate,Mark J Seligman,92
+Josephine,46,"State Representative, 3rd District",writein,,2
+Josephine,46,"State Representative, 3rd District",total_votes,,255
+Josephine,46,"State Representative, 3rd District",overvotes,,0
+Josephine,46,"State Representative, 3rd District",undervotes,,24
+Josephine,46,"State Representative, 3rd District",ballots_cast,,279
+Josephine,47,US President & Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Josephine,47,US President & Vice President,candidate,Cornel West,1
+Josephine,47,US President & Vice President,candidate,Chase Oliver/Mike ter Maat,0
+Josephine,47,US President & Vice President,candidate,Randall Terry,1
+Josephine,47,US President & Vice President,candidate,Donald J Trump/JD Vance,83
+Josephine,47,US President & Vice President,candidate,Jill Stein/Rudolph Ware,0
+Josephine,47,US President & Vice President,candidate,Kamala D Harris/Tim Walz,50
+Josephine,47,US President & Vice President,writein,,1
+Josephine,47,US President & Vice President,total_votes,,139
+Josephine,47,US President & Vice President,overvotes,,0
+Josephine,47,US President & Vice President,undervotes,,0
+Josephine,47,US President & Vice President,ballots_cast,,139
+Josephine,47,"State Senator, 2nd District",candidate,Tracy Thompson,46
+Josephine,47,"State Senator, 2nd District",candidate,Noah Robinson,86
+Josephine,47,"State Senator, 2nd District",writein,,3
+Josephine,47,"State Senator, 2nd District",total_votes,,135
+Josephine,47,"State Senator, 2nd District",overvotes,,0
+Josephine,47,"State Senator, 2nd District",undervotes,,4
+Josephine,47,"State Senator, 2nd District",ballots_cast,,139
+Josephine,47,"State Representative, 3rd District",candidate,Dwayne Yunker,90
+Josephine,47,"State Representative, 3rd District",candidate,Mark J Seligman,43
+Josephine,47,"State Representative, 3rd District",writein,,0
+Josephine,47,"State Representative, 3rd District",total_votes,,133
+Josephine,47,"State Representative, 3rd District",overvotes,,0
+Josephine,47,"State Representative, 3rd District",undervotes,,6
+Josephine,47,"State Representative, 3rd District",ballots_cast,,139

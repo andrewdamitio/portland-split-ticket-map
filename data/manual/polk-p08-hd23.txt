@@ -1,0 +1,9 @@
+# Polk p.8 right, HD 23: Wright(DEM) Scharf(REP) WriteIn TotalVotes Over Under
+Precinct 102 378 944 0 1,322 0 47
+Precinct 118 1,055 1,885 3 2,943 0 171
+Precinct 152 1,140 3,009 5 4,154 1 218
+Precinct 154 1,568 2,828 10 4,406 0 268
+Precinct 156 950 1,537 8 2,495 1 158
+Precinct 162 933 1,846 2 2,781 0 151
+Precinct 166 253 443 1 697 0 67
+Totals 6,277 12,492 29 18,798 2 1,080

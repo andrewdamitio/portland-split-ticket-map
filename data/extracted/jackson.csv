@@ -1,0 +1,1237 @@
+county,precinct_label,contest,type,choice,votes
+Jackson,001,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,40
+Jackson,001,President,candidate,Cornel West,16
+Jackson,001,President,candidate,Chase Oliver/Mike ter Maat,2
+Jackson,001,President,candidate,Randall Terry,1
+Jackson,001,President,candidate,Donald J Trump/JD Vance,392
+Jackson,001,President,candidate,Jill Stein/Rudolph Ware,35
+Jackson,001,President,candidate,Kamala D Harris/Tim Walz,3021
+Jackson,001,President,writein,,21
+Jackson,001,President,total_votes,,3528
+Jackson,001,President,overvotes,,1
+Jackson,001,President,undervotes,,22
+Jackson,001,President,ballots_cast,,3551
+Jackson,001,President,registered,,4174
+Jackson,001,"State Representative, 5th District",candidate,Katherine Green,407
+Jackson,001,"State Representative, 5th District",candidate,Pam Marsh,2972
+Jackson,001,"State Representative, 5th District",writein,,3
+Jackson,001,"State Representative, 5th District",total_votes,,3382
+Jackson,001,"State Representative, 5th District",overvotes,,0
+Jackson,001,"State Representative, 5th District",undervotes,,134
+Jackson,001,"State Representative, 5th District",ballots_cast,,3516
+Jackson,001,"State Representative, 5th District",registered,,4174
+Jackson,002,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,48
+Jackson,002,President,candidate,Cornel West,11
+Jackson,002,President,candidate,Chase Oliver/Mike ter Maat,12
+Jackson,002,President,candidate,Randall Terry,2
+Jackson,002,President,candidate,Donald J Trump/JD Vance,595
+Jackson,002,President,candidate,Jill Stein/Rudolph Ware,56
+Jackson,002,President,candidate,Kamala D Harris/Tim Walz,3052
+Jackson,002,President,writein,,16
+Jackson,002,President,total_votes,,3792
+Jackson,002,President,overvotes,,0
+Jackson,002,President,undervotes,,40
+Jackson,002,President,ballots_cast,,3832
+Jackson,002,President,registered,,4951
+Jackson,002,"State Representative, 5th District",candidate,Katherine Green,570
+Jackson,002,"State Representative, 5th District",candidate,Pam Marsh,3012
+Jackson,002,"State Representative, 5th District",writein,,1
+Jackson,002,"State Representative, 5th District",total_votes,,3583
+Jackson,002,"State Representative, 5th District",overvotes,,0
+Jackson,002,"State Representative, 5th District",undervotes,,220
+Jackson,002,"State Representative, 5th District",ballots_cast,,3803
+Jackson,002,"State Representative, 5th District",registered,,4951
+Jackson,003,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Jackson,003,President,candidate,Cornel West,1
+Jackson,003,President,candidate,Chase Oliver/Mike ter Maat,1
+Jackson,003,President,candidate,Randall Terry,0
+Jackson,003,President,candidate,Donald J Trump/JD Vance,532
+Jackson,003,President,candidate,Jill Stein/Rudolph Ware,2
+Jackson,003,President,candidate,Kamala D Harris/Tim Walz,160
+Jackson,003,President,writein,,0
+Jackson,003,President,total_votes,,714
+Jackson,003,President,overvotes,,0
+Jackson,003,President,undervotes,,9
+Jackson,003,President,ballots_cast,,723
+Jackson,003,President,registered,,965
+Jackson,003,"State Senator, 28th District",candidate,Dylan Gutridge,148
+Jackson,003,"State Senator, 28th District",candidate,Diane Linthicum,529
+Jackson,003,"State Senator, 28th District",writein,,0
+Jackson,003,"State Senator, 28th District",total_votes,,677
+Jackson,003,"State Senator, 28th District",overvotes,,0
+Jackson,003,"State Senator, 28th District",undervotes,,45
+Jackson,003,"State Senator, 28th District",ballots_cast,,722
+Jackson,003,"State Senator, 28th District",registered,,965
+Jackson,003,"State Representative, 56th District",candidate,Emily G McIntire,560
+Jackson,003,"State Representative, 56th District",writein,,10
+Jackson,003,"State Representative, 56th District",total_votes,,570
+Jackson,003,"State Representative, 56th District",overvotes,,0
+Jackson,003,"State Representative, 56th District",undervotes,,152
+Jackson,003,"State Representative, 56th District",ballots_cast,,722
+Jackson,003,"State Representative, 56th District",registered,,965
+Jackson,004,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,40
+Jackson,004,President,candidate,Cornel West,0
+Jackson,004,President,candidate,Chase Oliver/Mike ter Maat,5
+Jackson,004,President,candidate,Randall Terry,3
+Jackson,004,President,candidate,Donald J Trump/JD Vance,1637
+Jackson,004,President,candidate,Jill Stein/Rudolph Ware,6
+Jackson,004,President,candidate,Kamala D Harris/Tim Walz,792
+Jackson,004,President,writein,,15
+Jackson,004,President,total_votes,,2498
+Jackson,004,President,overvotes,,1
+Jackson,004,President,undervotes,,26
+Jackson,004,President,ballots_cast,,2525
+Jackson,004,President,registered,,3425
+Jackson,004,"State Senator, 2nd District",candidate,Tracy Thompson,706
+Jackson,004,"State Senator, 2nd District",candidate,Noah Robinson,1644
+Jackson,004,"State Senator, 2nd District",writein,,5
+Jackson,004,"State Senator, 2nd District",total_votes,,2355
+Jackson,004,"State Senator, 2nd District",overvotes,,0
+Jackson,004,"State Senator, 2nd District",undervotes,,164
+Jackson,004,"State Senator, 2nd District",ballots_cast,,2519
+Jackson,004,"State Senator, 2nd District",registered,,3425
+Jackson,004,"State Representative, 4th District",candidate,Richard Chasm,691
+Jackson,004,"State Representative, 4th District",candidate,Alek Skarlatos,1631
+Jackson,004,"State Representative, 4th District",writein,,6
+Jackson,004,"State Representative, 4th District",total_votes,,2328
+Jackson,004,"State Representative, 4th District",overvotes,,1
+Jackson,004,"State Representative, 4th District",undervotes,,190
+Jackson,004,"State Representative, 4th District",ballots_cast,,2519
+Jackson,004,"State Representative, 4th District",registered,,3425
+Jackson,005,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,57
+Jackson,005,President,candidate,Cornel West,2
+Jackson,005,President,candidate,Chase Oliver/Mike ter Maat,16
+Jackson,005,President,candidate,Randall Terry,1
+Jackson,005,President,candidate,Donald J Trump/JD Vance,2240
+Jackson,005,President,candidate,Jill Stein/Rudolph Ware,21
+Jackson,005,President,candidate,Kamala D Harris/Tim Walz,1318
+Jackson,005,President,writein,,28
+Jackson,005,President,total_votes,,3683
+Jackson,005,President,overvotes,,1
+Jackson,005,President,undervotes,,34
+Jackson,005,President,ballots_cast,,3718
+Jackson,005,President,registered,,4928
+Jackson,005,"State Senator, 2nd District",candidate,Tracy Thompson,1204
+Jackson,005,"State Senator, 2nd District",candidate,Noah Robinson,2286
+Jackson,005,"State Senator, 2nd District",writein,,3
+Jackson,005,"State Senator, 2nd District",total_votes,,3493
+Jackson,005,"State Senator, 2nd District",overvotes,,1
+Jackson,005,"State Senator, 2nd District",undervotes,,221
+Jackson,005,"State Senator, 2nd District",ballots_cast,,3715
+Jackson,005,"State Senator, 2nd District",registered,,4928
+Jackson,005,"State Representative, 4th District",candidate,Richard Chasm,1180
+Jackson,005,"State Representative, 4th District",candidate,Alek Skarlatos,2276
+Jackson,005,"State Representative, 4th District",writein,,7
+Jackson,005,"State Representative, 4th District",total_votes,,3463
+Jackson,005,"State Representative, 4th District",overvotes,,0
+Jackson,005,"State Representative, 4th District",undervotes,,252
+Jackson,005,"State Representative, 4th District",ballots_cast,,3715
+Jackson,005,"State Representative, 4th District",registered,,4928
+Jackson,006,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,37
+Jackson,006,President,candidate,Cornel West,3
+Jackson,006,President,candidate,Chase Oliver/Mike ter Maat,11
+Jackson,006,President,candidate,Randall Terry,0
+Jackson,006,President,candidate,Donald J Trump/JD Vance,1480
+Jackson,006,President,candidate,Jill Stein/Rudolph Ware,14
+Jackson,006,President,candidate,Kamala D Harris/Tim Walz,840
+Jackson,006,President,writein,,5
+Jackson,006,President,total_votes,,2390
+Jackson,006,President,overvotes,,0
+Jackson,006,President,undervotes,,9
+Jackson,006,President,ballots_cast,,2399
+Jackson,006,President,registered,,3691
+Jackson,006,"State Senator, 2nd District",candidate,Tracy Thompson,777
+Jackson,006,"State Senator, 2nd District",candidate,Noah Robinson,1474
+Jackson,006,"State Senator, 2nd District",writein,,1
+Jackson,006,"State Senator, 2nd District",total_votes,,2252
+Jackson,006,"State Senator, 2nd District",overvotes,,0
+Jackson,006,"State Senator, 2nd District",undervotes,,142
+Jackson,006,"State Senator, 2nd District",ballots_cast,,2394
+Jackson,006,"State Senator, 2nd District",registered,,3691
+Jackson,006,"State Representative, 4th District",candidate,Richard Chasm,764
+Jackson,006,"State Representative, 4th District",candidate,Alek Skarlatos,1458
+Jackson,006,"State Representative, 4th District",writein,,1
+Jackson,006,"State Representative, 4th District",total_votes,,2223
+Jackson,006,"State Representative, 4th District",overvotes,,0
+Jackson,006,"State Representative, 4th District",undervotes,,171
+Jackson,006,"State Representative, 4th District",ballots_cast,,2394
+Jackson,006,"State Representative, 4th District",registered,,3691
+Jackson,007,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,20
+Jackson,007,President,candidate,Cornel West,1
+Jackson,007,President,candidate,Chase Oliver/Mike ter Maat,4
+Jackson,007,President,candidate,Randall Terry,2
+Jackson,007,President,candidate,Donald J Trump/JD Vance,1031
+Jackson,007,President,candidate,Jill Stein/Rudolph Ware,3
+Jackson,007,President,candidate,Kamala D Harris/Tim Walz,493
+Jackson,007,President,writein,,8
+Jackson,007,President,total_votes,,1562
+Jackson,007,President,overvotes,,1
+Jackson,007,President,undervotes,,12
+Jackson,007,President,ballots_cast,,1575
+Jackson,007,President,registered,,2035
+Jackson,007,"State Senator, 2nd District",candidate,Tracy Thompson,442
+Jackson,007,"State Senator, 2nd District",candidate,Noah Robinson,1055
+Jackson,007,"State Senator, 2nd District",writein,,0
+Jackson,007,"State Senator, 2nd District",total_votes,,1497
+Jackson,007,"State Senator, 2nd District",overvotes,,0
+Jackson,007,"State Senator, 2nd District",undervotes,,77
+Jackson,007,"State Senator, 2nd District",ballots_cast,,1574
+Jackson,007,"State Senator, 2nd District",registered,,2035
+Jackson,007,"State Representative, 4th District",candidate,Richard Chasm,419
+Jackson,007,"State Representative, 4th District",candidate,Alek Skarlatos,1058
+Jackson,007,"State Representative, 4th District",writein,,4
+Jackson,007,"State Representative, 4th District",total_votes,,1481
+Jackson,007,"State Representative, 4th District",overvotes,,0
+Jackson,007,"State Representative, 4th District",undervotes,,93
+Jackson,007,"State Representative, 4th District",ballots_cast,,1574
+Jackson,007,"State Representative, 4th District",registered,,2035
+Jackson,008,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,37
+Jackson,008,President,candidate,Cornel West,3
+Jackson,008,President,candidate,Chase Oliver/Mike ter Maat,13
+Jackson,008,President,candidate,Randall Terry,2
+Jackson,008,President,candidate,Donald J Trump/JD Vance,2124
+Jackson,008,President,candidate,Jill Stein/Rudolph Ware,14
+Jackson,008,President,candidate,Kamala D Harris/Tim Walz,727
+Jackson,008,President,writein,,12
+Jackson,008,President,total_votes,,2932
+Jackson,008,President,overvotes,,0
+Jackson,008,President,undervotes,,19
+Jackson,008,President,ballots_cast,,2951
+Jackson,008,President,registered,,4134
+Jackson,008,"State Senator, 28th District",candidate,Dylan Gutridge,664
+Jackson,008,"State Senator, 28th District",candidate,Diane Linthicum,2108
+Jackson,008,"State Senator, 28th District",writein,,5
+Jackson,008,"State Senator, 28th District",total_votes,,2777
+Jackson,008,"State Senator, 28th District",overvotes,,0
+Jackson,008,"State Senator, 28th District",undervotes,,170
+Jackson,008,"State Senator, 28th District",ballots_cast,,2947
+Jackson,008,"State Senator, 28th District",registered,,4134
+Jackson,008,"State Representative, 56th District",candidate,Emily G McIntire,2280
+Jackson,008,"State Representative, 56th District",writein,,57
+Jackson,008,"State Representative, 56th District",total_votes,,2337
+Jackson,008,"State Representative, 56th District",overvotes,,0
+Jackson,008,"State Representative, 56th District",undervotes,,610
+Jackson,008,"State Representative, 56th District",ballots_cast,,2947
+Jackson,008,"State Representative, 56th District",registered,,4134
+Jackson,009,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Jackson,009,President,candidate,Cornel West,0
+Jackson,009,President,candidate,Chase Oliver/Mike ter Maat,2
+Jackson,009,President,candidate,Randall Terry,0
+Jackson,009,President,candidate,Donald J Trump/JD Vance,448
+Jackson,009,President,candidate,Jill Stein/Rudolph Ware,0
+Jackson,009,President,candidate,Kamala D Harris/Tim Walz,222
+Jackson,009,President,writein,,1
+Jackson,009,President,total_votes,,689
+Jackson,009,President,overvotes,,0
+Jackson,009,President,undervotes,,6
+Jackson,009,President,ballots_cast,,695
+Jackson,009,President,registered,,1056
+Jackson,009,"State Senator, 2nd District",candidate,Tracy Thompson,205
+Jackson,009,"State Senator, 2nd District",candidate,Noah Robinson,445
+Jackson,009,"State Senator, 2nd District",writein,,0
+Jackson,009,"State Senator, 2nd District",total_votes,,650
+Jackson,009,"State Senator, 2nd District",overvotes,,0
+Jackson,009,"State Senator, 2nd District",undervotes,,43
+Jackson,009,"State Senator, 2nd District",ballots_cast,,693
+Jackson,009,"State Senator, 2nd District",registered,,1056
+Jackson,009,"State Representative, 4th District",candidate,Richard Chasm,202
+Jackson,009,"State Representative, 4th District",candidate,Alek Skarlatos,426
+Jackson,009,"State Representative, 4th District",writein,,1
+Jackson,009,"State Representative, 4th District",total_votes,,629
+Jackson,009,"State Representative, 4th District",overvotes,,0
+Jackson,009,"State Representative, 4th District",undervotes,,64
+Jackson,009,"State Representative, 4th District",ballots_cast,,693
+Jackson,009,"State Representative, 4th District",registered,,1056
+Jackson,010,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,23
+Jackson,010,President,candidate,Cornel West,4
+Jackson,010,President,candidate,Chase Oliver/Mike ter Maat,6
+Jackson,010,President,candidate,Randall Terry,2
+Jackson,010,President,candidate,Donald J Trump/JD Vance,903
+Jackson,010,President,candidate,Jill Stein/Rudolph Ware,9
+Jackson,010,President,candidate,Kamala D Harris/Tim Walz,1318
+Jackson,010,President,writein,,22
+Jackson,010,President,total_votes,,2287
+Jackson,010,President,overvotes,,0
+Jackson,010,President,undervotes,,31
+Jackson,010,President,ballots_cast,,2318
+Jackson,010,President,registered,,2667
+Jackson,010,"State Representative, 5th District",candidate,Katherine Green,951
+Jackson,010,"State Representative, 5th District",candidate,Pam Marsh,1262
+Jackson,010,"State Representative, 5th District",writein,,0
+Jackson,010,"State Representative, 5th District",total_votes,,2213
+Jackson,010,"State Representative, 5th District",overvotes,,0
+Jackson,010,"State Representative, 5th District",undervotes,,101
+Jackson,010,"State Representative, 5th District",ballots_cast,,2314
+Jackson,010,"State Representative, 5th District",registered,,2667
+Jackson,011,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,62
+Jackson,011,President,candidate,Cornel West,3
+Jackson,011,President,candidate,Chase Oliver/Mike ter Maat,20
+Jackson,011,President,candidate,Randall Terry,3
+Jackson,011,President,candidate,Donald J Trump/JD Vance,2385
+Jackson,011,President,candidate,Jill Stein/Rudolph Ware,12
+Jackson,011,President,candidate,Kamala D Harris/Tim Walz,1604
+Jackson,011,President,writein,,20
+Jackson,011,President,total_votes,,4109
+Jackson,011,President,overvotes,,0
+Jackson,011,President,undervotes,,46
+Jackson,011,President,ballots_cast,,4155
+Jackson,011,President,registered,,5579
+Jackson,011,"State Representative, 6th District",candidate,Kim Wallan,2536
+Jackson,011,"State Representative, 6th District",candidate,Lilia Caballero,1401
+Jackson,011,"State Representative, 6th District",writein,,11
+Jackson,011,"State Representative, 6th District",total_votes,,3948
+Jackson,011,"State Representative, 6th District",overvotes,,0
+Jackson,011,"State Representative, 6th District",undervotes,,192
+Jackson,011,"State Representative, 6th District",ballots_cast,,4140
+Jackson,011,"State Representative, 6th District",registered,,5579
+Jackson,012,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,49
+Jackson,012,President,candidate,Cornel West,3
+Jackson,012,President,candidate,Chase Oliver/Mike ter Maat,11
+Jackson,012,President,candidate,Randall Terry,2
+Jackson,012,President,candidate,Donald J Trump/JD Vance,1878
+Jackson,012,President,candidate,Jill Stein/Rudolph Ware,17
+Jackson,012,President,candidate,Kamala D Harris/Tim Walz,1551
+Jackson,012,President,writein,,20
+Jackson,012,President,total_votes,,3531
+Jackson,012,President,overvotes,,0
+Jackson,012,President,undervotes,,46
+Jackson,012,President,ballots_cast,,3577
+Jackson,012,President,registered,,4429
+Jackson,012,"State Representative, 6th District",candidate,Kim Wallan,2068
+Jackson,012,"State Representative, 6th District",candidate,Lilia Caballero,1338
+Jackson,012,"State Representative, 6th District",writein,,2
+Jackson,012,"State Representative, 6th District",total_votes,,3408
+Jackson,012,"State Representative, 6th District",overvotes,,0
+Jackson,012,"State Representative, 6th District",undervotes,,158
+Jackson,012,"State Representative, 6th District",ballots_cast,,3566
+Jackson,012,"State Representative, 6th District",registered,,4429
+Jackson,013,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,39
+Jackson,013,President,candidate,Cornel West,3
+Jackson,013,President,candidate,Chase Oliver/Mike ter Maat,14
+Jackson,013,President,candidate,Randall Terry,2
+Jackson,013,President,candidate,Donald J Trump/JD Vance,1916
+Jackson,013,President,candidate,Jill Stein/Rudolph Ware,9
+Jackson,013,President,candidate,Kamala D Harris/Tim Walz,1659
+Jackson,013,President,writein,,34
+Jackson,013,President,total_votes,,3676
+Jackson,013,President,overvotes,,0
+Jackson,013,President,undervotes,,46
+Jackson,013,President,ballots_cast,,3722
+Jackson,013,President,registered,,4368
+Jackson,013,"State Representative, 6th District",candidate,Kim Wallan,2193
+Jackson,013,"State Representative, 6th District",candidate,Lilia Caballero,1355
+Jackson,013,"State Representative, 6th District",writein,,5
+Jackson,013,"State Representative, 6th District",total_votes,,3553
+Jackson,013,"State Representative, 6th District",overvotes,,0
+Jackson,013,"State Representative, 6th District",undervotes,,151
+Jackson,013,"State Representative, 6th District",ballots_cast,,3704
+Jackson,013,"State Representative, 6th District",registered,,4368
+Jackson,014,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Jackson,014,President,candidate,Cornel West,3
+Jackson,014,President,candidate,Chase Oliver/Mike ter Maat,6
+Jackson,014,President,candidate,Randall Terry,1
+Jackson,014,President,candidate,Donald J Trump/JD Vance,1030
+Jackson,014,President,candidate,Jill Stein/Rudolph Ware,6
+Jackson,014,President,candidate,Kamala D Harris/Tim Walz,908
+Jackson,014,President,writein,,13
+Jackson,014,President,total_votes,,1994
+Jackson,014,President,overvotes,,1
+Jackson,014,President,undervotes,,30
+Jackson,014,President,ballots_cast,,2025
+Jackson,014,President,registered,,2455
+Jackson,014,"State Representative, 6th District",candidate,Kim Wallan,1148
+Jackson,014,"State Representative, 6th District",candidate,Lilia Caballero,776
+Jackson,014,"State Representative, 6th District",writein,,0
+Jackson,014,"State Representative, 6th District",total_votes,,1924
+Jackson,014,"State Representative, 6th District",overvotes,,1
+Jackson,014,"State Representative, 6th District",undervotes,,90
+Jackson,014,"State Representative, 6th District",ballots_cast,,2015
+Jackson,014,"State Representative, 6th District",registered,,2455
+Jackson,015,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,62
+Jackson,015,President,candidate,Cornel West,6
+Jackson,015,President,candidate,Chase Oliver/Mike ter Maat,18
+Jackson,015,President,candidate,Randall Terry,7
+Jackson,015,President,candidate,Donald J Trump/JD Vance,1594
+Jackson,015,President,candidate,Jill Stein/Rudolph Ware,34
+Jackson,015,President,candidate,Kamala D Harris/Tim Walz,2155
+Jackson,015,President,writein,,34
+Jackson,015,President,total_votes,,3910
+Jackson,015,President,overvotes,,1
+Jackson,015,President,undervotes,,38
+Jackson,015,President,ballots_cast,,3949
+Jackson,015,President,registered,,5362
+Jackson,015,"State Representative, 6th District",candidate,Kim Wallan,1798
+Jackson,015,"State Representative, 6th District",candidate,Lilia Caballero,1945
+Jackson,015,"State Representative, 6th District",writein,,5
+Jackson,015,"State Representative, 6th District",total_votes,,3748
+Jackson,015,"State Representative, 6th District",overvotes,,0
+Jackson,015,"State Representative, 6th District",undervotes,,191
+Jackson,015,"State Representative, 6th District",ballots_cast,,3939
+Jackson,015,"State Representative, 6th District",registered,,5362
+Jackson,016,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,43
+Jackson,016,President,candidate,Cornel West,4
+Jackson,016,President,candidate,Chase Oliver/Mike ter Maat,15
+Jackson,016,President,candidate,Randall Terry,8
+Jackson,016,President,candidate,Donald J Trump/JD Vance,1896
+Jackson,016,President,candidate,Jill Stein/Rudolph Ware,23
+Jackson,016,President,candidate,Kamala D Harris/Tim Walz,2285
+Jackson,016,President,writein,,28
+Jackson,016,President,total_votes,,4302
+Jackson,016,President,overvotes,,2
+Jackson,016,President,undervotes,,38
+Jackson,016,President,ballots_cast,,4342
+Jackson,016,President,registered,,5586
+Jackson,016,"State Representative, 5th District",candidate,Katherine Green,1892
+Jackson,016,"State Representative, 5th District",candidate,Pam Marsh,2216
+Jackson,016,"State Representative, 5th District",writein,,2
+Jackson,016,"State Representative, 5th District",total_votes,,4110
+Jackson,016,"State Representative, 5th District",overvotes,,0
+Jackson,016,"State Representative, 5th District",undervotes,,225
+Jackson,016,"State Representative, 5th District",ballots_cast,,4335
+Jackson,016,"State Representative, 5th District",registered,,5586
+Jackson,017,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,73
+Jackson,017,President,candidate,Cornel West,8
+Jackson,017,President,candidate,Chase Oliver/Mike ter Maat,12
+Jackson,017,President,candidate,Randall Terry,5
+Jackson,017,President,candidate,Donald J Trump/JD Vance,2266
+Jackson,017,President,candidate,Jill Stein/Rudolph Ware,13
+Jackson,017,President,candidate,Kamala D Harris/Tim Walz,1696
+Jackson,017,President,writein,,32
+Jackson,017,President,total_votes,,4105
+Jackson,017,President,overvotes,,0
+Jackson,017,President,undervotes,,34
+Jackson,017,President,ballots_cast,,4139
+Jackson,017,President,registered,,5796
+Jackson,017,"State Representative, 5th District",candidate,Katherine Green,2229
+Jackson,017,"State Representative, 5th District",candidate,Pam Marsh,1634
+Jackson,017,"State Representative, 5th District",writein,,5
+Jackson,017,"State Representative, 5th District",total_votes,,3868
+Jackson,017,"State Representative, 5th District",overvotes,,0
+Jackson,017,"State Representative, 5th District",undervotes,,261
+Jackson,017,"State Representative, 5th District",ballots_cast,,4129
+Jackson,017,"State Representative, 5th District",registered,,5796
+Jackson,018,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,44
+Jackson,018,President,candidate,Cornel West,7
+Jackson,018,President,candidate,Chase Oliver/Mike ter Maat,13
+Jackson,018,President,candidate,Randall Terry,5
+Jackson,018,President,candidate,Donald J Trump/JD Vance,1204
+Jackson,018,President,candidate,Jill Stein/Rudolph Ware,13
+Jackson,018,President,candidate,Kamala D Harris/Tim Walz,1019
+Jackson,018,President,writein,,10
+Jackson,018,President,total_votes,,2315
+Jackson,018,President,overvotes,,0
+Jackson,018,President,undervotes,,20
+Jackson,018,President,ballots_cast,,2335
+Jackson,018,President,registered,,3559
+Jackson,018,"State Representative, 6th District",candidate,Kim Wallan,1214
+Jackson,018,"State Representative, 6th District",candidate,Lilia Caballero,992
+Jackson,018,"State Representative, 6th District",writein,,2
+Jackson,018,"State Representative, 6th District",total_votes,,2208
+Jackson,018,"State Representative, 6th District",overvotes,,0
+Jackson,018,"State Representative, 6th District",undervotes,,122
+Jackson,018,"State Representative, 6th District",ballots_cast,,2330
+Jackson,018,"State Representative, 6th District",registered,,3559
+Jackson,019,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,35
+Jackson,019,President,candidate,Cornel West,4
+Jackson,019,President,candidate,Chase Oliver/Mike ter Maat,16
+Jackson,019,President,candidate,Randall Terry,2
+Jackson,019,President,candidate,Donald J Trump/JD Vance,984
+Jackson,019,President,candidate,Jill Stein/Rudolph Ware,12
+Jackson,019,President,candidate,Kamala D Harris/Tim Walz,1016
+Jackson,019,President,writein,,14
+Jackson,019,President,total_votes,,2083
+Jackson,019,President,overvotes,,0
+Jackson,019,President,undervotes,,11
+Jackson,019,President,ballots_cast,,2094
+Jackson,019,President,registered,,3640
+Jackson,019,"State Representative, 6th District",candidate,Kim Wallan,997
+Jackson,019,"State Representative, 6th District",candidate,Lilia Caballero,945
+Jackson,019,"State Representative, 6th District",writein,,4
+Jackson,019,"State Representative, 6th District",total_votes,,1946
+Jackson,019,"State Representative, 6th District",overvotes,,0
+Jackson,019,"State Representative, 6th District",undervotes,,144
+Jackson,019,"State Representative, 6th District",ballots_cast,,2090
+Jackson,019,"State Representative, 6th District",registered,,3640
+Jackson,020,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,56
+Jackson,020,President,candidate,Cornel West,8
+Jackson,020,President,candidate,Chase Oliver/Mike ter Maat,17
+Jackson,020,President,candidate,Randall Terry,4
+Jackson,020,President,candidate,Donald J Trump/JD Vance,1696
+Jackson,020,President,candidate,Jill Stein/Rudolph Ware,16
+Jackson,020,President,candidate,Kamala D Harris/Tim Walz,1421
+Jackson,020,President,writein,,12
+Jackson,020,President,total_votes,,3230
+Jackson,020,President,overvotes,,0
+Jackson,020,President,undervotes,,22
+Jackson,020,President,ballots_cast,,3252
+Jackson,020,President,registered,,5740
+Jackson,020,"State Representative, 6th District",candidate,Kim Wallan,1721
+Jackson,020,"State Representative, 6th District",candidate,Lilia Caballero,1339
+Jackson,020,"State Representative, 6th District",writein,,2
+Jackson,020,"State Representative, 6th District",total_votes,,3062
+Jackson,020,"State Representative, 6th District",overvotes,,0
+Jackson,020,"State Representative, 6th District",undervotes,,185
+Jackson,020,"State Representative, 6th District",ballots_cast,,3247
+Jackson,020,"State Representative, 6th District",registered,,5740
+Jackson,021,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,31
+Jackson,021,President,candidate,Cornel West,3
+Jackson,021,President,candidate,Chase Oliver/Mike ter Maat,6
+Jackson,021,President,candidate,Randall Terry,0
+Jackson,021,President,candidate,Donald J Trump/JD Vance,972
+Jackson,021,President,candidate,Jill Stein/Rudolph Ware,7
+Jackson,021,President,candidate,Kamala D Harris/Tim Walz,749
+Jackson,021,President,writein,,9
+Jackson,021,President,total_votes,,1777
+Jackson,021,President,overvotes,,1
+Jackson,021,President,undervotes,,17
+Jackson,021,President,ballots_cast,,1795
+Jackson,021,President,registered,,2716
+Jackson,021,"State Representative, 6th District",candidate,Kim Wallan,999
+Jackson,021,"State Representative, 6th District",candidate,Lilia Caballero,683
+Jackson,021,"State Representative, 6th District",writein,,0
+Jackson,021,"State Representative, 6th District",total_votes,,1682
+Jackson,021,"State Representative, 6th District",overvotes,,2
+Jackson,021,"State Representative, 6th District",undervotes,,110
+Jackson,021,"State Representative, 6th District",ballots_cast,,1794
+Jackson,021,"State Representative, 6th District",registered,,2716
+Jackson,022,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,39
+Jackson,022,President,candidate,Cornel West,8
+Jackson,022,President,candidate,Chase Oliver/Mike ter Maat,12
+Jackson,022,President,candidate,Randall Terry,1
+Jackson,022,President,candidate,Donald J Trump/JD Vance,957
+Jackson,022,President,candidate,Jill Stein/Rudolph Ware,16
+Jackson,022,President,candidate,Kamala D Harris/Tim Walz,1172
+Jackson,022,President,writein,,17
+Jackson,022,President,total_votes,,2222
+Jackson,022,President,overvotes,,0
+Jackson,022,President,undervotes,,21
+Jackson,022,President,ballots_cast,,2243
+Jackson,022,President,registered,,3016
+Jackson,022,"State Representative, 5th District",candidate,Katherine Green,944
+Jackson,022,"State Representative, 5th District",candidate,Pam Marsh,1171
+Jackson,022,"State Representative, 5th District",writein,,2
+Jackson,022,"State Representative, 5th District",total_votes,,2117
+Jackson,022,"State Representative, 5th District",overvotes,,0
+Jackson,022,"State Representative, 5th District",undervotes,,118
+Jackson,022,"State Representative, 5th District",ballots_cast,,2235
+Jackson,022,"State Representative, 5th District",registered,,3016
+Jackson,023,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Jackson,023,President,candidate,Cornel West,4
+Jackson,023,President,candidate,Chase Oliver/Mike ter Maat,2
+Jackson,023,President,candidate,Randall Terry,1
+Jackson,023,President,candidate,Donald J Trump/JD Vance,806
+Jackson,023,President,candidate,Jill Stein/Rudolph Ware,2
+Jackson,023,President,candidate,Kamala D Harris/Tim Walz,441
+Jackson,023,President,writein,,8
+Jackson,023,President,total_votes,,1280
+Jackson,023,President,overvotes,,0
+Jackson,023,President,undervotes,,10
+Jackson,023,President,ballots_cast,,1290
+Jackson,023,President,registered,,1838
+Jackson,023,"State Senator, 2nd District",candidate,Tracy Thompson,419
+Jackson,023,"State Senator, 2nd District",candidate,Noah Robinson,789
+Jackson,023,"State Senator, 2nd District",writein,,4
+Jackson,023,"State Senator, 2nd District",total_votes,,1212
+Jackson,023,"State Senator, 2nd District",overvotes,,0
+Jackson,023,"State Senator, 2nd District",undervotes,,77
+Jackson,023,"State Senator, 2nd District",ballots_cast,,1289
+Jackson,023,"State Senator, 2nd District",registered,,1838
+Jackson,023,"State Representative, 4th District",candidate,Richard Chasm,402
+Jackson,023,"State Representative, 4th District",candidate,Alek Skarlatos,789
+Jackson,023,"State Representative, 4th District",writein,,4
+Jackson,023,"State Representative, 4th District",total_votes,,1195
+Jackson,023,"State Representative, 4th District",overvotes,,1
+Jackson,023,"State Representative, 4th District",undervotes,,93
+Jackson,023,"State Representative, 4th District",ballots_cast,,1289
+Jackson,023,"State Representative, 4th District",registered,,1838
+Jackson,024,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,24
+Jackson,024,President,candidate,Cornel West,0
+Jackson,024,President,candidate,Chase Oliver/Mike ter Maat,5
+Jackson,024,President,candidate,Randall Terry,0
+Jackson,024,President,candidate,Donald J Trump/JD Vance,1219
+Jackson,024,President,candidate,Jill Stein/Rudolph Ware,2
+Jackson,024,President,candidate,Kamala D Harris/Tim Walz,534
+Jackson,024,President,writein,,6
+Jackson,024,President,total_votes,,1790
+Jackson,024,President,overvotes,,1
+Jackson,024,President,undervotes,,13
+Jackson,024,President,ballots_cast,,1804
+Jackson,024,President,registered,,2480
+Jackson,024,"State Senator, 28th District",candidate,Dylan Gutridge,472
+Jackson,024,"State Senator, 28th District",candidate,Diane Linthicum,1209
+Jackson,024,"State Senator, 28th District",writein,,0
+Jackson,024,"State Senator, 28th District",total_votes,,1681
+Jackson,024,"State Senator, 28th District",overvotes,,2
+Jackson,024,"State Senator, 28th District",undervotes,,118
+Jackson,024,"State Senator, 28th District",ballots_cast,,1801
+Jackson,024,"State Senator, 28th District",registered,,2480
+Jackson,024,"State Representative, 56th District",candidate,Emily G McIntire,1290
+Jackson,024,"State Representative, 56th District",writein,,39
+Jackson,024,"State Representative, 56th District",total_votes,,1329
+Jackson,024,"State Representative, 56th District",overvotes,,0
+Jackson,024,"State Representative, 56th District",undervotes,,472
+Jackson,024,"State Representative, 56th District",ballots_cast,,1801
+Jackson,024,"State Representative, 56th District",registered,,2480
+Jackson,025,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,49
+Jackson,025,President,candidate,Cornel West,14
+Jackson,025,President,candidate,Chase Oliver/Mike ter Maat,16
+Jackson,025,President,candidate,Randall Terry,2
+Jackson,025,President,candidate,Donald J Trump/JD Vance,865
+Jackson,025,President,candidate,Jill Stein/Rudolph Ware,32
+Jackson,025,President,candidate,Kamala D Harris/Tim Walz,2267
+Jackson,025,President,writein,,9
+Jackson,025,President,total_votes,,3254
+Jackson,025,President,overvotes,,3
+Jackson,025,President,undervotes,,30
+Jackson,025,President,ballots_cast,,3287
+Jackson,025,President,registered,,4305
+Jackson,025,"State Representative, 5th District",candidate,Katherine Green,847
+Jackson,025,"State Representative, 5th District",candidate,Pam Marsh,2262
+Jackson,025,"State Representative, 5th District",writein,,1
+Jackson,025,"State Representative, 5th District",total_votes,,3110
+Jackson,025,"State Representative, 5th District",overvotes,,0
+Jackson,025,"State Representative, 5th District",undervotes,,158
+Jackson,025,"State Representative, 5th District",ballots_cast,,3268
+Jackson,025,"State Representative, 5th District",registered,,4305
+Jackson,026,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,50
+Jackson,026,President,candidate,Cornel West,7
+Jackson,026,President,candidate,Chase Oliver/Mike ter Maat,14
+Jackson,026,President,candidate,Randall Terry,2
+Jackson,026,President,candidate,Donald J Trump/JD Vance,952
+Jackson,026,President,candidate,Jill Stein/Rudolph Ware,34
+Jackson,026,President,candidate,Kamala D Harris/Tim Walz,2005
+Jackson,026,President,writein,,18
+Jackson,026,President,total_votes,,3082
+Jackson,026,President,overvotes,,0
+Jackson,026,President,undervotes,,24
+Jackson,026,President,ballots_cast,,3106
+Jackson,026,President,registered,,3983
+Jackson,026,"State Representative, 5th District",candidate,Katherine Green,962
+Jackson,026,"State Representative, 5th District",candidate,Pam Marsh,1970
+Jackson,026,"State Representative, 5th District",writein,,4
+Jackson,026,"State Representative, 5th District",total_votes,,2936
+Jackson,026,"State Representative, 5th District",overvotes,,0
+Jackson,026,"State Representative, 5th District",undervotes,,144
+Jackson,026,"State Representative, 5th District",ballots_cast,,3080
+Jackson,026,"State Representative, 5th District",registered,,3983
+Jackson,027,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,11
+Jackson,027,President,candidate,Cornel West,0
+Jackson,027,President,candidate,Chase Oliver/Mike ter Maat,2
+Jackson,027,President,candidate,Randall Terry,0
+Jackson,027,President,candidate,Donald J Trump/JD Vance,402
+Jackson,027,President,candidate,Jill Stein/Rudolph Ware,0
+Jackson,027,President,candidate,Kamala D Harris/Tim Walz,136
+Jackson,027,President,writein,,2
+Jackson,027,President,total_votes,,553
+Jackson,027,President,overvotes,,0
+Jackson,027,President,undervotes,,9
+Jackson,027,President,ballots_cast,,562
+Jackson,027,President,registered,,850
+Jackson,027,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,0
+Jackson,027,"State Senator, 1st District",candidate,David Brock Smith,0
+Jackson,027,"State Senator, 1st District",writein,,0
+Jackson,027,"State Senator, 1st District",total_votes,,0
+Jackson,027,"State Senator, 1st District",overvotes,,0
+Jackson,027,"State Senator, 1st District",undervotes,,0
+Jackson,027,"State Senator, 1st District",ballots_cast,,0
+Jackson,027,"State Senator, 28th District",candidate,Dylan Gutridge,130
+Jackson,027,"State Senator, 28th District",candidate,Diane Linthicum,401
+Jackson,027,"State Senator, 28th District",writein,,2
+Jackson,027,"State Senator, 28th District",total_votes,,533
+Jackson,027,"State Senator, 28th District",overvotes,,0
+Jackson,027,"State Senator, 28th District",undervotes,,29
+Jackson,027,"State Senator, 28th District",ballots_cast,,562
+Jackson,027,"State Senator, 28th District",registered,,850
+Jackson,027,"State Representative, 2nd District",candidate,August Warren,0
+Jackson,027,"State Representative, 2nd District",candidate,Virgle J Osborne,0
+Jackson,027,"State Representative, 2nd District",writein,,0
+Jackson,027,"State Representative, 2nd District",total_votes,,0
+Jackson,027,"State Representative, 2nd District",overvotes,,0
+Jackson,027,"State Representative, 2nd District",undervotes,,0
+Jackson,027,"State Representative, 2nd District",ballots_cast,,0
+Jackson,027,"State Representative, 56th District",candidate,Emily G McIntire,428
+Jackson,027,"State Representative, 56th District",writein,,8
+Jackson,027,"State Representative, 56th District",total_votes,,436
+Jackson,027,"State Representative, 56th District",overvotes,,0
+Jackson,027,"State Representative, 56th District",undervotes,,126
+Jackson,027,"State Representative, 56th District",ballots_cast,,562
+Jackson,027,"State Representative, 56th District",registered,,850
+Jackson,028,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,23
+Jackson,028,President,candidate,Cornel West,1
+Jackson,028,President,candidate,Chase Oliver/Mike ter Maat,7
+Jackson,028,President,candidate,Randall Terry,1
+Jackson,028,President,candidate,Donald J Trump/JD Vance,1552
+Jackson,028,President,candidate,Jill Stein/Rudolph Ware,12
+Jackson,028,President,candidate,Kamala D Harris/Tim Walz,525
+Jackson,028,President,writein,,3
+Jackson,028,President,total_votes,,2124
+Jackson,028,President,overvotes,,0
+Jackson,028,President,undervotes,,12
+Jackson,028,President,ballots_cast,,2136
+Jackson,028,President,registered,,2992
+Jackson,028,"State Senator, 28th District",candidate,Dylan Gutridge,477
+Jackson,028,"State Senator, 28th District",candidate,Diane Linthicum,1548
+Jackson,028,"State Senator, 28th District",writein,,3
+Jackson,028,"State Senator, 28th District",total_votes,,2028
+Jackson,028,"State Senator, 28th District",overvotes,,0
+Jackson,028,"State Senator, 28th District",undervotes,,101
+Jackson,028,"State Senator, 28th District",ballots_cast,,2129
+Jackson,028,"State Senator, 28th District",registered,,2992
+Jackson,028,"State Representative, 56th District",candidate,Emily G McIntire,1593
+Jackson,028,"State Representative, 56th District",writein,,37
+Jackson,028,"State Representative, 56th District",total_votes,,1630
+Jackson,028,"State Representative, 56th District",overvotes,,0
+Jackson,028,"State Representative, 56th District",undervotes,,499
+Jackson,028,"State Representative, 56th District",ballots_cast,,2129
+Jackson,028,"State Representative, 56th District",registered,,2992
+Jackson,029,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,9
+Jackson,029,President,candidate,Cornel West,7
+Jackson,029,President,candidate,Chase Oliver/Mike ter Maat,3
+Jackson,029,President,candidate,Randall Terry,0
+Jackson,029,President,candidate,Donald J Trump/JD Vance,670
+Jackson,029,President,candidate,Jill Stein/Rudolph Ware,5
+Jackson,029,President,candidate,Kamala D Harris/Tim Walz,408
+Jackson,029,President,writein,,11
+Jackson,029,President,total_votes,,1113
+Jackson,029,President,overvotes,,0
+Jackson,029,President,undervotes,,11
+Jackson,029,President,ballots_cast,,1124
+Jackson,029,President,registered,,1468
+Jackson,029,"State Representative, 5th District",candidate,Katherine Green,674
+Jackson,029,"State Representative, 5th District",candidate,Pam Marsh,398
+Jackson,029,"State Representative, 5th District",writein,,2
+Jackson,029,"State Representative, 5th District",total_votes,,1074
+Jackson,029,"State Representative, 5th District",overvotes,,0
+Jackson,029,"State Representative, 5th District",undervotes,,43
+Jackson,029,"State Representative, 5th District",ballots_cast,,1117
+Jackson,029,"State Representative, 5th District",registered,,1468
+Jackson,030,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Jackson,030,President,candidate,Cornel West,0
+Jackson,030,President,candidate,Chase Oliver/Mike ter Maat,0
+Jackson,030,President,candidate,Randall Terry,0
+Jackson,030,President,candidate,Donald J Trump/JD Vance,152
+Jackson,030,President,candidate,Jill Stein/Rudolph Ware,3
+Jackson,030,President,candidate,Kamala D Harris/Tim Walz,59
+Jackson,030,President,writein,,1
+Jackson,030,President,total_votes,,218
+Jackson,030,President,overvotes,,0
+Jackson,030,President,undervotes,,3
+Jackson,030,President,ballots_cast,,221
+Jackson,030,President,registered,,289
+Jackson,030,"State Senator, 28th District",candidate,Dylan Gutridge,61
+Jackson,030,"State Senator, 28th District",candidate,Diane Linthicum,152
+Jackson,030,"State Senator, 28th District",writein,,0
+Jackson,030,"State Senator, 28th District",total_votes,,213
+Jackson,030,"State Senator, 28th District",overvotes,,0
+Jackson,030,"State Senator, 28th District",undervotes,,6
+Jackson,030,"State Senator, 28th District",ballots_cast,,219
+Jackson,030,"State Senator, 28th District",registered,,289
+Jackson,030,"State Representative, 56th District",candidate,Emily G McIntire,156
+Jackson,030,"State Representative, 56th District",writein,,4
+Jackson,030,"State Representative, 56th District",total_votes,,160
+Jackson,030,"State Representative, 56th District",overvotes,,0
+Jackson,030,"State Representative, 56th District",undervotes,,59
+Jackson,030,"State Representative, 56th District",ballots_cast,,219
+Jackson,030,"State Representative, 56th District",registered,,289
+Jackson,031,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,11
+Jackson,031,President,candidate,Cornel West,3
+Jackson,031,President,candidate,Chase Oliver/Mike ter Maat,4
+Jackson,031,President,candidate,Randall Terry,0
+Jackson,031,President,candidate,Donald J Trump/JD Vance,858
+Jackson,031,President,candidate,Jill Stein/Rudolph Ware,4
+Jackson,031,President,candidate,Kamala D Harris/Tim Walz,238
+Jackson,031,President,writein,,5
+Jackson,031,President,total_votes,,1123
+Jackson,031,President,overvotes,,4
+Jackson,031,President,undervotes,,5
+Jackson,031,President,ballots_cast,,1132
+Jackson,031,President,registered,,1567
+Jackson,031,"State Senator, 28th District",candidate,Dylan Gutridge,230
+Jackson,031,"State Senator, 28th District",candidate,Diane Linthicum,862
+Jackson,031,"State Senator, 28th District",writein,,1
+Jackson,031,"State Senator, 28th District",total_votes,,1093
+Jackson,031,"State Senator, 28th District",overvotes,,0
+Jackson,031,"State Senator, 28th District",undervotes,,38
+Jackson,031,"State Senator, 28th District",ballots_cast,,1131
+Jackson,031,"State Senator, 28th District",registered,,1567
+Jackson,031,"State Representative, 56th District",candidate,Emily G McIntire,877
+Jackson,031,"State Representative, 56th District",writein,,13
+Jackson,031,"State Representative, 56th District",total_votes,,890
+Jackson,031,"State Representative, 56th District",overvotes,,0
+Jackson,031,"State Representative, 56th District",undervotes,,241
+Jackson,031,"State Representative, 56th District",ballots_cast,,1131
+Jackson,031,"State Representative, 56th District",registered,,1567
+Jackson,032,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,25
+Jackson,032,President,candidate,Cornel West,2
+Jackson,032,President,candidate,Chase Oliver/Mike ter Maat,2
+Jackson,032,President,candidate,Randall Terry,0
+Jackson,032,President,candidate,Donald J Trump/JD Vance,908
+Jackson,032,President,candidate,Jill Stein/Rudolph Ware,2
+Jackson,032,President,candidate,Kamala D Harris/Tim Walz,585
+Jackson,032,President,writein,,13
+Jackson,032,President,total_votes,,1537
+Jackson,032,President,overvotes,,0
+Jackson,032,President,undervotes,,10
+Jackson,032,President,ballots_cast,,1547
+Jackson,032,President,registered,,1891
+Jackson,032,"State Representative, 5th District",candidate,Katherine Green,888
+Jackson,032,"State Representative, 5th District",candidate,Pam Marsh,579
+Jackson,032,"State Representative, 5th District",writein,,1
+Jackson,032,"State Representative, 5th District",total_votes,,1468
+Jackson,032,"State Representative, 5th District",overvotes,,0
+Jackson,032,"State Representative, 5th District",undervotes,,74
+Jackson,032,"State Representative, 5th District",ballots_cast,,1542
+Jackson,032,"State Representative, 5th District",registered,,1891
+Jackson,033,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,30
+Jackson,033,President,candidate,Cornel West,2
+Jackson,033,President,candidate,Chase Oliver/Mike ter Maat,7
+Jackson,033,President,candidate,Randall Terry,2
+Jackson,033,President,candidate,Donald J Trump/JD Vance,1163
+Jackson,033,President,candidate,Jill Stein/Rudolph Ware,9
+Jackson,033,President,candidate,Kamala D Harris/Tim Walz,818
+Jackson,033,President,writein,,17
+Jackson,033,President,total_votes,,2048
+Jackson,033,President,overvotes,,1
+Jackson,033,President,undervotes,,31
+Jackson,033,President,ballots_cast,,2080
+Jackson,033,President,registered,,2623
+Jackson,033,"State Senator, 2nd District",candidate,Tracy Thompson,753
+Jackson,033,"State Senator, 2nd District",candidate,Noah Robinson,1218
+Jackson,033,"State Senator, 2nd District",writein,,6
+Jackson,033,"State Senator, 2nd District",total_votes,,1977
+Jackson,033,"State Senator, 2nd District",overvotes,,0
+Jackson,033,"State Senator, 2nd District",undervotes,,94
+Jackson,033,"State Senator, 2nd District",ballots_cast,,2071
+Jackson,033,"State Senator, 2nd District",registered,,2623
+Jackson,033,"State Representative, 4th District",candidate,Richard Chasm,745
+Jackson,033,"State Representative, 4th District",candidate,Alek Skarlatos,1213
+Jackson,033,"State Representative, 4th District",writein,,2
+Jackson,033,"State Representative, 4th District",total_votes,,1960
+Jackson,033,"State Representative, 4th District",overvotes,,0
+Jackson,033,"State Representative, 4th District",undervotes,,111
+Jackson,033,"State Representative, 4th District",ballots_cast,,2071
+Jackson,033,"State Representative, 4th District",registered,,2623
+Jackson,034,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,21
+Jackson,034,President,candidate,Cornel West,0
+Jackson,034,President,candidate,Chase Oliver/Mike ter Maat,3
+Jackson,034,President,candidate,Randall Terry,3
+Jackson,034,President,candidate,Donald J Trump/JD Vance,1261
+Jackson,034,President,candidate,Jill Stein/Rudolph Ware,6
+Jackson,034,President,candidate,Kamala D Harris/Tim Walz,341
+Jackson,034,President,writein,,9
+Jackson,034,President,total_votes,,1644
+Jackson,034,President,overvotes,,1
+Jackson,034,President,undervotes,,3
+Jackson,034,President,ballots_cast,,1648
+Jackson,034,President,registered,,2134
+Jackson,034,"State Senator, 28th District",candidate,Dylan Gutridge,320
+Jackson,034,"State Senator, 28th District",candidate,Diane Linthicum,1253
+Jackson,034,"State Senator, 28th District",writein,,1
+Jackson,034,"State Senator, 28th District",total_votes,,1574
+Jackson,034,"State Senator, 28th District",overvotes,,0
+Jackson,034,"State Senator, 28th District",undervotes,,70
+Jackson,034,"State Senator, 28th District",ballots_cast,,1644
+Jackson,034,"State Senator, 28th District",registered,,2134
+Jackson,034,"State Representative, 56th District",candidate,Emily G McIntire,1240
+Jackson,034,"State Representative, 56th District",writein,,24
+Jackson,034,"State Representative, 56th District",total_votes,,1264
+Jackson,034,"State Representative, 56th District",overvotes,,0
+Jackson,034,"State Representative, 56th District",undervotes,,380
+Jackson,034,"State Representative, 56th District",ballots_cast,,1644
+Jackson,034,"State Representative, 56th District",registered,,2134
+Jackson,035,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,39
+Jackson,035,President,candidate,Cornel West,3
+Jackson,035,President,candidate,Chase Oliver/Mike ter Maat,15
+Jackson,035,President,candidate,Randall Terry,1
+Jackson,035,President,candidate,Donald J Trump/JD Vance,1306
+Jackson,035,President,candidate,Jill Stein/Rudolph Ware,23
+Jackson,035,President,candidate,Kamala D Harris/Tim Walz,954
+Jackson,035,President,writein,,8
+Jackson,035,President,total_votes,,2349
+Jackson,035,President,overvotes,,0
+Jackson,035,President,undervotes,,25
+Jackson,035,President,ballots_cast,,2374
+Jackson,035,President,registered,,3066
+Jackson,035,"State Representative, 5th District",candidate,Katherine Green,1315
+Jackson,035,"State Representative, 5th District",candidate,Pam Marsh,916
+Jackson,035,"State Representative, 5th District",writein,,1
+Jackson,035,"State Representative, 5th District",total_votes,,2232
+Jackson,035,"State Representative, 5th District",overvotes,,0
+Jackson,035,"State Representative, 5th District",undervotes,,136
+Jackson,035,"State Representative, 5th District",ballots_cast,,2368
+Jackson,035,"State Representative, 5th District",registered,,3066
+Jackson,036,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,62
+Jackson,036,President,candidate,Cornel West,5
+Jackson,036,President,candidate,Chase Oliver/Mike ter Maat,15
+Jackson,036,President,candidate,Randall Terry,1
+Jackson,036,President,candidate,Donald J Trump/JD Vance,2206
+Jackson,036,President,candidate,Jill Stein/Rudolph Ware,12
+Jackson,036,President,candidate,Kamala D Harris/Tim Walz,1014
+Jackson,036,President,writein,,11
+Jackson,036,President,total_votes,,3326
+Jackson,036,President,overvotes,,0
+Jackson,036,President,undervotes,,17
+Jackson,036,President,ballots_cast,,3343
+Jackson,036,President,registered,,6121
+Jackson,036,"State Senator, 28th District",candidate,Dylan Gutridge,972
+Jackson,036,"State Senator, 28th District",candidate,Diane Linthicum,2131
+Jackson,036,"State Senator, 28th District",writein,,3
+Jackson,036,"State Senator, 28th District",total_votes,,3106
+Jackson,036,"State Senator, 28th District",overvotes,,1
+Jackson,036,"State Senator, 28th District",undervotes,,235
+Jackson,036,"State Senator, 28th District",ballots_cast,,3342
+Jackson,036,"State Senator, 28th District",registered,,6121
+Jackson,036,"State Representative, 56th District",candidate,Emily G McIntire,2401
+Jackson,036,"State Representative, 56th District",writein,,73
+Jackson,036,"State Representative, 56th District",total_votes,,2474
+Jackson,036,"State Representative, 56th District",overvotes,,0
+Jackson,036,"State Representative, 56th District",undervotes,,868
+Jackson,036,"State Representative, 56th District",ballots_cast,,3342
+Jackson,036,"State Representative, 56th District",registered,,6121
+Jackson,037,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,19
+Jackson,037,President,candidate,Cornel West,0
+Jackson,037,President,candidate,Chase Oliver/Mike ter Maat,5
+Jackson,037,President,candidate,Randall Terry,0
+Jackson,037,President,candidate,Donald J Trump/JD Vance,397
+Jackson,037,President,candidate,Jill Stein/Rudolph Ware,13
+Jackson,037,President,candidate,Kamala D Harris/Tim Walz,721
+Jackson,037,President,writein,,6
+Jackson,037,President,total_votes,,1161
+Jackson,037,President,overvotes,,0
+Jackson,037,President,undervotes,,16
+Jackson,037,President,ballots_cast,,1177
+Jackson,037,President,registered,,1519
+Jackson,037,"State Representative, 5th District",candidate,Katherine Green,409
+Jackson,037,"State Representative, 5th District",candidate,Pam Marsh,713
+Jackson,037,"State Representative, 5th District",writein,,3
+Jackson,037,"State Representative, 5th District",total_votes,,1125
+Jackson,037,"State Representative, 5th District",overvotes,,0
+Jackson,037,"State Representative, 5th District",undervotes,,51
+Jackson,037,"State Representative, 5th District",ballots_cast,,1176
+Jackson,037,"State Representative, 5th District",registered,,1519
+Jackson,038,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Jackson,038,President,candidate,Cornel West,0
+Jackson,038,President,candidate,Chase Oliver/Mike ter Maat,4
+Jackson,038,President,candidate,Randall Terry,0
+Jackson,038,President,candidate,Donald J Trump/JD Vance,643
+Jackson,038,President,candidate,Jill Stein/Rudolph Ware,5
+Jackson,038,President,candidate,Kamala D Harris/Tim Walz,307
+Jackson,038,President,writein,,4
+Jackson,038,President,total_votes,,973
+Jackson,038,President,overvotes,,0
+Jackson,038,President,undervotes,,7
+Jackson,038,President,ballots_cast,,980
+Jackson,038,President,registered,,1353
+Jackson,038,"State Senator, 28th District",candidate,Dylan Gutridge,258
+Jackson,038,"State Senator, 28th District",candidate,Diane Linthicum,654
+Jackson,038,"State Senator, 28th District",writein,,1
+Jackson,038,"State Senator, 28th District",total_votes,,913
+Jackson,038,"State Senator, 28th District",overvotes,,0
+Jackson,038,"State Senator, 28th District",undervotes,,62
+Jackson,038,"State Senator, 28th District",ballots_cast,,975
+Jackson,038,"State Senator, 28th District",registered,,1353
+Jackson,038,"State Representative, 56th District",candidate,Emily G McIntire,696
+Jackson,038,"State Representative, 56th District",writein,,17
+Jackson,038,"State Representative, 56th District",total_votes,,713
+Jackson,038,"State Representative, 56th District",overvotes,,0
+Jackson,038,"State Representative, 56th District",undervotes,,262
+Jackson,038,"State Representative, 56th District",ballots_cast,,975
+Jackson,038,"State Representative, 56th District",registered,,1353
+Jackson,039,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,37
+Jackson,039,President,candidate,Cornel West,4
+Jackson,039,President,candidate,Chase Oliver/Mike ter Maat,9
+Jackson,039,President,candidate,Randall Terry,0
+Jackson,039,President,candidate,Donald J Trump/JD Vance,1178
+Jackson,039,President,candidate,Jill Stein/Rudolph Ware,19
+Jackson,039,President,candidate,Kamala D Harris/Tim Walz,1068
+Jackson,039,President,writein,,6
+Jackson,039,President,total_votes,,2321
+Jackson,039,President,overvotes,,0
+Jackson,039,President,undervotes,,16
+Jackson,039,President,ballots_cast,,2337
+Jackson,039,President,registered,,3041
+Jackson,039,"State Representative, 5th District",candidate,Katherine Green,1137
+Jackson,039,"State Representative, 5th District",candidate,Pam Marsh,1059
+Jackson,039,"State Representative, 5th District",writein,,2
+Jackson,039,"State Representative, 5th District",total_votes,,2198
+Jackson,039,"State Representative, 5th District",overvotes,,0
+Jackson,039,"State Representative, 5th District",undervotes,,130
+Jackson,039,"State Representative, 5th District",ballots_cast,,2328
+Jackson,039,"State Representative, 5th District",registered,,3041
+Jackson,040,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,22
+Jackson,040,President,candidate,Cornel West,0
+Jackson,040,President,candidate,Chase Oliver/Mike ter Maat,8
+Jackson,040,President,candidate,Randall Terry,1
+Jackson,040,President,candidate,Donald J Trump/JD Vance,1284
+Jackson,040,President,candidate,Jill Stein/Rudolph Ware,7
+Jackson,040,President,candidate,Kamala D Harris/Tim Walz,447
+Jackson,040,President,writein,,4
+Jackson,040,President,total_votes,,1773
+Jackson,040,President,overvotes,,1
+Jackson,040,President,undervotes,,12
+Jackson,040,President,ballots_cast,,1786
+Jackson,040,President,registered,,2679
+Jackson,040,"State Senator, 28th District",candidate,Dylan Gutridge,386
+Jackson,040,"State Senator, 28th District",candidate,Diane Linthicum,1282
+Jackson,040,"State Senator, 28th District",writein,,0
+Jackson,040,"State Senator, 28th District",total_votes,,1668
+Jackson,040,"State Senator, 28th District",overvotes,,0
+Jackson,040,"State Senator, 28th District",undervotes,,113
+Jackson,040,"State Senator, 28th District",ballots_cast,,1781
+Jackson,040,"State Senator, 28th District",registered,,2679
+Jackson,040,"State Representative, 56th District",candidate,Emily G McIntire,1308
+Jackson,040,"State Representative, 56th District",writein,,45
+Jackson,040,"State Representative, 56th District",total_votes,,1353
+Jackson,040,"State Representative, 56th District",overvotes,,0
+Jackson,040,"State Representative, 56th District",undervotes,,428
+Jackson,040,"State Representative, 56th District",ballots_cast,,1781
+Jackson,040,"State Representative, 56th District",registered,,2679
+Jackson,041,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,56
+Jackson,041,President,candidate,Cornel West,2
+Jackson,041,President,candidate,Chase Oliver/Mike ter Maat,15
+Jackson,041,President,candidate,Randall Terry,4
+Jackson,041,President,candidate,Donald J Trump/JD Vance,2811
+Jackson,041,President,candidate,Jill Stein/Rudolph Ware,16
+Jackson,041,President,candidate,Kamala D Harris/Tim Walz,1210
+Jackson,041,President,writein,,15
+Jackson,041,President,total_votes,,4129
+Jackson,041,President,overvotes,,3
+Jackson,041,President,undervotes,,35
+Jackson,041,President,ballots_cast,,4167
+Jackson,041,President,registered,,5622
+Jackson,041,"State Senator, 2nd District",candidate,Tracy Thompson,1112
+Jackson,041,"State Senator, 2nd District",candidate,Noah Robinson,2832
+Jackson,041,"State Senator, 2nd District",writein,,3
+Jackson,041,"State Senator, 2nd District",total_votes,,3947
+Jackson,041,"State Senator, 2nd District",overvotes,,0
+Jackson,041,"State Senator, 2nd District",undervotes,,214
+Jackson,041,"State Senator, 2nd District",ballots_cast,,4161
+Jackson,041,"State Senator, 2nd District",registered,,5622
+Jackson,041,"State Representative, 4th District",candidate,Richard Chasm,1102
+Jackson,041,"State Representative, 4th District",candidate,Alek Skarlatos,2812
+Jackson,041,"State Representative, 4th District",writein,,3
+Jackson,041,"State Representative, 4th District",total_votes,,3917
+Jackson,041,"State Representative, 4th District",overvotes,,0
+Jackson,041,"State Representative, 4th District",undervotes,,244
+Jackson,041,"State Representative, 4th District",ballots_cast,,4161
+Jackson,041,"State Representative, 4th District",registered,,5622
+Jackson,042,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,33
+Jackson,042,President,candidate,Cornel West,0
+Jackson,042,President,candidate,Chase Oliver/Mike ter Maat,6
+Jackson,042,President,candidate,Randall Terry,4
+Jackson,042,President,candidate,Donald J Trump/JD Vance,1286
+Jackson,042,President,candidate,Jill Stein/Rudolph Ware,9
+Jackson,042,President,candidate,Kamala D Harris/Tim Walz,458
+Jackson,042,President,writein,,2
+Jackson,042,President,total_votes,,1798
+Jackson,042,President,overvotes,,0
+Jackson,042,President,undervotes,,10
+Jackson,042,President,ballots_cast,,1808
+Jackson,042,President,registered,,2383
+Jackson,042,"State Senator, 2nd District",candidate,Tracy Thompson,433
+Jackson,042,"State Senator, 2nd District",candidate,Noah Robinson,1278
+Jackson,042,"State Senator, 2nd District",writein,,1
+Jackson,042,"State Senator, 2nd District",total_votes,,1712
+Jackson,042,"State Senator, 2nd District",overvotes,,0
+Jackson,042,"State Senator, 2nd District",undervotes,,94
+Jackson,042,"State Senator, 2nd District",ballots_cast,,1806
+Jackson,042,"State Senator, 2nd District",registered,,2383
+Jackson,042,"State Representative, 4th District",candidate,Richard Chasm,440
+Jackson,042,"State Representative, 4th District",candidate,Alek Skarlatos,1257
+Jackson,042,"State Representative, 4th District",writein,,1
+Jackson,042,"State Representative, 4th District",total_votes,,1698
+Jackson,042,"State Representative, 4th District",overvotes,,0
+Jackson,042,"State Representative, 4th District",undervotes,,108
+Jackson,042,"State Representative, 4th District",ballots_cast,,1806
+Jackson,042,"State Representative, 4th District",registered,,2383
+Jackson,043,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,19
+Jackson,043,President,candidate,Cornel West,0
+Jackson,043,President,candidate,Chase Oliver/Mike ter Maat,3
+Jackson,043,President,candidate,Randall Terry,1
+Jackson,043,President,candidate,Donald J Trump/JD Vance,1133
+Jackson,043,President,candidate,Jill Stein/Rudolph Ware,9
+Jackson,043,President,candidate,Kamala D Harris/Tim Walz,521
+Jackson,043,President,writein,,5
+Jackson,043,President,total_votes,,1691
+Jackson,043,President,overvotes,,0
+Jackson,043,President,undervotes,,14
+Jackson,043,President,ballots_cast,,1705
+Jackson,043,President,registered,,2298
+Jackson,043,"State Senator, 2nd District",candidate,Tracy Thompson,469
+Jackson,043,"State Senator, 2nd District",candidate,Noah Robinson,1143
+Jackson,043,"State Senator, 2nd District",writein,,2
+Jackson,043,"State Senator, 2nd District",total_votes,,1614
+Jackson,043,"State Senator, 2nd District",overvotes,,0
+Jackson,043,"State Senator, 2nd District",undervotes,,88
+Jackson,043,"State Senator, 2nd District",ballots_cast,,1702
+Jackson,043,"State Senator, 2nd District",registered,,2298
+Jackson,043,"State Representative, 4th District",candidate,Richard Chasm,462
+Jackson,043,"State Representative, 4th District",candidate,Alek Skarlatos,1141
+Jackson,043,"State Representative, 4th District",writein,,1
+Jackson,043,"State Representative, 4th District",total_votes,,1604
+Jackson,043,"State Representative, 4th District",overvotes,,0
+Jackson,043,"State Representative, 4th District",undervotes,,98
+Jackson,043,"State Representative, 4th District",ballots_cast,,1702
+Jackson,043,"State Representative, 4th District",registered,,2298
+Jackson,044,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,40
+Jackson,044,President,candidate,Cornel West,4
+Jackson,044,President,candidate,Chase Oliver/Mike ter Maat,9
+Jackson,044,President,candidate,Randall Terry,2
+Jackson,044,President,candidate,Donald J Trump/JD Vance,2161
+Jackson,044,President,candidate,Jill Stein/Rudolph Ware,9
+Jackson,044,President,candidate,Kamala D Harris/Tim Walz,944
+Jackson,044,President,writein,,12
+Jackson,044,President,total_votes,,3181
+Jackson,044,President,overvotes,,1
+Jackson,044,President,undervotes,,24
+Jackson,044,President,ballots_cast,,3206
+Jackson,044,President,registered,,4302
+Jackson,044,"State Senator, 2nd District",candidate,Tracy Thompson,888
+Jackson,044,"State Senator, 2nd District",candidate,Noah Robinson,2167
+Jackson,044,"State Senator, 2nd District",writein,,3
+Jackson,044,"State Senator, 2nd District",total_votes,,3058
+Jackson,044,"State Senator, 2nd District",overvotes,,0
+Jackson,044,"State Senator, 2nd District",undervotes,,145
+Jackson,044,"State Senator, 2nd District",ballots_cast,,3203
+Jackson,044,"State Senator, 2nd District",registered,,4302
+Jackson,044,"State Representative, 4th District",candidate,Richard Chasm,873
+Jackson,044,"State Representative, 4th District",candidate,Alek Skarlatos,2150
+Jackson,044,"State Representative, 4th District",writein,,2
+Jackson,044,"State Representative, 4th District",total_votes,,3025
+Jackson,044,"State Representative, 4th District",overvotes,,0
+Jackson,044,"State Representative, 4th District",undervotes,,178
+Jackson,044,"State Representative, 4th District",ballots_cast,,3203
+Jackson,044,"State Representative, 4th District",registered,,4302
+Jackson,045,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,11
+Jackson,045,President,candidate,Cornel West,0
+Jackson,045,President,candidate,Chase Oliver/Mike ter Maat,1
+Jackson,045,President,candidate,Randall Terry,0
+Jackson,045,President,candidate,Donald J Trump/JD Vance,196
+Jackson,045,President,candidate,Jill Stein/Rudolph Ware,5
+Jackson,045,President,candidate,Kamala D Harris/Tim Walz,146
+Jackson,045,President,writein,,1
+Jackson,045,President,total_votes,,360
+Jackson,045,President,overvotes,,0
+Jackson,045,President,undervotes,,4
+Jackson,045,President,ballots_cast,,364
+Jackson,045,President,registered,,476
+Jackson,045,"State Representative, 5th District",candidate,Katherine Green,197
+Jackson,045,"State Representative, 5th District",candidate,Pam Marsh,158
+Jackson,045,"State Representative, 5th District",writein,,0
+Jackson,045,"State Representative, 5th District",total_votes,,355
+Jackson,045,"State Representative, 5th District",overvotes,,0
+Jackson,045,"State Representative, 5th District",undervotes,,9
+Jackson,045,"State Representative, 5th District",ballots_cast,,364
+Jackson,045,"State Representative, 5th District",registered,,476
+Jackson,046,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,28
+Jackson,046,President,candidate,Cornel West,12
+Jackson,046,President,candidate,Chase Oliver/Mike ter Maat,13
+Jackson,046,President,candidate,Randall Terry,1
+Jackson,046,President,candidate,Donald J Trump/JD Vance,374
+Jackson,046,President,candidate,Jill Stein/Rudolph Ware,39
+Jackson,046,President,candidate,Kamala D Harris/Tim Walz,2846
+Jackson,046,President,writein,,14
+Jackson,046,President,total_votes,,3327
+Jackson,046,President,overvotes,,0
+Jackson,046,President,undervotes,,25
+Jackson,046,President,ballots_cast,,3352
+Jackson,046,President,registered,,3909
+Jackson,046,"State Representative, 5th District",candidate,Katherine Green,394
+Jackson,046,"State Representative, 5th District",candidate,Pam Marsh,2815
+Jackson,046,"State Representative, 5th District",writein,,3
+Jackson,046,"State Representative, 5th District",total_votes,,3212
+Jackson,046,"State Representative, 5th District",overvotes,,0
+Jackson,046,"State Representative, 5th District",undervotes,,113
+Jackson,046,"State Representative, 5th District",ballots_cast,,3325
+Jackson,046,"State Representative, 5th District",registered,,3909
+Jackson,047,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,45
+Jackson,047,President,candidate,Cornel West,4
+Jackson,047,President,candidate,Chase Oliver/Mike ter Maat,6
+Jackson,047,President,candidate,Randall Terry,0
+Jackson,047,President,candidate,Donald J Trump/JD Vance,327
+Jackson,047,President,candidate,Jill Stein/Rudolph Ware,40
+Jackson,047,President,candidate,Kamala D Harris/Tim Walz,2185
+Jackson,047,President,writein,,15
+Jackson,047,President,total_votes,,2622
+Jackson,047,President,overvotes,,0
+Jackson,047,President,undervotes,,24
+Jackson,047,President,ballots_cast,,2646
+Jackson,047,President,registered,,3173
+Jackson,047,"State Representative, 5th District",candidate,Katherine Green,337
+Jackson,047,"State Representative, 5th District",candidate,Pam Marsh,2163
+Jackson,047,"State Representative, 5th District",writein,,4
+Jackson,047,"State Representative, 5th District",total_votes,,2504
+Jackson,047,"State Representative, 5th District",overvotes,,0
+Jackson,047,"State Representative, 5th District",undervotes,,111
+Jackson,047,"State Representative, 5th District",ballots_cast,,2615
+Jackson,047,"State Representative, 5th District",registered,,3173
+Jackson,048,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,32
+Jackson,048,President,candidate,Cornel West,0
+Jackson,048,President,candidate,Chase Oliver/Mike ter Maat,6
+Jackson,048,President,candidate,Randall Terry,3
+Jackson,048,President,candidate,Donald J Trump/JD Vance,1688
+Jackson,048,President,candidate,Jill Stein/Rudolph Ware,5
+Jackson,048,President,candidate,Kamala D Harris/Tim Walz,853
+Jackson,048,President,writein,,21
+Jackson,048,President,total_votes,,2608
+Jackson,048,President,overvotes,,2
+Jackson,048,President,undervotes,,23
+Jackson,048,President,ballots_cast,,2633
+Jackson,048,President,registered,,3361
+Jackson,048,"State Senator, 28th District",candidate,Dylan Gutridge,740
+Jackson,048,"State Senator, 28th District",candidate,Diane Linthicum,1743
+Jackson,048,"State Senator, 28th District",writein,,2
+Jackson,048,"State Senator, 28th District",total_votes,,2485
+Jackson,048,"State Senator, 28th District",overvotes,,0
+Jackson,048,"State Senator, 28th District",undervotes,,147
+Jackson,048,"State Senator, 28th District",ballots_cast,,2632
+Jackson,048,"State Senator, 28th District",registered,,3361
+Jackson,048,"State Representative, 56th District",candidate,Emily G McIntire,1919
+Jackson,048,"State Representative, 56th District",writein,,64
+Jackson,048,"State Representative, 56th District",total_votes,,1983
+Jackson,048,"State Representative, 56th District",overvotes,,0
+Jackson,048,"State Representative, 56th District",undervotes,,649
+Jackson,048,"State Representative, 56th District",ballots_cast,,2632
+Jackson,048,"State Representative, 56th District",registered,,3361
+Jackson,049,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,69
+Jackson,049,President,candidate,Cornel West,3
+Jackson,049,President,candidate,Chase Oliver/Mike ter Maat,13
+Jackson,049,President,candidate,Randall Terry,2
+Jackson,049,President,candidate,Donald J Trump/JD Vance,2063
+Jackson,049,President,candidate,Jill Stein/Rudolph Ware,24
+Jackson,049,President,candidate,Kamala D Harris/Tim Walz,1650
+Jackson,049,President,writein,,12
+Jackson,049,President,total_votes,,3836
+Jackson,049,President,overvotes,,2
+Jackson,049,President,undervotes,,34
+Jackson,049,President,ballots_cast,,3872
+Jackson,049,President,registered,,5989
+Jackson,049,"State Representative, 6th District",candidate,Kim Wallan,2122
+Jackson,049,"State Representative, 6th District",candidate,Lilia Caballero,1515
+Jackson,049,"State Representative, 6th District",writein,,7
+Jackson,049,"State Representative, 6th District",total_votes,,3644
+Jackson,049,"State Representative, 6th District",overvotes,,0
+Jackson,049,"State Representative, 6th District",undervotes,,226
+Jackson,049,"State Representative, 6th District",ballots_cast,,3870
+Jackson,049,"State Representative, 6th District",registered,,5989
+Jackson,050,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,45
+Jackson,050,President,candidate,Cornel West,9
+Jackson,050,President,candidate,Chase Oliver/Mike ter Maat,8
+Jackson,050,President,candidate,Randall Terry,4
+Jackson,050,President,candidate,Donald J Trump/JD Vance,1722
+Jackson,050,President,candidate,Jill Stein/Rudolph Ware,17
+Jackson,050,President,candidate,Kamala D Harris/Tim Walz,1206
+Jackson,050,President,writein,,11
+Jackson,050,President,total_votes,,3022
+Jackson,050,President,overvotes,,1
+Jackson,050,President,undervotes,,19
+Jackson,050,President,ballots_cast,,3042
+Jackson,050,President,registered,,4875
+Jackson,050,"State Representative, 6th District",candidate,Kim Wallan,1761
+Jackson,050,"State Representative, 6th District",candidate,Lilia Caballero,1119
+Jackson,050,"State Representative, 6th District",writein,,2
+Jackson,050,"State Representative, 6th District",total_votes,,2882
+Jackson,050,"State Representative, 6th District",overvotes,,0
+Jackson,050,"State Representative, 6th District",undervotes,,155
+Jackson,050,"State Representative, 6th District",ballots_cast,,3037
+Jackson,050,"State Representative, 6th District",registered,,4875

@@ -1,0 +1,4 @@
+# Polk p.9 left, HD 24: Elmer(REP) Pool(DEM) WriteIn TotalVotes Over Under
+Precinct 106 751 276 2 1,029 0 71
+Precinct 110 452 219 1 672 0 48
+Totals 1,203 495 3 1,701 0 119

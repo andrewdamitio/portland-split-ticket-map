@@ -1,0 +1,476 @@
+county,precinct_label,contest,type,choice,votes
+Union,01 LG City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),42
+Union,01 LG City,United States President and Vice President,candidate,Cornel West (PRO),4
+Union,01 LG City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Union,01 LG City,United States President and Vice President,candidate,Randall Terry (CON),1
+Union,01 LG City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1064
+Union,01 LG City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),13
+Union,01 LG City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),1056
+Union,01 LG City,United States President and Vice President,writein,,17
+Union,01 LG City,United States President and Vice President,total_votes,,2202
+Union,01 LG City,United States President and Vice President,overvotes,,2
+Union,01 LG City,United States President and Vice President,undervotes,,27
+Union,01 LG City,United States President and Vice President,ballots_cast,,2231
+Union,02-LG City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),49
+Union,02-LG City,United States President and Vice President,candidate,Cornel West (PRO),1
+Union,02-LG City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Union,02-LG City,United States President and Vice President,candidate,Randall Terry (CON),2
+Union,02-LG City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1201
+Union,02-LG City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),14
+Union,02-LG City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),691
+Union,02-LG City,United States President and Vice President,writein,,12
+Union,02-LG City,United States President and Vice President,total_votes,,1975
+Union,02-LG City,United States President and Vice President,overvotes,,1
+Union,02-LG City,United States President and Vice President,undervotes,,20
+Union,02-LG City,United States President and Vice President,ballots_cast,,1996
+Union,03-LG City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),51
+Union,03-LG City,United States President and Vice President,candidate,Cornel West (PRO),4
+Union,03-LG City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),9
+Union,03-LG City,United States President and Vice President,candidate,Randall Terry (CON),2
+Union,03-LG City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1333
+Union,03-LG City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Union,03-LG City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),596
+Union,03-LG City,United States President and Vice President,writein,,4
+Union,03-LG City,United States President and Vice President,total_votes,,2005
+Union,03-LG City,United States President and Vice President,overvotes,,3
+Union,03-LG City,United States President and Vice President,undervotes,,23
+Union,03-LG City,United States President and Vice President,ballots_cast,,2031
+Union,04-LG Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),10
+Union,04-LG Rural,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,04-LG Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Union,04-LG Rural,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,04-LG Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),280
+Union,04-LG Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Union,04-LG Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),112
+Union,04-LG Rural,United States President and Vice President,writein,,6
+Union,04-LG Rural,United States President and Vice President,total_votes,,413
+Union,04-LG Rural,United States President and Vice President,overvotes,,0
+Union,04-LG Rural,United States President and Vice President,undervotes,,5
+Union,04-LG Rural,United States President and Vice President,ballots_cast,,418
+Union,05-LG Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),17
+Union,05-LG Rural,United States President and Vice President,candidate,Cornel West (PRO),1
+Union,05-LG Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),7
+Union,05-LG Rural,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,05-LG Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),897
+Union,05-LG Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Union,05-LG Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),287
+Union,05-LG Rural,United States President and Vice President,writein,,7
+Union,05-LG Rural,United States President and Vice President,total_votes,,1219
+Union,05-LG Rural,United States President and Vice President,overvotes,,1
+Union,05-LG Rural,United States President and Vice President,undervotes,,14
+Union,05-LG Rural,United States President and Vice President,ballots_cast,,1234
+Union,06-Cove City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),5
+Union,06-Cove City,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,06-Cove City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Union,06-Cove City,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,06-Cove City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),339
+Union,06-Cove City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Union,06-Cove City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),93
+Union,06-Cove City,United States President and Vice President,writein,,0
+Union,06-Cove City,United States President and Vice President,total_votes,,444
+Union,06-Cove City,United States President and Vice President,overvotes,,0
+Union,06-Cove City,United States President and Vice President,undervotes,,4
+Union,06-Cove City,United States President and Vice President,ballots_cast,,448
+Union,07-Cove Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Union,07-Cove Rural,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,07-Cove Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Union,07-Cove Rural,United States President and Vice President,candidate,Randall Terry (CON),2
+Union,07-Cove Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),472
+Union,07-Cove Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Union,07-Cove Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),182
+Union,07-Cove Rural,United States President and Vice President,writein,,0
+Union,07-Cove Rural,United States President and Vice President,total_votes,,677
+Union,07-Cove Rural,United States President and Vice President,overvotes,,0
+Union,07-Cove Rural,United States President and Vice President,undervotes,,9
+Union,07-Cove Rural,United States President and Vice President,ballots_cast,,686
+Union,08-Elgin City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),26
+Union,08-Elgin City,United States President and Vice President,candidate,Cornel West (PRO),1
+Union,08-Elgin City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Union,08-Elgin City,United States President and Vice President,candidate,Randall Terry (CON),1
+Union,08-Elgin City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),766
+Union,08-Elgin City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Union,08-Elgin City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),129
+Union,08-Elgin City,United States President and Vice President,writein,,2
+Union,08-Elgin City,United States President and Vice President,total_votes,,930
+Union,08-Elgin City,United States President and Vice President,overvotes,,0
+Union,08-Elgin City,United States President and Vice President,undervotes,,8
+Union,08-Elgin City,United States President and Vice President,ballots_cast,,938
+Union,09-Elgin Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),10
+Union,09-Elgin Rural,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,09-Elgin Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Union,09-Elgin Rural,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,09-Elgin Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),588
+Union,09-Elgin Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,09-Elgin Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),100
+Union,09-Elgin Rural,United States President and Vice President,writein,,0
+Union,09-Elgin Rural,United States President and Vice President,total_votes,,699
+Union,09-Elgin Rural,United States President and Vice President,overvotes,,0
+Union,09-Elgin Rural,United States President and Vice President,undervotes,,3
+Union,09-Elgin Rural,United States President and Vice President,ballots_cast,,702
+Union,10-Imb City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),4
+Union,10-Imb City,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,10-Imb City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Union,10-Imb City,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,10-Imb City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),148
+Union,10-Imb City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,10-Imb City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),39
+Union,10-Imb City,United States President and Vice President,writein,,2
+Union,10-Imb City,United States President and Vice President,total_votes,,193
+Union,10-Imb City,United States President and Vice President,overvotes,,0
+Union,10-Imb City,United States President and Vice President,undervotes,,4
+Union,10-Imb City,United States President and Vice President,ballots_cast,,197
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),23
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Randall Terry (CON),1
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),536
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,11-Imb/Sum Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),152
+Union,11-Imb/Sum Rural,United States President and Vice President,writein,,12
+Union,11-Imb/Sum Rural,United States President and Vice President,total_votes,,725
+Union,11-Imb/Sum Rural,United States President and Vice President,overvotes,,0
+Union,11-Imb/Sum Rural,United States President and Vice President,undervotes,,11
+Union,11-Imb/Sum Rural,United States President and Vice President,ballots_cast,,736
+Union,12-Sum City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),2
+Union,12-Sum City,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,12-Sum City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Union,12-Sum City,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,12-Sum City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),61
+Union,12-Sum City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,12-Sum City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),8
+Union,12-Sum City,United States President and Vice President,writein,,0
+Union,12-Sum City,United States President and Vice President,total_votes,,71
+Union,12-Sum City,United States President and Vice President,overvotes,,0
+Union,12-Sum City,United States President and Vice President,undervotes,,0
+Union,12-Sum City,United States President and Vice President,ballots_cast,,71
+Union,13-NP Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),1
+Union,13-NP Rural,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,13-NP Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Union,13-NP Rural,United States President and Vice President,candidate,Randall Terry (CON),1
+Union,13-NP Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),90
+Union,13-NP Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,13-NP Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),13
+Union,13-NP Rural,United States President and Vice President,writein,,1
+Union,13-NP Rural,United States President and Vice President,total_votes,,106
+Union,13-NP Rural,United States President and Vice President,overvotes,,0
+Union,13-NP Rural,United States President and Vice President,undervotes,,1
+Union,13-NP Rural,United States President and Vice President,ballots_cast,,107
+Union,14-NP City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),9
+Union,14-NP City,United States President and Vice President,candidate,Cornel West (PRO),1
+Union,14-NP City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Union,14-NP City,United States President and Vice President,candidate,Randall Terry (CON),1
+Union,14-NP City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),204
+Union,14-NP City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Union,14-NP City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),43
+Union,14-NP City,United States President and Vice President,writein,,0
+Union,14-NP City,United States President and Vice President,total_votes,,262
+Union,14-NP City,United States President and Vice President,overvotes,,0
+Union,14-NP City,United States President and Vice President,undervotes,,7
+Union,14-NP City,United States President and Vice President,ballots_cast,,269
+Union,15-Union Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),4
+Union,15-Union Rural,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,15-Union Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Union,15-Union Rural,United States President and Vice President,candidate,Randall Terry (CON),2
+Union,15-Union Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),217
+Union,15-Union Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,15-Union Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),58
+Union,15-Union Rural,United States President and Vice President,writein,,1
+Union,15-Union Rural,United States President and Vice President,total_votes,,282
+Union,15-Union Rural,United States President and Vice President,overvotes,,0
+Union,15-Union Rural,United States President and Vice President,undervotes,,5
+Union,15-Union Rural,United States President and Vice President,ballots_cast,,287
+Union,16-Union City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),24
+Union,16-Union City,United States President and Vice President,candidate,Cornel West (PRO),2
+Union,16-Union City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Union,16-Union City,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,16-Union City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),931
+Union,16-Union City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Union,16-Union City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),312
+Union,16-Union City,United States President and Vice President,writein,,2
+Union,16-Union City,United States President and Vice President,total_votes,,1279
+Union,16-Union City,United States President and Vice President,overvotes,,0
+Union,16-Union City,United States President and Vice President,undervotes,,11
+Union,16-Union City,United States President and Vice President,ballots_cast,,1290
+Union,17-Ant/BC,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),4
+Union,17-Ant/BC,United States President and Vice President,candidate,Cornel West (PRO),0
+Union,17-Ant/BC,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Union,17-Ant/BC,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,17-Ant/BC,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),48
+Union,17-Ant/BC,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Union,17-Ant/BC,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),7
+Union,17-Ant/BC,United States President and Vice President,writein,,1
+Union,17-Ant/BC,United States President and Vice President,total_votes,,60
+Union,17-Ant/BC,United States President and Vice President,overvotes,,0
+Union,17-Ant/BC,United States President and Vice President,undervotes,,1
+Union,17-Ant/BC,United States President and Vice President,ballots_cast,,61
+Union,18-IC City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),14
+Union,18-IC City,United States President and Vice President,candidate,Cornel West (PRO),1
+Union,18-IC City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Union,18-IC City,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,18-IC City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),514
+Union,18-IC City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Union,18-IC City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),180
+Union,18-IC City,United States President and Vice President,writein,,3
+Union,18-IC City,United States President and Vice President,total_votes,,718
+Union,18-IC City,United States President and Vice President,overvotes,,0
+Union,18-IC City,United States President and Vice President,undervotes,,5
+Union,18-IC City,United States President and Vice President,ballots_cast,,723
+Union,19-IC Rural,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),7
+Union,19-IC Rural,United States President and Vice President,candidate,Cornel West (PRO),1
+Union,19-IC Rural,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Union,19-IC Rural,United States President and Vice President,candidate,Randall Terry (CON),0
+Union,19-IC Rural,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),253
+Union,19-IC Rural,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Union,19-IC Rural,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),49
+Union,19-IC Rural,United States President and Vice President,writein,,2
+Union,19-IC Rural,United States President and Vice President,total_votes,,314
+Union,19-IC Rural,United States President and Vice President,overvotes,,2
+Union,19-IC Rural,United States President and Vice President,undervotes,,1
+Union,19-IC Rural,United States President and Vice President,ballots_cast,,317
+Union,01 LG City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),541
+Union,01 LG City,"State Senator, 29th District",candidate,Todd Nash (REP),1355
+Union,01 LG City,"State Senator, 29th District",writein,,13
+Union,01 LG City,"State Senator, 29th District",total_votes,,1909
+Union,01 LG City,"State Senator, 29th District",overvotes,,1
+Union,01 LG City,"State Senator, 29th District",undervotes,,321
+Union,01 LG City,"State Senator, 29th District",ballots_cast,,2231
+Union,02-LG City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),358
+Union,02-LG City,"State Senator, 29th District",candidate,Todd Nash (REP),1345
+Union,02-LG City,"State Senator, 29th District",writein,,5
+Union,02-LG City,"State Senator, 29th District",total_votes,,1708
+Union,02-LG City,"State Senator, 29th District",overvotes,,1
+Union,02-LG City,"State Senator, 29th District",undervotes,,287
+Union,02-LG City,"State Senator, 29th District",ballots_cast,,1996
+Union,03-LG City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),343
+Union,03-LG City,"State Senator, 29th District",candidate,Todd Nash (REP),1442
+Union,03-LG City,"State Senator, 29th District",writein,,7
+Union,03-LG City,"State Senator, 29th District",total_votes,,1792
+Union,03-LG City,"State Senator, 29th District",overvotes,,1
+Union,03-LG City,"State Senator, 29th District",undervotes,,238
+Union,03-LG City,"State Senator, 29th District",ballots_cast,,2031
+Union,04-LG Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),53
+Union,04-LG Rural,"State Senator, 29th District",candidate,Todd Nash (REP),322
+Union,04-LG Rural,"State Senator, 29th District",writein,,2
+Union,04-LG Rural,"State Senator, 29th District",total_votes,,377
+Union,04-LG Rural,"State Senator, 29th District",overvotes,,0
+Union,04-LG Rural,"State Senator, 29th District",undervotes,,41
+Union,04-LG Rural,"State Senator, 29th District",ballots_cast,,418
+Union,05-LG Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),132
+Union,05-LG Rural,"State Senator, 29th District",candidate,Todd Nash (REP),975
+Union,05-LG Rural,"State Senator, 29th District",writein,,8
+Union,05-LG Rural,"State Senator, 29th District",total_votes,,1115
+Union,05-LG Rural,"State Senator, 29th District",overvotes,,0
+Union,05-LG Rural,"State Senator, 29th District",undervotes,,119
+Union,05-LG Rural,"State Senator, 29th District",ballots_cast,,1234
+Union,06-Cove City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),54
+Union,06-Cove City,"State Senator, 29th District",candidate,Todd Nash (REP),341
+Union,06-Cove City,"State Senator, 29th District",writein,,0
+Union,06-Cove City,"State Senator, 29th District",total_votes,,395
+Union,06-Cove City,"State Senator, 29th District",overvotes,,0
+Union,06-Cove City,"State Senator, 29th District",undervotes,,53
+Union,06-Cove City,"State Senator, 29th District",ballots_cast,,448
+Union,07-Cove Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),91
+Union,07-Cove Rural,"State Senator, 29th District",candidate,Todd Nash (REP),528
+Union,07-Cove Rural,"State Senator, 29th District",writein,,2
+Union,07-Cove Rural,"State Senator, 29th District",total_votes,,621
+Union,07-Cove Rural,"State Senator, 29th District",overvotes,,0
+Union,07-Cove Rural,"State Senator, 29th District",undervotes,,65
+Union,07-Cove Rural,"State Senator, 29th District",ballots_cast,,686
+Union,08-Elgin City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),84
+Union,08-Elgin City,"State Senator, 29th District",candidate,Todd Nash (REP),760
+Union,08-Elgin City,"State Senator, 29th District",writein,,3
+Union,08-Elgin City,"State Senator, 29th District",total_votes,,847
+Union,08-Elgin City,"State Senator, 29th District",overvotes,,0
+Union,08-Elgin City,"State Senator, 29th District",undervotes,,91
+Union,08-Elgin City,"State Senator, 29th District",ballots_cast,,938
+Union,09-Elgin Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),54
+Union,09-Elgin Rural,"State Senator, 29th District",candidate,Todd Nash (REP),592
+Union,09-Elgin Rural,"State Senator, 29th District",writein,,0
+Union,09-Elgin Rural,"State Senator, 29th District",total_votes,,646
+Union,09-Elgin Rural,"State Senator, 29th District",overvotes,,0
+Union,09-Elgin Rural,"State Senator, 29th District",undervotes,,56
+Union,09-Elgin Rural,"State Senator, 29th District",ballots_cast,,702
+Union,10-Imb City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),24
+Union,10-Imb City,"State Senator, 29th District",candidate,Todd Nash (REP),163
+Union,10-Imb City,"State Senator, 29th District",writein,,1
+Union,10-Imb City,"State Senator, 29th District",total_votes,,188
+Union,10-Imb City,"State Senator, 29th District",overvotes,,0
+Union,10-Imb City,"State Senator, 29th District",undervotes,,9
+Union,10-Imb City,"State Senator, 29th District",ballots_cast,,197
+Union,11-Imb/Sum Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),89
+Union,11-Imb/Sum Rural,"State Senator, 29th District",candidate,Todd Nash (REP),584
+Union,11-Imb/Sum Rural,"State Senator, 29th District",writein,,1
+Union,11-Imb/Sum Rural,"State Senator, 29th District",total_votes,,674
+Union,11-Imb/Sum Rural,"State Senator, 29th District",overvotes,,0
+Union,11-Imb/Sum Rural,"State Senator, 29th District",undervotes,,62
+Union,11-Imb/Sum Rural,"State Senator, 29th District",ballots_cast,,736
+Union,12-Sum City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),10
+Union,12-Sum City,"State Senator, 29th District",candidate,Todd Nash (REP),59
+Union,12-Sum City,"State Senator, 29th District",writein,,0
+Union,12-Sum City,"State Senator, 29th District",total_votes,,69
+Union,12-Sum City,"State Senator, 29th District",overvotes,,0
+Union,12-Sum City,"State Senator, 29th District",undervotes,,2
+Union,12-Sum City,"State Senator, 29th District",ballots_cast,,71
+Union,13-NP Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),4
+Union,13-NP Rural,"State Senator, 29th District",candidate,Todd Nash (REP),96
+Union,13-NP Rural,"State Senator, 29th District",writein,,0
+Union,13-NP Rural,"State Senator, 29th District",total_votes,,100
+Union,13-NP Rural,"State Senator, 29th District",overvotes,,0
+Union,13-NP Rural,"State Senator, 29th District",undervotes,,7
+Union,13-NP Rural,"State Senator, 29th District",ballots_cast,,107
+Union,14-NP City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),33
+Union,14-NP City,"State Senator, 29th District",candidate,Todd Nash (REP),189
+Union,14-NP City,"State Senator, 29th District",writein,,2
+Union,14-NP City,"State Senator, 29th District",total_votes,,224
+Union,14-NP City,"State Senator, 29th District",overvotes,,0
+Union,14-NP City,"State Senator, 29th District",undervotes,,45
+Union,14-NP City,"State Senator, 29th District",ballots_cast,,269
+Union,15-Union Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),29
+Union,15-Union Rural,"State Senator, 29th District",candidate,Todd Nash (REP),228
+Union,15-Union Rural,"State Senator, 29th District",writein,,0
+Union,15-Union Rural,"State Senator, 29th District",total_votes,,257
+Union,15-Union Rural,"State Senator, 29th District",overvotes,,0
+Union,15-Union Rural,"State Senator, 29th District",undervotes,,30
+Union,15-Union Rural,"State Senator, 29th District",ballots_cast,,287
+Union,16-Union City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),163
+Union,16-Union City,"State Senator, 29th District",candidate,Todd Nash (REP),966
+Union,16-Union City,"State Senator, 29th District",writein,,2
+Union,16-Union City,"State Senator, 29th District",total_votes,,1131
+Union,16-Union City,"State Senator, 29th District",overvotes,,0
+Union,16-Union City,"State Senator, 29th District",undervotes,,159
+Union,16-Union City,"State Senator, 29th District",ballots_cast,,1290
+Union,17-Ant/BC,"State Senator, 29th District",candidate,Tania Wildbill (NAV),9
+Union,17-Ant/BC,"State Senator, 29th District",candidate,Todd Nash (REP),48
+Union,17-Ant/BC,"State Senator, 29th District",writein,,0
+Union,17-Ant/BC,"State Senator, 29th District",total_votes,,57
+Union,17-Ant/BC,"State Senator, 29th District",overvotes,,0
+Union,17-Ant/BC,"State Senator, 29th District",undervotes,,4
+Union,17-Ant/BC,"State Senator, 29th District",ballots_cast,,61
+Union,18-IC City,"State Senator, 29th District",candidate,Tania Wildbill (NAV),63
+Union,18-IC City,"State Senator, 29th District",candidate,Todd Nash (REP),580
+Union,18-IC City,"State Senator, 29th District",writein,,0
+Union,18-IC City,"State Senator, 29th District",total_votes,,643
+Union,18-IC City,"State Senator, 29th District",overvotes,,1
+Union,18-IC City,"State Senator, 29th District",undervotes,,79
+Union,18-IC City,"State Senator, 29th District",ballots_cast,,723
+Union,19-IC Rural,"State Senator, 29th District",candidate,Tania Wildbill (NAV),20
+Union,19-IC Rural,"State Senator, 29th District",candidate,Todd Nash (REP),250
+Union,19-IC Rural,"State Senator, 29th District",writein,,0
+Union,19-IC Rural,"State Senator, 29th District",total_votes,,270
+Union,19-IC Rural,"State Senator, 29th District",overvotes,,0
+Union,19-IC Rural,"State Senator, 29th District",undervotes,,47
+Union,19-IC Rural,"State Senator, 29th District",ballots_cast,,317
+Union,01 LG City,"State Representative, 58th District",candidate,Bobby Levy (REP),1368
+Union,01 LG City,"State Representative, 58th District",writein,,63
+Union,01 LG City,"State Representative, 58th District",total_votes,,1431
+Union,01 LG City,"State Representative, 58th District",overvotes,,0
+Union,01 LG City,"State Representative, 58th District",undervotes,,800
+Union,01 LG City,"State Representative, 58th District",ballots_cast,,2231
+Union,02-LG City,"State Representative, 58th District",candidate,Bobby Levy (REP),1347
+Union,02-LG City,"State Representative, 58th District",writein,,36
+Union,02-LG City,"State Representative, 58th District",total_votes,,1383
+Union,02-LG City,"State Representative, 58th District",overvotes,,0
+Union,02-LG City,"State Representative, 58th District",undervotes,,613
+Union,02-LG City,"State Representative, 58th District",ballots_cast,,1996
+Union,03-LG City,"State Representative, 58th District",candidate,Bobby Levy (REP),1409
+Union,03-LG City,"State Representative, 58th District",writein,,24
+Union,03-LG City,"State Representative, 58th District",total_votes,,1433
+Union,03-LG City,"State Representative, 58th District",overvotes,,0
+Union,03-LG City,"State Representative, 58th District",undervotes,,598
+Union,03-LG City,"State Representative, 58th District",ballots_cast,,2031
+Union,04-LG Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),283
+Union,04-LG Rural,"State Representative, 58th District",writein,,4
+Union,04-LG Rural,"State Representative, 58th District",total_votes,,287
+Union,04-LG Rural,"State Representative, 58th District",overvotes,,0
+Union,04-LG Rural,"State Representative, 58th District",undervotes,,131
+Union,04-LG Rural,"State Representative, 58th District",ballots_cast,,418
+Union,05-LG Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),881
+Union,05-LG Rural,"State Representative, 58th District",writein,,20
+Union,05-LG Rural,"State Representative, 58th District",total_votes,,901
+Union,05-LG Rural,"State Representative, 58th District",overvotes,,0
+Union,05-LG Rural,"State Representative, 58th District",undervotes,,333
+Union,05-LG Rural,"State Representative, 58th District",ballots_cast,,1234
+Union,06-Cove City,"State Representative, 58th District",candidate,Bobby Levy (REP),323
+Union,06-Cove City,"State Representative, 58th District",writein,,3
+Union,06-Cove City,"State Representative, 58th District",total_votes,,326
+Union,06-Cove City,"State Representative, 58th District",overvotes,,0
+Union,06-Cove City,"State Representative, 58th District",undervotes,,122
+Union,06-Cove City,"State Representative, 58th District",ballots_cast,,448
+Union,07-Cove Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),476
+Union,07-Cove Rural,"State Representative, 58th District",writein,,12
+Union,07-Cove Rural,"State Representative, 58th District",total_votes,,488
+Union,07-Cove Rural,"State Representative, 58th District",overvotes,,0
+Union,07-Cove Rural,"State Representative, 58th District",undervotes,,198
+Union,07-Cove Rural,"State Representative, 58th District",ballots_cast,,686
+Union,08-Elgin City,"State Representative, 58th District",candidate,Bobby Levy (REP),740
+Union,08-Elgin City,"State Representative, 58th District",writein,,6
+Union,08-Elgin City,"State Representative, 58th District",total_votes,,746
+Union,08-Elgin City,"State Representative, 58th District",overvotes,,0
+Union,08-Elgin City,"State Representative, 58th District",undervotes,,192
+Union,08-Elgin City,"State Representative, 58th District",ballots_cast,,938
+Union,09-Elgin Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),542
+Union,09-Elgin Rural,"State Representative, 58th District",writein,,2
+Union,09-Elgin Rural,"State Representative, 58th District",total_votes,,544
+Union,09-Elgin Rural,"State Representative, 58th District",overvotes,,0
+Union,09-Elgin Rural,"State Representative, 58th District",undervotes,,158
+Union,09-Elgin Rural,"State Representative, 58th District",ballots_cast,,702
+Union,10-Imb City,"State Representative, 58th District",candidate,Bobby Levy (REP),156
+Union,10-Imb City,"State Representative, 58th District",writein,,3
+Union,10-Imb City,"State Representative, 58th District",total_votes,,159
+Union,10-Imb City,"State Representative, 58th District",overvotes,,0
+Union,10-Imb City,"State Representative, 58th District",undervotes,,38
+Union,10-Imb City,"State Representative, 58th District",ballots_cast,,197
+Union,11-Imb/Sum Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),571
+Union,11-Imb/Sum Rural,"State Representative, 58th District",writein,,8
+Union,11-Imb/Sum Rural,"State Representative, 58th District",total_votes,,579
+Union,11-Imb/Sum Rural,"State Representative, 58th District",overvotes,,0
+Union,11-Imb/Sum Rural,"State Representative, 58th District",undervotes,,157
+Union,11-Imb/Sum Rural,"State Representative, 58th District",ballots_cast,,736
+Union,12-Sum City,"State Representative, 58th District",candidate,Bobby Levy (REP),58
+Union,12-Sum City,"State Representative, 58th District",writein,,0
+Union,12-Sum City,"State Representative, 58th District",total_votes,,58
+Union,12-Sum City,"State Representative, 58th District",overvotes,,0
+Union,12-Sum City,"State Representative, 58th District",undervotes,,13
+Union,12-Sum City,"State Representative, 58th District",ballots_cast,,71
+Union,13-NP Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),91
+Union,13-NP Rural,"State Representative, 58th District",writein,,0
+Union,13-NP Rural,"State Representative, 58th District",total_votes,,91
+Union,13-NP Rural,"State Representative, 58th District",overvotes,,0
+Union,13-NP Rural,"State Representative, 58th District",undervotes,,16
+Union,13-NP Rural,"State Representative, 58th District",ballots_cast,,107
+Union,14-NP City,"State Representative, 58th District",candidate,Bobby Levy (REP),181
+Union,14-NP City,"State Representative, 58th District",writein,,2
+Union,14-NP City,"State Representative, 58th District",total_votes,,183
+Union,14-NP City,"State Representative, 58th District",overvotes,,0
+Union,14-NP City,"State Representative, 58th District",undervotes,,86
+Union,14-NP City,"State Representative, 58th District",ballots_cast,,269
+Union,15-Union Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),196
+Union,15-Union Rural,"State Representative, 58th District",writein,,6
+Union,15-Union Rural,"State Representative, 58th District",total_votes,,202
+Union,15-Union Rural,"State Representative, 58th District",overvotes,,0
+Union,15-Union Rural,"State Representative, 58th District",undervotes,,85
+Union,15-Union Rural,"State Representative, 58th District",ballots_cast,,287
+Union,16-Union City,"State Representative, 58th District",candidate,Bobby Levy (REP),943
+Union,16-Union City,"State Representative, 58th District",writein,,18
+Union,16-Union City,"State Representative, 58th District",total_votes,,961
+Union,16-Union City,"State Representative, 58th District",overvotes,,0
+Union,16-Union City,"State Representative, 58th District",undervotes,,329
+Union,16-Union City,"State Representative, 58th District",ballots_cast,,1290
+Union,17-Ant/BC,"State Representative, 58th District",candidate,Bobby Levy (REP),50
+Union,17-Ant/BC,"State Representative, 58th District",writein,,0
+Union,17-Ant/BC,"State Representative, 58th District",total_votes,,50
+Union,17-Ant/BC,"State Representative, 58th District",overvotes,,0
+Union,17-Ant/BC,"State Representative, 58th District",undervotes,,11
+Union,17-Ant/BC,"State Representative, 58th District",ballots_cast,,61
+Union,18-IC City,"State Representative, 58th District",candidate,Bobby Levy (REP),532
+Union,18-IC City,"State Representative, 58th District",writein,,6
+Union,18-IC City,"State Representative, 58th District",total_votes,,538
+Union,18-IC City,"State Representative, 58th District",overvotes,,0
+Union,18-IC City,"State Representative, 58th District",undervotes,,185
+Union,18-IC City,"State Representative, 58th District",ballots_cast,,723
+Union,19-IC Rural,"State Representative, 58th District",candidate,Bobby Levy (REP),229
+Union,19-IC Rural,"State Representative, 58th District",writein,,4
+Union,19-IC Rural,"State Representative, 58th District",total_votes,,233
+Union,19-IC Rural,"State Representative, 58th District",overvotes,,0
+Union,19-IC Rural,"State Representative, 58th District",undervotes,,84
+Union,19-IC Rural,"State Representative, 58th District",ballots_cast,,317

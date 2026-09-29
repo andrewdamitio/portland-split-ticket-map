@@ -1,0 +1,121 @@
+county,precinct_label,contest,type,choice,votes
+Grant,03 - John Day,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,58
+Grant,03 - John Day,President,candidate,Cornel West,1
+Grant,03 - John Day,President,candidate,Chase Oliver / Mike ter Maat,12
+Grant,03 - John Day,President,candidate,Randall Terry,3
+Grant,03 - John Day,President,candidate,Donald J Trump / JD Vance,2296
+Grant,03 - John Day,President,candidate,Jill Stein / Rudolph Ware,6
+Grant,03 - John Day,President,candidate,Kamala D Harris / Tim Walz,574
+Grant,03 - John Day,President,writein,,19
+Grant,03 - John Day,President,overvotes,,3
+Grant,03 - John Day,President,undervotes,,23
+Grant,03 - John Day,President,ballots_cast,,2995
+Grant,03 - John Day,President,total_votes,,2969
+Grant,04 - Union,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,19
+Grant,04 - Union,President,candidate,Cornel West,1
+Grant,04 - Union,President,candidate,Chase Oliver / Mike ter Maat,2
+Grant,04 - Union,President,candidate,Randall Terry,1
+Grant,04 - Union,President,candidate,Donald J Trump / JD Vance,625
+Grant,04 - Union,President,candidate,Jill Stein / Rudolph Ware,4
+Grant,04 - Union,President,candidate,Kamala D Harris / Tim Walz,94
+Grant,04 - Union,President,writein,,4
+Grant,04 - Union,President,overvotes,,1
+Grant,04 - Union,President,undervotes,,4
+Grant,04 - Union,President,ballots_cast,,755
+Grant,04 - Union,President,total_votes,,750
+Grant,08 - North Fork,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Grant,08 - North Fork,President,candidate,Cornel West,0
+Grant,08 - North Fork,President,candidate,Chase Oliver / Mike ter Maat,0
+Grant,08 - North Fork,President,candidate,Randall Terry,0
+Grant,08 - North Fork,President,candidate,Donald J Trump / JD Vance,196
+Grant,08 - North Fork,President,candidate,Jill Stein / Rudolph Ware,0
+Grant,08 - North Fork,President,candidate,Kamala D Harris / Tim Walz,51
+Grant,08 - North Fork,President,writein,,0
+Grant,08 - North Fork,President,overvotes,,0
+Grant,08 - North Fork,President,undervotes,,3
+Grant,08 - North Fork,President,ballots_cast,,254
+Grant,08 - North Fork,President,total_votes,,251
+Grant,16 - South Fork,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Grant,16 - South Fork,President,candidate,Cornel West,1
+Grant,16 - South Fork,President,candidate,Chase Oliver / Mike ter Maat,0
+Grant,16 - South Fork,President,candidate,Randall Terry,0
+Grant,16 - South Fork,President,candidate,Donald J Trump / JD Vance,163
+Grant,16 - South Fork,President,candidate,Jill Stein / Rudolph Ware,1
+Grant,16 - South Fork,President,candidate,Kamala D Harris / Tim Walz,51
+Grant,16 - South Fork,President,writein,,0
+Grant,16 - South Fork,President,overvotes,,0
+Grant,16 - South Fork,President,undervotes,,10
+Grant,16 - South Fork,President,ballots_cast,,232
+Grant,16 - South Fork,President,total_votes,,222
+Grant,17 - Long Creek,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Grant,17 - Long Creek,President,candidate,Cornel West,0
+Grant,17 - Long Creek,President,candidate,Chase Oliver / Mike ter Maat,0
+Grant,17 - Long Creek,President,candidate,Randall Terry,0
+Grant,17 - Long Creek,President,candidate,Donald J Trump / JD Vance,210
+Grant,17 - Long Creek,President,candidate,Jill Stein / Rudolph Ware,2
+Grant,17 - Long Creek,President,candidate,Kamala D Harris / Tim Walz,46
+Grant,17 - Long Creek,President,writein,,2
+Grant,17 - Long Creek,President,overvotes,,0
+Grant,17 - Long Creek,President,undervotes,,1
+Grant,17 - Long Creek,President,ballots_cast,,265
+Grant,17 - Long Creek,President,total_votes,,264
+Grant,03 - John Day,"State Senator, 30th District",candidate,Mike McLane,2183
+Grant,03 - John Day,"State Senator, 30th District",writein,,27
+Grant,03 - John Day,"State Senator, 30th District",overvotes,,1
+Grant,03 - John Day,"State Senator, 30th District",undervotes,,784
+Grant,03 - John Day,"State Senator, 30th District",ballots_cast,,2995
+Grant,03 - John Day,"State Senator, 30th District",total_votes,,2210
+Grant,04 - Union,"State Senator, 30th District",candidate,Mike McLane,576
+Grant,04 - Union,"State Senator, 30th District",writein,,8
+Grant,04 - Union,"State Senator, 30th District",overvotes,,0
+Grant,04 - Union,"State Senator, 30th District",undervotes,,171
+Grant,04 - Union,"State Senator, 30th District",ballots_cast,,755
+Grant,04 - Union,"State Senator, 30th District",total_votes,,584
+Grant,08 - North Fork,"State Senator, 30th District",candidate,Mike McLane,188
+Grant,08 - North Fork,"State Senator, 30th District",writein,,1
+Grant,08 - North Fork,"State Senator, 30th District",overvotes,,0
+Grant,08 - North Fork,"State Senator, 30th District",undervotes,,65
+Grant,08 - North Fork,"State Senator, 30th District",ballots_cast,,254
+Grant,08 - North Fork,"State Senator, 30th District",total_votes,,189
+Grant,16 - South Fork,"State Senator, 30th District",candidate,Mike McLane,158
+Grant,16 - South Fork,"State Senator, 30th District",writein,,1
+Grant,16 - South Fork,"State Senator, 30th District",overvotes,,0
+Grant,16 - South Fork,"State Senator, 30th District",undervotes,,73
+Grant,16 - South Fork,"State Senator, 30th District",ballots_cast,,232
+Grant,16 - South Fork,"State Senator, 30th District",total_votes,,159
+Grant,17 - Long Creek,"State Senator, 30th District",candidate,Mike McLane,206
+Grant,17 - Long Creek,"State Senator, 30th District",writein,,1
+Grant,17 - Long Creek,"State Senator, 30th District",overvotes,,0
+Grant,17 - Long Creek,"State Senator, 30th District",undervotes,,58
+Grant,17 - Long Creek,"State Senator, 30th District",ballots_cast,,265
+Grant,17 - Long Creek,"State Senator, 30th District",total_votes,,207
+Grant,03 - John Day,"State Representative, 60th District",candidate,Mark Owens,2232
+Grant,03 - John Day,"State Representative, 60th District",writein,,29
+Grant,03 - John Day,"State Representative, 60th District",overvotes,,0
+Grant,03 - John Day,"State Representative, 60th District",undervotes,,734
+Grant,03 - John Day,"State Representative, 60th District",ballots_cast,,2995
+Grant,03 - John Day,"State Representative, 60th District",total_votes,,2261
+Grant,04 - Union,"State Representative, 60th District",candidate,Mark Owens,597
+Grant,04 - Union,"State Representative, 60th District",writein,,6
+Grant,04 - Union,"State Representative, 60th District",overvotes,,0
+Grant,04 - Union,"State Representative, 60th District",undervotes,,152
+Grant,04 - Union,"State Representative, 60th District",ballots_cast,,755
+Grant,04 - Union,"State Representative, 60th District",total_votes,,603
+Grant,08 - North Fork,"State Representative, 60th District",candidate,Mark Owens,189
+Grant,08 - North Fork,"State Representative, 60th District",writein,,1
+Grant,08 - North Fork,"State Representative, 60th District",overvotes,,0
+Grant,08 - North Fork,"State Representative, 60th District",undervotes,,64
+Grant,08 - North Fork,"State Representative, 60th District",ballots_cast,,254
+Grant,08 - North Fork,"State Representative, 60th District",total_votes,,190
+Grant,16 - South Fork,"State Representative, 60th District",candidate,Mark Owens,161
+Grant,16 - South Fork,"State Representative, 60th District",writein,,2
+Grant,16 - South Fork,"State Representative, 60th District",overvotes,,0
+Grant,16 - South Fork,"State Representative, 60th District",undervotes,,69
+Grant,16 - South Fork,"State Representative, 60th District",ballots_cast,,232
+Grant,16 - South Fork,"State Representative, 60th District",total_votes,,163
+Grant,17 - Long Creek,"State Representative, 60th District",candidate,Mark Owens,198
+Grant,17 - Long Creek,"State Representative, 60th District",writein,,1
+Grant,17 - Long Creek,"State Representative, 60th District",overvotes,,0
+Grant,17 - Long Creek,"State Representative, 60th District",undervotes,,66
+Grant,17 - Long Creek,"State Representative, 60th District",ballots_cast,,265
+Grant,17 - Long Creek,"State Representative, 60th District",total_votes,,199

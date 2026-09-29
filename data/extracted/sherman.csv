@@ -1,0 +1,126 @@
+county,precinct_label,contest,type,choice,votes
+Sherman,1 Rufus,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Sherman,1 Rufus,President,candidate,Cornel West,0
+Sherman,1 Rufus,President,candidate,Chase Oliver / Mike ter Maat,0
+Sherman,1 Rufus,President,candidate,Randall Terry,0
+Sherman,1 Rufus,President,candidate,Donald J Trump / JD Vance,156
+Sherman,1 Rufus,President,candidate,Jill Stein / Rudolph Ware,0
+Sherman,1 Rufus,President,candidate,Kamala D Harris / Tim Walz,36
+Sherman,1 Rufus,President,writein,,2
+Sherman,1 Rufus,President,overvotes,,0
+Sherman,1 Rufus,President,undervotes,,4
+Sherman,1 Rufus,President,ballots_cast,,204
+Sherman,1 Rufus,President,total_votes,,200
+Sherman,2 Wasco,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Sherman,2 Wasco,President,candidate,Cornel West,0
+Sherman,2 Wasco,President,candidate,Chase Oliver / Mike ter Maat,0
+Sherman,2 Wasco,President,candidate,Randall Terry,1
+Sherman,2 Wasco,President,candidate,Donald J Trump / JD Vance,298
+Sherman,2 Wasco,President,candidate,Jill Stein / Rudolph Ware,0
+Sherman,2 Wasco,President,candidate,Kamala D Harris / Tim Walz,71
+Sherman,2 Wasco,President,writein,,3
+Sherman,2 Wasco,President,overvotes,,0
+Sherman,2 Wasco,President,undervotes,,6
+Sherman,2 Wasco,President,ballots_cast,,388
+Sherman,2 Wasco,President,total_votes,,382
+Sherman,3 Moro,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,10
+Sherman,3 Moro,President,candidate,Cornel West,1
+Sherman,3 Moro,President,candidate,Chase Oliver / Mike ter Maat,3
+Sherman,3 Moro,President,candidate,Randall Terry,0
+Sherman,3 Moro,President,candidate,Donald J Trump / JD Vance,232
+Sherman,3 Moro,President,candidate,Jill Stein / Rudolph Ware,1
+Sherman,3 Moro,President,candidate,Kamala D Harris / Tim Walz,89
+Sherman,3 Moro,President,writein,,1
+Sherman,3 Moro,President,overvotes,,1
+Sherman,3 Moro,President,undervotes,,5
+Sherman,3 Moro,President,ballots_cast,,343
+Sherman,3 Moro,President,total_votes,,337
+Sherman,4 Grass Valley,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Sherman,4 Grass Valley,President,candidate,Cornel West,0
+Sherman,4 Grass Valley,President,candidate,Chase Oliver / Mike ter Maat,0
+Sherman,4 Grass Valley,President,candidate,Randall Terry,0
+Sherman,4 Grass Valley,President,candidate,Donald J Trump / JD Vance,148
+Sherman,4 Grass Valley,President,candidate,Jill Stein / Rudolph Ware,0
+Sherman,4 Grass Valley,President,candidate,Kamala D Harris / Tim Walz,32
+Sherman,4 Grass Valley,President,writein,,0
+Sherman,4 Grass Valley,President,overvotes,,0
+Sherman,4 Grass Valley,President,undervotes,,0
+Sherman,4 Grass Valley,President,ballots_cast,,181
+Sherman,4 Grass Valley,President,total_votes,,181
+Sherman,5 Kent,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Sherman,5 Kent,President,candidate,Cornel West,0
+Sherman,5 Kent,President,candidate,Chase Oliver / Mike ter Maat,0
+Sherman,5 Kent,President,candidate,Randall Terry,0
+Sherman,5 Kent,President,candidate,Donald J Trump / JD Vance,56
+Sherman,5 Kent,President,candidate,Jill Stein / Rudolph Ware,0
+Sherman,5 Kent,President,candidate,Kamala D Harris / Tim Walz,5
+Sherman,5 Kent,President,writein,,2
+Sherman,5 Kent,President,overvotes,,0
+Sherman,5 Kent,President,undervotes,,2
+Sherman,5 Kent,President,ballots_cast,,65
+Sherman,5 Kent,President,total_votes,,63
+Sherman,1 Rufus,"State Senator, 29th District",candidate,Tania Wildbill,13
+Sherman,1 Rufus,"State Senator, 29th District",candidate,Todd Nash,151
+Sherman,1 Rufus,"State Senator, 29th District",writein,,1
+Sherman,1 Rufus,"State Senator, 29th District",overvotes,,0
+Sherman,1 Rufus,"State Senator, 29th District",undervotes,,39
+Sherman,1 Rufus,"State Senator, 29th District",ballots_cast,,204
+Sherman,1 Rufus,"State Senator, 29th District",total_votes,,165
+Sherman,2 Wasco,"State Senator, 29th District",candidate,Tania Wildbill,28
+Sherman,2 Wasco,"State Senator, 29th District",candidate,Todd Nash,293
+Sherman,2 Wasco,"State Senator, 29th District",writein,,1
+Sherman,2 Wasco,"State Senator, 29th District",overvotes,,0
+Sherman,2 Wasco,"State Senator, 29th District",undervotes,,66
+Sherman,2 Wasco,"State Senator, 29th District",ballots_cast,,388
+Sherman,2 Wasco,"State Senator, 29th District",total_votes,,322
+Sherman,3 Moro,"State Senator, 29th District",candidate,Tania Wildbill,40
+Sherman,3 Moro,"State Senator, 29th District",candidate,Todd Nash,240
+Sherman,3 Moro,"State Senator, 29th District",writein,,3
+Sherman,3 Moro,"State Senator, 29th District",overvotes,,0
+Sherman,3 Moro,"State Senator, 29th District",undervotes,,60
+Sherman,3 Moro,"State Senator, 29th District",ballots_cast,,343
+Sherman,3 Moro,"State Senator, 29th District",total_votes,,283
+Sherman,4 Grass Valley,"State Senator, 29th District",candidate,Tania Wildbill,12
+Sherman,4 Grass Valley,"State Senator, 29th District",candidate,Todd Nash,147
+Sherman,4 Grass Valley,"State Senator, 29th District",writein,,1
+Sherman,4 Grass Valley,"State Senator, 29th District",overvotes,,0
+Sherman,4 Grass Valley,"State Senator, 29th District",undervotes,,21
+Sherman,4 Grass Valley,"State Senator, 29th District",ballots_cast,,181
+Sherman,4 Grass Valley,"State Senator, 29th District",total_votes,,160
+Sherman,5 Kent,"State Senator, 29th District",candidate,Tania Wildbill,4
+Sherman,5 Kent,"State Senator, 29th District",candidate,Todd Nash,55
+Sherman,5 Kent,"State Senator, 29th District",writein,,0
+Sherman,5 Kent,"State Senator, 29th District",overvotes,,0
+Sherman,5 Kent,"State Senator, 29th District",undervotes,,6
+Sherman,5 Kent,"State Senator, 29th District",ballots_cast,,65
+Sherman,5 Kent,"State Senator, 29th District",total_votes,,59
+Sherman,1 Rufus,"State Representative, 57th District",candidate,Greg Smith,148
+Sherman,1 Rufus,"State Representative, 57th District",writein,,7
+Sherman,1 Rufus,"State Representative, 57th District",overvotes,,0
+Sherman,1 Rufus,"State Representative, 57th District",undervotes,,49
+Sherman,1 Rufus,"State Representative, 57th District",ballots_cast,,204
+Sherman,1 Rufus,"State Representative, 57th District",total_votes,,155
+Sherman,2 Wasco,"State Representative, 57th District",candidate,Greg Smith,291
+Sherman,2 Wasco,"State Representative, 57th District",writein,,5
+Sherman,2 Wasco,"State Representative, 57th District",overvotes,,0
+Sherman,2 Wasco,"State Representative, 57th District",undervotes,,92
+Sherman,2 Wasco,"State Representative, 57th District",ballots_cast,,388
+Sherman,2 Wasco,"State Representative, 57th District",total_votes,,296
+Sherman,3 Moro,"State Representative, 57th District",candidate,Greg Smith,258
+Sherman,3 Moro,"State Representative, 57th District",writein,,1
+Sherman,3 Moro,"State Representative, 57th District",overvotes,,0
+Sherman,3 Moro,"State Representative, 57th District",undervotes,,84
+Sherman,3 Moro,"State Representative, 57th District",ballots_cast,,343
+Sherman,3 Moro,"State Representative, 57th District",total_votes,,259
+Sherman,4 Grass Valley,"State Representative, 57th District",candidate,Greg Smith,137
+Sherman,4 Grass Valley,"State Representative, 57th District",writein,,1
+Sherman,4 Grass Valley,"State Representative, 57th District",overvotes,,0
+Sherman,4 Grass Valley,"State Representative, 57th District",undervotes,,43
+Sherman,4 Grass Valley,"State Representative, 57th District",ballots_cast,,181
+Sherman,4 Grass Valley,"State Representative, 57th District",total_votes,,138
+Sherman,5 Kent,"State Representative, 57th District",candidate,Greg Smith,46
+Sherman,5 Kent,"State Representative, 57th District",writein,,7
+Sherman,5 Kent,"State Representative, 57th District",overvotes,,0
+Sherman,5 Kent,"State Representative, 57th District",undervotes,,12
+Sherman,5 Kent,"State Representative, 57th District",ballots_cast,,65
+Sherman,5 Kent,"State Representative, 57th District",total_votes,,53

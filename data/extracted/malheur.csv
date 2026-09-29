@@ -1,0 +1,505 @@
+county,precinct_label,contest,type,choice,votes
+Malheur,1 - Ontario 1,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,12
+Malheur,1 - Ontario 1,President,candidate,Cornel West,1
+Malheur,1 - Ontario 1,President,candidate,Chase Oliver / Mike ter Maat,2
+Malheur,1 - Ontario 1,President,candidate,Randall Terry,2
+Malheur,1 - Ontario 1,President,candidate,Donald J Trump / JD Vance,537
+Malheur,1 - Ontario 1,President,candidate,Jill Stein / Rudolph Ware,5
+Malheur,1 - Ontario 1,President,candidate,Kamala D Harris / Tim Walz,347
+Malheur,1 - Ontario 1,President,writein,,2
+Malheur,1 - Ontario 1,President,overvotes,,0
+Malheur,1 - Ontario 1,President,undervotes,,9
+Malheur,1 - Ontario 1,President,total_votes,,908
+Malheur,2 - Ontario 2,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,32
+Malheur,2 - Ontario 2,President,candidate,Cornel West,12
+Malheur,2 - Ontario 2,President,candidate,Chase Oliver / Mike ter Maat,4
+Malheur,2 - Ontario 2,President,candidate,Randall Terry,0
+Malheur,2 - Ontario 2,President,candidate,Donald J Trump / JD Vance,480
+Malheur,2 - Ontario 2,President,candidate,Jill Stein / Rudolph Ware,7
+Malheur,2 - Ontario 2,President,candidate,Kamala D Harris / Tim Walz,485
+Malheur,2 - Ontario 2,President,writein,,6
+Malheur,2 - Ontario 2,President,overvotes,,0
+Malheur,2 - Ontario 2,President,undervotes,,12
+Malheur,2 - Ontario 2,President,total_votes,,1026
+Malheur,3 - Ontario 3,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,22
+Malheur,3 - Ontario 3,President,candidate,Cornel West,0
+Malheur,3 - Ontario 3,President,candidate,Chase Oliver / Mike ter Maat,4
+Malheur,3 - Ontario 3,President,candidate,Randall Terry,4
+Malheur,3 - Ontario 3,President,candidate,Donald J Trump / JD Vance,477
+Malheur,3 - Ontario 3,President,candidate,Jill Stein / Rudolph Ware,1
+Malheur,3 - Ontario 3,President,candidate,Kamala D Harris / Tim Walz,339
+Malheur,3 - Ontario 3,President,writein,,3
+Malheur,3 - Ontario 3,President,overvotes,,0
+Malheur,3 - Ontario 3,President,undervotes,,14
+Malheur,3 - Ontario 3,President,total_votes,,850
+Malheur,4 - Ontario 4,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,21
+Malheur,4 - Ontario 4,President,candidate,Cornel West,0
+Malheur,4 - Ontario 4,President,candidate,Chase Oliver / Mike ter Maat,4
+Malheur,4 - Ontario 4,President,candidate,Randall Terry,0
+Malheur,4 - Ontario 4,President,candidate,Donald J Trump / JD Vance,553
+Malheur,4 - Ontario 4,President,candidate,Jill Stein / Rudolph Ware,4
+Malheur,4 - Ontario 4,President,candidate,Kamala D Harris / Tim Walz,318
+Malheur,4 - Ontario 4,President,writein,,1
+Malheur,4 - Ontario 4,President,overvotes,,0
+Malheur,4 - Ontario 4,President,undervotes,,12
+Malheur,4 - Ontario 4,President,total_votes,,901
+Malheur,5 - Applegate,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,11
+Malheur,5 - Applegate,President,candidate,Cornel West,0
+Malheur,5 - Applegate,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,5 - Applegate,President,candidate,Randall Terry,0
+Malheur,5 - Applegate,President,candidate,Donald J Trump / JD Vance,271
+Malheur,5 - Applegate,President,candidate,Jill Stein / Rudolph Ware,2
+Malheur,5 - Applegate,President,candidate,Kamala D Harris / Tim Walz,82
+Malheur,5 - Applegate,President,writein,,1
+Malheur,5 - Applegate,President,overvotes,,0
+Malheur,5 - Applegate,President,undervotes,,5
+Malheur,5 - Applegate,President,total_votes,,367
+Malheur,6 - Fair/Ontario Heights,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Malheur,6 - Fair/Ontario Heights,President,candidate,Cornel West,1
+Malheur,6 - Fair/Ontario Heights,President,candidate,Chase Oliver / Mike ter Maat,6
+Malheur,6 - Fair/Ontario Heights,President,candidate,Randall Terry,2
+Malheur,6 - Fair/Ontario Heights,President,candidate,Donald J Trump / JD Vance,620
+Malheur,6 - Fair/Ontario Heights,President,candidate,Jill Stein / Rudolph Ware,1
+Malheur,6 - Fair/Ontario Heights,President,candidate,Kamala D Harris / Tim Walz,181
+Malheur,6 - Fair/Ontario Heights,President,writein,,1
+Malheur,6 - Fair/Ontario Heights,President,overvotes,,0
+Malheur,6 - Fair/Ontario Heights,President,undervotes,,7
+Malheur,6 - Fair/Ontario Heights,President,total_votes,,821
+Malheur,7 - Butte/Cairo,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Malheur,7 - Butte/Cairo,President,candidate,Cornel West,0
+Malheur,7 - Butte/Cairo,President,candidate,Chase Oliver / Mike ter Maat,2
+Malheur,7 - Butte/Cairo,President,candidate,Randall Terry,1
+Malheur,7 - Butte/Cairo,President,candidate,Donald J Trump / JD Vance,455
+Malheur,7 - Butte/Cairo,President,candidate,Jill Stein / Rudolph Ware,3
+Malheur,7 - Butte/Cairo,President,candidate,Kamala D Harris / Tim Walz,131
+Malheur,7 - Butte/Cairo,President,writein,,2
+Malheur,7 - Butte/Cairo,President,overvotes,,0
+Malheur,7 - Butte/Cairo,President,undervotes,,6
+Malheur,7 - Butte/Cairo,President,total_votes,,599
+Malheur,8 - City of Nyssa,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,12
+Malheur,8 - City of Nyssa,President,candidate,Cornel West,1
+Malheur,8 - City of Nyssa,President,candidate,Chase Oliver / Mike ter Maat,3
+Malheur,8 - City of Nyssa,President,candidate,Randall Terry,2
+Malheur,8 - City of Nyssa,President,candidate,Donald J Trump / JD Vance,530
+Malheur,8 - City of Nyssa,President,candidate,Jill Stein / Rudolph Ware,9
+Malheur,8 - City of Nyssa,President,candidate,Kamala D Harris / Tim Walz,297
+Malheur,8 - City of Nyssa,President,writein,,0
+Malheur,8 - City of Nyssa,President,overvotes,,1
+Malheur,8 - City of Nyssa,President,undervotes,,12
+Malheur,8 - City of Nyssa,President,total_votes,,854
+Malheur,9 - Rural Nyssa,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,20
+Malheur,9 - Rural Nyssa,President,candidate,Cornel West,0
+Malheur,9 - Rural Nyssa,President,candidate,Chase Oliver / Mike ter Maat,3
+Malheur,9 - Rural Nyssa,President,candidate,Randall Terry,1
+Malheur,9 - Rural Nyssa,President,candidate,Donald J Trump / JD Vance,675
+Malheur,9 - Rural Nyssa,President,candidate,Jill Stein / Rudolph Ware,3
+Malheur,9 - Rural Nyssa,President,candidate,Kamala D Harris / Tim Walz,124
+Malheur,9 - Rural Nyssa,President,writein,,1
+Malheur,9 - Rural Nyssa,President,overvotes,,0
+Malheur,9 - Rural Nyssa,President,undervotes,,7
+Malheur,9 - Rural Nyssa,President,total_votes,,827
+Malheur,10 - City of Adrian,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Malheur,10 - City of Adrian,President,candidate,Cornel West,0
+Malheur,10 - City of Adrian,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,10 - City of Adrian,President,candidate,Randall Terry,0
+Malheur,10 - City of Adrian,President,candidate,Donald J Trump / JD Vance,47
+Malheur,10 - City of Adrian,President,candidate,Jill Stein / Rudolph Ware,1
+Malheur,10 - City of Adrian,President,candidate,Kamala D Harris / Tim Walz,29
+Malheur,10 - City of Adrian,President,writein,,0
+Malheur,10 - City of Adrian,President,overvotes,,0
+Malheur,10 - City of Adrian,President,undervotes,,0
+Malheur,10 - City of Adrian,President,total_votes,,84
+Malheur,11 - Rural Adrian,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Malheur,11 - Rural Adrian,President,candidate,Cornel West,1
+Malheur,11 - Rural Adrian,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,11 - Rural Adrian,President,candidate,Randall Terry,1
+Malheur,11 - Rural Adrian,President,candidate,Donald J Trump / JD Vance,450
+Malheur,11 - Rural Adrian,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,11 - Rural Adrian,President,candidate,Kamala D Harris / Tim Walz,85
+Malheur,11 - Rural Adrian,President,writein,,4
+Malheur,11 - Rural Adrian,President,overvotes,,0
+Malheur,11 - Rural Adrian,President,undervotes,,3
+Malheur,11 - Rural Adrian,President,total_votes,,550
+Malheur,12 - City of Vale,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,15
+Malheur,12 - City of Vale,President,candidate,Cornel West,0
+Malheur,12 - City of Vale,President,candidate,Chase Oliver / Mike ter Maat,2
+Malheur,12 - City of Vale,President,candidate,Randall Terry,1
+Malheur,12 - City of Vale,President,candidate,Donald J Trump / JD Vance,548
+Malheur,12 - City of Vale,President,candidate,Jill Stein / Rudolph Ware,8
+Malheur,12 - City of Vale,President,candidate,Kamala D Harris / Tim Walz,175
+Malheur,12 - City of Vale,President,writein,,1
+Malheur,12 - City of Vale,President,overvotes,,0
+Malheur,12 - City of Vale,President,undervotes,,6
+Malheur,12 - City of Vale,President,total_votes,,750
+Malheur,13 - South Rural Vale,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Malheur,13 - South Rural Vale,President,candidate,Cornel West,0
+Malheur,13 - South Rural Vale,President,candidate,Chase Oliver / Mike ter Maat,1
+Malheur,13 - South Rural Vale,President,candidate,Randall Terry,0
+Malheur,13 - South Rural Vale,President,candidate,Donald J Trump / JD Vance,459
+Malheur,13 - South Rural Vale,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,13 - South Rural Vale,President,candidate,Kamala D Harris / Tim Walz,76
+Malheur,13 - South Rural Vale,President,writein,,1
+Malheur,13 - South Rural Vale,President,overvotes,,0
+Malheur,13 - South Rural Vale,President,undervotes,,5
+Malheur,13 - South Rural Vale,President,total_votes,,546
+Malheur,14 - North Rural Vale,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Malheur,14 - North Rural Vale,President,candidate,Cornel West,0
+Malheur,14 - North Rural Vale,President,candidate,Chase Oliver / Mike ter Maat,2
+Malheur,14 - North Rural Vale,President,candidate,Randall Terry,2
+Malheur,14 - North Rural Vale,President,candidate,Donald J Trump / JD Vance,637
+Malheur,14 - North Rural Vale,President,candidate,Jill Stein / Rudolph Ware,1
+Malheur,14 - North Rural Vale,President,candidate,Kamala D Harris / Tim Walz,103
+Malheur,14 - North Rural Vale,President,writein,,2
+Malheur,14 - North Rural Vale,President,overvotes,,0
+Malheur,14 - North Rural Vale,President,undervotes,,11
+Malheur,14 - North Rural Vale,President,total_votes,,755
+Malheur,15 - Willowcreek,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Malheur,15 - Willowcreek,President,candidate,Cornel West,0
+Malheur,15 - Willowcreek,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,15 - Willowcreek,President,candidate,Randall Terry,1
+Malheur,15 - Willowcreek,President,candidate,Donald J Trump / JD Vance,208
+Malheur,15 - Willowcreek,President,candidate,Jill Stein / Rudolph Ware,1
+Malheur,15 - Willowcreek,President,candidate,Kamala D Harris / Tim Walz,23
+Malheur,15 - Willowcreek,President,writein,,1
+Malheur,15 - Willowcreek,President,overvotes,,0
+Malheur,15 - Willowcreek,President,undervotes,,5
+Malheur,15 - Willowcreek,President,total_votes,,238
+Malheur,16 - Brogan,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Malheur,16 - Brogan,President,candidate,Cornel West,0
+Malheur,16 - Brogan,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,16 - Brogan,President,candidate,Randall Terry,0
+Malheur,16 - Brogan,President,candidate,Donald J Trump / JD Vance,48
+Malheur,16 - Brogan,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,16 - Brogan,President,candidate,Kamala D Harris / Tim Walz,21
+Malheur,16 - Brogan,President,writein,,0
+Malheur,16 - Brogan,President,overvotes,,0
+Malheur,16 - Brogan,President,undervotes,,0
+Malheur,16 - Brogan,President,total_votes,,70
+Malheur,17 - Ironside,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Malheur,17 - Ironside,President,candidate,Cornel West,0
+Malheur,17 - Ironside,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,17 - Ironside,President,candidate,Randall Terry,0
+Malheur,17 - Ironside,President,candidate,Donald J Trump / JD Vance,34
+Malheur,17 - Ironside,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,17 - Ironside,President,candidate,Kamala D Harris / Tim Walz,3
+Malheur,17 - Ironside,President,writein,,1
+Malheur,17 - Ironside,President,overvotes,,0
+Malheur,17 - Ironside,President,undervotes,,0
+Malheur,17 - Ironside,President,total_votes,,39
+Malheur,18 - Harper,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Malheur,18 - Harper,President,candidate,Cornel West,0
+Malheur,18 - Harper,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,18 - Harper,President,candidate,Randall Terry,0
+Malheur,18 - Harper,President,candidate,Donald J Trump / JD Vance,158
+Malheur,18 - Harper,President,candidate,Jill Stein / Rudolph Ware,1
+Malheur,18 - Harper,President,candidate,Kamala D Harris / Tim Walz,10
+Malheur,18 - Harper,President,writein,,1
+Malheur,18 - Harper,President,overvotes,,0
+Malheur,18 - Harper,President,undervotes,,0
+Malheur,18 - Harper,President,total_votes,,172
+Malheur,19 - Juntura,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Malheur,19 - Juntura,President,candidate,Cornel West,0
+Malheur,19 - Juntura,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,19 - Juntura,President,candidate,Randall Terry,0
+Malheur,19 - Juntura,President,candidate,Donald J Trump / JD Vance,68
+Malheur,19 - Juntura,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,19 - Juntura,President,candidate,Kamala D Harris / Tim Walz,0
+Malheur,19 - Juntura,President,writein,,0
+Malheur,19 - Juntura,President,overvotes,,0
+Malheur,19 - Juntura,President,undervotes,,0
+Malheur,19 - Juntura,President,total_votes,,68
+Malheur,20 - City of Jordan Valley,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Malheur,20 - City of Jordan Valley,President,candidate,Cornel West,0
+Malheur,20 - City of Jordan Valley,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,20 - City of Jordan Valley,President,candidate,Randall Terry,0
+Malheur,20 - City of Jordan Valley,President,candidate,Donald J Trump / JD Vance,82
+Malheur,20 - City of Jordan Valley,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,20 - City of Jordan Valley,President,candidate,Kamala D Harris / Tim Walz,7
+Malheur,20 - City of Jordan Valley,President,writein,,0
+Malheur,20 - City of Jordan Valley,President,overvotes,,0
+Malheur,20 - City of Jordan Valley,President,undervotes,,1
+Malheur,20 - City of Jordan Valley,President,total_votes,,89
+Malheur,21 - Rural Jordan Valley,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Malheur,21 - Rural Jordan Valley,President,candidate,Cornel West,0
+Malheur,21 - Rural Jordan Valley,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,21 - Rural Jordan Valley,President,candidate,Randall Terry,0
+Malheur,21 - Rural Jordan Valley,President,candidate,Donald J Trump / JD Vance,130
+Malheur,21 - Rural Jordan Valley,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,21 - Rural Jordan Valley,President,candidate,Kamala D Harris / Tim Walz,4
+Malheur,21 - Rural Jordan Valley,President,writein,,0
+Malheur,21 - Rural Jordan Valley,President,overvotes,,0
+Malheur,21 - Rural Jordan Valley,President,undervotes,,0
+Malheur,21 - Rural Jordan Valley,President,total_votes,,135
+Malheur,22 - Arock,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Malheur,22 - Arock,President,candidate,Cornel West,0
+Malheur,22 - Arock,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,22 - Arock,President,candidate,Randall Terry,0
+Malheur,22 - Arock,President,candidate,Donald J Trump / JD Vance,80
+Malheur,22 - Arock,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,22 - Arock,President,candidate,Kamala D Harris / Tim Walz,0
+Malheur,22 - Arock,President,writein,,0
+Malheur,22 - Arock,President,overvotes,,0
+Malheur,22 - Arock,President,undervotes,,0
+Malheur,22 - Arock,President,total_votes,,80
+Malheur,23 - McDermitt,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,0
+Malheur,23 - McDermitt,President,candidate,Cornel West,0
+Malheur,23 - McDermitt,President,candidate,Chase Oliver / Mike ter Maat,1
+Malheur,23 - McDermitt,President,candidate,Randall Terry,0
+Malheur,23 - McDermitt,President,candidate,Donald J Trump / JD Vance,20
+Malheur,23 - McDermitt,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,23 - McDermitt,President,candidate,Kamala D Harris / Tim Walz,2
+Malheur,23 - McDermitt,President,writein,,0
+Malheur,23 - McDermitt,President,overvotes,,0
+Malheur,23 - McDermitt,President,undervotes,,0
+Malheur,23 - McDermitt,President,total_votes,,23
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Cornel West,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Chase Oliver / Mike ter Maat,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Randall Terry,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Donald J Trump / JD Vance,143
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Jill Stein / Rudolph Ware,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,candidate,Kamala D Harris / Tim Walz,42
+Malheur,24 - Annex/Huntington/Farewell Bend,President,writein,,1
+Malheur,24 - Annex/Huntington/Farewell Bend,President,overvotes,,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,undervotes,,0
+Malheur,24 - Annex/Huntington/Farewell Bend,President,total_votes,,193
+Malheur,1 - Ontario 1,"State Senator, 30th District",candidate,Mike McLane,675
+Malheur,1 - Ontario 1,"State Senator, 30th District",writein,,9
+Malheur,1 - Ontario 1,"State Senator, 30th District",overvotes,,0
+Malheur,1 - Ontario 1,"State Senator, 30th District",undervotes,,230
+Malheur,1 - Ontario 1,"State Senator, 30th District",total_votes,,684
+Malheur,2 - Ontario 2,"State Senator, 30th District",candidate,Mike McLane,788
+Malheur,2 - Ontario 2,"State Senator, 30th District",writein,,6
+Malheur,2 - Ontario 2,"State Senator, 30th District",overvotes,,0
+Malheur,2 - Ontario 2,"State Senator, 30th District",undervotes,,241
+Malheur,2 - Ontario 2,"State Senator, 30th District",total_votes,,794
+Malheur,3 - Ontario 3,"State Senator, 30th District",candidate,Mike McLane,656
+Malheur,3 - Ontario 3,"State Senator, 30th District",writein,,10
+Malheur,3 - Ontario 3,"State Senator, 30th District",overvotes,,0
+Malheur,3 - Ontario 3,"State Senator, 30th District",undervotes,,198
+Malheur,3 - Ontario 3,"State Senator, 30th District",total_votes,,666
+Malheur,4 - Ontario 4,"State Senator, 30th District",candidate,Mike McLane,701
+Malheur,4 - Ontario 4,"State Senator, 30th District",writein,,6
+Malheur,4 - Ontario 4,"State Senator, 30th District",overvotes,,0
+Malheur,4 - Ontario 4,"State Senator, 30th District",undervotes,,205
+Malheur,4 - Ontario 4,"State Senator, 30th District",total_votes,,707
+Malheur,5 - Applegate,"State Senator, 30th District",candidate,Mike McLane,286
+Malheur,5 - Applegate,"State Senator, 30th District",writein,,2
+Malheur,5 - Applegate,"State Senator, 30th District",overvotes,,0
+Malheur,5 - Applegate,"State Senator, 30th District",undervotes,,84
+Malheur,5 - Applegate,"State Senator, 30th District",total_votes,,288
+Malheur,6 - Fair/Ontario Heights,"State Senator, 30th District",candidate,Mike McLane,654
+Malheur,6 - Fair/Ontario Heights,"State Senator, 30th District",writein,,6
+Malheur,6 - Fair/Ontario Heights,"State Senator, 30th District",overvotes,,0
+Malheur,6 - Fair/Ontario Heights,"State Senator, 30th District",undervotes,,168
+Malheur,6 - Fair/Ontario Heights,"State Senator, 30th District",total_votes,,660
+Malheur,7 - Butte/Cairo,"State Senator, 30th District",candidate,Mike McLane,492
+Malheur,7 - Butte/Cairo,"State Senator, 30th District",writein,,5
+Malheur,7 - Butte/Cairo,"State Senator, 30th District",overvotes,,0
+Malheur,7 - Butte/Cairo,"State Senator, 30th District",undervotes,,108
+Malheur,7 - Butte/Cairo,"State Senator, 30th District",total_votes,,497
+Malheur,8 - City of Nyssa,"State Senator, 30th District",candidate,Mike McLane,675
+Malheur,8 - City of Nyssa,"State Senator, 30th District",writein,,5
+Malheur,8 - City of Nyssa,"State Senator, 30th District",overvotes,,0
+Malheur,8 - City of Nyssa,"State Senator, 30th District",undervotes,,186
+Malheur,8 - City of Nyssa,"State Senator, 30th District",total_votes,,680
+Malheur,9 - Rural Nyssa,"State Senator, 30th District",candidate,Mike McLane,667
+Malheur,9 - Rural Nyssa,"State Senator, 30th District",writein,,3
+Malheur,9 - Rural Nyssa,"State Senator, 30th District",overvotes,,0
+Malheur,9 - Rural Nyssa,"State Senator, 30th District",undervotes,,162
+Malheur,9 - Rural Nyssa,"State Senator, 30th District",total_votes,,670
+Malheur,10 - City of Adrian,"State Senator, 30th District",candidate,Mike McLane,64
+Malheur,10 - City of Adrian,"State Senator, 30th District",writein,,0
+Malheur,10 - City of Adrian,"State Senator, 30th District",overvotes,,0
+Malheur,10 - City of Adrian,"State Senator, 30th District",undervotes,,20
+Malheur,10 - City of Adrian,"State Senator, 30th District",total_votes,,64
+Malheur,11 - Rural Adrian,"State Senator, 30th District",candidate,Mike McLane,435
+Malheur,11 - Rural Adrian,"State Senator, 30th District",writein,,2
+Malheur,11 - Rural Adrian,"State Senator, 30th District",overvotes,,0
+Malheur,11 - Rural Adrian,"State Senator, 30th District",undervotes,,115
+Malheur,11 - Rural Adrian,"State Senator, 30th District",total_votes,,437
+Malheur,12 - City of Vale,"State Senator, 30th District",candidate,Mike McLane,615
+Malheur,12 - City of Vale,"State Senator, 30th District",writein,,8
+Malheur,12 - City of Vale,"State Senator, 30th District",overvotes,,0
+Malheur,12 - City of Vale,"State Senator, 30th District",undervotes,,133
+Malheur,12 - City of Vale,"State Senator, 30th District",total_votes,,623
+Malheur,13 - South Rural Vale,"State Senator, 30th District",candidate,Mike McLane,441
+Malheur,13 - South Rural Vale,"State Senator, 30th District",writein,,3
+Malheur,13 - South Rural Vale,"State Senator, 30th District",overvotes,,0
+Malheur,13 - South Rural Vale,"State Senator, 30th District",undervotes,,107
+Malheur,13 - South Rural Vale,"State Senator, 30th District",total_votes,,444
+Malheur,14 - North Rural Vale,"State Senator, 30th District",candidate,Mike McLane,634
+Malheur,14 - North Rural Vale,"State Senator, 30th District",writein,,7
+Malheur,14 - North Rural Vale,"State Senator, 30th District",overvotes,,0
+Malheur,14 - North Rural Vale,"State Senator, 30th District",undervotes,,125
+Malheur,14 - North Rural Vale,"State Senator, 30th District",total_votes,,641
+Malheur,15 - Willowcreek,"State Senator, 30th District",candidate,Mike McLane,166
+Malheur,15 - Willowcreek,"State Senator, 30th District",writein,,0
+Malheur,15 - Willowcreek,"State Senator, 30th District",overvotes,,0
+Malheur,15 - Willowcreek,"State Senator, 30th District",undervotes,,77
+Malheur,15 - Willowcreek,"State Senator, 30th District",total_votes,,166
+Malheur,16 - Brogan,"State Senator, 30th District",candidate,Mike McLane,42
+Malheur,16 - Brogan,"State Senator, 30th District",writein,,2
+Malheur,16 - Brogan,"State Senator, 30th District",overvotes,,0
+Malheur,16 - Brogan,"State Senator, 30th District",undervotes,,26
+Malheur,16 - Brogan,"State Senator, 30th District",total_votes,,44
+Malheur,17 - Ironside,"State Senator, 30th District",candidate,Mike McLane,28
+Malheur,17 - Ironside,"State Senator, 30th District",writein,,0
+Malheur,17 - Ironside,"State Senator, 30th District",overvotes,,0
+Malheur,17 - Ironside,"State Senator, 30th District",undervotes,,11
+Malheur,17 - Ironside,"State Senator, 30th District",total_votes,,28
+Malheur,18 - Harper,"State Senator, 30th District",candidate,Mike McLane,135
+Malheur,18 - Harper,"State Senator, 30th District",writein,,1
+Malheur,18 - Harper,"State Senator, 30th District",overvotes,,0
+Malheur,18 - Harper,"State Senator, 30th District",undervotes,,36
+Malheur,18 - Harper,"State Senator, 30th District",total_votes,,136
+Malheur,19 - Juntura,"State Senator, 30th District",candidate,Mike McLane,44
+Malheur,19 - Juntura,"State Senator, 30th District",writein,,3
+Malheur,19 - Juntura,"State Senator, 30th District",overvotes,,0
+Malheur,19 - Juntura,"State Senator, 30th District",undervotes,,21
+Malheur,19 - Juntura,"State Senator, 30th District",total_votes,,47
+Malheur,20 - City of Jordan Valley,"State Senator, 30th District",candidate,Mike McLane,76
+Malheur,20 - City of Jordan Valley,"State Senator, 30th District",writein,,0
+Malheur,20 - City of Jordan Valley,"State Senator, 30th District",overvotes,,0
+Malheur,20 - City of Jordan Valley,"State Senator, 30th District",undervotes,,14
+Malheur,20 - City of Jordan Valley,"State Senator, 30th District",total_votes,,76
+Malheur,21 - Rural Jordan Valley,"State Senator, 30th District",candidate,Mike McLane,118
+Malheur,21 - Rural Jordan Valley,"State Senator, 30th District",writein,,0
+Malheur,21 - Rural Jordan Valley,"State Senator, 30th District",overvotes,,0
+Malheur,21 - Rural Jordan Valley,"State Senator, 30th District",undervotes,,17
+Malheur,21 - Rural Jordan Valley,"State Senator, 30th District",total_votes,,118
+Malheur,22 - Arock,"State Senator, 30th District",candidate,Mike McLane,64
+Malheur,22 - Arock,"State Senator, 30th District",writein,,0
+Malheur,22 - Arock,"State Senator, 30th District",overvotes,,0
+Malheur,22 - Arock,"State Senator, 30th District",undervotes,,16
+Malheur,22 - Arock,"State Senator, 30th District",total_votes,,64
+Malheur,23 - McDermitt,"State Senator, 30th District",candidate,Mike McLane,20
+Malheur,23 - McDermitt,"State Senator, 30th District",writein,,0
+Malheur,23 - McDermitt,"State Senator, 30th District",overvotes,,0
+Malheur,23 - McDermitt,"State Senator, 30th District",undervotes,,3
+Malheur,23 - McDermitt,"State Senator, 30th District",total_votes,,20
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Senator, 30th District",candidate,Mike McLane,147
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Senator, 30th District",writein,,2
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Senator, 30th District",overvotes,,0
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Senator, 30th District",undervotes,,44
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Senator, 30th District",total_votes,,149
+Malheur,1 - Ontario 1,"State Representative, 60th District",candidate,Mark Owens,686
+Malheur,1 - Ontario 1,"State Representative, 60th District",writein,,9
+Malheur,1 - Ontario 1,"State Representative, 60th District",overvotes,,0
+Malheur,1 - Ontario 1,"State Representative, 60th District",undervotes,,219
+Malheur,1 - Ontario 1,"State Representative, 60th District",total_votes,,695
+Malheur,2 - Ontario 2,"State Representative, 60th District",candidate,Mark Owens,799
+Malheur,2 - Ontario 2,"State Representative, 60th District",writein,,8
+Malheur,2 - Ontario 2,"State Representative, 60th District",overvotes,,0
+Malheur,2 - Ontario 2,"State Representative, 60th District",undervotes,,228
+Malheur,2 - Ontario 2,"State Representative, 60th District",total_votes,,807
+Malheur,3 - Ontario 3,"State Representative, 60th District",candidate,Mark Owens,646
+Malheur,3 - Ontario 3,"State Representative, 60th District",writein,,13
+Malheur,3 - Ontario 3,"State Representative, 60th District",overvotes,,0
+Malheur,3 - Ontario 3,"State Representative, 60th District",undervotes,,205
+Malheur,3 - Ontario 3,"State Representative, 60th District",total_votes,,659
+Malheur,4 - Ontario 4,"State Representative, 60th District",candidate,Mark Owens,711
+Malheur,4 - Ontario 4,"State Representative, 60th District",writein,,10
+Malheur,4 - Ontario 4,"State Representative, 60th District",overvotes,,0
+Malheur,4 - Ontario 4,"State Representative, 60th District",undervotes,,191
+Malheur,4 - Ontario 4,"State Representative, 60th District",total_votes,,721
+Malheur,5 - Applegate,"State Representative, 60th District",candidate,Mark Owens,284
+Malheur,5 - Applegate,"State Representative, 60th District",writein,,2
+Malheur,5 - Applegate,"State Representative, 60th District",overvotes,,0
+Malheur,5 - Applegate,"State Representative, 60th District",undervotes,,86
+Malheur,5 - Applegate,"State Representative, 60th District",total_votes,,286
+Malheur,6 - Fair/Ontario Heights,"State Representative, 60th District",candidate,Mark Owens,652
+Malheur,6 - Fair/Ontario Heights,"State Representative, 60th District",writein,,8
+Malheur,6 - Fair/Ontario Heights,"State Representative, 60th District",overvotes,,0
+Malheur,6 - Fair/Ontario Heights,"State Representative, 60th District",undervotes,,168
+Malheur,6 - Fair/Ontario Heights,"State Representative, 60th District",total_votes,,660
+Malheur,7 - Butte/Cairo,"State Representative, 60th District",candidate,Mark Owens,496
+Malheur,7 - Butte/Cairo,"State Representative, 60th District",writein,,5
+Malheur,7 - Butte/Cairo,"State Representative, 60th District",overvotes,,0
+Malheur,7 - Butte/Cairo,"State Representative, 60th District",undervotes,,104
+Malheur,7 - Butte/Cairo,"State Representative, 60th District",total_votes,,501
+Malheur,8 - City of Nyssa,"State Representative, 60th District",candidate,Mark Owens,669
+Malheur,8 - City of Nyssa,"State Representative, 60th District",writein,,6
+Malheur,8 - City of Nyssa,"State Representative, 60th District",overvotes,,0
+Malheur,8 - City of Nyssa,"State Representative, 60th District",undervotes,,191
+Malheur,8 - City of Nyssa,"State Representative, 60th District",total_votes,,675
+Malheur,9 - Rural Nyssa,"State Representative, 60th District",candidate,Mark Owens,668
+Malheur,9 - Rural Nyssa,"State Representative, 60th District",writein,,5
+Malheur,9 - Rural Nyssa,"State Representative, 60th District",overvotes,,0
+Malheur,9 - Rural Nyssa,"State Representative, 60th District",undervotes,,159
+Malheur,9 - Rural Nyssa,"State Representative, 60th District",total_votes,,673
+Malheur,10 - City of Adrian,"State Representative, 60th District",candidate,Mark Owens,69
+Malheur,10 - City of Adrian,"State Representative, 60th District",writein,,0
+Malheur,10 - City of Adrian,"State Representative, 60th District",overvotes,,0
+Malheur,10 - City of Adrian,"State Representative, 60th District",undervotes,,15
+Malheur,10 - City of Adrian,"State Representative, 60th District",total_votes,,69
+Malheur,11 - Rural Adrian,"State Representative, 60th District",candidate,Mark Owens,443
+Malheur,11 - Rural Adrian,"State Representative, 60th District",writein,,3
+Malheur,11 - Rural Adrian,"State Representative, 60th District",overvotes,,0
+Malheur,11 - Rural Adrian,"State Representative, 60th District",undervotes,,106
+Malheur,11 - Rural Adrian,"State Representative, 60th District",total_votes,,446
+Malheur,12 - City of Vale,"State Representative, 60th District",candidate,Mark Owens,621
+Malheur,12 - City of Vale,"State Representative, 60th District",writein,,8
+Malheur,12 - City of Vale,"State Representative, 60th District",overvotes,,0
+Malheur,12 - City of Vale,"State Representative, 60th District",undervotes,,127
+Malheur,12 - City of Vale,"State Representative, 60th District",total_votes,,629
+Malheur,13 - South Rural Vale,"State Representative, 60th District",candidate,Mark Owens,449
+Malheur,13 - South Rural Vale,"State Representative, 60th District",writein,,2
+Malheur,13 - South Rural Vale,"State Representative, 60th District",overvotes,,0
+Malheur,13 - South Rural Vale,"State Representative, 60th District",undervotes,,100
+Malheur,13 - South Rural Vale,"State Representative, 60th District",total_votes,,451
+Malheur,14 - North Rural Vale,"State Representative, 60th District",candidate,Mark Owens,639
+Malheur,14 - North Rural Vale,"State Representative, 60th District",writein,,5
+Malheur,14 - North Rural Vale,"State Representative, 60th District",overvotes,,0
+Malheur,14 - North Rural Vale,"State Representative, 60th District",undervotes,,122
+Malheur,14 - North Rural Vale,"State Representative, 60th District",total_votes,,644
+Malheur,15 - Willowcreek,"State Representative, 60th District",candidate,Mark Owens,180
+Malheur,15 - Willowcreek,"State Representative, 60th District",writein,,0
+Malheur,15 - Willowcreek,"State Representative, 60th District",overvotes,,0
+Malheur,15 - Willowcreek,"State Representative, 60th District",undervotes,,63
+Malheur,15 - Willowcreek,"State Representative, 60th District",total_votes,,180
+Malheur,16 - Brogan,"State Representative, 60th District",candidate,Mark Owens,46
+Malheur,16 - Brogan,"State Representative, 60th District",writein,,1
+Malheur,16 - Brogan,"State Representative, 60th District",overvotes,,0
+Malheur,16 - Brogan,"State Representative, 60th District",undervotes,,23
+Malheur,16 - Brogan,"State Representative, 60th District",total_votes,,47
+Malheur,17 - Ironside,"State Representative, 60th District",candidate,Mark Owens,29
+Malheur,17 - Ironside,"State Representative, 60th District",writein,,0
+Malheur,17 - Ironside,"State Representative, 60th District",overvotes,,0
+Malheur,17 - Ironside,"State Representative, 60th District",undervotes,,10
+Malheur,17 - Ironside,"State Representative, 60th District",total_votes,,29
+Malheur,18 - Harper,"State Representative, 60th District",candidate,Mark Owens,142
+Malheur,18 - Harper,"State Representative, 60th District",writein,,1
+Malheur,18 - Harper,"State Representative, 60th District",overvotes,,0
+Malheur,18 - Harper,"State Representative, 60th District",undervotes,,29
+Malheur,18 - Harper,"State Representative, 60th District",total_votes,,143
+Malheur,19 - Juntura,"State Representative, 60th District",candidate,Mark Owens,63
+Malheur,19 - Juntura,"State Representative, 60th District",writein,,0
+Malheur,19 - Juntura,"State Representative, 60th District",overvotes,,0
+Malheur,19 - Juntura,"State Representative, 60th District",undervotes,,5
+Malheur,19 - Juntura,"State Representative, 60th District",total_votes,,63
+Malheur,20 - City of Jordan Valley,"State Representative, 60th District",candidate,Mark Owens,82
+Malheur,20 - City of Jordan Valley,"State Representative, 60th District",writein,,0
+Malheur,20 - City of Jordan Valley,"State Representative, 60th District",overvotes,,0
+Malheur,20 - City of Jordan Valley,"State Representative, 60th District",undervotes,,8
+Malheur,20 - City of Jordan Valley,"State Representative, 60th District",total_votes,,82
+Malheur,21 - Rural Jordan Valley,"State Representative, 60th District",candidate,Mark Owens,120
+Malheur,21 - Rural Jordan Valley,"State Representative, 60th District",writein,,0
+Malheur,21 - Rural Jordan Valley,"State Representative, 60th District",overvotes,,0
+Malheur,21 - Rural Jordan Valley,"State Representative, 60th District",undervotes,,15
+Malheur,21 - Rural Jordan Valley,"State Representative, 60th District",total_votes,,120
+Malheur,22 - Arock,"State Representative, 60th District",candidate,Mark Owens,70
+Malheur,22 - Arock,"State Representative, 60th District",writein,,0
+Malheur,22 - Arock,"State Representative, 60th District",overvotes,,0
+Malheur,22 - Arock,"State Representative, 60th District",undervotes,,10
+Malheur,22 - Arock,"State Representative, 60th District",total_votes,,70
+Malheur,23 - McDermitt,"State Representative, 60th District",candidate,Mark Owens,19
+Malheur,23 - McDermitt,"State Representative, 60th District",writein,,0
+Malheur,23 - McDermitt,"State Representative, 60th District",overvotes,,0
+Malheur,23 - McDermitt,"State Representative, 60th District",undervotes,,4
+Malheur,23 - McDermitt,"State Representative, 60th District",total_votes,,19
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Representative, 60th District",candidate,Mark Owens,147
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Representative, 60th District",writein,,0
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Representative, 60th District",overvotes,,0
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Representative, 60th District",undervotes,,46
+Malheur,24 - Annex/Huntington/Farewell Bend,"State Representative, 60th District",total_votes,,147

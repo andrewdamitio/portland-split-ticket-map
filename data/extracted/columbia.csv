@@ -1,0 +1,659 @@
+county,precinct_label,contest,type,choice,votes
+Columbia,01 City of Clatskanie,United States President and Vice President,registered,,1314
+Columbia,01 City of Clatskanie,United States President and Vice President,ballots_cast,,911
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),26
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),519
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Columbia,01 City of Clatskanie,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),349
+Columbia,01 City of Clatskanie,United States President and Vice President,writein,,3
+Columbia,01 City of Clatskanie,United States President and Vice President,overvotes,,1
+Columbia,01 City of Clatskanie,United States President and Vice President,undervotes,,8
+Columbia,01 City of Clatskanie,United States President and Vice President,total_votes,,902
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,registered,,809
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,ballots_cast,,592
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),13
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),332
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),230
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,writein,,5
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,overvotes,,0
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,undervotes,,4
+Columbia,04 N Clatskanie-Marshland,United States President and Vice President,total_votes,,588
+Columbia,05 S Clatskanie,United States President and Vice President,registered,,768
+Columbia,05 S Clatskanie,United States President and Vice President,ballots_cast,,590
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),5
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),392
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),6
+Columbia,05 S Clatskanie,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),176
+Columbia,05 S Clatskanie,United States President and Vice President,writein,,4
+Columbia,05 S Clatskanie,United States President and Vice President,overvotes,,0
+Columbia,05 S Clatskanie,United States President and Vice President,undervotes,,4
+Columbia,05 S Clatskanie,United States President and Vice President,total_votes,,586
+Columbia,06 Delena,United States President and Vice President,registered,,1649
+Columbia,06 Delena,United States President and Vice President,ballots_cast,,1230
+Columbia,06 Delena,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),16
+Columbia,06 Delena,United States President and Vice President,candidate,Cornel West (PRO),2
+Columbia,06 Delena,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Columbia,06 Delena,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,06 Delena,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),770
+Columbia,06 Delena,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Columbia,06 Delena,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),407
+Columbia,06 Delena,United States President and Vice President,writein,,8
+Columbia,06 Delena,United States President and Vice President,overvotes,,0
+Columbia,06 Delena,United States President and Vice President,undervotes,,16
+Columbia,06 Delena,United States President and Vice President,total_votes,,1214
+Columbia,08 GOBLE,United States President and Vice President,registered,,1055
+Columbia,08 GOBLE,United States President and Vice President,ballots_cast,,732
+Columbia,08 GOBLE,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),15
+Columbia,08 GOBLE,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,08 GOBLE,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Columbia,08 GOBLE,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,08 GOBLE,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),416
+Columbia,08 GOBLE,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Columbia,08 GOBLE,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),277
+Columbia,08 GOBLE,United States President and Vice President,writein,,7
+Columbia,08 GOBLE,United States President and Vice President,overvotes,,0
+Columbia,08 GOBLE,United States President and Vice President,undervotes,,6
+Columbia,08 GOBLE,United States President and Vice President,total_votes,,726
+Columbia,10 Milton,United States President and Vice President,registered,,1063
+Columbia,10 Milton,United States President and Vice President,ballots_cast,,850
+Columbia,10 Milton,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Columbia,10 Milton,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,10 Milton,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Columbia,10 Milton,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,10 Milton,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),445
+Columbia,10 Milton,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Columbia,10 Milton,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),370
+Columbia,10 Milton,United States President and Vice President,writein,,4
+Columbia,10 Milton,United States President and Vice President,overvotes,,0
+Columbia,10 Milton,United States President and Vice President,undervotes,,9
+Columbia,10 Milton,United States President and Vice President,total_votes,,841
+Columbia,12 McNulty,United States President and Vice President,registered,,1364
+Columbia,12 McNulty,United States President and Vice President,ballots_cast,,1058
+Columbia,12 McNulty,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),23
+Columbia,12 McNulty,United States President and Vice President,candidate,Cornel West (PRO),2
+Columbia,12 McNulty,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Columbia,12 McNulty,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,12 McNulty,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),579
+Columbia,12 McNulty,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Columbia,12 McNulty,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),431
+Columbia,12 McNulty,United States President and Vice President,writein,,7
+Columbia,12 McNulty,United States President and Vice President,overvotes,,1
+Columbia,12 McNulty,United States President and Vice President,undervotes,,9
+Columbia,12 McNulty,United States President and Vice President,total_votes,,1048
+Columbia,14 Quincy,United States President and Vice President,registered,,697
+Columbia,14 Quincy,United States President and Vice President,ballots_cast,,537
+Columbia,14 Quincy,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),7
+Columbia,14 Quincy,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,14 Quincy,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Columbia,14 Quincy,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,14 Quincy,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),329
+Columbia,14 Quincy,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Columbia,14 Quincy,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),187
+Columbia,14 Quincy,United States President and Vice President,writein,,1
+Columbia,14 Quincy,United States President and Vice President,overvotes,,0
+Columbia,14 Quincy,United States President and Vice President,undervotes,,4
+Columbia,14 Quincy,United States President and Vice President,total_votes,,533
+Columbia,15 City of Rainier,United States President and Vice President,registered,,1441
+Columbia,15 City of Rainier,United States President and Vice President,ballots_cast,,1054
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),17
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),619
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Columbia,15 City of Rainier,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),392
+Columbia,15 City of Rainier,United States President and Vice President,writein,,5
+Columbia,15 City of Rainier,United States President and Vice President,overvotes,,0
+Columbia,15 City of Rainier,United States President and Vice President,undervotes,,9
+Columbia,15 City of Rainier,United States President and Vice President,total_votes,,1045
+Columbia,17 W Rainier,United States President and Vice President,registered,,665
+Columbia,17 W Rainier,United States President and Vice President,ballots_cast,,440
+Columbia,17 W Rainier,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),5
+Columbia,17 W Rainier,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,17 W Rainier,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Columbia,17 W Rainier,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,17 W Rainier,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),270
+Columbia,17 W Rainier,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Columbia,17 W Rainier,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),159
+Columbia,17 W Rainier,United States President and Vice President,writein,,1
+Columbia,17 W Rainier,United States President and Vice President,overvotes,,1
+Columbia,17 W Rainier,United States President and Vice President,undervotes,,1
+Columbia,17 W Rainier,United States President and Vice President,total_votes,,438
+Columbia,18 E Rainier,United States President and Vice President,registered,,282
+Columbia,18 E Rainier,United States President and Vice President,ballots_cast,,207
+Columbia,18 E Rainier,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),5
+Columbia,18 E Rainier,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,18 E Rainier,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Columbia,18 E Rainier,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,18 E Rainier,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),114
+Columbia,18 E Rainier,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),7
+Columbia,18 E Rainier,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),77
+Columbia,18 E Rainier,United States President and Vice President,writein,,2
+Columbia,18 E Rainier,United States President and Vice President,overvotes,,0
+Columbia,18 E Rainier,United States President and Vice President,undervotes,,2
+Columbia,18 E Rainier,United States President and Vice President,total_votes,,205
+Columbia,19 S Warren,United States President and Vice President,registered,,1224
+Columbia,19 S Warren,United States President and Vice President,ballots_cast,,1004
+Columbia,19 S Warren,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),17
+Columbia,19 S Warren,United States President and Vice President,candidate,Cornel West (PRO),3
+Columbia,19 S Warren,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Columbia,19 S Warren,United States President and Vice President,candidate,Randall Terry (CON),5
+Columbia,19 S Warren,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),530
+Columbia,19 S Warren,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),1
+Columbia,19 S Warren,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),422
+Columbia,19 S Warren,United States President and Vice President,writein,,13
+Columbia,19 S Warren,United States President and Vice President,overvotes,,1
+Columbia,19 S Warren,United States President and Vice President,undervotes,,8
+Columbia,19 S Warren,United States President and Vice President,total_votes,,995
+Columbia,20 N Warren,United States President and Vice President,registered,,815
+Columbia,20 N Warren,United States President and Vice President,ballots_cast,,683
+Columbia,20 N Warren,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Columbia,20 N Warren,United States President and Vice President,candidate,Cornel West (PRO),4
+Columbia,20 N Warren,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Columbia,20 N Warren,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,20 N Warren,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),374
+Columbia,20 N Warren,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Columbia,20 N Warren,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),275
+Columbia,20 N Warren,United States President and Vice President,writein,,4
+Columbia,20 N Warren,United States President and Vice President,overvotes,,0
+Columbia,20 N Warren,United States President and Vice President,undervotes,,5
+Columbia,20 N Warren,United States President and Vice President,total_votes,,678
+Columbia,21 City St Helens One,United States President and Vice President,registered,,3558
+Columbia,21 City St Helens One,United States President and Vice President,ballots_cast,,2411
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),72
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Cornel West (PRO),3
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),7
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Randall Terry (CON),5
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1164
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),15
+Columbia,21 City St Helens One,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),1108
+Columbia,21 City St Helens One,United States President and Vice President,writein,,12
+Columbia,21 City St Helens One,United States President and Vice President,overvotes,,4
+Columbia,21 City St Helens One,United States President and Vice President,undervotes,,21
+Columbia,21 City St Helens One,United States President and Vice President,total_votes,,2386
+Columbia,24 City St Helens Four,United States President and Vice President,registered,,3823
+Columbia,24 City St Helens Four,United States President and Vice President,ballots_cast,,2503
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),43
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Cornel West (PRO),4
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),14
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1252
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),20
+Columbia,24 City St Helens Four,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),1133
+Columbia,24 City St Helens Four,United States President and Vice President,writein,,11
+Columbia,24 City St Helens Four,United States President and Vice President,overvotes,,2
+Columbia,24 City St Helens Four,United States President and Vice President,undervotes,,23
+Columbia,24 City St Helens Four,United States President and Vice President,total_votes,,2478
+Columbia,26 City St Helens Six,United States President and Vice President,registered,,3581
+Columbia,26 City St Helens Six,United States President and Vice President,ballots_cast,,2635
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),54
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Cornel West (PRO),5
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),13
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1420
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),18
+Columbia,26 City St Helens Six,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),1088
+Columbia,26 City St Helens Six,United States President and Vice President,writein,,11
+Columbia,26 City St Helens Six,United States President and Vice President,overvotes,,0
+Columbia,26 City St Helens Six,United States President and Vice President,undervotes,,24
+Columbia,26 City St Helens Six,United States President and Vice President,total_votes,,2611
+Columbia,31 City of Scappoose One,United States President and Vice President,registered,,959
+Columbia,31 City of Scappoose One,United States President and Vice President,ballots_cast,,727
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),26
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),3
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),355
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Columbia,31 City of Scappoose One,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),332
+Columbia,31 City of Scappoose One,United States President and Vice President,writein,,5
+Columbia,31 City of Scappoose One,United States President and Vice President,overvotes,,0
+Columbia,31 City of Scappoose One,United States President and Vice President,undervotes,,3
+Columbia,31 City of Scappoose One,United States President and Vice President,total_votes,,724
+Columbia,32 City of Scappoose Two,United States President and Vice President,registered,,3070
+Columbia,32 City of Scappoose Two,United States President and Vice President,ballots_cast,,2376
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),66
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Cornel West (PRO),6
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),11
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),1087
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),11
+Columbia,32 City of Scappoose Two,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),1159
+Columbia,32 City of Scappoose Two,United States President and Vice President,writein,,11
+Columbia,32 City of Scappoose Two,United States President and Vice President,overvotes,,2
+Columbia,32 City of Scappoose Two,United States President and Vice President,undervotes,,22
+Columbia,32 City of Scappoose Two,United States President and Vice President,total_votes,,2352
+Columbia,34 City of Scappoose Four,United States President and Vice President,registered,,1723
+Columbia,34 City of Scappoose Four,United States President and Vice President,ballots_cast,,1353
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),27
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Cornel West (PRO),4
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),8
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),613
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),14
+Columbia,34 City of Scappoose Four,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),672
+Columbia,34 City of Scappoose Four,United States President and Vice President,writein,,4
+Columbia,34 City of Scappoose Four,United States President and Vice President,overvotes,,0
+Columbia,34 City of Scappoose Four,United States President and Vice President,undervotes,,11
+Columbia,34 City of Scappoose Four,United States President and Vice President,total_votes,,1342
+Columbia,35 SE Scappoose,United States President and Vice President,registered,,1454
+Columbia,35 SE Scappoose,United States President and Vice President,ballots_cast,,1137
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),13
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Cornel West (PRO),4
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),5
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),567
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),11
+Columbia,35 SE Scappoose,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),517
+Columbia,35 SE Scappoose,United States President and Vice President,writein,,11
+Columbia,35 SE Scappoose,United States President and Vice President,overvotes,,0
+Columbia,35 SE Scappoose,United States President and Vice President,undervotes,,9
+Columbia,35 SE Scappoose,United States President and Vice President,total_votes,,1128
+Columbia,36 Canyon,United States President and Vice President,registered,,550
+Columbia,36 Canyon,United States President and Vice President,ballots_cast,,466
+Columbia,36 Canyon,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),10
+Columbia,36 Canyon,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,36 Canyon,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Columbia,36 Canyon,United States President and Vice President,candidate,Randall Terry (CON),5
+Columbia,36 Canyon,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),212
+Columbia,36 Canyon,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Columbia,36 Canyon,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),219
+Columbia,36 Canyon,United States President and Vice President,writein,,1
+Columbia,36 Canyon,United States President and Vice President,overvotes,,0
+Columbia,36 Canyon,United States President and Vice President,undervotes,,10
+Columbia,36 Canyon,United States President and Vice President,total_votes,,456
+Columbia,38 W Scappoose,United States President and Vice President,registered,,632
+Columbia,38 W Scappoose,United States President and Vice President,ballots_cast,,518
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),8
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),269
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Columbia,38 W Scappoose,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),222
+Columbia,38 W Scappoose,United States President and Vice President,writein,,2
+Columbia,38 W Scappoose,United States President and Vice President,overvotes,,2
+Columbia,38 W Scappoose,United States President and Vice President,undervotes,,6
+Columbia,38 W Scappoose,United States President and Vice President,total_votes,,510
+Columbia,39 Sauvie Island,United States President and Vice President,registered,,72
+Columbia,39 Sauvie Island,United States President and Vice President,ballots_cast,,58
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),1
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),28
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Columbia,39 Sauvie Island,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),29
+Columbia,39 Sauvie Island,United States President and Vice President,writein,,0
+Columbia,39 Sauvie Island,United States President and Vice President,overvotes,,0
+Columbia,39 Sauvie Island,United States President and Vice President,undervotes,,0
+Columbia,39 Sauvie Island,United States President and Vice President,total_votes,,58
+Columbia,40 Yankton,United States President and Vice President,registered,,1416
+Columbia,40 Yankton,United States President and Vice President,ballots_cast,,1103
+Columbia,40 Yankton,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Columbia,40 Yankton,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,40 Yankton,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),8
+Columbia,40 Yankton,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,40 Yankton,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),665
+Columbia,40 Yankton,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Columbia,40 Yankton,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),396
+Columbia,40 Yankton,United States President and Vice President,writein,,6
+Columbia,40 Yankton,United States President and Vice President,overvotes,,0
+Columbia,40 Yankton,United States President and Vice President,undervotes,,10
+Columbia,40 Yankton,United States President and Vice President,total_votes,,1093
+Columbia,41 City of Vernonia,United States President and Vice President,registered,,1927
+Columbia,41 City of Vernonia,United States President and Vice President,ballots_cast,,1393
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),26
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Cornel West (PRO),1
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),936
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),15
+Columbia,41 City of Vernonia,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),392
+Columbia,41 City of Vernonia,United States President and Vice President,writein,,7
+Columbia,41 City of Vernonia,United States President and Vice President,overvotes,,0
+Columbia,41 City of Vernonia,United States President and Vice President,undervotes,,8
+Columbia,41 City of Vernonia,United States President and Vice President,total_votes,,1385
+Columbia,44 Rural Vernonia,United States President and Vice President,registered,,1061
+Columbia,44 Rural Vernonia,United States President and Vice President,ballots_cast,,845
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),12
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Cornel West (PRO),2
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),4
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),578
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Columbia,44 Rural Vernonia,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),233
+Columbia,44 Rural Vernonia,United States President and Vice President,writein,,4
+Columbia,44 Rural Vernonia,United States President and Vice President,overvotes,,0
+Columbia,44 Rural Vernonia,United States President and Vice President,undervotes,,8
+Columbia,44 Rural Vernonia,United States President and Vice President,total_votes,,837
+Columbia,46 Apiary,United States President and Vice President,registered,,911
+Columbia,46 Apiary,United States President and Vice President,ballots_cast,,687
+Columbia,46 Apiary,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Columbia,46 Apiary,United States President and Vice President,candidate,Cornel West (PRO),2
+Columbia,46 Apiary,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Columbia,46 Apiary,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,46 Apiary,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),460
+Columbia,46 Apiary,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Columbia,46 Apiary,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),198
+Columbia,46 Apiary,United States President and Vice President,writein,,4
+Columbia,46 Apiary,United States President and Vice President,overvotes,,1
+Columbia,46 Apiary,United States President and Vice President,undervotes,,8
+Columbia,46 Apiary,United States President and Vice President,total_votes,,678
+Columbia,47 Chapman,United States President and Vice President,registered,,1090
+Columbia,47 Chapman,United States President and Vice President,ballots_cast,,858
+Columbia,47 Chapman,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),16
+Columbia,47 Chapman,United States President and Vice President,candidate,Cornel West (PRO),2
+Columbia,47 Chapman,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Columbia,47 Chapman,United States President and Vice President,candidate,Randall Terry (CON),2
+Columbia,47 Chapman,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),422
+Columbia,47 Chapman,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),9
+Columbia,47 Chapman,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),388
+Columbia,47 Chapman,United States President and Vice President,writein,,3
+Columbia,47 Chapman,United States President and Vice President,overvotes,,1
+Columbia,47 Chapman,United States President and Vice President,undervotes,,9
+Columbia,47 Chapman,United States President and Vice President,total_votes,,848
+Columbia,48 S Deer Island,United States President and Vice President,registered,,529
+Columbia,48 S Deer Island,United States President and Vice President,ballots_cast,,385
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),6
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),249
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),4
+Columbia,48 S Deer Island,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),115
+Columbia,48 S Deer Island,United States President and Vice President,writein,,0
+Columbia,48 S Deer Island,United States President and Vice President,overvotes,,0
+Columbia,48 S Deer Island,United States President and Vice President,undervotes,,10
+Columbia,48 S Deer Island,United States President and Vice President,total_votes,,375
+Columbia,49 N Deer Island,United States President and Vice President,registered,,761
+Columbia,49 N Deer Island,United States President and Vice President,ballots_cast,,593
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),11
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Cornel West (PRO),2
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),1
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),361
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),3
+Columbia,49 N Deer Island,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),206
+Columbia,49 N Deer Island,United States President and Vice President,writein,,1
+Columbia,49 N Deer Island,United States President and Vice President,overvotes,,2
+Columbia,49 N Deer Island,United States President and Vice President,undervotes,,5
+Columbia,49 N Deer Island,United States President and Vice President,total_votes,,586
+Columbia,50 City of Prescott,United States President and Vice President,registered,,57
+Columbia,50 City of Prescott,United States President and Vice President,ballots_cast,,41
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),2
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),0
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),24
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),0
+Columbia,50 City of Prescott,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),13
+Columbia,50 City of Prescott,United States President and Vice President,writein,,1
+Columbia,50 City of Prescott,United States President and Vice President,overvotes,,0
+Columbia,50 City of Prescott,United States President and Vice President,undervotes,,1
+Columbia,50 City of Prescott,United States President and Vice President,total_votes,,40
+Columbia,51 Mist,United States President and Vice President,registered,,383
+Columbia,51 Mist,United States President and Vice President,ballots_cast,,294
+Columbia,51 Mist,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),5
+Columbia,51 Mist,United States President and Vice President,candidate,Cornel West (PRO),0
+Columbia,51 Mist,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),2
+Columbia,51 Mist,United States President and Vice President,candidate,Randall Terry (CON),0
+Columbia,51 Mist,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),186
+Columbia,51 Mist,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),2
+Columbia,51 Mist,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),98
+Columbia,51 Mist,United States President and Vice President,writein,,1
+Columbia,51 Mist,United States President and Vice President,overvotes,,0
+Columbia,51 Mist,United States President and Vice President,undervotes,,0
+Columbia,51 Mist,United States President and Vice President,total_votes,,294
+Columbia,53 City of Columbia City,United States President and Vice President,registered,,1667
+Columbia,53 City of Columbia City,United States President and Vice President,ballots_cast,,1366
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Robert F Kennedy Jr/Nicole Shanahan (WTP),20
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Cornel West (PRO),3
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Chase Oliver/Mike ter Maat (LBT),6
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Randall Terry (CON),1
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Donald J Trump/JD Vance (REP),690
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Jill Stein/Rudolph Ware (PGP),5
+Columbia,53 City of Columbia City,United States President and Vice President,candidate,Kamala D Harris/Tim Walz (DEM),625
+Columbia,53 City of Columbia City,United States President and Vice President,writein,,4
+Columbia,53 City of Columbia City,United States President and Vice President,overvotes,,1
+Columbia,53 City of Columbia City,United States President and Vice President,undervotes,,11
+Columbia,53 City of Columbia City,United States President and Vice President,total_votes,,1354
+Columbia,01 City of Clatskanie,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),554
+Columbia,01 City of Clatskanie,"State Representative, 32nd District",candidate,Andy Davis (DEM),305
+Columbia,01 City of Clatskanie,"State Representative, 32nd District",writein,,1
+Columbia,01 City of Clatskanie,"State Representative, 32nd District",overvotes,,0
+Columbia,01 City of Clatskanie,"State Representative, 32nd District",undervotes,,51
+Columbia,01 City of Clatskanie,"State Representative, 32nd District",total_votes,,860
+Columbia,04 N Clatskanie-Marshland,"State Representative, 32nd District",candidate,Cyrus B Javadi (REP),342
+Columbia,04 N Clatskanie-Marshland,"State Representative, 32nd District",candidate,Andy Davis (DEM),216
+Columbia,04 N Clatskanie-Marshland,"State Representative, 32nd District",writein,,2
+Columbia,04 N Clatskanie-Marshland,"State Representative, 32nd District",overvotes,,0
+Columbia,04 N Clatskanie-Marshland,"State Representative, 32nd District",undervotes,,32
+Columbia,04 N Clatskanie-Marshland,"State Representative, 32nd District",total_votes,,560
+Columbia,05 S Clatskanie,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),160
+Columbia,05 S Clatskanie,"State Representative, 31st District",candidate,Darcey Edwards (REP),372
+Columbia,05 S Clatskanie,"State Representative, 31st District",candidate,Robert Miller (LBT),15
+Columbia,05 S Clatskanie,"State Representative, 31st District",writein,,2
+Columbia,05 S Clatskanie,"State Representative, 31st District",overvotes,,0
+Columbia,05 S Clatskanie,"State Representative, 31st District",undervotes,,41
+Columbia,05 S Clatskanie,"State Representative, 31st District",total_votes,,549
+Columbia,06 Delena,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),351
+Columbia,06 Delena,"State Representative, 31st District",candidate,Darcey Edwards (REP),750
+Columbia,06 Delena,"State Representative, 31st District",candidate,Robert Miller (LBT),44
+Columbia,06 Delena,"State Representative, 31st District",writein,,2
+Columbia,06 Delena,"State Representative, 31st District",overvotes,,0
+Columbia,06 Delena,"State Representative, 31st District",undervotes,,83
+Columbia,06 Delena,"State Representative, 31st District",total_votes,,1147
+Columbia,08 GOBLE,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),238
+Columbia,08 GOBLE,"State Representative, 31st District",candidate,Darcey Edwards (REP),416
+Columbia,08 GOBLE,"State Representative, 31st District",candidate,Robert Miller (LBT),27
+Columbia,08 GOBLE,"State Representative, 31st District",writein,,4
+Columbia,08 GOBLE,"State Representative, 31st District",overvotes,,0
+Columbia,08 GOBLE,"State Representative, 31st District",undervotes,,47
+Columbia,08 GOBLE,"State Representative, 31st District",total_votes,,685
+Columbia,10 Milton,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),305
+Columbia,10 Milton,"State Representative, 31st District",candidate,Darcey Edwards (REP),432
+Columbia,10 Milton,"State Representative, 31st District",candidate,Robert Miller (LBT),36
+Columbia,10 Milton,"State Representative, 31st District",writein,,0
+Columbia,10 Milton,"State Representative, 31st District",overvotes,,1
+Columbia,10 Milton,"State Representative, 31st District",undervotes,,76
+Columbia,10 Milton,"State Representative, 31st District",total_votes,,773
+Columbia,12 McNulty,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),348
+Columbia,12 McNulty,"State Representative, 31st District",candidate,Darcey Edwards (REP),580
+Columbia,12 McNulty,"State Representative, 31st District",candidate,Robert Miller (LBT),30
+Columbia,12 McNulty,"State Representative, 31st District",writein,,4
+Columbia,12 McNulty,"State Representative, 31st District",overvotes,,0
+Columbia,12 McNulty,"State Representative, 31st District",undervotes,,96
+Columbia,12 McNulty,"State Representative, 31st District",total_votes,,962
+Columbia,14 Quincy,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),172
+Columbia,14 Quincy,"State Representative, 31st District",candidate,Darcey Edwards (REP),305
+Columbia,14 Quincy,"State Representative, 31st District",candidate,Robert Miller (LBT),21
+Columbia,14 Quincy,"State Representative, 31st District",writein,,0
+Columbia,14 Quincy,"State Representative, 31st District",overvotes,,1
+Columbia,14 Quincy,"State Representative, 31st District",undervotes,,38
+Columbia,14 Quincy,"State Representative, 31st District",total_votes,,498
+Columbia,15 City of Rainier,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),349
+Columbia,15 City of Rainier,"State Representative, 31st District",candidate,Darcey Edwards (REP),591
+Columbia,15 City of Rainier,"State Representative, 31st District",candidate,Robert Miller (LBT),32
+Columbia,15 City of Rainier,"State Representative, 31st District",writein,,3
+Columbia,15 City of Rainier,"State Representative, 31st District",overvotes,,0
+Columbia,15 City of Rainier,"State Representative, 31st District",undervotes,,79
+Columbia,15 City of Rainier,"State Representative, 31st District",total_votes,,975
+Columbia,17 W Rainier,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),131
+Columbia,17 W Rainier,"State Representative, 31st District",candidate,Darcey Edwards (REP),274
+Columbia,17 W Rainier,"State Representative, 31st District",candidate,Robert Miller (LBT),12
+Columbia,17 W Rainier,"State Representative, 31st District",writein,,0
+Columbia,17 W Rainier,"State Representative, 31st District",overvotes,,0
+Columbia,17 W Rainier,"State Representative, 31st District",undervotes,,23
+Columbia,17 W Rainier,"State Representative, 31st District",total_votes,,417
+Columbia,18 E Rainier,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),72
+Columbia,18 E Rainier,"State Representative, 31st District",candidate,Darcey Edwards (REP),116
+Columbia,18 E Rainier,"State Representative, 31st District",candidate,Robert Miller (LBT),7
+Columbia,18 E Rainier,"State Representative, 31st District",writein,,0
+Columbia,18 E Rainier,"State Representative, 31st District",overvotes,,0
+Columbia,18 E Rainier,"State Representative, 31st District",undervotes,,12
+Columbia,18 E Rainier,"State Representative, 31st District",total_votes,,195
+Columbia,19 S Warren,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),333
+Columbia,19 S Warren,"State Representative, 31st District",candidate,Darcey Edwards (REP),573
+Columbia,19 S Warren,"State Representative, 31st District",candidate,Robert Miller (LBT),23
+Columbia,19 S Warren,"State Representative, 31st District",writein,,4
+Columbia,19 S Warren,"State Representative, 31st District",overvotes,,0
+Columbia,19 S Warren,"State Representative, 31st District",undervotes,,71
+Columbia,19 S Warren,"State Representative, 31st District",total_votes,,933
+Columbia,20 N Warren,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),227
+Columbia,20 N Warren,"State Representative, 31st District",candidate,Darcey Edwards (REP),382
+Columbia,20 N Warren,"State Representative, 31st District",candidate,Robert Miller (LBT),25
+Columbia,20 N Warren,"State Representative, 31st District",writein,,3
+Columbia,20 N Warren,"State Representative, 31st District",overvotes,,0
+Columbia,20 N Warren,"State Representative, 31st District",undervotes,,46
+Columbia,20 N Warren,"State Representative, 31st District",total_votes,,637
+Columbia,21 City St Helens One,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),954
+Columbia,21 City St Helens One,"State Representative, 31st District",candidate,Darcey Edwards (REP),1149
+Columbia,21 City St Helens One,"State Representative, 31st District",candidate,Robert Miller (LBT),109
+Columbia,21 City St Helens One,"State Representative, 31st District",writein,,3
+Columbia,21 City St Helens One,"State Representative, 31st District",overvotes,,0
+Columbia,21 City St Helens One,"State Representative, 31st District",undervotes,,196
+Columbia,21 City St Helens One,"State Representative, 31st District",total_votes,,2215
+Columbia,24 City St Helens Four,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),948
+Columbia,24 City St Helens Four,"State Representative, 31st District",candidate,Darcey Edwards (REP),1276
+Columbia,24 City St Helens Four,"State Representative, 31st District",candidate,Robert Miller (LBT),100
+Columbia,24 City St Helens Four,"State Representative, 31st District",writein,,3
+Columbia,24 City St Helens Four,"State Representative, 31st District",overvotes,,0
+Columbia,24 City St Helens Four,"State Representative, 31st District",undervotes,,176
+Columbia,24 City St Helens Four,"State Representative, 31st District",total_votes,,2327
+Columbia,26 City St Helens Six,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),932
+Columbia,26 City St Helens Six,"State Representative, 31st District",candidate,Darcey Edwards (REP),1423
+Columbia,26 City St Helens Six,"State Representative, 31st District",candidate,Robert Miller (LBT),92
+Columbia,26 City St Helens Six,"State Representative, 31st District",writein,,1
+Columbia,26 City St Helens Six,"State Representative, 31st District",overvotes,,1
+Columbia,26 City St Helens Six,"State Representative, 31st District",undervotes,,186
+Columbia,26 City St Helens Six,"State Representative, 31st District",total_votes,,2448
+Columbia,31 City of Scappoose One,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),269
+Columbia,31 City of Scappoose One,"State Representative, 31st District",candidate,Darcey Edwards (REP),382
+Columbia,31 City of Scappoose One,"State Representative, 31st District",candidate,Robert Miller (LBT),21
+Columbia,31 City of Scappoose One,"State Representative, 31st District",writein,,0
+Columbia,31 City of Scappoose One,"State Representative, 31st District",overvotes,,0
+Columbia,31 City of Scappoose One,"State Representative, 31st District",undervotes,,55
+Columbia,31 City of Scappoose One,"State Representative, 31st District",total_votes,,672
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),966
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",candidate,Darcey Edwards (REP),1139
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",candidate,Robert Miller (LBT),81
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",writein,,4
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",overvotes,,0
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",undervotes,,186
+Columbia,32 City of Scappoose Two,"State Representative, 31st District",total_votes,,2190
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),550
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",candidate,Darcey Edwards (REP),642
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",candidate,Robert Miller (LBT),47
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",writein,,2
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",overvotes,,0
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",undervotes,,112
+Columbia,34 City of Scappoose Four,"State Representative, 31st District",total_votes,,1241
+Columbia,35 SE Scappoose,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),450
+Columbia,35 SE Scappoose,"State Representative, 31st District",candidate,Darcey Edwards (REP),563
+Columbia,35 SE Scappoose,"State Representative, 31st District",candidate,Robert Miller (LBT),31
+Columbia,35 SE Scappoose,"State Representative, 31st District",writein,,2
+Columbia,35 SE Scappoose,"State Representative, 31st District",overvotes,,0
+Columbia,35 SE Scappoose,"State Representative, 31st District",undervotes,,91
+Columbia,35 SE Scappoose,"State Representative, 31st District",total_votes,,1046
+Columbia,36 Canyon,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),169
+Columbia,36 Canyon,"State Representative, 31st District",candidate,Darcey Edwards (REP),243
+Columbia,36 Canyon,"State Representative, 31st District",candidate,Robert Miller (LBT),17
+Columbia,36 Canyon,"State Representative, 31st District",writein,,1
+Columbia,36 Canyon,"State Representative, 31st District",overvotes,,0
+Columbia,36 Canyon,"State Representative, 31st District",undervotes,,36
+Columbia,36 Canyon,"State Representative, 31st District",total_votes,,430
+Columbia,38 W Scappoose,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),186
+Columbia,38 W Scappoose,"State Representative, 31st District",candidate,Darcey Edwards (REP),271
+Columbia,38 W Scappoose,"State Representative, 31st District",candidate,Robert Miller (LBT),20
+Columbia,38 W Scappoose,"State Representative, 31st District",writein,,1
+Columbia,38 W Scappoose,"State Representative, 31st District",overvotes,,0
+Columbia,38 W Scappoose,"State Representative, 31st District",undervotes,,40
+Columbia,38 W Scappoose,"State Representative, 31st District",total_votes,,478
+Columbia,39 Sauvie Island,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),23
+Columbia,39 Sauvie Island,"State Representative, 31st District",candidate,Darcey Edwards (REP),28
+Columbia,39 Sauvie Island,"State Representative, 31st District",candidate,Robert Miller (LBT),2
+Columbia,39 Sauvie Island,"State Representative, 31st District",writein,,0
+Columbia,39 Sauvie Island,"State Representative, 31st District",overvotes,,0
+Columbia,39 Sauvie Island,"State Representative, 31st District",undervotes,,5
+Columbia,39 Sauvie Island,"State Representative, 31st District",total_votes,,53
+Columbia,40 Yankton,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),322
+Columbia,40 Yankton,"State Representative, 31st District",candidate,Darcey Edwards (REP),679
+Columbia,40 Yankton,"State Representative, 31st District",candidate,Robert Miller (LBT),40
+Columbia,40 Yankton,"State Representative, 31st District",writein,,0
+Columbia,40 Yankton,"State Representative, 31st District",overvotes,,0
+Columbia,40 Yankton,"State Representative, 31st District",undervotes,,62
+Columbia,40 Yankton,"State Representative, 31st District",total_votes,,1041
+Columbia,41 City of Vernonia,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),344
+Columbia,41 City of Vernonia,"State Representative, 31st District",candidate,Darcey Edwards (REP),881
+Columbia,41 City of Vernonia,"State Representative, 31st District",candidate,Robert Miller (LBT),56
+Columbia,41 City of Vernonia,"State Representative, 31st District",writein,,2
+Columbia,41 City of Vernonia,"State Representative, 31st District",overvotes,,0
+Columbia,41 City of Vernonia,"State Representative, 31st District",undervotes,,110
+Columbia,41 City of Vernonia,"State Representative, 31st District",total_votes,,1283
+Columbia,44 Rural Vernonia,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),202
+Columbia,44 Rural Vernonia,"State Representative, 31st District",candidate,Darcey Edwards (REP),560
+Columbia,44 Rural Vernonia,"State Representative, 31st District",candidate,Robert Miller (LBT),34
+Columbia,44 Rural Vernonia,"State Representative, 31st District",writein,,0
+Columbia,44 Rural Vernonia,"State Representative, 31st District",overvotes,,0
+Columbia,44 Rural Vernonia,"State Representative, 31st District",undervotes,,49
+Columbia,44 Rural Vernonia,"State Representative, 31st District",total_votes,,796
+Columbia,46 Apiary,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),170
+Columbia,46 Apiary,"State Representative, 31st District",candidate,Darcey Edwards (REP),446
+Columbia,46 Apiary,"State Representative, 31st District",candidate,Robert Miller (LBT),13
+Columbia,46 Apiary,"State Representative, 31st District",writein,,2
+Columbia,46 Apiary,"State Representative, 31st District",overvotes,,0
+Columbia,46 Apiary,"State Representative, 31st District",undervotes,,56
+Columbia,46 Apiary,"State Representative, 31st District",total_votes,,631
+Columbia,47 Chapman,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),316
+Columbia,47 Chapman,"State Representative, 31st District",candidate,Darcey Edwards (REP),430
+Columbia,47 Chapman,"State Representative, 31st District",candidate,Robert Miller (LBT),32
+Columbia,47 Chapman,"State Representative, 31st District",writein,,6
+Columbia,47 Chapman,"State Representative, 31st District",overvotes,,0
+Columbia,47 Chapman,"State Representative, 31st District",undervotes,,74
+Columbia,47 Chapman,"State Representative, 31st District",total_votes,,784
+Columbia,48 S Deer Island,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),102
+Columbia,48 S Deer Island,"State Representative, 31st District",candidate,Darcey Edwards (REP),237
+Columbia,48 S Deer Island,"State Representative, 31st District",candidate,Robert Miller (LBT),9
+Columbia,48 S Deer Island,"State Representative, 31st District",writein,,1
+Columbia,48 S Deer Island,"State Representative, 31st District",overvotes,,0
+Columbia,48 S Deer Island,"State Representative, 31st District",undervotes,,36
+Columbia,48 S Deer Island,"State Representative, 31st District",total_votes,,349
+Columbia,49 N Deer Island,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),181
+Columbia,49 N Deer Island,"State Representative, 31st District",candidate,Darcey Edwards (REP),355
+Columbia,49 N Deer Island,"State Representative, 31st District",candidate,Robert Miller (LBT),15
+Columbia,49 N Deer Island,"State Representative, 31st District",writein,,2
+Columbia,49 N Deer Island,"State Representative, 31st District",overvotes,,0
+Columbia,49 N Deer Island,"State Representative, 31st District",undervotes,,40
+Columbia,49 N Deer Island,"State Representative, 31st District",total_votes,,553
+Columbia,50 City of Prescott,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),12
+Columbia,50 City of Prescott,"State Representative, 31st District",candidate,Darcey Edwards (REP),25
+Columbia,50 City of Prescott,"State Representative, 31st District",candidate,Robert Miller (LBT),3
+Columbia,50 City of Prescott,"State Representative, 31st District",writein,,0
+Columbia,50 City of Prescott,"State Representative, 31st District",overvotes,,0
+Columbia,50 City of Prescott,"State Representative, 31st District",undervotes,,1
+Columbia,50 City of Prescott,"State Representative, 31st District",total_votes,,40
+Columbia,51 Mist,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),82
+Columbia,51 Mist,"State Representative, 31st District",candidate,Darcey Edwards (REP),184
+Columbia,51 Mist,"State Representative, 31st District",candidate,Robert Miller (LBT),4
+Columbia,51 Mist,"State Representative, 31st District",writein,,0
+Columbia,51 Mist,"State Representative, 31st District",overvotes,,0
+Columbia,51 Mist,"State Representative, 31st District",undervotes,,24
+Columbia,51 Mist,"State Representative, 31st District",total_votes,,270
+Columbia,53 City of Columbia City,"State Representative, 31st District",candidate,Jordan Gutierrez (DEM),528
+Columbia,53 City of Columbia City,"State Representative, 31st District",candidate,Darcey Edwards (REP),700
+Columbia,53 City of Columbia City,"State Representative, 31st District",candidate,Robert Miller (LBT),41
+Columbia,53 City of Columbia City,"State Representative, 31st District",writein,,2
+Columbia,53 City of Columbia City,"State Representative, 31st District",overvotes,,0
+Columbia,53 City of Columbia City,"State Representative, 31st District",undervotes,,95
+Columbia,53 City of Columbia City,"State Representative, 31st District",total_votes,,1271

@@ -1,0 +1,144 @@
+office,district,candidate,short_name,party,also_nominated_by,match
+President,,Kamala D Harris / Tim Walz,,DEM,,Harris
+President,,Donald J Trump / JD Vance,,REP,,Trump
+President,,Robert F Kennedy Jr / Nicole Shanahan,,WTP,,Kennedy
+President,,Cornel West,,PRO,,West
+President,,Chase Oliver / Mike ter Maat,,LIB,,Oliver
+President,,Randall Terry,,CON,,Terry
+President,,Jill Stein / Rudolph Ware,,PGP,,Stein
+State Senate,1,David Brock Smith,Brock Smith,REP,,Smith
+State Senate,1,Lupe Preciado-McAlister,Preciado-McAlister,DEM,,Preciado
+State Senate,2,Noah Robinson,,REP,,Robinson
+State Senate,2,Tracy Thompson,,DEM,,Thompson
+State Senate,5,Dick Anderson,,REP,,Anderson
+State Senate,5,Jo Beaudreau,,DEM,,Beaudreau
+State Senate,9,Fred Frank Girod,,REP,,Girod
+State Senate,9,Mike Ashland,,DEM,,Ashland
+State Senate,12,Bruce W Starr,,REP,,Starr
+State Senate,12,Scott Hooper,,DEM,,Hooper
+State Senate,12,Andrea Kennedy-Smith,Kennedy-Smith,IND,,Kennedy-Smith
+State Senate,14,Kate Lieber,,DEM,,Lieber
+State Senate,14,Katy Brumbelow,,LIB,,Brumbelow
+State Senate,18,Winsvey E Campos,,DEM,,Campos
+State Senate,18,Brian Pierson,,REP,,Pierson
+State Senate,21,Kathleen Taylor,,DEM,,Taylor
+State Senate,22,Lew Frederick,,DEM,,Frederick
+State Senate,22,Michael Saperstein,,REP,,Saperstein
+State Senate,23,Khanh Pham,,DEM,,Pham
+State Senate,25,Chris Gorsek,,DEM,,Gorsek
+State Senate,25,Raymond E Love,,REP,,Love
+State Senate,27,Anthony Broadman,,DEM,IND,Broadman
+State Senate,27,Michael Summers,,REP,,Summers
+State Senate,28,Diane Linthicum,,REP,,Linthicum
+State Senate,28,Dylan Gutridge,,DEM,,Gutridge
+State Senate,29,Todd Nash,,REP,DEM,Nash
+State Senate,29,Tania Wildbill,,NAV,,Wildbill
+State Senate,30,Mike McLane,,REP,DEM,McLane
+State House,1,Court Boice,,REP,,Boice
+State House,1,Bret Cecil,,DEM,,Cecil
+State House,2,Virgle J Osborne,,REP,,Osborne
+State House,2,August Warren,,DEM,,Warren
+State House,3,Dwayne Yunker,,REP,,Yunker
+State House,3,Mark J Seligman,,DEM,,Seligman
+State House,4,Alek Skarlatos,,REP,,Skarlatos
+State House,4,Richard Chasm,,DEM,,Chasm
+State House,5,Pam Marsh,,DEM,,Marsh
+State House,5,Katherine Green,,REP,,Green
+State House,6,Kim Wallan,,REP,,Wallan
+State House,6,Lilia Caballero,,DEM,,Caballero
+State House,7,John Lively,,DEM,,Lively
+State House,7,Cory Burket,,REP,,Burket
+State House,8,Lisa Fragala,,DEM,,Fragala
+State House,9,Boomer Wright,,REP,,Wright
+State House,9,William (Mrk) Mrkvicka,,DEM,,Mrkvicka
+State House,10,David Gomberg,,DEM,,Gomberg
+State House,11,Jami Cate,,REP,,Cate
+State House,11,Ivan Maluski,,NAV,,Maluski
+State House,12,Darin Harbick,,REP,,Harbick
+State House,12,Michelle Emmons,,DEM,,Emmons
+State House,13,Nancy Nathanson,,DEM,,Nathanson
+State House,13,Timothy S Sutherland,,REP,,Sutherland
+State House,14,Julie Fahey,,DEM,,Fahey
+State House,15,Shelly Boshart Davis,Boshart Davis,REP,,Boshart
+State House,15,Terrence Virnig,,DEM,,Virnig
+State House,16,Sarah Finger McDonald,McDonald,DEM,,McDonald
+State House,16,Michael A Beilstein,,PGP,,Beilstein
+State House,17,Ed Diehl,,REP,,Diehl
+State House,17,David W Beem,,DEM,,Beem
+State House,18,Rick Lewis,,REP,,Lewis
+State House,18,Karyssa Dow,,DEM,,Dow
+State House,19,Tom Andersen,,DEM,IND,Andersen
+State House,19,David Brown,,REP,,Brown
+State House,20,Paul Evans,,DEM,IND,Evans
+State House,20,Kevin S Chambers,,REP,,Chambers
+State House,21,Kevin L Mannix,,REP,,Mannix
+State House,21,Virginia Stapleton,,DEM,IND/WFP,Stapleton
+State House,22,Lesly M Munoz,,DEM,WFP,Munoz
+State House,22,Tracy M Cramer,,REP,,Cramer
+State House,23,Anna M Scharf,,REP,,Scharf
+State House,23,Kriss Wright,,DEM,,Wright
+State House,24,Lucetta A Elmer,,REP,,Elmer
+State House,24,Lisa Pool,,DEM,,Pool
+State House,25,Ben Bowman,,DEM,,Bowman
+State House,25,Bob Niemeyer,,REP,,Niemeyer
+State House,26,Courtney Neron,,DEM,,Neron
+State House,26,Jason E Fields,,REP,,Fields
+State House,27,Ken Helm,,DEM,,Helm
+State House,27,Victoria Kingsbury,,REP,,Kingsbury
+State House,28,Dacia Grayber,,DEM,,Grayber
+State House,28,Charles (Chick) Mengis,,REP,,Mengis
+State House,29,Susan McLain,,DEM,,McLain
+State House,30,Nathan Sosa,,DEM,,Sosa
+State House,31,Darcey Edwards,,REP,,Edwards
+State House,31,Jordan Gutierrez,,DEM,,Gutierrez
+State House,31,Robert Miller,,LIB,,Miller
+State House,32,Cyrus B Javadi,,REP,,Javadi
+State House,32,Andy Davis,,DEM,,Davis
+State House,33,Shannon Jones Isadore,Jones Isadore,DEM,,Isadore
+State House,33,Stan Baumhofer,,REP,,Baumhofer
+State House,33,Thomas J Busse,,LIB,,Busse
+State House,34,Lisa Reynolds,,DEM,,Reynolds
+State House,34,John Verbeek,,REP,,Verbeek
+State House,35,Farrah Chaichi,,DEM,,Chaichi
+State House,35,Dan Martin,,REP,,Martin
+State House,36,Hai Pham,,DEM,,Pham
+State House,36,Shawn Chummar,,REP,,Chummar
+State House,37,Jules Walters,,DEM,,Walters
+State House,37,Ben Edtl,,REP,,Edtl
+State House,38,Daniel Nguyen,,DEM,,Nguyen
+State House,39,April Dobson,,DEM,,Dobson
+State House,39,Aimee L Reiner,,REP,,Reiner
+State House,40,Annessa Hartman,,DEM,,Hartman
+State House,40,Michael Steven Newgard,,REP,,Newgard
+State House,41,Mark F Gamba,,DEM,,Gamba
+State House,41,Elvis Clark,,REP,,Clark
+State House,42,Rob Nosse,,DEM,,Nosse
+State House,43,Tawna Sanchez,,DEM,,Sanchez
+State House,43,Tim LeMaster,,REP,,LeMaster
+State House,44,Travis Nelson,,DEM,,Nelson
+State House,45,Thuy Tran,,DEM,,Tran
+State House,46,Willy Chotzen,,DEM,,Chotzen
+State House,46,John Mark Alexander,,REP,,Alexander
+State House,46,Kevin Levy,,IND,,Levy
+State House,46,Austin Daniel,,LIB,,Daniel
+State House,47,Andrea Valderrama,,DEM,,Valderrama
+State House,48,Hoa H Nguyen,H. Nguyen,DEM,,Nguyen
+State House,48,John Masterman,,REP,,Masterman
+State House,49,Zach Hudson,,DEM,,Hudson
+State House,49,Terry A Tipsord,,REP,,Tipsord
+State House,50,Ricki Ruiz,,DEM,,Ruiz
+State House,50,Paul Drechsler,,REP,,Drechsler
+State House,51,Christine Drazan,,REP,,Drazan
+State House,52,Jeff Helfrich,,REP,,Helfrich
+State House,52,Nick Walden Poublon,Walden Poublon,DEM,,Poublon
+State House,53,Emerson Levy,,DEM,IND,Levy
+State House,53,Keri Lopez,,REP,,Lopez
+State House,54,Jason Kropf,,DEM,IND/WFP,Kropf
+State House,55,E Werner Reschke,,REP,,Reschke
+State House,55,James Williamson,,DEM,,Williamson
+State House,56,Emily G McIntire,,REP,,McIntire
+State House,57,Greg Smith,,REP,DEM,Smith
+State House,58,Bobby Levy,,REP,,Levy
+State House,59,Vikki Breese-Iverson,Breese-Iverson,REP,,Breese-Iverson
+State House,59,Brian K Samp,,DEM,,Samp
+State House,60,Mark Owens,,REP,DEM,Owens

@@ -1,0 +1,44 @@
+SSS SSS SSS SSS SSS S555 ——
+
+Ballots Cast per Contest with Precincts                                         Page: 60 of 147
+
+Washington County November 5 2024 General Election                                    2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                      09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+Judge of the Circuit Court, 20th District, Position 16 (Vote for 1)
+
+Precinct                 Ballots         Reg.            Total      Elizabeth R               Write-in                 Over       Under
+Cast    Voters        Votes     Lemoine                            Votes     Votes
+Precinct 428          1359      1967         827       823 99.52%         4 0.48%         0       532
+Precinct 429         2699      3785        1570      1552 98.85%        18 1.15%         ft)      1129
+Precinct 430         2310      2835        1089      1060 97.34%        29 2.66%         ft)      1221
+Precinct 431           775       945         406       397 97.78%         9 2.22%         0       369
+Precinct 432         306     401        182      182 100.00%       0 0.00%       0      124
+Precinct 433         2171      2698        1212      1193 98.43%        19 1.57%         ¢)       959
+Precinct 434         4401      5831        2569      2541 98.91%        28 1.09%         1)      1832
+Precinct 435         4132      5143        2370      2341 98.78%        29 1.22%         )      1762
+Precinct 436         2242      2612        1243      1225 98.55%        18 1.45%         4)       999
+Precinct 437         63      82        27      27 100.00%       0 0.00%       ft)      36
+Precinct 438          493       641         251       247 98.41%         4 1.59%         t)       242
+Precinct 439         2375      3122        1524      1517 99.54%         7 0.46%         0       851
+Precinct 440          1461      2096         917       905 98.69%        12 1.31%         0       544
+Precinct 441          70      87        45      45 100.00%       Q 0.00%       ¢)      25
+Precinct 442         2708      3394        1620      1605 99.07%        15 0.93%         0      1088
+Precinct 443          14       1          6       6 100.00%        0 0.00%       ft)        5
+Precinct 444         121      150         74       74 100.00%        0 0.00%       )       47
+Precinct 445         1      1        1      1 100.00%      0 0.00%      )      )
+Precinct 446           107       197          70        69 98.57%         1 1.43%         )        37
+Precinct 447          285       344         143       140 97.90%         3 2.10%         0       142
+Precinct 448          771       956         454       451 99.34%         3 0.66%         )       317
+Precinct 449          293       346         151       147 97.35%         4 2.65%         )       142
+Precinct 450           170       208          62        59 95.16%         3 4.84%         0       108
+Precinct 451          1066      1450         651       640 98.31%        11 1.69%         ft)       415
+Precinct 452           99       131          46        45 97.83%         1 217%         tt)        53
+Precinct 453          1       13          2       2 100.00%        0 0.00%       ft)        9
+Precinct 454           19        27           8        7 87.50%         1 12.50%         ft)        11
+Precinct 455          1486      2157         869       863 99.31%         6 0.69%         0       617
+Precinct 456          7       8         4       4 100.00%       0 0.00%       )       3
+Total             300013 400012      173186 170875 98.67%      2311 1.33%         1 126826

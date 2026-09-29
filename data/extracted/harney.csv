@@ -1,0 +1,64 @@
+county,precinct_label,contest,type,choice,votes
+Harney,21,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,43
+Harney,21,President,candidate,Cornel West,1
+Harney,21,President,candidate,Chase Oliver / Mike ter Maat,5
+Harney,21,President,candidate,Randall Terry,1
+Harney,21,President,candidate,Donald J Trump / JD Vance,977
+Harney,21,President,candidate,Jill Stein / Rudolph Ware,7
+Harney,21,President,candidate,Kamala D Harris / Tim Walz,334
+Harney,21,President,writein,,5
+Harney,21,President,overvotes,,0
+Harney,21,President,undervotes,,14
+Harney,21,President,total_votes,,1373
+Harney,25,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,23
+Harney,25,President,candidate,Cornel West,3
+Harney,25,President,candidate,Chase Oliver / Mike ter Maat,4
+Harney,25,President,candidate,Randall Terry,0
+Harney,25,President,candidate,Donald J Trump / JD Vance,639
+Harney,25,President,candidate,Jill Stein / Rudolph Ware,1
+Harney,25,President,candidate,Kamala D Harris / Tim Walz,192
+Harney,25,President,writein,,5
+Harney,25,President,overvotes,,1
+Harney,25,President,undervotes,,8
+Harney,25,President,total_votes,,867
+Harney,26,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,30
+Harney,26,President,candidate,Cornel West,1
+Harney,26,President,candidate,Chase Oliver / Mike ter Maat,4
+Harney,26,President,candidate,Randall Terry,4
+Harney,26,President,candidate,Donald J Trump / JD Vance,1691
+Harney,26,President,candidate,Jill Stein / Rudolph Ware,3
+Harney,26,President,candidate,Kamala D Harris / Tim Walz,271
+Harney,26,President,writein,,11
+Harney,26,President,overvotes,,1
+Harney,26,President,undervotes,,11
+Harney,26,President,total_votes,,2015
+Harney,21,"State Senator, 30th District",candidate,Mike McLane,985
+Harney,21,"State Senator, 30th District",writein,,19
+Harney,21,"State Senator, 30th District",overvotes,,0
+Harney,21,"State Senator, 30th District",undervotes,,383
+Harney,21,"State Senator, 30th District",total_votes,,1004
+Harney,25,"State Senator, 30th District",candidate,Mike McLane,623
+Harney,25,"State Senator, 30th District",writein,,10
+Harney,25,"State Senator, 30th District",overvotes,,0
+Harney,25,"State Senator, 30th District",undervotes,,243
+Harney,25,"State Senator, 30th District",total_votes,,633
+Harney,26,"State Senator, 30th District",candidate,Mike McLane,1401
+Harney,26,"State Senator, 30th District",writein,,10
+Harney,26,"State Senator, 30th District",overvotes,,0
+Harney,26,"State Senator, 30th District",undervotes,,616
+Harney,26,"State Senator, 30th District",total_votes,,1411
+Harney,21,"State Representative, 60th District",candidate,Mark Owens,1048
+Harney,21,"State Representative, 60th District",writein,,26
+Harney,21,"State Representative, 60th District",overvotes,,1
+Harney,21,"State Representative, 60th District",undervotes,,312
+Harney,21,"State Representative, 60th District",total_votes,,1074
+Harney,25,"State Representative, 60th District",candidate,Mark Owens,667
+Harney,25,"State Representative, 60th District",writein,,20
+Harney,25,"State Representative, 60th District",overvotes,,0
+Harney,25,"State Representative, 60th District",undervotes,,189
+Harney,25,"State Representative, 60th District",total_votes,,687
+Harney,26,"State Representative, 60th District",candidate,Mark Owens,1647
+Harney,26,"State Representative, 60th District",writein,,27
+Harney,26,"State Representative, 60th District",overvotes,,0
+Harney,26,"State Representative, 60th District",undervotes,,353
+Harney,26,"State Representative, 60th District",total_votes,,1674

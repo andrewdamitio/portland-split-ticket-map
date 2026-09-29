@@ -1,0 +1,60 @@
+SSS
+Statement of Votes Cast by Geography                                             Page: 19 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                           2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Total                                                                                                        794              100.00%
+Overvotes                                                     1
+Undervotes                                                  70
+Crook County Sheriff (Vote for 1)
+865 ballots (0 over voted ballots, 0 overvotes, 257 undervotes), 1131 registered voters, turnout 76.48%
+John W Gautney                                                  605          99.51%
+Write-in                                                        3          0.49%
+Total                                                        608        100.00%
+Overvotes                                                     0
+Undervotes                                                 257
+Mayor (Vote for 1)
+865 ballots (0 over voted ballots, 0 overvotes, 272 undervotes), 1131 registered voters, turnout 76.48%
+Jason Beebe                                               581         97.98%
+Write-in                                                      12          2.02%
+Total                                                                                                        593              100.00%
+Overvotes                                                     0
+Undervotes                                                 272
+City Council Member (Vote for 3)
+865 ballots (0 over voted ballots, 0 overvotes, 1050 undervotes), 1131 registered voters, turnout 76.48%
+Jerry M Brummer                                            543         35.15%
+Marvin Sumner                                                479          31.00%
+Steve Uffelman                                                499          32.30%
+Write-in                                                                                         13                 0.84%
+Write-in                                                        7          0.45%
+Write-in 26%
+Total                                                                                         1545            100.00%
+Overvotes                                                     i)
+Undervotes                                               1050
+Crook County Soil Water Conservation D Z 1 (Vote for 1)
+865 ballots (0 over voted ballots, 0 overvotes, 315 undervotes), 1131 registered voters, turnout 76.48%
+Jason R Dennis                                               545          99.09%
+Write-in                                                                                                        5                   0.91%
+Total                                                        550        100.00%
+Overvotes                                                     0
+Undervotes                                                               315
+Crook County Soil Water Conservation D Z 2 (Vote for 1)
+865 ballots (0 over voted ballots, 0 overvotes, 813 undervotes), 1131 registered voters, turnout 76.48%
+Write-in                                                                                                     §2              100.00%
+Total                                         52     {00.00%
+Overvotes                                                     0
+Undervotes                                                               813
+Crook County Soil Water Conservation D Z 3 (Vote for 1)
+865 ballots (0 over voted ballots, 0 overvotes, 315 undervotes), 1131 registered voters, turnout 76.48%
+Gary Bedortha                                                     547          99.45%
+Write-in                                                        3          0.55%
+Total                                          550      100.00%
+Overvotes                                                     0
+Undervotes                                                               315
+Crook County Soil Water Conservation D At Lrg (Vote for 1)
+865 ballots (0 over voted ballots, 0 overvotes, 353 undervotes), 1131 registered voters, turnout 76.48%
+John William Dehler Ill                                       506          98.83%
+Write-in                                                                                                        6                   1.17%

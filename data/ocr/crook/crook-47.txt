@@ -1,0 +1,59 @@
+a
+Statement of Votes Cast by Geography                                              Page: 47 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                         2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+—__Choice_ CVtes Vote %
+State Senator, 30th District (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 345 undervotes), 1756 registered voters, turnout 74.60%
+Mike McLane                                                  943         97.72%
+Write-in                                                      22          2.28%
+Total                                                                                           965            100.00%
+Overvotes                                                     0
+Undervotes                                                 345
+State Representative, 59th District (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 55 undervotes), 1756 registered voters, turnout 74.60%
+Vikki Breese-lverson                                      980         78.09%
+Brian K Samp                                                  271          21.59%
+Write-in                                                        4          0.32%
+Total                                                       1255       {00.00%
+Overvotes                                                     0
+Undervotes                                                  55
+Judge of the Supreme Court, Position 1 (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 521 undervotes), 1756 registered voters, turnout 74.60%
+.                          Stephen K Bushong                                          749         94.93%
+Write-in                                                      40          5.07%
+Total                                                                                                        789              {00.00%
+Overvotes                                                     0
+Undervotes                                                 521
+Judge of the Supreme Court, Position 7 (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 570 undervotes), 1756 registered voters, turnout 74.60%
+Bronson D James                                         712         96.22%
+Write-in                                                      28          3.78%
+Total                                                                                                        740              {00.00%
+Overvotes                                                     0
+Undervotes                                                 570
+Crook County Commissioner, Position 3 (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 111 undervotes), 1756 registered voters, turnout 74.60%
+Seth Crawford                                                 647         53.96%
+Ken A Fahlgren                                                    547          45.62%
+Write-in                                                        5          0.42%
+Total                                                                             1199          {00.00%
+Overvotes                                                     0
+Undervotes                                                 111
+Crook County Sheriff (Vote for 1)
+1310 ballots (0 over voted ballots, 0 overvotes, 386 undervotes), 1756 registered voters, turnout 74.60%
+John W Gautney                                                  908          98.27%
+Write-in                                                       16          1.73%
+Total                                                                                            924            100.00%
+Overvotes                                                     0
+Undervotes                                                 386
+Mayor (Vote for 1)
+184 ballots (0 over voted ballots, 0 overvotes, 58 undervotes), 209 registered voters, turnout 88.04%
+Jason Beebe                                            124        98.41%
+Write-in                                                        2          1.59%
+Total                                                        126        100.00%
+Overvotes                                                     0
+Undervotes                                                  58

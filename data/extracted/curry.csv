@@ -1,0 +1,784 @@
+county,precinct_label,contest,type,choice,votes
+Curry,01,President,ballots_cast,,101
+Curry,01,President,registered,,122
+Curry,01,President,total_votes,,101
+Curry,01,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Curry,01,President,candidate,Cornel West,0
+Curry,01,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,01,President,candidate,Randall Terry,0
+Curry,01,President,candidate,Donald J Trump / JD Vance,53
+Curry,01,President,candidate,Jill Stein / Rudolph Ware,0
+Curry,01,President,candidate,Kamala D Harris / Tim Walz,45
+Curry,01,President,writein,,0
+Curry,01,President,overvotes,,0
+Curry,01,President,undervotes,,0
+Curry,02,President,ballots_cast,,510
+Curry,02,President,registered,,749
+Curry,02,President,total_votes,,507
+Curry,02,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,10
+Curry,02,President,candidate,Cornel West,0
+Curry,02,President,candidate,Chase Oliver / Mike ter Maat,5
+Curry,02,President,candidate,Randall Terry,0
+Curry,02,President,candidate,Donald J Trump / JD Vance,318
+Curry,02,President,candidate,Jill Stein / Rudolph Ware,3
+Curry,02,President,candidate,Kamala D Harris / Tim Walz,165
+Curry,02,President,writein,,6
+Curry,02,President,overvotes,,2
+Curry,02,President,undervotes,,1
+Curry,03,President,ballots_cast,,425
+Curry,03,President,registered,,543
+Curry,03,President,total_votes,,419
+Curry,03,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,12
+Curry,03,President,candidate,Cornel West,1
+Curry,03,President,candidate,Chase Oliver / Mike ter Maat,9
+Curry,03,President,candidate,Randall Terry,0
+Curry,03,President,candidate,Donald J Trump / JD Vance,201
+Curry,03,President,candidate,Jill Stein / Rudolph Ware,4
+Curry,03,President,candidate,Kamala D Harris / Tim Walz,190
+Curry,03,President,writein,,2
+Curry,03,President,overvotes,,1
+Curry,03,President,undervotes,,5
+Curry,04,President,ballots_cast,,217
+Curry,04,President,registered,,268
+Curry,04,President,total_votes,,217
+Curry,04,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,11
+Curry,04,President,candidate,Cornel West,0
+Curry,04,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,04,President,candidate,Randall Terry,0
+Curry,04,President,candidate,Donald J Trump / JD Vance,140
+Curry,04,President,candidate,Jill Stein / Rudolph Ware,0
+Curry,04,President,candidate,Kamala D Harris / Tim Walz,64
+Curry,04,President,writein,,1
+Curry,04,President,overvotes,,0
+Curry,04,President,undervotes,,0
+Curry,05,President,ballots_cast,,659
+Curry,05,President,registered,,885
+Curry,05,President,total_votes,,651
+Curry,05,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,10
+Curry,05,President,candidate,Cornel West,1
+Curry,05,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,05,President,candidate,Randall Terry,0
+Curry,05,President,candidate,Donald J Trump / JD Vance,284
+Curry,05,President,candidate,Jill Stein / Rudolph Ware,6
+Curry,05,President,candidate,Kamala D Harris / Tim Walz,346
+Curry,05,President,writein,,3
+Curry,05,President,overvotes,,0
+Curry,05,President,undervotes,,8
+Curry,06,President,ballots_cast,,505
+Curry,06,President,registered,,626
+Curry,06,President,total_votes,,500
+Curry,06,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Curry,06,President,candidate,Cornel West,0
+Curry,06,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,06,President,candidate,Randall Terry,0
+Curry,06,President,candidate,Donald J Trump / JD Vance,190
+Curry,06,President,candidate,Jill Stein / Rudolph Ware,4
+Curry,06,President,candidate,Kamala D Harris / Tim Walz,298
+Curry,06,President,writein,,2
+Curry,06,President,overvotes,,0
+Curry,06,President,undervotes,,5
+Curry,07,President,ballots_cast,,268
+Curry,07,President,registered,,353
+Curry,07,President,total_votes,,265
+Curry,07,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,5
+Curry,07,President,candidate,Cornel West,0
+Curry,07,President,candidate,Chase Oliver / Mike ter Maat,4
+Curry,07,President,candidate,Randall Terry,1
+Curry,07,President,candidate,Donald J Trump / JD Vance,87
+Curry,07,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,07,President,candidate,Kamala D Harris / Tim Walz,164
+Curry,07,President,writein,,2
+Curry,07,President,overvotes,,0
+Curry,07,President,undervotes,,3
+Curry,08,President,ballots_cast,,501
+Curry,08,President,registered,,619
+Curry,08,President,total_votes,,498
+Curry,08,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Curry,08,President,candidate,Cornel West,1
+Curry,08,President,candidate,Chase Oliver / Mike ter Maat,2
+Curry,08,President,candidate,Randall Terry,1
+Curry,08,President,candidate,Donald J Trump / JD Vance,289
+Curry,08,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,08,President,candidate,Kamala D Harris / Tim Walz,193
+Curry,08,President,writein,,3
+Curry,08,President,overvotes,,0
+Curry,08,President,undervotes,,3
+Curry,09,President,ballots_cast,,828
+Curry,09,President,registered,,1020
+Curry,09,President,total_votes,,824
+Curry,09,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,12
+Curry,09,President,candidate,Cornel West,0
+Curry,09,President,candidate,Chase Oliver / Mike ter Maat,2
+Curry,09,President,candidate,Randall Terry,0
+Curry,09,President,candidate,Donald J Trump / JD Vance,486
+Curry,09,President,candidate,Jill Stein / Rudolph Ware,9
+Curry,09,President,candidate,Kamala D Harris / Tim Walz,310
+Curry,09,President,writein,,5
+Curry,09,President,overvotes,,1
+Curry,09,President,undervotes,,3
+Curry,10,President,ballots_cast,,523
+Curry,10,President,registered,,699
+Curry,10,President,total_votes,,516
+Curry,10,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Curry,10,President,candidate,Cornel West,0
+Curry,10,President,candidate,Chase Oliver / Mike ter Maat,3
+Curry,10,President,candidate,Randall Terry,2
+Curry,10,President,candidate,Donald J Trump / JD Vance,279
+Curry,10,President,candidate,Jill Stein / Rudolph Ware,3
+Curry,10,President,candidate,Kamala D Harris / Tim Walz,218
+Curry,10,President,writein,,2
+Curry,10,President,overvotes,,0
+Curry,10,President,undervotes,,7
+Curry,11,President,ballots_cast,,787
+Curry,11,President,registered,,1082
+Curry,11,President,total_votes,,780
+Curry,11,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,16
+Curry,11,President,candidate,Cornel West,2
+Curry,11,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,11,President,candidate,Randall Terry,0
+Curry,11,President,candidate,Donald J Trump / JD Vance,437
+Curry,11,President,candidate,Jill Stein / Rudolph Ware,4
+Curry,11,President,candidate,Kamala D Harris / Tim Walz,318
+Curry,11,President,writein,,3
+Curry,11,President,overvotes,,0
+Curry,11,President,undervotes,,7
+Curry,12,President,ballots_cast,,229
+Curry,12,President,registered,,299
+Curry,12,President,total_votes,,226
+Curry,12,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Curry,12,President,candidate,Cornel West,0
+Curry,12,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,12,President,candidate,Randall Terry,0
+Curry,12,President,candidate,Donald J Trump / JD Vance,132
+Curry,12,President,candidate,Jill Stein / Rudolph Ware,0
+Curry,12,President,candidate,Kamala D Harris / Tim Walz,88
+Curry,12,President,writein,,0
+Curry,12,President,overvotes,,0
+Curry,12,President,undervotes,,3
+Curry,13,President,ballots_cast,,248
+Curry,13,President,registered,,316
+Curry,13,President,total_votes,,248
+Curry,13,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,4
+Curry,13,President,candidate,Cornel West,0
+Curry,13,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,13,President,candidate,Randall Terry,0
+Curry,13,President,candidate,Donald J Trump / JD Vance,160
+Curry,13,President,candidate,Jill Stein / Rudolph Ware,0
+Curry,13,President,candidate,Kamala D Harris / Tim Walz,82
+Curry,13,President,writein,,2
+Curry,13,President,overvotes,,0
+Curry,13,President,undervotes,,0
+Curry,14,President,ballots_cast,,333
+Curry,14,President,registered,,488
+Curry,14,President,total_votes,,330
+Curry,14,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Curry,14,President,candidate,Cornel West,0
+Curry,14,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,14,President,candidate,Randall Terry,1
+Curry,14,President,candidate,Donald J Trump / JD Vance,220
+Curry,14,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,14,President,candidate,Kamala D Harris / Tim Walz,98
+Curry,14,President,writein,,3
+Curry,14,President,overvotes,,0
+Curry,14,President,undervotes,,3
+Curry,15,President,ballots_cast,,440
+Curry,15,President,registered,,665
+Curry,15,President,total_votes,,432
+Curry,15,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,1
+Curry,15,President,candidate,Cornel West,0
+Curry,15,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,15,President,candidate,Randall Terry,0
+Curry,15,President,candidate,Donald J Trump / JD Vance,253
+Curry,15,President,candidate,Jill Stein / Rudolph Ware,0
+Curry,15,President,candidate,Kamala D Harris / Tim Walz,174
+Curry,15,President,writein,,4
+Curry,15,President,overvotes,,0
+Curry,15,President,undervotes,,8
+Curry,16,President,ballots_cast,,1272
+Curry,16,President,registered,,1899
+Curry,16,President,total_votes,,1260
+Curry,16,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,26
+Curry,16,President,candidate,Cornel West,1
+Curry,16,President,candidate,Chase Oliver / Mike ter Maat,5
+Curry,16,President,candidate,Randall Terry,0
+Curry,16,President,candidate,Donald J Trump / JD Vance,736
+Curry,16,President,candidate,Jill Stein / Rudolph Ware,4
+Curry,16,President,candidate,Kamala D Harris / Tim Walz,474
+Curry,16,President,writein,,14
+Curry,16,President,overvotes,,0
+Curry,16,President,undervotes,,12
+Curry,17,President,ballots_cast,,1581
+Curry,17,President,registered,,2134
+Curry,17,President,total_votes,,1570
+Curry,17,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,27
+Curry,17,President,candidate,Cornel West,1
+Curry,17,President,candidate,Chase Oliver / Mike ter Maat,6
+Curry,17,President,candidate,Randall Terry,2
+Curry,17,President,candidate,Donald J Trump / JD Vance,879
+Curry,17,President,candidate,Jill Stein / Rudolph Ware,7
+Curry,17,President,candidate,Kamala D Harris / Tim Walz,644
+Curry,17,President,writein,,4
+Curry,17,President,overvotes,,1
+Curry,17,President,undervotes,,10
+Curry,18,President,ballots_cast,,424
+Curry,18,President,registered,,604
+Curry,18,President,total_votes,,421
+Curry,18,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Curry,18,President,candidate,Cornel West,0
+Curry,18,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,18,President,candidate,Randall Terry,0
+Curry,18,President,candidate,Donald J Trump / JD Vance,241
+Curry,18,President,candidate,Jill Stein / Rudolph Ware,1
+Curry,18,President,candidate,Kamala D Harris / Tim Walz,169
+Curry,18,President,writein,,2
+Curry,18,President,overvotes,,0
+Curry,18,President,undervotes,,3
+Curry,19,President,ballots_cast,,693
+Curry,19,President,registered,,917
+Curry,19,President,total_votes,,687
+Curry,19,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Curry,19,President,candidate,Cornel West,0
+Curry,19,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,19,President,candidate,Randall Terry,0
+Curry,19,President,candidate,Donald J Trump / JD Vance,457
+Curry,19,President,candidate,Jill Stein / Rudolph Ware,4
+Curry,19,President,candidate,Kamala D Harris / Tim Walz,216
+Curry,19,President,writein,,2
+Curry,19,President,overvotes,,1
+Curry,19,President,undervotes,,5
+Curry,20,President,ballots_cast,,372
+Curry,20,President,registered,,498
+Curry,20,President,total_votes,,370
+Curry,20,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Curry,20,President,candidate,Cornel West,0
+Curry,20,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,20,President,candidate,Randall Terry,0
+Curry,20,President,candidate,Donald J Trump / JD Vance,226
+Curry,20,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,20,President,candidate,Kamala D Harris / Tim Walz,133
+Curry,20,President,writein,,0
+Curry,20,President,overvotes,,1
+Curry,20,President,undervotes,,1
+Curry,21,President,ballots_cast,,289
+Curry,21,President,registered,,393
+Curry,21,President,total_votes,,287
+Curry,21,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Curry,21,President,candidate,Cornel West,0
+Curry,21,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,21,President,candidate,Randall Terry,1
+Curry,21,President,candidate,Donald J Trump / JD Vance,171
+Curry,21,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,21,President,candidate,Kamala D Harris / Tim Walz,109
+Curry,21,President,writein,,1
+Curry,21,President,overvotes,,0
+Curry,21,President,undervotes,,2
+Curry,22,President,ballots_cast,,471
+Curry,22,President,registered,,680
+Curry,22,President,total_votes,,469
+Curry,22,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,12
+Curry,22,President,candidate,Cornel West,1
+Curry,22,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,22,President,candidate,Randall Terry,1
+Curry,22,President,candidate,Donald J Trump / JD Vance,269
+Curry,22,President,candidate,Jill Stein / Rudolph Ware,1
+Curry,22,President,candidate,Kamala D Harris / Tim Walz,183
+Curry,22,President,writein,,1
+Curry,22,President,overvotes,,0
+Curry,22,President,undervotes,,2
+Curry,23,President,ballots_cast,,459
+Curry,23,President,registered,,596
+Curry,23,President,total_votes,,455
+Curry,23,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,18
+Curry,23,President,candidate,Cornel West,0
+Curry,23,President,candidate,Chase Oliver / Mike ter Maat,4
+Curry,23,President,candidate,Randall Terry,0
+Curry,23,President,candidate,Donald J Trump / JD Vance,244
+Curry,23,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,23,President,candidate,Kamala D Harris / Tim Walz,186
+Curry,23,President,writein,,1
+Curry,23,President,overvotes,,0
+Curry,23,President,undervotes,,4
+Curry,24,President,ballots_cast,,523
+Curry,24,President,registered,,682
+Curry,24,President,total_votes,,519
+Curry,24,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Curry,24,President,candidate,Cornel West,0
+Curry,24,President,candidate,Chase Oliver / Mike ter Maat,1
+Curry,24,President,candidate,Randall Terry,0
+Curry,24,President,candidate,Donald J Trump / JD Vance,287
+Curry,24,President,candidate,Jill Stein / Rudolph Ware,2
+Curry,24,President,candidate,Kamala D Harris / Tim Walz,221
+Curry,24,President,writein,,1
+Curry,24,President,overvotes,,0
+Curry,24,President,undervotes,,4
+Curry,25,President,ballots_cast,,513
+Curry,25,President,registered,,777
+Curry,25,President,total_votes,,510
+Curry,25,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Curry,25,President,candidate,Cornel West,1
+Curry,25,President,candidate,Chase Oliver / Mike ter Maat,0
+Curry,25,President,candidate,Randall Terry,0
+Curry,25,President,candidate,Donald J Trump / JD Vance,288
+Curry,25,President,candidate,Jill Stein / Rudolph Ware,1
+Curry,25,President,candidate,Kamala D Harris / Tim Walz,213
+Curry,25,President,writein,,1
+Curry,25,President,overvotes,,0
+Curry,25,President,undervotes,,3
+Curry,26,President,ballots_cast,,813
+Curry,26,President,registered,,1043
+Curry,26,President,total_votes,,808
+Curry,26,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Curry,26,President,candidate,Cornel West,0
+Curry,26,President,candidate,Chase Oliver / Mike ter Maat,2
+Curry,26,President,candidate,Randall Terry,1
+Curry,26,President,candidate,Donald J Trump / JD Vance,466
+Curry,26,President,candidate,Jill Stein / Rudolph Ware,4
+Curry,26,President,candidate,Kamala D Harris / Tim Walz,327
+Curry,26,President,writein,,2
+Curry,26,President,overvotes,,0
+Curry,26,President,undervotes,,5
+Curry,27,President,ballots_cast,,331
+Curry,27,President,registered,,401
+Curry,27,President,total_votes,,330
+Curry,27,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,9
+Curry,27,President,candidate,Cornel West,1
+Curry,27,President,candidate,Chase Oliver / Mike ter Maat,2
+Curry,27,President,candidate,Randall Terry,0
+Curry,27,President,candidate,Donald J Trump / JD Vance,207
+Curry,27,President,candidate,Jill Stein / Rudolph Ware,0
+Curry,27,President,candidate,Kamala D Harris / Tim Walz,109
+Curry,27,President,writein,,2
+Curry,27,President,overvotes,,0
+Curry,27,President,undervotes,,1
+Curry,01,"State Senator, 1st District",ballots_cast,,101
+Curry,01,"State Senator, 1st District",registered,,122
+Curry,01,"State Senator, 1st District",total_votes,,94
+Curry,01,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,40
+Curry,01,"State Senator, 1st District",candidate,David Brock Smith,54
+Curry,01,"State Senator, 1st District",writein,,0
+Curry,01,"State Senator, 1st District",overvotes,,0
+Curry,01,"State Senator, 1st District",undervotes,,7
+Curry,02,"State Senator, 1st District",ballots_cast,,509
+Curry,02,"State Senator, 1st District",registered,,749
+Curry,02,"State Senator, 1st District",total_votes,,482
+Curry,02,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,145
+Curry,02,"State Senator, 1st District",candidate,David Brock Smith,337
+Curry,02,"State Senator, 1st District",writein,,0
+Curry,02,"State Senator, 1st District",overvotes,,0
+Curry,02,"State Senator, 1st District",undervotes,,27
+Curry,03,"State Senator, 1st District",ballots_cast,,425
+Curry,03,"State Senator, 1st District",registered,,543
+Curry,03,"State Senator, 1st District",total_votes,,399
+Curry,03,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,174
+Curry,03,"State Senator, 1st District",candidate,David Brock Smith,224
+Curry,03,"State Senator, 1st District",writein,,1
+Curry,03,"State Senator, 1st District",overvotes,,0
+Curry,03,"State Senator, 1st District",undervotes,,26
+Curry,04,"State Senator, 1st District",ballots_cast,,217
+Curry,04,"State Senator, 1st District",registered,,268
+Curry,04,"State Senator, 1st District",total_votes,,195
+Curry,04,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,50
+Curry,04,"State Senator, 1st District",candidate,David Brock Smith,144
+Curry,04,"State Senator, 1st District",writein,,1
+Curry,04,"State Senator, 1st District",overvotes,,0
+Curry,04,"State Senator, 1st District",undervotes,,22
+Curry,05,"State Senator, 1st District",ballots_cast,,657
+Curry,05,"State Senator, 1st District",registered,,885
+Curry,05,"State Senator, 1st District",total_votes,,638
+Curry,05,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,323
+Curry,05,"State Senator, 1st District",candidate,David Brock Smith,314
+Curry,05,"State Senator, 1st District",writein,,1
+Curry,05,"State Senator, 1st District",overvotes,,0
+Curry,05,"State Senator, 1st District",undervotes,,19
+Curry,06,"State Senator, 1st District",ballots_cast,,503
+Curry,06,"State Senator, 1st District",registered,,626
+Curry,06,"State Senator, 1st District",total_votes,,481
+Curry,06,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,270
+Curry,06,"State Senator, 1st District",candidate,David Brock Smith,209
+Curry,06,"State Senator, 1st District",writein,,2
+Curry,06,"State Senator, 1st District",overvotes,,0
+Curry,06,"State Senator, 1st District",undervotes,,22
+Curry,07,"State Senator, 1st District",ballots_cast,,268
+Curry,07,"State Senator, 1st District",registered,,353
+Curry,07,"State Senator, 1st District",total_votes,,253
+Curry,07,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,150
+Curry,07,"State Senator, 1st District",candidate,David Brock Smith,102
+Curry,07,"State Senator, 1st District",writein,,1
+Curry,07,"State Senator, 1st District",overvotes,,0
+Curry,07,"State Senator, 1st District",undervotes,,15
+Curry,08,"State Senator, 1st District",ballots_cast,,501
+Curry,08,"State Senator, 1st District",registered,,619
+Curry,08,"State Senator, 1st District",total_votes,,474
+Curry,08,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,161
+Curry,08,"State Senator, 1st District",candidate,David Brock Smith,311
+Curry,08,"State Senator, 1st District",writein,,2
+Curry,08,"State Senator, 1st District",overvotes,,0
+Curry,08,"State Senator, 1st District",undervotes,,27
+Curry,09,"State Senator, 1st District",ballots_cast,,827
+Curry,09,"State Senator, 1st District",registered,,1020
+Curry,09,"State Senator, 1st District",total_votes,,783
+Curry,09,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,258
+Curry,09,"State Senator, 1st District",candidate,David Brock Smith,522
+Curry,09,"State Senator, 1st District",writein,,3
+Curry,09,"State Senator, 1st District",overvotes,,0
+Curry,09,"State Senator, 1st District",undervotes,,44
+Curry,10,"State Senator, 1st District",ballots_cast,,523
+Curry,10,"State Senator, 1st District",registered,,699
+Curry,10,"State Senator, 1st District",total_votes,,494
+Curry,10,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,193
+Curry,10,"State Senator, 1st District",candidate,David Brock Smith,301
+Curry,10,"State Senator, 1st District",writein,,0
+Curry,10,"State Senator, 1st District",overvotes,,0
+Curry,10,"State Senator, 1st District",undervotes,,29
+Curry,11,"State Senator, 1st District",ballots_cast,,787
+Curry,11,"State Senator, 1st District",registered,,1082
+Curry,11,"State Senator, 1st District",total_votes,,739
+Curry,11,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,265
+Curry,11,"State Senator, 1st District",candidate,David Brock Smith,474
+Curry,11,"State Senator, 1st District",writein,,0
+Curry,11,"State Senator, 1st District",overvotes,,0
+Curry,11,"State Senator, 1st District",undervotes,,48
+Curry,12,"State Senator, 1st District",ballots_cast,,229
+Curry,12,"State Senator, 1st District",registered,,299
+Curry,12,"State Senator, 1st District",total_votes,,221
+Curry,12,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,78
+Curry,12,"State Senator, 1st District",candidate,David Brock Smith,142
+Curry,12,"State Senator, 1st District",writein,,1
+Curry,12,"State Senator, 1st District",overvotes,,0
+Curry,12,"State Senator, 1st District",undervotes,,8
+Curry,13,"State Senator, 1st District",ballots_cast,,246
+Curry,13,"State Senator, 1st District",registered,,316
+Curry,13,"State Senator, 1st District",total_votes,,238
+Curry,13,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,70
+Curry,13,"State Senator, 1st District",candidate,David Brock Smith,166
+Curry,13,"State Senator, 1st District",writein,,2
+Curry,13,"State Senator, 1st District",overvotes,,0
+Curry,13,"State Senator, 1st District",undervotes,,8
+Curry,14,"State Senator, 1st District",ballots_cast,,331
+Curry,14,"State Senator, 1st District",registered,,488
+Curry,14,"State Senator, 1st District",total_votes,,320
+Curry,14,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,91
+Curry,14,"State Senator, 1st District",candidate,David Brock Smith,229
+Curry,14,"State Senator, 1st District",writein,,0
+Curry,14,"State Senator, 1st District",overvotes,,0
+Curry,14,"State Senator, 1st District",undervotes,,11
+Curry,15,"State Senator, 1st District",ballots_cast,,440
+Curry,15,"State Senator, 1st District",registered,,665
+Curry,15,"State Senator, 1st District",total_votes,,412
+Curry,15,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,142
+Curry,15,"State Senator, 1st District",candidate,David Brock Smith,269
+Curry,15,"State Senator, 1st District",writein,,1
+Curry,15,"State Senator, 1st District",overvotes,,0
+Curry,15,"State Senator, 1st District",undervotes,,28
+Curry,16,"State Senator, 1st District",ballots_cast,,1272
+Curry,16,"State Senator, 1st District",registered,,1899
+Curry,16,"State Senator, 1st District",total_votes,,1198
+Curry,16,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,426
+Curry,16,"State Senator, 1st District",candidate,David Brock Smith,769
+Curry,16,"State Senator, 1st District",writein,,3
+Curry,16,"State Senator, 1st District",overvotes,,0
+Curry,16,"State Senator, 1st District",undervotes,,74
+Curry,17,"State Senator, 1st District",ballots_cast,,1581
+Curry,17,"State Senator, 1st District",registered,,2134
+Curry,17,"State Senator, 1st District",total_votes,,1494
+Curry,17,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,547
+Curry,17,"State Senator, 1st District",candidate,David Brock Smith,944
+Curry,17,"State Senator, 1st District",writein,,3
+Curry,17,"State Senator, 1st District",overvotes,,0
+Curry,17,"State Senator, 1st District",undervotes,,87
+Curry,18,"State Senator, 1st District",ballots_cast,,424
+Curry,18,"State Senator, 1st District",registered,,604
+Curry,18,"State Senator, 1st District",total_votes,,393
+Curry,18,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,142
+Curry,18,"State Senator, 1st District",candidate,David Brock Smith,250
+Curry,18,"State Senator, 1st District",writein,,1
+Curry,18,"State Senator, 1st District",overvotes,,0
+Curry,18,"State Senator, 1st District",undervotes,,31
+Curry,19,"State Senator, 1st District",ballots_cast,,693
+Curry,19,"State Senator, 1st District",registered,,917
+Curry,19,"State Senator, 1st District",total_votes,,661
+Curry,19,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,193
+Curry,19,"State Senator, 1st District",candidate,David Brock Smith,465
+Curry,19,"State Senator, 1st District",writein,,3
+Curry,19,"State Senator, 1st District",overvotes,,0
+Curry,19,"State Senator, 1st District",undervotes,,32
+Curry,20,"State Senator, 1st District",ballots_cast,,372
+Curry,20,"State Senator, 1st District",registered,,498
+Curry,20,"State Senator, 1st District",total_votes,,339
+Curry,20,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,104
+Curry,20,"State Senator, 1st District",candidate,David Brock Smith,234
+Curry,20,"State Senator, 1st District",writein,,1
+Curry,20,"State Senator, 1st District",overvotes,,0
+Curry,20,"State Senator, 1st District",undervotes,,33
+Curry,21,"State Senator, 1st District",ballots_cast,,287
+Curry,21,"State Senator, 1st District",registered,,393
+Curry,21,"State Senator, 1st District",total_votes,,268
+Curry,21,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,84
+Curry,21,"State Senator, 1st District",candidate,David Brock Smith,181
+Curry,21,"State Senator, 1st District",writein,,3
+Curry,21,"State Senator, 1st District",overvotes,,0
+Curry,21,"State Senator, 1st District",undervotes,,19
+Curry,22,"State Senator, 1st District",ballots_cast,,471
+Curry,22,"State Senator, 1st District",registered,,680
+Curry,22,"State Senator, 1st District",total_votes,,437
+Curry,22,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,167
+Curry,22,"State Senator, 1st District",candidate,David Brock Smith,269
+Curry,22,"State Senator, 1st District",writein,,1
+Curry,22,"State Senator, 1st District",overvotes,,0
+Curry,22,"State Senator, 1st District",undervotes,,34
+Curry,23,"State Senator, 1st District",ballots_cast,,459
+Curry,23,"State Senator, 1st District",registered,,596
+Curry,23,"State Senator, 1st District",total_votes,,430
+Curry,23,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,158
+Curry,23,"State Senator, 1st District",candidate,David Brock Smith,271
+Curry,23,"State Senator, 1st District",writein,,1
+Curry,23,"State Senator, 1st District",overvotes,,0
+Curry,23,"State Senator, 1st District",undervotes,,29
+Curry,24,"State Senator, 1st District",ballots_cast,,523
+Curry,24,"State Senator, 1st District",registered,,682
+Curry,24,"State Senator, 1st District",total_votes,,492
+Curry,24,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,189
+Curry,24,"State Senator, 1st District",candidate,David Brock Smith,302
+Curry,24,"State Senator, 1st District",writein,,1
+Curry,24,"State Senator, 1st District",overvotes,,0
+Curry,24,"State Senator, 1st District",undervotes,,31
+Curry,25,"State Senator, 1st District",ballots_cast,,513
+Curry,25,"State Senator, 1st District",registered,,777
+Curry,25,"State Senator, 1st District",total_votes,,488
+Curry,25,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,193
+Curry,25,"State Senator, 1st District",candidate,David Brock Smith,294
+Curry,25,"State Senator, 1st District",writein,,1
+Curry,25,"State Senator, 1st District",overvotes,,0
+Curry,25,"State Senator, 1st District",undervotes,,25
+Curry,26,"State Senator, 1st District",ballots_cast,,813
+Curry,26,"State Senator, 1st District",registered,,1043
+Curry,26,"State Senator, 1st District",total_votes,,777
+Curry,26,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,290
+Curry,26,"State Senator, 1st District",candidate,David Brock Smith,483
+Curry,26,"State Senator, 1st District",writein,,4
+Curry,26,"State Senator, 1st District",overvotes,,0
+Curry,26,"State Senator, 1st District",undervotes,,36
+Curry,27,"State Senator, 1st District",ballots_cast,,330
+Curry,27,"State Senator, 1st District",registered,,401
+Curry,27,"State Senator, 1st District",total_votes,,310
+Curry,27,"State Senator, 1st District",candidate,Lupe Preciado-McAlister,94
+Curry,27,"State Senator, 1st District",candidate,David Brock Smith,214
+Curry,27,"State Senator, 1st District",writein,,2
+Curry,27,"State Senator, 1st District",overvotes,,0
+Curry,27,"State Senator, 1st District",undervotes,,20
+Curry,01,"State Representative, 1st District",ballots_cast,,101
+Curry,01,"State Representative, 1st District",registered,,122
+Curry,01,"State Representative, 1st District",total_votes,,95
+Curry,01,"State Representative, 1st District",candidate,Court Boice,59
+Curry,01,"State Representative, 1st District",candidate,Bret Cecil,35
+Curry,01,"State Representative, 1st District",writein,,1
+Curry,01,"State Representative, 1st District",overvotes,,0
+Curry,01,"State Representative, 1st District",undervotes,,6
+Curry,02,"State Representative, 1st District",ballots_cast,,509
+Curry,02,"State Representative, 1st District",registered,,749
+Curry,02,"State Representative, 1st District",total_votes,,478
+Curry,02,"State Representative, 1st District",candidate,Court Boice,330
+Curry,02,"State Representative, 1st District",candidate,Bret Cecil,148
+Curry,02,"State Representative, 1st District",writein,,0
+Curry,02,"State Representative, 1st District",overvotes,,0
+Curry,02,"State Representative, 1st District",undervotes,,31
+Curry,03,"State Representative, 1st District",ballots_cast,,425
+Curry,03,"State Representative, 1st District",registered,,543
+Curry,03,"State Representative, 1st District",total_votes,,399
+Curry,03,"State Representative, 1st District",candidate,Court Boice,208
+Curry,03,"State Representative, 1st District",candidate,Bret Cecil,189
+Curry,03,"State Representative, 1st District",writein,,2
+Curry,03,"State Representative, 1st District",overvotes,,0
+Curry,03,"State Representative, 1st District",undervotes,,26
+Curry,04,"State Representative, 1st District",ballots_cast,,217
+Curry,04,"State Representative, 1st District",registered,,268
+Curry,04,"State Representative, 1st District",total_votes,,205
+Curry,04,"State Representative, 1st District",candidate,Court Boice,146
+Curry,04,"State Representative, 1st District",candidate,Bret Cecil,59
+Curry,04,"State Representative, 1st District",writein,,0
+Curry,04,"State Representative, 1st District",overvotes,,0
+Curry,04,"State Representative, 1st District",undervotes,,12
+Curry,05,"State Representative, 1st District",ballots_cast,,657
+Curry,05,"State Representative, 1st District",registered,,885
+Curry,05,"State Representative, 1st District",total_votes,,639
+Curry,05,"State Representative, 1st District",candidate,Court Boice,293
+Curry,05,"State Representative, 1st District",candidate,Bret Cecil,346
+Curry,05,"State Representative, 1st District",writein,,0
+Curry,05,"State Representative, 1st District",overvotes,,0
+Curry,05,"State Representative, 1st District",undervotes,,18
+Curry,06,"State Representative, 1st District",ballots_cast,,503
+Curry,06,"State Representative, 1st District",registered,,626
+Curry,06,"State Representative, 1st District",total_votes,,480
+Curry,06,"State Representative, 1st District",candidate,Court Boice,194
+Curry,06,"State Representative, 1st District",candidate,Bret Cecil,283
+Curry,06,"State Representative, 1st District",writein,,3
+Curry,06,"State Representative, 1st District",overvotes,,0
+Curry,06,"State Representative, 1st District",undervotes,,23
+Curry,07,"State Representative, 1st District",ballots_cast,,268
+Curry,07,"State Representative, 1st District",registered,,353
+Curry,07,"State Representative, 1st District",total_votes,,251
+Curry,07,"State Representative, 1st District",candidate,Court Boice,87
+Curry,07,"State Representative, 1st District",candidate,Bret Cecil,164
+Curry,07,"State Representative, 1st District",writein,,0
+Curry,07,"State Representative, 1st District",overvotes,,1
+Curry,07,"State Representative, 1st District",undervotes,,16
+Curry,08,"State Representative, 1st District",ballots_cast,,501
+Curry,08,"State Representative, 1st District",registered,,619
+Curry,08,"State Representative, 1st District",total_votes,,478
+Curry,08,"State Representative, 1st District",candidate,Court Boice,302
+Curry,08,"State Representative, 1st District",candidate,Bret Cecil,173
+Curry,08,"State Representative, 1st District",writein,,3
+Curry,08,"State Representative, 1st District",overvotes,,0
+Curry,08,"State Representative, 1st District",undervotes,,23
+Curry,09,"State Representative, 1st District",ballots_cast,,827
+Curry,09,"State Representative, 1st District",registered,,1020
+Curry,09,"State Representative, 1st District",total_votes,,787
+Curry,09,"State Representative, 1st District",candidate,Court Boice,501
+Curry,09,"State Representative, 1st District",candidate,Bret Cecil,283
+Curry,09,"State Representative, 1st District",writein,,3
+Curry,09,"State Representative, 1st District",overvotes,,1
+Curry,09,"State Representative, 1st District",undervotes,,39
+Curry,10,"State Representative, 1st District",ballots_cast,,523
+Curry,10,"State Representative, 1st District",registered,,699
+Curry,10,"State Representative, 1st District",total_votes,,497
+Curry,10,"State Representative, 1st District",candidate,Court Boice,288
+Curry,10,"State Representative, 1st District",candidate,Bret Cecil,208
+Curry,10,"State Representative, 1st District",writein,,1
+Curry,10,"State Representative, 1st District",overvotes,,0
+Curry,10,"State Representative, 1st District",undervotes,,26
+Curry,11,"State Representative, 1st District",ballots_cast,,787
+Curry,11,"State Representative, 1st District",registered,,1082
+Curry,11,"State Representative, 1st District",total_votes,,747
+Curry,11,"State Representative, 1st District",candidate,Court Boice,458
+Curry,11,"State Representative, 1st District",candidate,Bret Cecil,287
+Curry,11,"State Representative, 1st District",writein,,2
+Curry,11,"State Representative, 1st District",overvotes,,0
+Curry,11,"State Representative, 1st District",undervotes,,40
+Curry,12,"State Representative, 1st District",ballots_cast,,229
+Curry,12,"State Representative, 1st District",registered,,299
+Curry,12,"State Representative, 1st District",total_votes,,225
+Curry,12,"State Representative, 1st District",candidate,Court Boice,143
+Curry,12,"State Representative, 1st District",candidate,Bret Cecil,80
+Curry,12,"State Representative, 1st District",writein,,2
+Curry,12,"State Representative, 1st District",overvotes,,0
+Curry,12,"State Representative, 1st District",undervotes,,4
+Curry,13,"State Representative, 1st District",ballots_cast,,246
+Curry,13,"State Representative, 1st District",registered,,316
+Curry,13,"State Representative, 1st District",total_votes,,239
+Curry,13,"State Representative, 1st District",candidate,Court Boice,162
+Curry,13,"State Representative, 1st District",candidate,Bret Cecil,73
+Curry,13,"State Representative, 1st District",writein,,4
+Curry,13,"State Representative, 1st District",overvotes,,0
+Curry,13,"State Representative, 1st District",undervotes,,7
+Curry,14,"State Representative, 1st District",ballots_cast,,331
+Curry,14,"State Representative, 1st District",registered,,488
+Curry,14,"State Representative, 1st District",total_votes,,316
+Curry,14,"State Representative, 1st District",candidate,Court Boice,223
+Curry,14,"State Representative, 1st District",candidate,Bret Cecil,93
+Curry,14,"State Representative, 1st District",writein,,0
+Curry,14,"State Representative, 1st District",overvotes,,0
+Curry,14,"State Representative, 1st District",undervotes,,15
+Curry,15,"State Representative, 1st District",ballots_cast,,440
+Curry,15,"State Representative, 1st District",registered,,665
+Curry,15,"State Representative, 1st District",total_votes,,415
+Curry,15,"State Representative, 1st District",candidate,Court Boice,253
+Curry,15,"State Representative, 1st District",candidate,Bret Cecil,162
+Curry,15,"State Representative, 1st District",writein,,0
+Curry,15,"State Representative, 1st District",overvotes,,0
+Curry,15,"State Representative, 1st District",undervotes,,25
+Curry,16,"State Representative, 1st District",ballots_cast,,1272
+Curry,16,"State Representative, 1st District",registered,,1899
+Curry,16,"State Representative, 1st District",total_votes,,1198
+Curry,16,"State Representative, 1st District",candidate,Court Boice,751
+Curry,16,"State Representative, 1st District",candidate,Bret Cecil,442
+Curry,16,"State Representative, 1st District",writein,,5
+Curry,16,"State Representative, 1st District",overvotes,,0
+Curry,16,"State Representative, 1st District",undervotes,,74
+Curry,17,"State Representative, 1st District",ballots_cast,,1581
+Curry,17,"State Representative, 1st District",registered,,2134
+Curry,17,"State Representative, 1st District",total_votes,,1502
+Curry,17,"State Representative, 1st District",candidate,Court Boice,902
+Curry,17,"State Representative, 1st District",candidate,Bret Cecil,594
+Curry,17,"State Representative, 1st District",writein,,6
+Curry,17,"State Representative, 1st District",overvotes,,0
+Curry,17,"State Representative, 1st District",undervotes,,79
+Curry,18,"State Representative, 1st District",ballots_cast,,424
+Curry,18,"State Representative, 1st District",registered,,604
+Curry,18,"State Representative, 1st District",total_votes,,400
+Curry,18,"State Representative, 1st District",candidate,Court Boice,247
+Curry,18,"State Representative, 1st District",candidate,Bret Cecil,152
+Curry,18,"State Representative, 1st District",writein,,1
+Curry,18,"State Representative, 1st District",overvotes,,0
+Curry,18,"State Representative, 1st District",undervotes,,24
+Curry,19,"State Representative, 1st District",ballots_cast,,693
+Curry,19,"State Representative, 1st District",registered,,917
+Curry,19,"State Representative, 1st District",total_votes,,669
+Curry,19,"State Representative, 1st District",candidate,Court Boice,457
+Curry,19,"State Representative, 1st District",candidate,Bret Cecil,206
+Curry,19,"State Representative, 1st District",writein,,6
+Curry,19,"State Representative, 1st District",overvotes,,0
+Curry,19,"State Representative, 1st District",undervotes,,24
+Curry,20,"State Representative, 1st District",ballots_cast,,372
+Curry,20,"State Representative, 1st District",registered,,498
+Curry,20,"State Representative, 1st District",total_votes,,350
+Curry,20,"State Representative, 1st District",candidate,Court Boice,234
+Curry,20,"State Representative, 1st District",candidate,Bret Cecil,114
+Curry,20,"State Representative, 1st District",writein,,2
+Curry,20,"State Representative, 1st District",overvotes,,0
+Curry,20,"State Representative, 1st District",undervotes,,22
+Curry,21,"State Representative, 1st District",ballots_cast,,287
+Curry,21,"State Representative, 1st District",registered,,393
+Curry,21,"State Representative, 1st District",total_votes,,275
+Curry,21,"State Representative, 1st District",candidate,Court Boice,181
+Curry,21,"State Representative, 1st District",candidate,Bret Cecil,93
+Curry,21,"State Representative, 1st District",writein,,1
+Curry,21,"State Representative, 1st District",overvotes,,0
+Curry,21,"State Representative, 1st District",undervotes,,12
+Curry,22,"State Representative, 1st District",ballots_cast,,471
+Curry,22,"State Representative, 1st District",registered,,680
+Curry,22,"State Representative, 1st District",total_votes,,439
+Curry,22,"State Representative, 1st District",candidate,Court Boice,262
+Curry,22,"State Representative, 1st District",candidate,Bret Cecil,176
+Curry,22,"State Representative, 1st District",writein,,1
+Curry,22,"State Representative, 1st District",overvotes,,0
+Curry,22,"State Representative, 1st District",undervotes,,32
+Curry,23,"State Representative, 1st District",ballots_cast,,459
+Curry,23,"State Representative, 1st District",registered,,596
+Curry,23,"State Representative, 1st District",total_votes,,431
+Curry,23,"State Representative, 1st District",candidate,Court Boice,264
+Curry,23,"State Representative, 1st District",candidate,Bret Cecil,165
+Curry,23,"State Representative, 1st District",writein,,2
+Curry,23,"State Representative, 1st District",overvotes,,0
+Curry,23,"State Representative, 1st District",undervotes,,28
+Curry,24,"State Representative, 1st District",ballots_cast,,523
+Curry,24,"State Representative, 1st District",registered,,682
+Curry,24,"State Representative, 1st District",total_votes,,496
+Curry,24,"State Representative, 1st District",candidate,Court Boice,295
+Curry,24,"State Representative, 1st District",candidate,Bret Cecil,201
+Curry,24,"State Representative, 1st District",writein,,0
+Curry,24,"State Representative, 1st District",overvotes,,0
+Curry,24,"State Representative, 1st District",undervotes,,27
+Curry,25,"State Representative, 1st District",ballots_cast,,513
+Curry,25,"State Representative, 1st District",registered,,777
+Curry,25,"State Representative, 1st District",total_votes,,488
+Curry,25,"State Representative, 1st District",candidate,Court Boice,284
+Curry,25,"State Representative, 1st District",candidate,Bret Cecil,202
+Curry,25,"State Representative, 1st District",writein,,2
+Curry,25,"State Representative, 1st District",overvotes,,0
+Curry,25,"State Representative, 1st District",undervotes,,25
+Curry,26,"State Representative, 1st District",ballots_cast,,813
+Curry,26,"State Representative, 1st District",registered,,1043
+Curry,26,"State Representative, 1st District",total_votes,,783
+Curry,26,"State Representative, 1st District",candidate,Court Boice,476
+Curry,26,"State Representative, 1st District",candidate,Bret Cecil,303
+Curry,26,"State Representative, 1st District",writein,,4
+Curry,26,"State Representative, 1st District",overvotes,,0
+Curry,26,"State Representative, 1st District",undervotes,,30
+Curry,27,"State Representative, 1st District",ballots_cast,,330
+Curry,27,"State Representative, 1st District",registered,,401
+Curry,27,"State Representative, 1st District",total_votes,,313
+Curry,27,"State Representative, 1st District",candidate,Court Boice,209
+Curry,27,"State Representative, 1st District",candidate,Bret Cecil,103
+Curry,27,"State Representative, 1st District",writein,,1
+Curry,27,"State Representative, 1st District",overvotes,,0
+Curry,27,"State Representative, 1st District",undervotes,,17

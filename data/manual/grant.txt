@@ -1,0 +1,34 @@
+# Grant County, November 5, 2024 General Election - "Detail Results By Precinct" (data/sources/grant-2024-general.pdf)
+# Scanned report, one section per precinct (the code under "Machine ID"); transcribed from the page images.
+# Precinct codes are matched to the map's precinct names (John Day, Union, ...) by their Harris/Trump counts.
+# In every section the contest "Total" equals ballots cast, so votes + over + under = ballots_cast.
+
+contest: President
+source: pages 1, 6, 11, 16, 20 (first page of each precinct)
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | overvotes | undervotes | ballots_cast
+03 - John Day: 58 1 12 3 2296 6 574 19 3 23 2995
+04 - Union: 19 1 2 1 625 4 94 4 1 4 755
+08 - North Fork: 4 0 0 0 196 0 51 0 0 3 254
+16 - South Fork: 6 1 0 0 163 1 51 0 0 10 232
+17 - Long Creek: 4 0 0 0 210 2 46 2 0 1 265
+TOTAL: n/a
+
+contest: State Senator, 30th District
+source: pages 2, 7, 12, 17, 21
+cols: McLane | writein | overvotes | undervotes | ballots_cast
+03 - John Day: 2183 27 1 784 2995
+04 - Union: 576 8 0 171 755
+08 - North Fork: 188 1 0 65 254
+16 - South Fork: 158 1 0 73 232
+17 - Long Creek: 206 1 0 58 265
+TOTAL: n/a
+
+contest: State Representative, 60th District
+source: pages 2, 7, 12, 17, 21
+cols: Owens | writein | overvotes | undervotes | ballots_cast
+03 - John Day: 2232 29 0 734 2995
+04 - Union: 597 6 0 152 755
+08 - North Fork: 189 1 0 64 254
+16 - South Fork: 161 2 0 69 232
+17 - Long Creek: 198 1 0 66 265
+TOTAL: n/a

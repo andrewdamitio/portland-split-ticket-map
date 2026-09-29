@@ -1,0 +1,44 @@
+SS SSS SSS ——————————— LL ———————
+
+Ballots Cast per Contest with Precincts                                          Page: 54 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:11:39
+
+Official Results
+Total Ballots Cast: 301105, Registered Voters: 400012, Overall Turnout: 75.27%
+Judge of the Circuit Court, 20th District, Position 6 (Vote for 1)
+
+Precinct                Ballots         Reg.            Total D Charles Bailey          KC LeDell               Write-in                Over       Under
+Cast  Voters    Votes    Jr                        Votes   Votes
+Precinct 428    1359   1967    988   551 55.77%   437 44.23%    0 0.00%    1)   371
+Precinct 429     2699   3785    1913   1125 58.81%   779 40.72%    9 0.47%    0   786
+Precinct 430    2310   2835    1491   976 65.46%   493 33.07%    22 1.48%    1   818
+Precinct 431     775   945    520   367 70.58%   147 28.27%    6 1.15%    0   255
+Precinct 432     306   401     223   119 53.36%   104 46.64%    0 0.00%    0    83
+Precinct 433     2171   2698    1608   925 57.52%   674 41.92%    9 0.56%    0   563
+Precinct 434     4401   5831    3157   1876 59.42%   1264 40.04%    17 0.54%    0)   1244
+Precinct 435    4132   5143    2843   1811 63.70%   1016 35.74%    16 0.56%    0)   1289
+Precinct 436    2242   2612    1592   1047 65.77%   532 33.42%    13 0.82%    0)   650
+Precinct 437     63    82     41    16 39.02%    25 60.98%    0 0.00%    Q    22
+Precinct 438     493   641    340   212 62.35%   124 36.47%    4 1.18%    0   153
+Precinct 439    2375   3122    1755   1021 58.18%   733 41.77%    1 0.06%    1   619
+Precinct 440     1461   2096    1103   606 54.94%   493 44.70%    4 0.36%    1   357
+Precinct 444      70    87     53    28 52.83%    25 47.17%    0 0.00%    0)    17
+Precinct 442    2708   3394    1943   1266 65.16%   669 34.43%    8 0.41%    0   765
+Precinct 443      11    11     9    5 55.56%    4 44.44%    0 0.00%    0    2
+Precinct 444     121   150     88   61 69.32%   27 30.68%    0 0.00%    0   33
+Precinct 445      1    1     1    1 100.00%    0 0.00%    0 0.00%    0    0
+Precinct 446     107   197     78    42 53.85%    36 46.15%    0 0.00%    0    29
+Precinct 447     285   344    202   133 65.84%    68 33.66%    1 0.50%    0    83
+Precinct 448     771   956    558   365 65.41%   191 34.23%    2 0.36%    ¢)   213
+Precinct 449     293   346    193   122 63.21%    68 35.23%    3 1.55%    0)   100
+Precinct 450     170   208    106    76 71.70%    28 26.42%    2 1.89%    0)    64
+Precinct 451     1066   1450    763   422 55.31%   336 44.04%    5 0.66%    0)   303
+Precinct 452      99   131     62    45 72.58%    17 27.42%    0 0.00%    0    37
+Precinct 453     11    13     6    4 66.67%    2 33.33%    0 0.00%    0    5
+Precinct 454      19    27     11    5 45.45%    6 54.55%    0 0.00%    0    8
+Precinct 455     1486   2157    1019   543 53.29%   472 46.32%    4 0.39%    1   466
+Precinct 456      Z    8     7    3 42.86%    4 57.14%    0 0.00%    0    )
+Total       300013 400012   212098 123977 58.45%  86964 41.00%   1157 0.55%    25  87890

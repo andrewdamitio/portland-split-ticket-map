@@ -1,0 +1,60 @@
+a ee 9 0808080 080808 eee
+Statement of Votes Cast by Geography                                           Page: 55 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                              2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                     09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+(ee aprecincts reported out of 17 total
+Choice                                             Votes       Vote %
+Crook County Soil Water Conservation D Z 2 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 2915 undervotes), 4012 registered voters, turnout 76.99%
+Write-in                                                                                                          174                100.00%
+Total                                                        174        100.00%
+Overvotes                                                     0
+Undervotes                                                                             2915
+Crook County Soil Water Conservation D Z 3 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 1271 undervotes), 4012 registered voters, turnout 76.99%
+Gary Bedortha                                               1797          98.84%
+Write-in                                                                                     21                 1.16%
+Total                                                       1818        100.00%
+Overvotes                                                     0
+Undervotes                                               1271
+Crook County Soil Water Conservation D At Lrg (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 1337 undervotes), 4012 registered voters, turnout 76.99%
+John William Dehler III                                  1731         98.80%
+Write-in                                                      21           1.20%
+Total                                                                                         1752            100.00%
+Overvotes                                                     0
+Undervotes                                1337
+Question 7-115 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 154 undervotes), 4012 registered voters, turnout 76.99%
+Yes                                                        1397         47.60%
+No                                                         1538         52.40%
+Total                                                                                                      2935              100.00%
+Overvotes                                                     0
+Undervotes                                                 154
+Question 7-116 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 203 undervotes), 4012 registered voters, turnout 76.99%
+Yes                                                         989         34.27%
+No                                                                                                                   1897                  65.73%
+Total                                                                       2886          100.00%
+Overvotes                                                     0
+Undervotes                                                 203
+Question 7-117 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 150 undervotes), 4012 registered voters, turnout 76.99%
+Yes                                                         622         21.16%
+No                                                         2317         78.84%
+Total                                                                                                      2939              100.00%
+Overvotes                                                     0
+Undervotes                                                 150
+Question 7-118 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 146 undervotes), 4012 registered voters, turnout 76.99%
+Yes                                                                           411            13.97%
+No                                                         2532         86.03%
+Total                                                                       2943          100.00%
+Overvotes                                                     0
+Undervotes                                                 146
+Question 7-119 (Vote for 1)
+3089 ballots (0 over voted ballots, 0 overvotes, 236 undervotes), 4012 registered voters, turnout 76.99%
+Yes                                                        1078         37.78%
+No                                                         1775         62.22%

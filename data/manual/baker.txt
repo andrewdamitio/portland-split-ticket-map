@@ -1,0 +1,69 @@
+# Baker County, November 5, 2024 General Election - Abstract, Official Results (data/sources/baker-2024-general.pdf)
+# Scanned Electionware table reports; transcribed from the page images. "Write-in: Not Assigned" is a subset of
+# "Write-in Totals" and is skipped. "Contest Total" = ballots cast. Labels are "<precinct number> <name>".
+
+contest: President
+source: page 1
+cols: Kennedy | West | Oliver | Terry | Trump | Stein | Harris | writein | skip | total_votes | overvotes | undervotes | ballots_cast
+1 Baker 1: 19 2 3 3 642 1 260 4 4 934 0 10 944
+2 Baker 2: 15 2 2 1 608 7 307 5 5 947 0 7 954
+3 Baker 3: 23 0 4 1 698 6 301 2 2 1035 2 7 1044
+4 Baker 4: 19 2 6 1 831 6 299 13 13 1177 0 8 1185
+5 Baker 5: 23 1 6 0 930 3 305 7 7 1275 3 11 1289
+13 Baker Country: 5 0 1 2 596 0 127 1 1 732 2 5 739
+14 Durkee: 0 0 0 0 70 0 3 0 0 73 0 1 74
+15 Eagle Valley: 6 0 5 1 361 0 65 0 0 438 0 4 442
+17 Haines: 5 0 9 0 482 1 96 4 4 597 0 7 604
+18 Hereford: 2 0 0 0 72 1 3 0 0 78 0 1 79
+19 Huntington: 7 1 0 1 215 1 52 0 0 277 1 4 282
+20 Irondyke: 1 0 0 1 39 0 19 0 0 60 0 0 60
+21 Keating: 5 0 2 0 137 0 25 0 0 169 0 0 169
+22 Pine Valley: 3 0 2 0 458 5 188 2 2 658 0 7 665
+24 Poca-Wing: 10 0 2 0 592 4 214 3 3 825 0 11 836
+25 Sumpter: 3 0 1 0 252 0 64 2 2 322 0 4 326
+26 Unity: 2 0 0 0 77 1 15 2 2 97 0 1 98
+TOTAL: 148 8 43 11 7060 36 2343 45 45 9694 8 88 9790
+
+contest: State Senator, 30th District
+source: page 6
+cols: McLane | writein | skip | total_votes | overvotes | undervotes | ballots_cast
+1 Baker 1: 688 9 9 697 0 247 944
+2 Baker 2: 708 14 14 722 0 232 954
+3 Baker 3: 744 6 6 750 1 293 1044
+4 Baker 4: 885 12 12 897 0 288 1185
+5 Baker 5: 950 7 7 957 0 332 1289
+13 Baker Country: 553 0 0 553 0 186 739
+14 Durkee: 62 1 1 63 0 11 74
+15 Eagle Valley: 351 5 5 356 0 86 442
+17 Haines: 452 4 4 456 0 148 604
+18 Hereford: 61 0 0 61 0 18 79
+19 Huntington: 226 3 3 229 0 53 282
+20 Irondyke: 48 0 0 48 0 12 60
+21 Keating: 127 0 0 127 0 42 169
+22 Pine Valley: 493 5 5 498 2 165 665
+24 Poca-Wing: 587 5 5 592 0 244 836
+25 Sumpter: 229 5 5 234 0 92 326
+26 Unity: 75 1 1 76 0 22 98
+TOTAL: 7239 77 77 7316 3 2471 9790
+
+contest: State Representative, 60th District
+source: page 7
+cols: Owens | writein | skip | total_votes | overvotes | undervotes | ballots_cast
+1 Baker 1: 677 8 8 685 0 259 944
+2 Baker 2: 706 12 12 718 0 236 954
+3 Baker 3: 715 6 6 721 0 323 1044
+4 Baker 4: 870 11 11 881 0 304 1185
+5 Baker 5: 949 7 7 956 0 333 1289
+13 Baker Country: 564 4 4 568 0 171 739
+14 Durkee: 63 1 1 64 0 10 74
+15 Eagle Valley: 331 4 4 335 0 107 442
+17 Haines: 456 4 4 460 0 144 604
+18 Hereford: 63 0 0 63 0 16 79
+19 Huntington: 215 3 3 218 0 64 282
+20 Irondyke: 46 1 1 47 0 13 60
+21 Keating: 127 0 0 127 0 42 169
+22 Pine Valley: 475 9 9 484 0 181 665
+24 Poca-Wing: 615 4 4 619 0 217 836
+25 Sumpter: 236 7 7 243 0 83 326
+26 Unity: 78 0 0 78 0 20 98
+TOTAL: 7186 81 81 7267 0 2523 9790

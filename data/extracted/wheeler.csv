@@ -1,0 +1,76 @@
+county,precinct_label,contest,type,choice,votes
+Wheeler,1 FOS,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,13
+Wheeler,1 FOS,President,candidate,Cornel West,0
+Wheeler,1 FOS,President,candidate,Chase Oliver / Mike ter Maat,1
+Wheeler,1 FOS,President,candidate,Randall Terry,0
+Wheeler,1 FOS,President,candidate,Donald J Trump / JD Vance,256
+Wheeler,1 FOS,President,candidate,Jill Stein / Rudolph Ware,6
+Wheeler,1 FOS,President,candidate,Kamala D Harris / Tim Walz,103
+Wheeler,1 FOS,President,writein,,1
+Wheeler,1 FOS,President,overvotes,,0
+Wheeler,1 FOS,President,undervotes,,9
+Wheeler,1 FOS,President,ballots_cast,,389
+Wheeler,1 FOS,President,total_votes,,380
+Wheeler,3 MIT,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Wheeler,3 MIT,President,candidate,Cornel West,0
+Wheeler,3 MIT,President,candidate,Chase Oliver / Mike ter Maat,2
+Wheeler,3 MIT,President,candidate,Randall Terry,0
+Wheeler,3 MIT,President,candidate,Donald J Trump / JD Vance,150
+Wheeler,3 MIT,President,candidate,Jill Stein / Rudolph Ware,0
+Wheeler,3 MIT,President,candidate,Kamala D Harris / Tim Walz,52
+Wheeler,3 MIT,President,writein,,1
+Wheeler,3 MIT,President,overvotes,,0
+Wheeler,3 MIT,President,undervotes,,4
+Wheeler,3 MIT,President,ballots_cast,,211
+Wheeler,3 MIT,President,total_votes,,207
+Wheeler,4 SPR,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,10
+Wheeler,4 SPR,President,candidate,Cornel West,0
+Wheeler,4 SPR,President,candidate,Chase Oliver / Mike ter Maat,2
+Wheeler,4 SPR,President,candidate,Randall Terry,0
+Wheeler,4 SPR,President,candidate,Donald J Trump / JD Vance,212
+Wheeler,4 SPR,President,candidate,Jill Stein / Rudolph Ware,1
+Wheeler,4 SPR,President,candidate,Kamala D Harris / Tim Walz,55
+Wheeler,4 SPR,President,writein,,1
+Wheeler,4 SPR,President,overvotes,,1
+Wheeler,4 SPR,President,undervotes,,9
+Wheeler,4 SPR,President,ballots_cast,,291
+Wheeler,4 SPR,President,total_votes,,281
+Wheeler,1 FOS,"State Senator, 29th District",candidate,Tania Wildbill,37
+Wheeler,1 FOS,"State Senator, 29th District",candidate,Todd Nash,279
+Wheeler,1 FOS,"State Senator, 29th District",writein,,2
+Wheeler,1 FOS,"State Senator, 29th District",overvotes,,0
+Wheeler,1 FOS,"State Senator, 29th District",undervotes,,71
+Wheeler,1 FOS,"State Senator, 29th District",ballots_cast,,389
+Wheeler,1 FOS,"State Senator, 29th District",total_votes,,318
+Wheeler,3 MIT,"State Senator, 29th District",candidate,Tania Wildbill,23
+Wheeler,3 MIT,"State Senator, 29th District",candidate,Todd Nash,156
+Wheeler,3 MIT,"State Senator, 29th District",writein,,1
+Wheeler,3 MIT,"State Senator, 29th District",overvotes,,0
+Wheeler,3 MIT,"State Senator, 29th District",undervotes,,31
+Wheeler,3 MIT,"State Senator, 29th District",ballots_cast,,211
+Wheeler,3 MIT,"State Senator, 29th District",total_votes,,180
+Wheeler,4 SPR,"State Senator, 29th District",candidate,Tania Wildbill,30
+Wheeler,4 SPR,"State Senator, 29th District",candidate,Todd Nash,219
+Wheeler,4 SPR,"State Senator, 29th District",writein,,0
+Wheeler,4 SPR,"State Senator, 29th District",overvotes,,0
+Wheeler,4 SPR,"State Senator, 29th District",undervotes,,42
+Wheeler,4 SPR,"State Senator, 29th District",ballots_cast,,291
+Wheeler,4 SPR,"State Senator, 29th District",total_votes,,249
+Wheeler,1 FOS,"State Representative, 57th District",candidate,Greg Smith,276
+Wheeler,1 FOS,"State Representative, 57th District",writein,,5
+Wheeler,1 FOS,"State Representative, 57th District",overvotes,,0
+Wheeler,1 FOS,"State Representative, 57th District",undervotes,,108
+Wheeler,1 FOS,"State Representative, 57th District",ballots_cast,,389
+Wheeler,1 FOS,"State Representative, 57th District",total_votes,,281
+Wheeler,3 MIT,"State Representative, 57th District",candidate,Greg Smith,168
+Wheeler,3 MIT,"State Representative, 57th District",writein,,6
+Wheeler,3 MIT,"State Representative, 57th District",overvotes,,0
+Wheeler,3 MIT,"State Representative, 57th District",undervotes,,37
+Wheeler,3 MIT,"State Representative, 57th District",ballots_cast,,211
+Wheeler,3 MIT,"State Representative, 57th District",total_votes,,174
+Wheeler,4 SPR,"State Representative, 57th District",candidate,Greg Smith,222
+Wheeler,4 SPR,"State Representative, 57th District",writein,,4
+Wheeler,4 SPR,"State Representative, 57th District",overvotes,,0
+Wheeler,4 SPR,"State Representative, 57th District",undervotes,,65
+Wheeler,4 SPR,"State Representative, 57th District",ballots_cast,,291
+Wheeler,4 SPR,"State Representative, 57th District",total_votes,,226

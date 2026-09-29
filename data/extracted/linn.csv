@@ -1,0 +1,1850 @@
+county,precinct_label,contest,type,choice,votes
+Linn,001,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,49
+Linn,001,President,candidate,Cornel West,8
+Linn,001,President,candidate,Chase Oliver/Mike ter Maat,9
+Linn,001,President,candidate,Randall Terry,3
+Linn,001,President,candidate,Donald J Trump/JD Vance,589
+Linn,001,President,candidate,Jill Stein/Rudolph Ware,14
+Linn,001,President,candidate,Kamala D Harris/Tim Walz,1057
+Linn,001,President,writein,,15
+Linn,001,President,total_votes,,1744
+Linn,001,President,overvotes,,6
+Linn,001,President,undervotes,,16
+Linn,001,President,ballots_cast,,1766
+Linn,001,President,registered,,2309
+Linn,001,"State Representative, 15th District",candidate,Terrence Virnig,930
+Linn,001,"State Representative, 15th District",candidate,Shelly Boshart Davis,714
+Linn,001,"State Representative, 15th District",writein,,1
+Linn,001,"State Representative, 15th District",total_votes,,1645
+Linn,001,"State Representative, 15th District",overvotes,,0
+Linn,001,"State Representative, 15th District",undervotes,,121
+Linn,001,"State Representative, 15th District",ballots_cast,,1766
+Linn,001,"State Representative, 15th District",registered,,2309
+Linn,002,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,002,President,candidate,Cornel West,0
+Linn,002,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,002,President,candidate,Randall Terry,0
+Linn,002,President,candidate,Donald J Trump/JD Vance,1
+Linn,002,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,002,President,candidate,Kamala D Harris/Tim Walz,0
+Linn,002,President,writein,,0
+Linn,002,President,total_votes,,1
+Linn,002,President,overvotes,,0
+Linn,002,President,undervotes,,0
+Linn,002,President,ballots_cast,,1
+Linn,002,President,registered,,1
+Linn,002,"State Representative, 15th District",candidate,Terrence Virnig,0
+Linn,002,"State Representative, 15th District",candidate,Shelly Boshart Davis,1
+Linn,002,"State Representative, 15th District",writein,,0
+Linn,002,"State Representative, 15th District",total_votes,,1
+Linn,002,"State Representative, 15th District",overvotes,,0
+Linn,002,"State Representative, 15th District",undervotes,,0
+Linn,002,"State Representative, 15th District",ballots_cast,,1
+Linn,002,"State Representative, 15th District",registered,,1
+Linn,003,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,26
+Linn,003,President,candidate,Cornel West,3
+Linn,003,President,candidate,Chase Oliver/Mike ter Maat,6
+Linn,003,President,candidate,Randall Terry,1
+Linn,003,President,candidate,Donald J Trump/JD Vance,1040
+Linn,003,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,003,President,candidate,Kamala D Harris/Tim Walz,334
+Linn,003,President,writein,,10
+Linn,003,President,total_votes,,1425
+Linn,003,President,overvotes,,3
+Linn,003,President,undervotes,,13
+Linn,003,President,ballots_cast,,1441
+Linn,003,President,registered,,1792
+Linn,003,"State Representative, 11th District",candidate,Ivan Maluski,268
+Linn,003,"State Representative, 11th District",candidate,Jami Cate,1055
+Linn,003,"State Representative, 11th District",writein,,1
+Linn,003,"State Representative, 11th District",total_votes,,1324
+Linn,003,"State Representative, 11th District",overvotes,,1
+Linn,003,"State Representative, 11th District",undervotes,,116
+Linn,003,"State Representative, 11th District",ballots_cast,,1441
+Linn,003,"State Representative, 11th District",registered,,1792
+Linn,004,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,9
+Linn,004,President,candidate,Cornel West,0
+Linn,004,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,004,President,candidate,Randall Terry,0
+Linn,004,President,candidate,Donald J Trump/JD Vance,338
+Linn,004,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,004,President,candidate,Kamala D Harris/Tim Walz,135
+Linn,004,President,writein,,2
+Linn,004,President,total_votes,,491
+Linn,004,President,overvotes,,2
+Linn,004,President,undervotes,,2
+Linn,004,President,ballots_cast,,495
+Linn,004,President,registered,,681
+Linn,004,"State Representative, 11th District",candidate,Ivan Maluski,135
+Linn,004,"State Representative, 11th District",candidate,Jami Cate,322
+Linn,004,"State Representative, 11th District",writein,,2
+Linn,004,"State Representative, 11th District",total_votes,,459
+Linn,004,"State Representative, 11th District",overvotes,,0
+Linn,004,"State Representative, 11th District",undervotes,,36
+Linn,004,"State Representative, 11th District",ballots_cast,,495
+Linn,004,"State Representative, 11th District",registered,,681
+Linn,005,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,35
+Linn,005,President,candidate,Cornel West,8
+Linn,005,President,candidate,Chase Oliver/Mike ter Maat,19
+Linn,005,President,candidate,Randall Terry,2
+Linn,005,President,candidate,Donald J Trump/JD Vance,847
+Linn,005,President,candidate,Jill Stein/Rudolph Ware,14
+Linn,005,President,candidate,Kamala D Harris/Tim Walz,1033
+Linn,005,President,writein,,5
+Linn,005,President,total_votes,,1963
+Linn,005,President,overvotes,,8
+Linn,005,President,undervotes,,19
+Linn,005,President,ballots_cast,,1990
+Linn,005,President,registered,,3248
+Linn,005,"State Representative, 15th District",candidate,Terrence Virnig,919
+Linn,005,"State Representative, 15th District",candidate,Shelly Boshart Davis,929
+Linn,005,"State Representative, 15th District",writein,,4
+Linn,005,"State Representative, 15th District",total_votes,,1852
+Linn,005,"State Representative, 15th District",overvotes,,0
+Linn,005,"State Representative, 15th District",undervotes,,138
+Linn,005,"State Representative, 15th District",ballots_cast,,1990
+Linn,005,"State Representative, 15th District",registered,,3248
+Linn,006,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Linn,006,President,candidate,Cornel West,0
+Linn,006,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,006,President,candidate,Randall Terry,0
+Linn,006,President,candidate,Donald J Trump/JD Vance,641
+Linn,006,President,candidate,Jill Stein/Rudolph Ware,8
+Linn,006,President,candidate,Kamala D Harris/Tim Walz,304
+Linn,006,President,writein,,5
+Linn,006,President,total_votes,,987
+Linn,006,President,overvotes,,3
+Linn,006,President,undervotes,,12
+Linn,006,President,ballots_cast,,1002
+Linn,006,President,registered,,1526
+Linn,006,"State Representative, 11th District",candidate,Ivan Maluski,241
+Linn,006,"State Representative, 11th District",candidate,Jami Cate,642
+Linn,006,"State Representative, 11th District",writein,,4
+Linn,006,"State Representative, 11th District",total_votes,,887
+Linn,006,"State Representative, 11th District",overvotes,,0
+Linn,006,"State Representative, 11th District",undervotes,,115
+Linn,006,"State Representative, 11th District",ballots_cast,,1002
+Linn,006,"State Representative, 11th District",registered,,1526
+Linn,007,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Linn,007,President,candidate,Cornel West,0
+Linn,007,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,007,President,candidate,Randall Terry,0
+Linn,007,President,candidate,Donald J Trump/JD Vance,60
+Linn,007,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,007,President,candidate,Kamala D Harris/Tim Walz,11
+Linn,007,President,writein,,1
+Linn,007,President,total_votes,,75
+Linn,007,President,overvotes,,0
+Linn,007,President,undervotes,,0
+Linn,007,President,ballots_cast,,75
+Linn,007,President,registered,,87
+Linn,007,"State Representative, 11th District",candidate,Ivan Maluski,4
+Linn,007,"State Representative, 11th District",candidate,Jami Cate,65
+Linn,007,"State Representative, 11th District",writein,,1
+Linn,007,"State Representative, 11th District",total_votes,,70
+Linn,007,"State Representative, 11th District",overvotes,,0
+Linn,007,"State Representative, 11th District",undervotes,,5
+Linn,007,"State Representative, 11th District",ballots_cast,,75
+Linn,007,"State Representative, 11th District",registered,,87
+Linn,008,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,14
+Linn,008,President,candidate,Cornel West,1
+Linn,008,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,008,President,candidate,Randall Terry,2
+Linn,008,President,candidate,Donald J Trump/JD Vance,433
+Linn,008,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,008,President,candidate,Kamala D Harris/Tim Walz,360
+Linn,008,President,writein,,3
+Linn,008,President,total_votes,,820
+Linn,008,President,overvotes,,4
+Linn,008,President,undervotes,,6
+Linn,008,President,ballots_cast,,830
+Linn,008,President,registered,,1063
+Linn,008,"State Representative, 15th District",candidate,Terrence Virnig,289
+Linn,008,"State Representative, 15th District",candidate,Shelly Boshart Davis,476
+Linn,008,"State Representative, 15th District",writein,,1
+Linn,008,"State Representative, 15th District",total_votes,,766
+Linn,008,"State Representative, 15th District",overvotes,,0
+Linn,008,"State Representative, 15th District",undervotes,,64
+Linn,008,"State Representative, 15th District",ballots_cast,,830
+Linn,008,"State Representative, 15th District",registered,,1063
+Linn,009,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Linn,009,President,candidate,Cornel West,1
+Linn,009,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,009,President,candidate,Randall Terry,0
+Linn,009,President,candidate,Donald J Trump/JD Vance,595
+Linn,009,President,candidate,Jill Stein/Rudolph Ware,9
+Linn,009,President,candidate,Kamala D Harris/Tim Walz,510
+Linn,009,President,writein,,4
+Linn,009,President,total_votes,,1150
+Linn,009,President,overvotes,,7
+Linn,009,President,undervotes,,6
+Linn,009,President,ballots_cast,,1163
+Linn,009,President,registered,,2039
+Linn,009,"State Representative, 15th District",candidate,Terrence Virnig,465
+Linn,009,"State Representative, 15th District",candidate,Shelly Boshart Davis,600
+Linn,009,"State Representative, 15th District",writein,,1
+Linn,009,"State Representative, 15th District",total_votes,,1066
+Linn,009,"State Representative, 15th District",overvotes,,0
+Linn,009,"State Representative, 15th District",undervotes,,97
+Linn,009,"State Representative, 15th District",ballots_cast,,1163
+Linn,009,"State Representative, 15th District",registered,,2039
+Linn,010,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Linn,010,President,candidate,Cornel West,4
+Linn,010,President,candidate,Chase Oliver/Mike ter Maat,15
+Linn,010,President,candidate,Randall Terry,3
+Linn,010,President,candidate,Donald J Trump/JD Vance,768
+Linn,010,President,candidate,Jill Stein/Rudolph Ware,15
+Linn,010,President,candidate,Kamala D Harris/Tim Walz,830
+Linn,010,President,writein,,11
+Linn,010,President,total_votes,,1673
+Linn,010,President,overvotes,,8
+Linn,010,President,undervotes,,8
+Linn,010,President,ballots_cast,,1689
+Linn,010,President,registered,,2541
+Linn,010,"State Representative, 15th District",candidate,Terrence Virnig,705
+Linn,010,"State Representative, 15th District",candidate,Shelly Boshart Davis,857
+Linn,010,"State Representative, 15th District",writein,,1
+Linn,010,"State Representative, 15th District",total_votes,,1563
+Linn,010,"State Representative, 15th District",overvotes,,0
+Linn,010,"State Representative, 15th District",undervotes,,126
+Linn,010,"State Representative, 15th District",ballots_cast,,1689
+Linn,010,"State Representative, 15th District",registered,,2541
+Linn,011,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,51
+Linn,011,President,candidate,Cornel West,7
+Linn,011,President,candidate,Chase Oliver/Mike ter Maat,17
+Linn,011,President,candidate,Randall Terry,2
+Linn,011,President,candidate,Donald J Trump/JD Vance,1255
+Linn,011,President,candidate,Jill Stein/Rudolph Ware,17
+Linn,011,President,candidate,Kamala D Harris/Tim Walz,1309
+Linn,011,President,writein,,9
+Linn,011,President,total_votes,,2667
+Linn,011,President,overvotes,,3
+Linn,011,President,undervotes,,18
+Linn,011,President,ballots_cast,,2688
+Linn,011,President,registered,,3768
+Linn,011,"State Representative, 15th District",candidate,Terrence Virnig,1095
+Linn,011,"State Representative, 15th District",candidate,Shelly Boshart Davis,1392
+Linn,011,"State Representative, 15th District",writein,,4
+Linn,011,"State Representative, 15th District",total_votes,,2491
+Linn,011,"State Representative, 15th District",overvotes,,0
+Linn,011,"State Representative, 15th District",undervotes,,197
+Linn,011,"State Representative, 15th District",ballots_cast,,2688
+Linn,011,"State Representative, 15th District",registered,,3768
+Linn,012,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Linn,012,President,candidate,Cornel West,3
+Linn,012,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,012,President,candidate,Randall Terry,0
+Linn,012,President,candidate,Donald J Trump/JD Vance,388
+Linn,012,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,012,President,candidate,Kamala D Harris/Tim Walz,388
+Linn,012,President,writein,,3
+Linn,012,President,total_votes,,817
+Linn,012,President,overvotes,,4
+Linn,012,President,undervotes,,7
+Linn,012,President,ballots_cast,,828
+Linn,012,President,registered,,1248
+Linn,012,"State Representative, 15th District",candidate,Terrence Virnig,343
+Linn,012,"State Representative, 15th District",candidate,Shelly Boshart Davis,426
+Linn,012,"State Representative, 15th District",writein,,0
+Linn,012,"State Representative, 15th District",total_votes,,769
+Linn,012,"State Representative, 15th District",overvotes,,0
+Linn,012,"State Representative, 15th District",undervotes,,59
+Linn,012,"State Representative, 15th District",ballots_cast,,828
+Linn,012,"State Representative, 15th District",registered,,1248
+Linn,013,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,30
+Linn,013,President,candidate,Cornel West,2
+Linn,013,President,candidate,Chase Oliver/Mike ter Maat,8
+Linn,013,President,candidate,Randall Terry,1
+Linn,013,President,candidate,Donald J Trump/JD Vance,773
+Linn,013,President,candidate,Jill Stein/Rudolph Ware,12
+Linn,013,President,candidate,Kamala D Harris/Tim Walz,578
+Linn,013,President,writein,,11
+Linn,013,President,total_votes,,1415
+Linn,013,President,overvotes,,2
+Linn,013,President,undervotes,,11
+Linn,013,President,ballots_cast,,1428
+Linn,013,President,registered,,2154
+Linn,013,"State Representative, 15th District",candidate,Terrence Virnig,526
+Linn,013,"State Representative, 15th District",candidate,Shelly Boshart Davis,793
+Linn,013,"State Representative, 15th District",writein,,6
+Linn,013,"State Representative, 15th District",total_votes,,1325
+Linn,013,"State Representative, 15th District",overvotes,,0
+Linn,013,"State Representative, 15th District",undervotes,,103
+Linn,013,"State Representative, 15th District",ballots_cast,,1428
+Linn,013,"State Representative, 15th District",registered,,2154
+Linn,014,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,40
+Linn,014,President,candidate,Cornel West,2
+Linn,014,President,candidate,Chase Oliver/Mike ter Maat,14
+Linn,014,President,candidate,Randall Terry,2
+Linn,014,President,candidate,Donald J Trump/JD Vance,751
+Linn,014,President,candidate,Jill Stein/Rudolph Ware,9
+Linn,014,President,candidate,Kamala D Harris/Tim Walz,808
+Linn,014,President,writein,,9
+Linn,014,President,total_votes,,1635
+Linn,014,President,overvotes,,10
+Linn,014,President,undervotes,,15
+Linn,014,President,ballots_cast,,1660
+Linn,014,President,registered,,2875
+Linn,014,"State Representative, 15th District",candidate,Terrence Virnig,723
+Linn,014,"State Representative, 15th District",candidate,Shelly Boshart Davis,778
+Linn,014,"State Representative, 15th District",writein,,2
+Linn,014,"State Representative, 15th District",total_votes,,1503
+Linn,014,"State Representative, 15th District",overvotes,,0
+Linn,014,"State Representative, 15th District",undervotes,,157
+Linn,014,"State Representative, 15th District",ballots_cast,,1660
+Linn,014,"State Representative, 15th District",registered,,2875
+Linn,015,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,14
+Linn,015,President,candidate,Cornel West,2
+Linn,015,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,015,President,candidate,Randall Terry,0
+Linn,015,President,candidate,Donald J Trump/JD Vance,603
+Linn,015,President,candidate,Jill Stein/Rudolph Ware,7
+Linn,015,President,candidate,Kamala D Harris/Tim Walz,246
+Linn,015,President,writein,,3
+Linn,015,President,total_votes,,879
+Linn,015,President,overvotes,,2
+Linn,015,President,undervotes,,6
+Linn,015,President,ballots_cast,,887
+Linn,015,President,registered,,1167
+Linn,015,"State Representative, 15th District",candidate,Terrence Virnig,180
+Linn,015,"State Representative, 15th District",candidate,Shelly Boshart Davis,661
+Linn,015,"State Representative, 15th District",writein,,0
+Linn,015,"State Representative, 15th District",total_votes,,841
+Linn,015,"State Representative, 15th District",overvotes,,0
+Linn,015,"State Representative, 15th District",undervotes,,46
+Linn,015,"State Representative, 15th District",ballots_cast,,887
+Linn,015,"State Representative, 15th District",registered,,1167
+Linn,016,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,27
+Linn,016,President,candidate,Cornel West,0
+Linn,016,President,candidate,Chase Oliver/Mike ter Maat,9
+Linn,016,President,candidate,Randall Terry,0
+Linn,016,President,candidate,Donald J Trump/JD Vance,743
+Linn,016,President,candidate,Jill Stein/Rudolph Ware,8
+Linn,016,President,candidate,Kamala D Harris/Tim Walz,874
+Linn,016,President,writein,,11
+Linn,016,President,total_votes,,1672
+Linn,016,President,overvotes,,9
+Linn,016,President,undervotes,,11
+Linn,016,President,ballots_cast,,1692
+Linn,016,President,registered,,2133
+Linn,016,"State Representative, 15th District",candidate,Terrence Virnig,754
+Linn,016,"State Representative, 15th District",candidate,Shelly Boshart Davis,842
+Linn,016,"State Representative, 15th District",writein,,0
+Linn,016,"State Representative, 15th District",total_votes,,1596
+Linn,016,"State Representative, 15th District",overvotes,,0
+Linn,016,"State Representative, 15th District",undervotes,,96
+Linn,016,"State Representative, 15th District",ballots_cast,,1692
+Linn,016,"State Representative, 15th District",registered,,2133
+Linn,017,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,017,President,candidate,Cornel West,0
+Linn,017,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,017,President,candidate,Randall Terry,0
+Linn,017,President,candidate,Donald J Trump/JD Vance,17
+Linn,017,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,017,President,candidate,Kamala D Harris/Tim Walz,8
+Linn,017,President,writein,,1
+Linn,017,President,total_votes,,26
+Linn,017,President,overvotes,,0
+Linn,017,President,undervotes,,1
+Linn,017,President,ballots_cast,,27
+Linn,017,President,registered,,30
+Linn,017,"State Representative, 11th District",candidate,Ivan Maluski,5
+Linn,017,"State Representative, 11th District",candidate,Jami Cate,20
+Linn,017,"State Representative, 11th District",writein,,0
+Linn,017,"State Representative, 11th District",total_votes,,25
+Linn,017,"State Representative, 11th District",overvotes,,0
+Linn,017,"State Representative, 11th District",undervotes,,2
+Linn,017,"State Representative, 11th District",ballots_cast,,27
+Linn,017,"State Representative, 11th District",registered,,30
+Linn,018,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,37
+Linn,018,President,candidate,Cornel West,4
+Linn,018,President,candidate,Chase Oliver/Mike ter Maat,10
+Linn,018,President,candidate,Randall Terry,3
+Linn,018,President,candidate,Donald J Trump/JD Vance,1053
+Linn,018,President,candidate,Jill Stein/Rudolph Ware,21
+Linn,018,President,candidate,Kamala D Harris/Tim Walz,1099
+Linn,018,President,writein,,17
+Linn,018,President,total_votes,,2244
+Linn,018,President,overvotes,,3
+Linn,018,President,undervotes,,22
+Linn,018,President,ballots_cast,,2269
+Linn,018,President,registered,,3000
+Linn,018,"State Representative, 15th District",candidate,Terrence Virnig,918
+Linn,018,"State Representative, 15th District",candidate,Shelly Boshart Davis,1211
+Linn,018,"State Representative, 15th District",writein,,0
+Linn,018,"State Representative, 15th District",total_votes,,2129
+Linn,018,"State Representative, 15th District",overvotes,,0
+Linn,018,"State Representative, 15th District",undervotes,,140
+Linn,018,"State Representative, 15th District",ballots_cast,,2269
+Linn,018,"State Representative, 15th District",registered,,3000
+Linn,019,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,14
+Linn,019,President,candidate,Cornel West,2
+Linn,019,President,candidate,Chase Oliver/Mike ter Maat,7
+Linn,019,President,candidate,Randall Terry,1
+Linn,019,President,candidate,Donald J Trump/JD Vance,417
+Linn,019,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,019,President,candidate,Kamala D Harris/Tim Walz,361
+Linn,019,President,writein,,3
+Linn,019,President,total_votes,,809
+Linn,019,President,overvotes,,0
+Linn,019,President,undervotes,,11
+Linn,019,President,ballots_cast,,820
+Linn,019,President,registered,,999
+Linn,019,"State Representative, 15th District",candidate,Terrence Virnig,289
+Linn,019,"State Representative, 15th District",candidate,Shelly Boshart Davis,483
+Linn,019,"State Representative, 15th District",writein,,0
+Linn,019,"State Representative, 15th District",total_votes,,772
+Linn,019,"State Representative, 15th District",overvotes,,0
+Linn,019,"State Representative, 15th District",undervotes,,48
+Linn,019,"State Representative, 15th District",ballots_cast,,820
+Linn,019,"State Representative, 15th District",registered,,999
+Linn,020,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Linn,020,President,candidate,Cornel West,0
+Linn,020,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,020,President,candidate,Randall Terry,0
+Linn,020,President,candidate,Donald J Trump/JD Vance,492
+Linn,020,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,020,President,candidate,Kamala D Harris/Tim Walz,160
+Linn,020,President,writein,,1
+Linn,020,President,total_votes,,666
+Linn,020,President,overvotes,,3
+Linn,020,President,undervotes,,1
+Linn,020,President,ballots_cast,,670
+Linn,020,President,registered,,902
+Linn,020,"State Representative, 11th District",candidate,Ivan Maluski,122
+Linn,020,"State Representative, 11th District",candidate,Jami Cate,475
+Linn,020,"State Representative, 11th District",writein,,1
+Linn,020,"State Representative, 11th District",total_votes,,598
+Linn,020,"State Representative, 11th District",overvotes,,0
+Linn,020,"State Representative, 11th District",undervotes,,72
+Linn,020,"State Representative, 11th District",ballots_cast,,670
+Linn,020,"State Representative, 11th District",registered,,902
+Linn,021,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,4
+Linn,021,President,candidate,Cornel West,0
+Linn,021,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,021,President,candidate,Randall Terry,0
+Linn,021,President,candidate,Donald J Trump/JD Vance,235
+Linn,021,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,021,President,candidate,Kamala D Harris/Tim Walz,74
+Linn,021,President,writein,,2
+Linn,021,President,total_votes,,319
+Linn,021,President,overvotes,,1
+Linn,021,President,undervotes,,2
+Linn,021,President,ballots_cast,,322
+Linn,021,President,registered,,393
+Linn,021,"State Representative, 11th District",candidate,Ivan Maluski,68
+Linn,021,"State Representative, 11th District",candidate,Jami Cate,228
+Linn,021,"State Representative, 11th District",writein,,1
+Linn,021,"State Representative, 11th District",total_votes,,297
+Linn,021,"State Representative, 11th District",overvotes,,0
+Linn,021,"State Representative, 11th District",undervotes,,25
+Linn,021,"State Representative, 11th District",ballots_cast,,322
+Linn,021,"State Representative, 11th District",registered,,393
+Linn,022,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Linn,022,President,candidate,Cornel West,0
+Linn,022,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,022,President,candidate,Randall Terry,1
+Linn,022,President,candidate,Donald J Trump/JD Vance,105
+Linn,022,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,022,President,candidate,Kamala D Harris/Tim Walz,29
+Linn,022,President,writein,,1
+Linn,022,President,total_votes,,139
+Linn,022,President,overvotes,,0
+Linn,022,President,undervotes,,1
+Linn,022,President,ballots_cast,,140
+Linn,022,President,registered,,178
+Linn,022,"State Representative, 11th District",candidate,Ivan Maluski,28
+Linn,022,"State Representative, 11th District",candidate,Jami Cate,98
+Linn,022,"State Representative, 11th District",writein,,0
+Linn,022,"State Representative, 11th District",total_votes,,126
+Linn,022,"State Representative, 11th District",overvotes,,0
+Linn,022,"State Representative, 11th District",undervotes,,14
+Linn,022,"State Representative, 11th District",ballots_cast,,140
+Linn,022,"State Representative, 11th District",registered,,178
+Linn,023,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,12
+Linn,023,President,candidate,Cornel West,0
+Linn,023,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,023,President,candidate,Randall Terry,0
+Linn,023,President,candidate,Donald J Trump/JD Vance,604
+Linn,023,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,023,President,candidate,Kamala D Harris/Tim Walz,205
+Linn,023,President,writein,,12
+Linn,023,President,total_votes,,842
+Linn,023,President,overvotes,,0
+Linn,023,President,undervotes,,3
+Linn,023,President,ballots_cast,,845
+Linn,023,President,registered,,1054
+Linn,023,"State Representative, 11th District",candidate,Ivan Maluski,162
+Linn,023,"State Representative, 11th District",candidate,Jami Cate,603
+Linn,023,"State Representative, 11th District",writein,,0
+Linn,023,"State Representative, 11th District",total_votes,,765
+Linn,023,"State Representative, 11th District",overvotes,,0
+Linn,023,"State Representative, 11th District",undervotes,,80
+Linn,023,"State Representative, 11th District",ballots_cast,,845
+Linn,023,"State Representative, 11th District",registered,,1054
+Linn,024,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,024,President,candidate,Cornel West,0
+Linn,024,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,024,President,candidate,Randall Terry,0
+Linn,024,President,candidate,Donald J Trump/JD Vance,35
+Linn,024,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,024,President,candidate,Kamala D Harris/Tim Walz,14
+Linn,024,President,writein,,0
+Linn,024,President,total_votes,,49
+Linn,024,President,overvotes,,0
+Linn,024,President,undervotes,,1
+Linn,024,President,ballots_cast,,50
+Linn,024,President,registered,,65
+Linn,024,"State Representative, 12th District",candidate,Michelle Emmons,11
+Linn,024,"State Representative, 12th District",candidate,Darin Harbick,34
+Linn,024,"State Representative, 12th District",writein,,0
+Linn,024,"State Representative, 12th District",total_votes,,45
+Linn,024,"State Representative, 12th District",overvotes,,0
+Linn,024,"State Representative, 12th District",undervotes,,5
+Linn,024,"State Representative, 12th District",ballots_cast,,50
+Linn,024,"State Representative, 12th District",registered,,65
+Linn,025,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Linn,025,President,candidate,Cornel West,0
+Linn,025,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,025,President,candidate,Randall Terry,1
+Linn,025,President,candidate,Donald J Trump/JD Vance,729
+Linn,025,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,025,President,candidate,Kamala D Harris/Tim Walz,284
+Linn,025,President,writein,,6
+Linn,025,President,total_votes,,1043
+Linn,025,President,overvotes,,4
+Linn,025,President,undervotes,,13
+Linn,025,President,ballots_cast,,1060
+Linn,025,President,registered,,1652
+Linn,025,"State Representative, 11th District",candidate,Ivan Maluski,249
+Linn,025,"State Representative, 11th District",candidate,Jami Cate,702
+Linn,025,"State Representative, 11th District",writein,,5
+Linn,025,"State Representative, 11th District",total_votes,,956
+Linn,025,"State Representative, 11th District",overvotes,,0
+Linn,025,"State Representative, 11th District",undervotes,,104
+Linn,025,"State Representative, 11th District",ballots_cast,,1060
+Linn,025,"State Representative, 11th District",registered,,1652
+Linn,026,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Linn,026,President,candidate,Cornel West,0
+Linn,026,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,026,President,candidate,Randall Terry,0
+Linn,026,President,candidate,Donald J Trump/JD Vance,168
+Linn,026,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,026,President,candidate,Kamala D Harris/Tim Walz,69
+Linn,026,President,writein,,0
+Linn,026,President,total_votes,,240
+Linn,026,President,overvotes,,3
+Linn,026,President,undervotes,,0
+Linn,026,President,ballots_cast,,243
+Linn,026,President,registered,,287
+Linn,026,"State Representative, 11th District",candidate,Ivan Maluski,46
+Linn,026,"State Representative, 11th District",candidate,Jami Cate,171
+Linn,026,"State Representative, 11th District",writein,,0
+Linn,026,"State Representative, 11th District",total_votes,,217
+Linn,026,"State Representative, 11th District",overvotes,,0
+Linn,026,"State Representative, 11th District",undervotes,,26
+Linn,026,"State Representative, 11th District",ballots_cast,,243
+Linn,026,"State Representative, 11th District",registered,,287
+Linn,027,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,17
+Linn,027,President,candidate,Cornel West,0
+Linn,027,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,027,President,candidate,Randall Terry,3
+Linn,027,President,candidate,Donald J Trump/JD Vance,347
+Linn,027,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,027,President,candidate,Kamala D Harris/Tim Walz,132
+Linn,027,President,writein,,5
+Linn,027,President,total_votes,,505
+Linn,027,President,overvotes,,0
+Linn,027,President,undervotes,,6
+Linn,027,President,ballots_cast,,511
+Linn,027,President,registered,,686
+Linn,027,"State Representative, 11th District",candidate,Ivan Maluski,141
+Linn,027,"State Representative, 11th District",candidate,Jami Cate,305
+Linn,027,"State Representative, 11th District",writein,,1
+Linn,027,"State Representative, 11th District",total_votes,,447
+Linn,027,"State Representative, 11th District",overvotes,,0
+Linn,027,"State Representative, 11th District",undervotes,,64
+Linn,027,"State Representative, 11th District",ballots_cast,,511
+Linn,027,"State Representative, 11th District",registered,,686
+Linn,028,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,028,President,candidate,Cornel West,0
+Linn,028,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,028,President,candidate,Randall Terry,1
+Linn,028,President,candidate,Donald J Trump/JD Vance,184
+Linn,028,President,candidate,Jill Stein/Rudolph Ware,2
+Linn,028,President,candidate,Kamala D Harris/Tim Walz,33
+Linn,028,President,writein,,1
+Linn,028,President,total_votes,,223
+Linn,028,President,overvotes,,3
+Linn,028,President,undervotes,,7
+Linn,028,President,ballots_cast,,233
+Linn,028,President,registered,,330
+Linn,028,"State Representative, 11th District",candidate,Ivan Maluski,25
+Linn,028,"State Representative, 11th District",candidate,Jami Cate,181
+Linn,028,"State Representative, 11th District",writein,,0
+Linn,028,"State Representative, 11th District",total_votes,,206
+Linn,028,"State Representative, 11th District",overvotes,,0
+Linn,028,"State Representative, 11th District",undervotes,,27
+Linn,028,"State Representative, 11th District",ballots_cast,,233
+Linn,028,"State Representative, 11th District",registered,,330
+Linn,029,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,29
+Linn,029,President,candidate,Cornel West,2
+Linn,029,President,candidate,Chase Oliver/Mike ter Maat,8
+Linn,029,President,candidate,Randall Terry,3
+Linn,029,President,candidate,Donald J Trump/JD Vance,1285
+Linn,029,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,029,President,candidate,Kamala D Harris/Tim Walz,571
+Linn,029,President,writein,,6
+Linn,029,President,total_votes,,1910
+Linn,029,President,overvotes,,4
+Linn,029,President,undervotes,,11
+Linn,029,President,ballots_cast,,1925
+Linn,029,President,registered,,2740
+Linn,029,"State Representative, 11th District",candidate,Ivan Maluski,456
+Linn,029,"State Representative, 11th District",candidate,Jami Cate,1233
+Linn,029,"State Representative, 11th District",writein,,5
+Linn,029,"State Representative, 11th District",total_votes,,1694
+Linn,029,"State Representative, 11th District",overvotes,,1
+Linn,029,"State Representative, 11th District",undervotes,,230
+Linn,029,"State Representative, 11th District",ballots_cast,,1925
+Linn,029,"State Representative, 11th District",registered,,2740
+Linn,030,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,4
+Linn,030,President,candidate,Cornel West,0
+Linn,030,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,030,President,candidate,Randall Terry,0
+Linn,030,President,candidate,Donald J Trump/JD Vance,151
+Linn,030,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,030,President,candidate,Kamala D Harris/Tim Walz,32
+Linn,030,President,writein,,1
+Linn,030,President,total_votes,,188
+Linn,030,President,overvotes,,1
+Linn,030,President,undervotes,,3
+Linn,030,President,ballots_cast,,192
+Linn,030,President,registered,,264
+Linn,030,"State Representative, 11th District",candidate,Ivan Maluski,28
+Linn,030,"State Representative, 11th District",candidate,Jami Cate,150
+Linn,030,"State Representative, 11th District",writein,,1
+Linn,030,"State Representative, 11th District",total_votes,,179
+Linn,030,"State Representative, 11th District",overvotes,,0
+Linn,030,"State Representative, 11th District",undervotes,,13
+Linn,030,"State Representative, 11th District",ballots_cast,,192
+Linn,030,"State Representative, 11th District",registered,,264
+Linn,031,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Linn,031,President,candidate,Cornel West,1
+Linn,031,President,candidate,Chase Oliver/Mike ter Maat,5
+Linn,031,President,candidate,Randall Terry,1
+Linn,031,President,candidate,Donald J Trump/JD Vance,820
+Linn,031,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,031,President,candidate,Kamala D Harris/Tim Walz,249
+Linn,031,President,writein,,5
+Linn,031,President,total_votes,,1102
+Linn,031,President,overvotes,,1
+Linn,031,President,undervotes,,11
+Linn,031,President,ballots_cast,,1114
+Linn,031,President,registered,,1508
+Linn,031,"State Representative, 11th District",candidate,Ivan Maluski,192
+Linn,031,"State Representative, 11th District",candidate,Jami Cate,811
+Linn,031,"State Representative, 11th District",writein,,1
+Linn,031,"State Representative, 11th District",total_votes,,1004
+Linn,031,"State Representative, 11th District",overvotes,,0
+Linn,031,"State Representative, 11th District",undervotes,,110
+Linn,031,"State Representative, 11th District",ballots_cast,,1114
+Linn,031,"State Representative, 11th District",registered,,1508
+Linn,032,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Linn,032,President,candidate,Cornel West,2
+Linn,032,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,032,President,candidate,Randall Terry,0
+Linn,032,President,candidate,Donald J Trump/JD Vance,496
+Linn,032,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,032,President,candidate,Kamala D Harris/Tim Walz,140
+Linn,032,President,writein,,8
+Linn,032,President,total_votes,,662
+Linn,032,President,overvotes,,0
+Linn,032,President,undervotes,,11
+Linn,032,President,ballots_cast,,673
+Linn,032,President,registered,,845
+Linn,032,"State Representative, 11th District",candidate,Ivan Maluski,178
+Linn,032,"State Representative, 11th District",candidate,Jami Cate,445
+Linn,032,"State Representative, 11th District",writein,,1
+Linn,032,"State Representative, 11th District",total_votes,,624
+Linn,032,"State Representative, 11th District",overvotes,,0
+Linn,032,"State Representative, 11th District",undervotes,,49
+Linn,032,"State Representative, 11th District",ballots_cast,,673
+Linn,032,"State Representative, 11th District",registered,,845
+Linn,033,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,033,President,candidate,Cornel West,0
+Linn,033,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,033,President,candidate,Randall Terry,0
+Linn,033,President,candidate,Donald J Trump/JD Vance,27
+Linn,033,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,033,President,candidate,Kamala D Harris/Tim Walz,15
+Linn,033,President,writein,,0
+Linn,033,President,total_votes,,42
+Linn,033,President,overvotes,,0
+Linn,033,President,undervotes,,0
+Linn,033,President,ballots_cast,,42
+Linn,033,President,registered,,56
+Linn,033,"State Senator, 9th District",candidate,Fred Frank Girod,25
+Linn,033,"State Senator, 9th District",candidate,Mike Ashland,12
+Linn,033,"State Senator, 9th District",writein,,0
+Linn,033,"State Senator, 9th District",total_votes,,37
+Linn,033,"State Senator, 9th District",overvotes,,0
+Linn,033,"State Senator, 9th District",undervotes,,5
+Linn,033,"State Senator, 9th District",ballots_cast,,42
+Linn,033,"State Senator, 9th District",registered,,56
+Linn,033,"State Representative, 17th District",candidate,David W Beem,13
+Linn,033,"State Representative, 17th District",candidate,Ed Diehl,24
+Linn,033,"State Representative, 17th District",writein,,0
+Linn,033,"State Representative, 17th District",total_votes,,37
+Linn,033,"State Representative, 17th District",overvotes,,0
+Linn,033,"State Representative, 17th District",undervotes,,5
+Linn,033,"State Representative, 17th District",ballots_cast,,42
+Linn,033,"State Representative, 17th District",registered,,56
+Linn,034,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Linn,034,President,candidate,Cornel West,0
+Linn,034,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,034,President,candidate,Randall Terry,0
+Linn,034,President,candidate,Donald J Trump/JD Vance,227
+Linn,034,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,034,President,candidate,Kamala D Harris/Tim Walz,88
+Linn,034,President,writein,,0
+Linn,034,President,total_votes,,319
+Linn,034,President,overvotes,,1
+Linn,034,President,undervotes,,1
+Linn,034,President,ballots_cast,,321
+Linn,034,President,registered,,417
+Linn,034,"State Representative, 15th District",candidate,Terrence Virnig,68
+Linn,034,"State Representative, 15th District",candidate,Shelly Boshart Davis,234
+Linn,034,"State Representative, 15th District",writein,,0
+Linn,034,"State Representative, 15th District",total_votes,,302
+Linn,034,"State Representative, 15th District",overvotes,,0
+Linn,034,"State Representative, 15th District",undervotes,,19
+Linn,034,"State Representative, 15th District",ballots_cast,,321
+Linn,034,"State Representative, 15th District",registered,,417
+Linn,035,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,22
+Linn,035,President,candidate,Cornel West,1
+Linn,035,President,candidate,Chase Oliver/Mike ter Maat,6
+Linn,035,President,candidate,Randall Terry,1
+Linn,035,President,candidate,Donald J Trump/JD Vance,1037
+Linn,035,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,035,President,candidate,Kamala D Harris/Tim Walz,343
+Linn,035,President,writein,,9
+Linn,035,President,total_votes,,1423
+Linn,035,President,overvotes,,4
+Linn,035,President,undervotes,,6
+Linn,035,President,ballots_cast,,1433
+Linn,035,President,registered,,1855
+Linn,035,"State Representative, 11th District",candidate,Ivan Maluski,266
+Linn,035,"State Representative, 11th District",candidate,Jami Cate,1042
+Linn,035,"State Representative, 11th District",writein,,2
+Linn,035,"State Representative, 11th District",total_votes,,1310
+Linn,035,"State Representative, 11th District",overvotes,,0
+Linn,035,"State Representative, 11th District",undervotes,,123
+Linn,035,"State Representative, 11th District",ballots_cast,,1433
+Linn,035,"State Representative, 11th District",registered,,1855
+Linn,036,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,30
+Linn,036,President,candidate,Cornel West,2
+Linn,036,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,036,President,candidate,Randall Terry,1
+Linn,036,President,candidate,Donald J Trump/JD Vance,829
+Linn,036,President,candidate,Jill Stein/Rudolph Ware,10
+Linn,036,President,candidate,Kamala D Harris/Tim Walz,517
+Linn,036,President,writein,,2
+Linn,036,President,total_votes,,1394
+Linn,036,President,overvotes,,5
+Linn,036,President,undervotes,,13
+Linn,036,President,ballots_cast,,1412
+Linn,036,President,registered,,1977
+Linn,036,"State Representative, 11th District",candidate,Ivan Maluski,408
+Linn,036,"State Representative, 11th District",candidate,Jami Cate,815
+Linn,036,"State Representative, 11th District",writein,,6
+Linn,036,"State Representative, 11th District",total_votes,,1229
+Linn,036,"State Representative, 11th District",overvotes,,0
+Linn,036,"State Representative, 11th District",undervotes,,183
+Linn,036,"State Representative, 11th District",ballots_cast,,1412
+Linn,036,"State Representative, 11th District",registered,,1977
+Linn,037,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,20
+Linn,037,President,candidate,Cornel West,3
+Linn,037,President,candidate,Chase Oliver/Mike ter Maat,7
+Linn,037,President,candidate,Randall Terry,1
+Linn,037,President,candidate,Donald J Trump/JD Vance,620
+Linn,037,President,candidate,Jill Stein/Rudolph Ware,11
+Linn,037,President,candidate,Kamala D Harris/Tim Walz,406
+Linn,037,President,writein,,2
+Linn,037,President,total_votes,,1070
+Linn,037,President,overvotes,,2
+Linn,037,President,undervotes,,8
+Linn,037,President,ballots_cast,,1080
+Linn,037,President,registered,,1634
+Linn,037,"State Representative, 11th District",candidate,Ivan Maluski,276
+Linn,037,"State Representative, 11th District",candidate,Jami Cate,621
+Linn,037,"State Representative, 11th District",writein,,4
+Linn,037,"State Representative, 11th District",total_votes,,901
+Linn,037,"State Representative, 11th District",overvotes,,1
+Linn,037,"State Representative, 11th District",undervotes,,178
+Linn,037,"State Representative, 11th District",ballots_cast,,1080
+Linn,037,"State Representative, 11th District",registered,,1634
+Linn,038,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,19
+Linn,038,President,candidate,Cornel West,1
+Linn,038,President,candidate,Chase Oliver/Mike ter Maat,6
+Linn,038,President,candidate,Randall Terry,0
+Linn,038,President,candidate,Donald J Trump/JD Vance,588
+Linn,038,President,candidate,Jill Stein/Rudolph Ware,7
+Linn,038,President,candidate,Kamala D Harris/Tim Walz,366
+Linn,038,President,writein,,7
+Linn,038,President,total_votes,,994
+Linn,038,President,overvotes,,5
+Linn,038,President,undervotes,,9
+Linn,038,President,ballots_cast,,1008
+Linn,038,President,registered,,1731
+Linn,038,"State Representative, 11th District",candidate,Ivan Maluski,296
+Linn,038,"State Representative, 11th District",candidate,Jami Cate,559
+Linn,038,"State Representative, 11th District",writein,,9
+Linn,038,"State Representative, 11th District",total_votes,,864
+Linn,038,"State Representative, 11th District",overvotes,,0
+Linn,038,"State Representative, 11th District",undervotes,,144
+Linn,038,"State Representative, 11th District",ballots_cast,,1008
+Linn,038,"State Representative, 11th District",registered,,1731
+Linn,039,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Linn,039,President,candidate,Cornel West,0
+Linn,039,President,candidate,Chase Oliver/Mike ter Maat,11
+Linn,039,President,candidate,Randall Terry,0
+Linn,039,President,candidate,Donald J Trump/JD Vance,318
+Linn,039,President,candidate,Jill Stein/Rudolph Ware,8
+Linn,039,President,candidate,Kamala D Harris/Tim Walz,308
+Linn,039,President,writein,,5
+Linn,039,President,total_votes,,663
+Linn,039,President,overvotes,,2
+Linn,039,President,undervotes,,9
+Linn,039,President,ballots_cast,,674
+Linn,039,President,registered,,1014
+Linn,039,"State Representative, 11th District",candidate,Ivan Maluski,252
+Linn,039,"State Representative, 11th District",candidate,Jami Cate,337
+Linn,039,"State Representative, 11th District",writein,,2
+Linn,039,"State Representative, 11th District",total_votes,,591
+Linn,039,"State Representative, 11th District",overvotes,,0
+Linn,039,"State Representative, 11th District",undervotes,,83
+Linn,039,"State Representative, 11th District",ballots_cast,,674
+Linn,039,"State Representative, 11th District",registered,,1014
+Linn,040,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,040,President,candidate,Cornel West,0
+Linn,040,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,040,President,candidate,Randall Terry,0
+Linn,040,President,candidate,Donald J Trump/JD Vance,43
+Linn,040,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,040,President,candidate,Kamala D Harris/Tim Walz,12
+Linn,040,President,writein,,0
+Linn,040,President,total_votes,,56
+Linn,040,President,overvotes,,0
+Linn,040,President,undervotes,,1
+Linn,040,President,ballots_cast,,57
+Linn,040,President,registered,,75
+Linn,040,"State Representative, 11th District",candidate,Ivan Maluski,10
+Linn,040,"State Representative, 11th District",candidate,Jami Cate,43
+Linn,040,"State Representative, 11th District",writein,,0
+Linn,040,"State Representative, 11th District",total_votes,,53
+Linn,040,"State Representative, 11th District",overvotes,,0
+Linn,040,"State Representative, 11th District",undervotes,,4
+Linn,040,"State Representative, 11th District",ballots_cast,,57
+Linn,040,"State Representative, 11th District",registered,,75
+Linn,041,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Linn,041,President,candidate,Cornel West,0
+Linn,041,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,041,President,candidate,Randall Terry,0
+Linn,041,President,candidate,Donald J Trump/JD Vance,311
+Linn,041,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,041,President,candidate,Kamala D Harris/Tim Walz,246
+Linn,041,President,writein,,1
+Linn,041,President,total_votes,,582
+Linn,041,President,overvotes,,1
+Linn,041,President,undervotes,,7
+Linn,041,President,ballots_cast,,590
+Linn,041,President,registered,,860
+Linn,041,"State Representative, 11th District",candidate,Ivan Maluski,179
+Linn,041,"State Representative, 11th District",candidate,Jami Cate,325
+Linn,041,"State Representative, 11th District",writein,,3
+Linn,041,"State Representative, 11th District",total_votes,,507
+Linn,041,"State Representative, 11th District",overvotes,,0
+Linn,041,"State Representative, 11th District",undervotes,,83
+Linn,041,"State Representative, 11th District",ballots_cast,,590
+Linn,041,"State Representative, 11th District",registered,,860
+Linn,042,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,20
+Linn,042,President,candidate,Cornel West,1
+Linn,042,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,042,President,candidate,Randall Terry,0
+Linn,042,President,candidate,Donald J Trump/JD Vance,538
+Linn,042,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,042,President,candidate,Kamala D Harris/Tim Walz,163
+Linn,042,President,writein,,1
+Linn,042,President,total_votes,,730
+Linn,042,President,overvotes,,4
+Linn,042,President,undervotes,,10
+Linn,042,President,ballots_cast,,744
+Linn,042,President,registered,,1010
+Linn,042,"State Senator, 9th District",candidate,Fred Frank Girod,549
+Linn,042,"State Senator, 9th District",candidate,Mike Ashland,131
+Linn,042,"State Senator, 9th District",writein,,1
+Linn,042,"State Senator, 9th District",total_votes,,681
+Linn,042,"State Senator, 9th District",overvotes,,1
+Linn,042,"State Senator, 9th District",undervotes,,62
+Linn,042,"State Senator, 9th District",ballots_cast,,744
+Linn,042,"State Senator, 9th District",registered,,1010
+Linn,042,"State Representative, 17th District",candidate,David W Beem,125
+Linn,042,"State Representative, 17th District",candidate,Ed Diehl,541
+Linn,042,"State Representative, 17th District",writein,,1
+Linn,042,"State Representative, 17th District",total_votes,,667
+Linn,042,"State Representative, 17th District",overvotes,,0
+Linn,042,"State Representative, 17th District",undervotes,,77
+Linn,042,"State Representative, 17th District",ballots_cast,,744
+Linn,042,"State Representative, 17th District",registered,,1010
+Linn,043,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,19
+Linn,043,President,candidate,Cornel West,2
+Linn,043,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,043,President,candidate,Randall Terry,2
+Linn,043,President,candidate,Donald J Trump/JD Vance,535
+Linn,043,President,candidate,Jill Stein/Rudolph Ware,2
+Linn,043,President,candidate,Kamala D Harris/Tim Walz,256
+Linn,043,President,writein,,2
+Linn,043,President,total_votes,,819
+Linn,043,President,overvotes,,4
+Linn,043,President,undervotes,,10
+Linn,043,President,ballots_cast,,833
+Linn,043,President,registered,,1179
+Linn,043,"State Senator, 9th District",candidate,Fred Frank Girod,543
+Linn,043,"State Senator, 9th District",candidate,Mike Ashland,216
+Linn,043,"State Senator, 9th District",writein,,2
+Linn,043,"State Senator, 9th District",total_votes,,761
+Linn,043,"State Senator, 9th District",overvotes,,0
+Linn,043,"State Senator, 9th District",undervotes,,72
+Linn,043,"State Senator, 9th District",ballots_cast,,833
+Linn,043,"State Senator, 9th District",registered,,1179
+Linn,043,"State Representative, 17th District",candidate,David W Beem,201
+Linn,043,"State Representative, 17th District",candidate,Ed Diehl,555
+Linn,043,"State Representative, 17th District",writein,,2
+Linn,043,"State Representative, 17th District",total_votes,,758
+Linn,043,"State Representative, 17th District",overvotes,,0
+Linn,043,"State Representative, 17th District",undervotes,,75
+Linn,043,"State Representative, 17th District",ballots_cast,,833
+Linn,043,"State Representative, 17th District",registered,,1179
+Linn,044,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Linn,044,President,candidate,Cornel West,0
+Linn,044,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,044,President,candidate,Randall Terry,0
+Linn,044,President,candidate,Donald J Trump/JD Vance,58
+Linn,044,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,044,President,candidate,Kamala D Harris/Tim Walz,53
+Linn,044,President,writein,,1
+Linn,044,President,total_votes,,117
+Linn,044,President,overvotes,,1
+Linn,044,President,undervotes,,2
+Linn,044,President,ballots_cast,,120
+Linn,044,President,registered,,151
+Linn,044,"State Representative, 15th District",candidate,Terrence Virnig,48
+Linn,044,"State Representative, 15th District",candidate,Shelly Boshart Davis,69
+Linn,044,"State Representative, 15th District",writein,,0
+Linn,044,"State Representative, 15th District",total_votes,,117
+Linn,044,"State Representative, 15th District",overvotes,,0
+Linn,044,"State Representative, 15th District",undervotes,,3
+Linn,044,"State Representative, 15th District",ballots_cast,,120
+Linn,044,"State Representative, 15th District",registered,,151
+Linn,045,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,18
+Linn,045,President,candidate,Cornel West,1
+Linn,045,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,045,President,candidate,Randall Terry,0
+Linn,045,President,candidate,Donald J Trump/JD Vance,655
+Linn,045,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,045,President,candidate,Kamala D Harris/Tim Walz,227
+Linn,045,President,writein,,3
+Linn,045,President,total_votes,,905
+Linn,045,President,overvotes,,2
+Linn,045,President,undervotes,,13
+Linn,045,President,ballots_cast,,920
+Linn,045,President,registered,,1200
+Linn,045,"State Representative, 11th District",candidate,Ivan Maluski,186
+Linn,045,"State Representative, 11th District",candidate,Jami Cate,650
+Linn,045,"State Representative, 11th District",writein,,2
+Linn,045,"State Representative, 11th District",total_votes,,838
+Linn,045,"State Representative, 11th District",overvotes,,0
+Linn,045,"State Representative, 11th District",undervotes,,82
+Linn,045,"State Representative, 11th District",ballots_cast,,920
+Linn,045,"State Representative, 11th District",registered,,1200
+Linn,046,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,33
+Linn,046,President,candidate,Cornel West,0
+Linn,046,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,046,President,candidate,Randall Terry,0
+Linn,046,President,candidate,Donald J Trump/JD Vance,796
+Linn,046,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,046,President,candidate,Kamala D Harris/Tim Walz,276
+Linn,046,President,writein,,5
+Linn,046,President,total_votes,,1116
+Linn,046,President,overvotes,,2
+Linn,046,President,undervotes,,6
+Linn,046,President,ballots_cast,,1124
+Linn,046,President,registered,,1472
+Linn,046,"State Representative, 11th District",candidate,Ivan Maluski,208
+Linn,046,"State Representative, 11th District",candidate,Jami Cate,796
+Linn,046,"State Representative, 11th District",writein,,3
+Linn,046,"State Representative, 11th District",total_votes,,1007
+Linn,046,"State Representative, 11th District",overvotes,,0
+Linn,046,"State Representative, 11th District",undervotes,,117
+Linn,046,"State Representative, 11th District",ballots_cast,,1124
+Linn,046,"State Representative, 11th District",registered,,1472
+Linn,047,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,6
+Linn,047,President,candidate,Cornel West,0
+Linn,047,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,047,President,candidate,Randall Terry,1
+Linn,047,President,candidate,Donald J Trump/JD Vance,128
+Linn,047,President,candidate,Jill Stein/Rudolph Ware,3
+Linn,047,President,candidate,Kamala D Harris/Tim Walz,111
+Linn,047,President,writein,,2
+Linn,047,President,total_votes,,251
+Linn,047,President,overvotes,,0
+Linn,047,President,undervotes,,4
+Linn,047,President,ballots_cast,,255
+Linn,047,President,registered,,320
+Linn,047,"State Representative, 11th District",candidate,Ivan Maluski,97
+Linn,047,"State Representative, 11th District",candidate,Jami Cate,131
+Linn,047,"State Representative, 11th District",writein,,0
+Linn,047,"State Representative, 11th District",total_votes,,228
+Linn,047,"State Representative, 11th District",overvotes,,0
+Linn,047,"State Representative, 11th District",undervotes,,27
+Linn,047,"State Representative, 11th District",ballots_cast,,255
+Linn,047,"State Representative, 11th District",registered,,320
+Linn,048,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,35
+Linn,048,President,candidate,Cornel West,0
+Linn,048,President,candidate,Chase Oliver/Mike ter Maat,9
+Linn,048,President,candidate,Randall Terry,0
+Linn,048,President,candidate,Donald J Trump/JD Vance,1064
+Linn,048,President,candidate,Jill Stein/Rudolph Ware,8
+Linn,048,President,candidate,Kamala D Harris/Tim Walz,1091
+Linn,048,President,writein,,16
+Linn,048,President,total_votes,,2223
+Linn,048,President,overvotes,,9
+Linn,048,President,undervotes,,23
+Linn,048,President,ballots_cast,,2255
+Linn,048,President,registered,,2893
+Linn,048,"State Representative, 15th District",candidate,Terrence Virnig,926
+Linn,048,"State Representative, 15th District",candidate,Shelly Boshart Davis,1184
+Linn,048,"State Representative, 15th District",writein,,3
+Linn,048,"State Representative, 15th District",total_votes,,2113
+Linn,048,"State Representative, 15th District",overvotes,,0
+Linn,048,"State Representative, 15th District",undervotes,,142
+Linn,048,"State Representative, 15th District",ballots_cast,,2255
+Linn,048,"State Representative, 15th District",registered,,2893
+Linn,049,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,049,President,candidate,Cornel West,0
+Linn,049,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,049,President,candidate,Randall Terry,0
+Linn,049,President,candidate,Donald J Trump/JD Vance,1
+Linn,049,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,049,President,candidate,Kamala D Harris/Tim Walz,2
+Linn,049,President,writein,,0
+Linn,049,President,total_votes,,3
+Linn,049,President,overvotes,,0
+Linn,049,President,undervotes,,0
+Linn,049,President,ballots_cast,,3
+Linn,049,President,registered,,3
+Linn,049,"State Senator, 9th District",candidate,Fred Frank Girod,1
+Linn,049,"State Senator, 9th District",candidate,Mike Ashland,2
+Linn,049,"State Senator, 9th District",writein,,0
+Linn,049,"State Senator, 9th District",total_votes,,3
+Linn,049,"State Senator, 9th District",overvotes,,0
+Linn,049,"State Senator, 9th District",undervotes,,0
+Linn,049,"State Senator, 9th District",ballots_cast,,3
+Linn,049,"State Senator, 9th District",registered,,3
+Linn,049,"State Representative, 17th District",candidate,David W Beem,1
+Linn,049,"State Representative, 17th District",candidate,Ed Diehl,1
+Linn,049,"State Representative, 17th District",writein,,0
+Linn,049,"State Representative, 17th District",total_votes,,2
+Linn,049,"State Representative, 17th District",overvotes,,0
+Linn,049,"State Representative, 17th District",undervotes,,1
+Linn,049,"State Representative, 17th District",ballots_cast,,3
+Linn,049,"State Representative, 17th District",registered,,3
+Linn,050,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Linn,050,President,candidate,Cornel West,1
+Linn,050,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,050,President,candidate,Randall Terry,1
+Linn,050,President,candidate,Donald J Trump/JD Vance,366
+Linn,050,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,050,President,candidate,Kamala D Harris/Tim Walz,69
+Linn,050,President,writein,,4
+Linn,050,President,total_votes,,448
+Linn,050,President,overvotes,,0
+Linn,050,President,undervotes,,1
+Linn,050,President,ballots_cast,,449
+Linn,050,President,registered,,611
+Linn,050,"State Representative, 11th District",candidate,Ivan Maluski,60
+Linn,050,"State Representative, 11th District",candidate,Jami Cate,353
+Linn,050,"State Representative, 11th District",writein,,0
+Linn,050,"State Representative, 11th District",total_votes,,413
+Linn,050,"State Representative, 11th District",overvotes,,0
+Linn,050,"State Representative, 11th District",undervotes,,36
+Linn,050,"State Representative, 11th District",ballots_cast,,449
+Linn,050,"State Representative, 11th District",registered,,611
+Linn,051,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Linn,051,President,candidate,Cornel West,0
+Linn,051,President,candidate,Chase Oliver/Mike ter Maat,8
+Linn,051,President,candidate,Randall Terry,1
+Linn,051,President,candidate,Donald J Trump/JD Vance,577
+Linn,051,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,051,President,candidate,Kamala D Harris/Tim Walz,164
+Linn,051,President,writein,,2
+Linn,051,President,total_votes,,762
+Linn,051,President,overvotes,,1
+Linn,051,President,undervotes,,10
+Linn,051,President,ballots_cast,,773
+Linn,051,President,registered,,993
+Linn,051,"State Representative, 11th District",candidate,Ivan Maluski,122
+Linn,051,"State Representative, 11th District",candidate,Jami Cate,585
+Linn,051,"State Representative, 11th District",writein,,1
+Linn,051,"State Representative, 11th District",total_votes,,708
+Linn,051,"State Representative, 11th District",overvotes,,0
+Linn,051,"State Representative, 11th District",undervotes,,65
+Linn,051,"State Representative, 11th District",ballots_cast,,773
+Linn,051,"State Representative, 11th District",registered,,993
+Linn,052,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,9
+Linn,052,President,candidate,Cornel West,0
+Linn,052,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,052,President,candidate,Randall Terry,0
+Linn,052,President,candidate,Donald J Trump/JD Vance,338
+Linn,052,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,052,President,candidate,Kamala D Harris/Tim Walz,142
+Linn,052,President,writein,,0
+Linn,052,President,total_votes,,492
+Linn,052,President,overvotes,,1
+Linn,052,President,undervotes,,0
+Linn,052,President,ballots_cast,,493
+Linn,052,President,registered,,680
+Linn,052,"State Representative, 11th District",candidate,Ivan Maluski,112
+Linn,052,"State Representative, 11th District",candidate,Jami Cate,328
+Linn,052,"State Representative, 11th District",writein,,1
+Linn,052,"State Representative, 11th District",total_votes,,441
+Linn,052,"State Representative, 11th District",overvotes,,0
+Linn,052,"State Representative, 11th District",undervotes,,52
+Linn,052,"State Representative, 11th District",ballots_cast,,493
+Linn,052,"State Representative, 11th District",registered,,680
+Linn,053,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Linn,053,President,candidate,Cornel West,0
+Linn,053,President,candidate,Chase Oliver/Mike ter Maat,2
+Linn,053,President,candidate,Randall Terry,1
+Linn,053,President,candidate,Donald J Trump/JD Vance,598
+Linn,053,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,053,President,candidate,Kamala D Harris/Tim Walz,158
+Linn,053,President,writein,,5
+Linn,053,President,total_votes,,780
+Linn,053,President,overvotes,,2
+Linn,053,President,undervotes,,7
+Linn,053,President,ballots_cast,,789
+Linn,053,President,registered,,1029
+Linn,053,"State Representative, 11th District",candidate,Ivan Maluski,141
+Linn,053,"State Representative, 11th District",candidate,Jami Cate,574
+Linn,053,"State Representative, 11th District",writein,,3
+Linn,053,"State Representative, 11th District",total_votes,,718
+Linn,053,"State Representative, 11th District",overvotes,,0
+Linn,053,"State Representative, 11th District",undervotes,,71
+Linn,053,"State Representative, 11th District",ballots_cast,,789
+Linn,053,"State Representative, 11th District",registered,,1029
+Linn,054,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,9
+Linn,054,President,candidate,Cornel West,0
+Linn,054,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,054,President,candidate,Randall Terry,0
+Linn,054,President,candidate,Donald J Trump/JD Vance,263
+Linn,054,President,candidate,Jill Stein/Rudolph Ware,3
+Linn,054,President,candidate,Kamala D Harris/Tim Walz,108
+Linn,054,President,writein,,0
+Linn,054,President,total_votes,,384
+Linn,054,President,overvotes,,2
+Linn,054,President,undervotes,,5
+Linn,054,President,ballots_cast,,391
+Linn,054,President,registered,,512
+Linn,054,"State Representative, 11th District",candidate,Ivan Maluski,80
+Linn,054,"State Representative, 11th District",candidate,Jami Cate,276
+Linn,054,"State Representative, 11th District",writein,,2
+Linn,054,"State Representative, 11th District",total_votes,,358
+Linn,054,"State Representative, 11th District",overvotes,,0
+Linn,054,"State Representative, 11th District",undervotes,,33
+Linn,054,"State Representative, 11th District",ballots_cast,,391
+Linn,054,"State Representative, 11th District",registered,,512
+Linn,055,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,11
+Linn,055,President,candidate,Cornel West,0
+Linn,055,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,055,President,candidate,Randall Terry,0
+Linn,055,President,candidate,Donald J Trump/JD Vance,488
+Linn,055,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,055,President,candidate,Kamala D Harris/Tim Walz,126
+Linn,055,President,writein,,5
+Linn,055,President,total_votes,,638
+Linn,055,President,overvotes,,2
+Linn,055,President,undervotes,,6
+Linn,055,President,ballots_cast,,646
+Linn,055,President,registered,,883
+Linn,055,"State Representative, 11th District",candidate,Ivan Maluski,127
+Linn,055,"State Representative, 11th District",candidate,Jami Cate,459
+Linn,055,"State Representative, 11th District",writein,,1
+Linn,055,"State Representative, 11th District",total_votes,,587
+Linn,055,"State Representative, 11th District",overvotes,,0
+Linn,055,"State Representative, 11th District",undervotes,,59
+Linn,055,"State Representative, 11th District",ballots_cast,,646
+Linn,055,"State Representative, 11th District",registered,,883
+Linn,056,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,9
+Linn,056,President,candidate,Cornel West,1
+Linn,056,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,056,President,candidate,Randall Terry,2
+Linn,056,President,candidate,Donald J Trump/JD Vance,597
+Linn,056,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,056,President,candidate,Kamala D Harris/Tim Walz,236
+Linn,056,President,writein,,3
+Linn,056,President,total_votes,,852
+Linn,056,President,overvotes,,1
+Linn,056,President,undervotes,,9
+Linn,056,President,ballots_cast,,862
+Linn,056,President,registered,,1050
+Linn,056,"State Senator, 9th District",candidate,Fred Frank Girod,638
+Linn,056,"State Senator, 9th District",candidate,Mike Ashland,188
+Linn,056,"State Senator, 9th District",writein,,0
+Linn,056,"State Senator, 9th District",total_votes,,826
+Linn,056,"State Senator, 9th District",overvotes,,0
+Linn,056,"State Senator, 9th District",undervotes,,36
+Linn,056,"State Senator, 9th District",ballots_cast,,862
+Linn,056,"State Senator, 9th District",registered,,1050
+Linn,056,"State Representative, 17th District",candidate,David W Beem,168
+Linn,056,"State Representative, 17th District",candidate,Ed Diehl,649
+Linn,056,"State Representative, 17th District",writein,,0
+Linn,056,"State Representative, 17th District",total_votes,,817
+Linn,056,"State Representative, 17th District",overvotes,,0
+Linn,056,"State Representative, 17th District",undervotes,,45
+Linn,056,"State Representative, 17th District",ballots_cast,,862
+Linn,056,"State Representative, 17th District",registered,,1050
+Linn,057,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Linn,057,President,candidate,Cornel West,0
+Linn,057,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,057,President,candidate,Randall Terry,1
+Linn,057,President,candidate,Donald J Trump/JD Vance,44
+Linn,057,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,057,President,candidate,Kamala D Harris/Tim Walz,21
+Linn,057,President,writein,,1
+Linn,057,President,total_votes,,69
+Linn,057,President,overvotes,,0
+Linn,057,President,undervotes,,1
+Linn,057,President,ballots_cast,,70
+Linn,057,President,registered,,83
+Linn,057,"State Representative, 11th District",candidate,Ivan Maluski,21
+Linn,057,"State Representative, 11th District",candidate,Jami Cate,41
+Linn,057,"State Representative, 11th District",writein,,0
+Linn,057,"State Representative, 11th District",total_votes,,62
+Linn,057,"State Representative, 11th District",overvotes,,0
+Linn,057,"State Representative, 11th District",undervotes,,8
+Linn,057,"State Representative, 11th District",ballots_cast,,70
+Linn,057,"State Representative, 11th District",registered,,83
+Linn,058,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,1
+Linn,058,President,candidate,Cornel West,0
+Linn,058,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,058,President,candidate,Randall Terry,0
+Linn,058,President,candidate,Donald J Trump/JD Vance,48
+Linn,058,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,058,President,candidate,Kamala D Harris/Tim Walz,16
+Linn,058,President,writein,,0
+Linn,058,President,total_votes,,65
+Linn,058,President,overvotes,,0
+Linn,058,President,undervotes,,0
+Linn,058,President,ballots_cast,,65
+Linn,058,President,registered,,84
+Linn,058,"State Representative, 11th District",candidate,Ivan Maluski,13
+Linn,058,"State Representative, 11th District",candidate,Jami Cate,44
+Linn,058,"State Representative, 11th District",writein,,0
+Linn,058,"State Representative, 11th District",total_votes,,57
+Linn,058,"State Representative, 11th District",overvotes,,0
+Linn,058,"State Representative, 11th District",undervotes,,8
+Linn,058,"State Representative, 11th District",ballots_cast,,65
+Linn,058,"State Representative, 11th District",registered,,84
+Linn,059,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,33
+Linn,059,President,candidate,Cornel West,0
+Linn,059,President,candidate,Chase Oliver/Mike ter Maat,5
+Linn,059,President,candidate,Randall Terry,2
+Linn,059,President,candidate,Donald J Trump/JD Vance,1045
+Linn,059,President,candidate,Jill Stein/Rudolph Ware,7
+Linn,059,President,candidate,Kamala D Harris/Tim Walz,436
+Linn,059,President,writein,,2
+Linn,059,President,total_votes,,1530
+Linn,059,President,overvotes,,7
+Linn,059,President,undervotes,,13
+Linn,059,President,ballots_cast,,1550
+Linn,059,President,registered,,2322
+Linn,059,"State Representative, 11th District",candidate,Ivan Maluski,355
+Linn,059,"State Representative, 11th District",candidate,Jami Cate,1025
+Linn,059,"State Representative, 11th District",writein,,4
+Linn,059,"State Representative, 11th District",total_votes,,1384
+Linn,059,"State Representative, 11th District",overvotes,,0
+Linn,059,"State Representative, 11th District",undervotes,,166
+Linn,059,"State Representative, 11th District",ballots_cast,,1550
+Linn,059,"State Representative, 11th District",registered,,2322
+Linn,060,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,14
+Linn,060,President,candidate,Cornel West,2
+Linn,060,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,060,President,candidate,Randall Terry,1
+Linn,060,President,candidate,Donald J Trump/JD Vance,431
+Linn,060,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,060,President,candidate,Kamala D Harris/Tim Walz,230
+Linn,060,President,writein,,7
+Linn,060,President,total_votes,,692
+Linn,060,President,overvotes,,2
+Linn,060,President,undervotes,,3
+Linn,060,President,ballots_cast,,697
+Linn,060,President,registered,,941
+Linn,060,"State Representative, 15th District",candidate,Terrence Virnig,171
+Linn,060,"State Representative, 15th District",candidate,Shelly Boshart Davis,473
+Linn,060,"State Representative, 15th District",writein,,1
+Linn,060,"State Representative, 15th District",total_votes,,645
+Linn,060,"State Representative, 15th District",overvotes,,0
+Linn,060,"State Representative, 15th District",undervotes,,52
+Linn,060,"State Representative, 15th District",ballots_cast,,697
+Linn,060,"State Representative, 15th District",registered,,941
+Linn,061,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,30
+Linn,061,President,candidate,Cornel West,0
+Linn,061,President,candidate,Chase Oliver/Mike ter Maat,6
+Linn,061,President,candidate,Randall Terry,1
+Linn,061,President,candidate,Donald J Trump/JD Vance,744
+Linn,061,President,candidate,Jill Stein/Rudolph Ware,12
+Linn,061,President,candidate,Kamala D Harris/Tim Walz,618
+Linn,061,President,writein,,6
+Linn,061,President,total_votes,,1417
+Linn,061,President,overvotes,,5
+Linn,061,President,undervotes,,11
+Linn,061,President,ballots_cast,,1433
+Linn,061,President,registered,,2001
+Linn,061,"State Representative, 15th District",candidate,Terrence Virnig,486
+Linn,061,"State Representative, 15th District",candidate,Shelly Boshart Davis,829
+Linn,061,"State Representative, 15th District",writein,,1
+Linn,061,"State Representative, 15th District",total_votes,,1316
+Linn,061,"State Representative, 15th District",overvotes,,0
+Linn,061,"State Representative, 15th District",undervotes,,117
+Linn,061,"State Representative, 15th District",ballots_cast,,1433
+Linn,061,"State Representative, 15th District",registered,,2001
+Linn,062,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,25
+Linn,062,President,candidate,Cornel West,1
+Linn,062,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,062,President,candidate,Randall Terry,1
+Linn,062,President,candidate,Donald J Trump/JD Vance,754
+Linn,062,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,062,President,candidate,Kamala D Harris/Tim Walz,331
+Linn,062,President,writein,,10
+Linn,062,President,total_votes,,1131
+Linn,062,President,overvotes,,3
+Linn,062,President,undervotes,,2
+Linn,062,President,ballots_cast,,1136
+Linn,062,President,registered,,1922
+Linn,062,"State Representative, 11th District",candidate,Ivan Maluski,293
+Linn,062,"State Representative, 11th District",candidate,Jami Cate,694
+Linn,062,"State Representative, 11th District",writein,,6
+Linn,062,"State Representative, 11th District",total_votes,,993
+Linn,062,"State Representative, 11th District",overvotes,,0
+Linn,062,"State Representative, 11th District",undervotes,,143
+Linn,062,"State Representative, 11th District",ballots_cast,,1136
+Linn,062,"State Representative, 11th District",registered,,1922
+Linn,063,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,4
+Linn,063,President,candidate,Cornel West,1
+Linn,063,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,063,President,candidate,Randall Terry,0
+Linn,063,President,candidate,Donald J Trump/JD Vance,213
+Linn,063,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,063,President,candidate,Kamala D Harris/Tim Walz,59
+Linn,063,President,writein,,1
+Linn,063,President,total_votes,,280
+Linn,063,President,overvotes,,1
+Linn,063,President,undervotes,,3
+Linn,063,President,ballots_cast,,284
+Linn,063,President,registered,,346
+Linn,063,"State Representative, 15th District",candidate,Terrence Virnig,42
+Linn,063,"State Representative, 15th District",candidate,Shelly Boshart Davis,234
+Linn,063,"State Representative, 15th District",writein,,1
+Linn,063,"State Representative, 15th District",total_votes,,277
+Linn,063,"State Representative, 15th District",overvotes,,0
+Linn,063,"State Representative, 15th District",undervotes,,7
+Linn,063,"State Representative, 15th District",ballots_cast,,284
+Linn,063,"State Representative, 15th District",registered,,346
+Linn,064,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,4
+Linn,064,President,candidate,Cornel West,0
+Linn,064,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,064,President,candidate,Randall Terry,1
+Linn,064,President,candidate,Donald J Trump/JD Vance,420
+Linn,064,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,064,President,candidate,Kamala D Harris/Tim Walz,145
+Linn,064,President,writein,,4
+Linn,064,President,total_votes,,579
+Linn,064,President,overvotes,,1
+Linn,064,President,undervotes,,1
+Linn,064,President,ballots_cast,,581
+Linn,064,President,registered,,743
+Linn,064,"State Senator, 9th District",candidate,Fred Frank Girod,446
+Linn,064,"State Senator, 9th District",candidate,Mike Ashland,105
+Linn,064,"State Senator, 9th District",writein,,0
+Linn,064,"State Senator, 9th District",total_votes,,551
+Linn,064,"State Senator, 9th District",overvotes,,0
+Linn,064,"State Senator, 9th District",undervotes,,30
+Linn,064,"State Senator, 9th District",ballots_cast,,581
+Linn,064,"State Senator, 9th District",registered,,743
+Linn,064,"State Representative, 17th District",candidate,David W Beem,111
+Linn,064,"State Representative, 17th District",candidate,Ed Diehl,438
+Linn,064,"State Representative, 17th District",writein,,0
+Linn,064,"State Representative, 17th District",total_votes,,549
+Linn,064,"State Representative, 17th District",overvotes,,0
+Linn,064,"State Representative, 17th District",undervotes,,32
+Linn,064,"State Representative, 17th District",ballots_cast,,581
+Linn,064,"State Representative, 17th District",registered,,743
+Linn,065,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,2
+Linn,065,President,candidate,Cornel West,0
+Linn,065,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,065,President,candidate,Randall Terry,0
+Linn,065,President,candidate,Donald J Trump/JD Vance,31
+Linn,065,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,065,President,candidate,Kamala D Harris/Tim Walz,8
+Linn,065,President,writein,,0
+Linn,065,President,total_votes,,41
+Linn,065,President,overvotes,,0
+Linn,065,President,undervotes,,0
+Linn,065,President,ballots_cast,,41
+Linn,065,President,registered,,45
+Linn,065,"State Representative, 11th District",candidate,Ivan Maluski,8
+Linn,065,"State Representative, 11th District",candidate,Jami Cate,32
+Linn,065,"State Representative, 11th District",writein,,0
+Linn,065,"State Representative, 11th District",total_votes,,40
+Linn,065,"State Representative, 11th District",overvotes,,0
+Linn,065,"State Representative, 11th District",undervotes,,1
+Linn,065,"State Representative, 11th District",ballots_cast,,41
+Linn,065,"State Representative, 11th District",registered,,45
+Linn,066,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Linn,066,President,candidate,Cornel West,0
+Linn,066,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,066,President,candidate,Randall Terry,0
+Linn,066,President,candidate,Donald J Trump/JD Vance,167
+Linn,066,President,candidate,Jill Stein/Rudolph Ware,2
+Linn,066,President,candidate,Kamala D Harris/Tim Walz,73
+Linn,066,President,writein,,3
+Linn,066,President,total_votes,,248
+Linn,066,President,overvotes,,0
+Linn,066,President,undervotes,,3
+Linn,066,President,ballots_cast,,251
+Linn,066,President,registered,,334
+Linn,066,"State Representative, 11th District",candidate,Ivan Maluski,52
+Linn,066,"State Representative, 11th District",candidate,Jami Cate,172
+Linn,066,"State Representative, 11th District",writein,,0
+Linn,066,"State Representative, 11th District",total_votes,,224
+Linn,066,"State Representative, 11th District",overvotes,,0
+Linn,066,"State Representative, 11th District",undervotes,,27
+Linn,066,"State Representative, 11th District",ballots_cast,,251
+Linn,066,"State Representative, 11th District",registered,,334
+Linn,067,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Linn,067,President,candidate,Cornel West,2
+Linn,067,President,candidate,Chase Oliver/Mike ter Maat,7
+Linn,067,President,candidate,Randall Terry,0
+Linn,067,President,candidate,Donald J Trump/JD Vance,656
+Linn,067,President,candidate,Jill Stein/Rudolph Ware,7
+Linn,067,President,candidate,Kamala D Harris/Tim Walz,620
+Linn,067,President,writein,,14
+Linn,067,President,total_votes,,1319
+Linn,067,President,overvotes,,7
+Linn,067,President,undervotes,,11
+Linn,067,President,ballots_cast,,1337
+Linn,067,President,registered,,1843
+Linn,067,"State Representative, 15th District",candidate,Terrence Virnig,512
+Linn,067,"State Representative, 15th District",candidate,Shelly Boshart Davis,717
+Linn,067,"State Representative, 15th District",writein,,4
+Linn,067,"State Representative, 15th District",total_votes,,1233
+Linn,067,"State Representative, 15th District",overvotes,,0
+Linn,067,"State Representative, 15th District",undervotes,,104
+Linn,067,"State Representative, 15th District",ballots_cast,,1337
+Linn,067,"State Representative, 15th District",registered,,1843
+Linn,068,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,3
+Linn,068,President,candidate,Cornel West,0
+Linn,068,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,068,President,candidate,Randall Terry,1
+Linn,068,President,candidate,Donald J Trump/JD Vance,165
+Linn,068,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,068,President,candidate,Kamala D Harris/Tim Walz,57
+Linn,068,President,writein,,0
+Linn,068,President,total_votes,,227
+Linn,068,President,overvotes,,0
+Linn,068,President,undervotes,,3
+Linn,068,President,ballots_cast,,230
+Linn,068,President,registered,,321
+Linn,068,"State Representative, 11th District",candidate,Ivan Maluski,55
+Linn,068,"State Representative, 11th District",candidate,Jami Cate,153
+Linn,068,"State Representative, 11th District",writein,,0
+Linn,068,"State Representative, 11th District",total_votes,,208
+Linn,068,"State Representative, 11th District",overvotes,,0
+Linn,068,"State Representative, 11th District",undervotes,,22
+Linn,068,"State Representative, 11th District",ballots_cast,,230
+Linn,068,"State Representative, 11th District",registered,,321
+Linn,069,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Linn,069,President,candidate,Cornel West,0
+Linn,069,President,candidate,Chase Oliver/Mike ter Maat,1
+Linn,069,President,candidate,Randall Terry,0
+Linn,069,President,candidate,Donald J Trump/JD Vance,377
+Linn,069,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,069,President,candidate,Kamala D Harris/Tim Walz,107
+Linn,069,President,writein,,2
+Linn,069,President,total_votes,,500
+Linn,069,President,overvotes,,0
+Linn,069,President,undervotes,,0
+Linn,069,President,ballots_cast,,500
+Linn,069,President,registered,,640
+Linn,069,"State Senator, 9th District",candidate,Fred Frank Girod,394
+Linn,069,"State Senator, 9th District",candidate,Mike Ashland,83
+Linn,069,"State Senator, 9th District",writein,,2
+Linn,069,"State Senator, 9th District",total_votes,,479
+Linn,069,"State Senator, 9th District",overvotes,,0
+Linn,069,"State Senator, 9th District",undervotes,,21
+Linn,069,"State Senator, 9th District",ballots_cast,,500
+Linn,069,"State Senator, 9th District",registered,,640
+Linn,069,"State Representative, 17th District",candidate,David W Beem,84
+Linn,069,"State Representative, 17th District",candidate,Ed Diehl,387
+Linn,069,"State Representative, 17th District",writein,,0
+Linn,069,"State Representative, 17th District",total_votes,,471
+Linn,069,"State Representative, 17th District",overvotes,,0
+Linn,069,"State Representative, 17th District",undervotes,,29
+Linn,069,"State Representative, 17th District",ballots_cast,,500
+Linn,069,"State Representative, 17th District",registered,,640
+Linn,070,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,12
+Linn,070,President,candidate,Cornel West,0
+Linn,070,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,070,President,candidate,Randall Terry,1
+Linn,070,President,candidate,Donald J Trump/JD Vance,490
+Linn,070,President,candidate,Jill Stein/Rudolph Ware,5
+Linn,070,President,candidate,Kamala D Harris/Tim Walz,191
+Linn,070,President,writein,,5
+Linn,070,President,total_votes,,708
+Linn,070,President,overvotes,,0
+Linn,070,President,undervotes,,6
+Linn,070,President,ballots_cast,,714
+Linn,070,President,registered,,885
+Linn,070,"State Representative, 11th District",candidate,Ivan Maluski,139
+Linn,070,"State Representative, 11th District",candidate,Jami Cate,511
+Linn,070,"State Representative, 11th District",writein,,0
+Linn,070,"State Representative, 11th District",total_votes,,650
+Linn,070,"State Representative, 11th District",overvotes,,0
+Linn,070,"State Representative, 11th District",undervotes,,64
+Linn,070,"State Representative, 11th District",ballots_cast,,714
+Linn,070,"State Representative, 11th District",registered,,885
+Linn,071,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,071,President,candidate,Cornel West,0
+Linn,071,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,071,President,candidate,Randall Terry,1
+Linn,071,President,candidate,Donald J Trump/JD Vance,104
+Linn,071,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,071,President,candidate,Kamala D Harris/Tim Walz,33
+Linn,071,President,writein,,1
+Linn,071,President,total_votes,,139
+Linn,071,President,overvotes,,0
+Linn,071,President,undervotes,,0
+Linn,071,President,ballots_cast,,139
+Linn,071,President,registered,,199
+Linn,071,"State Representative, 11th District",candidate,Ivan Maluski,26
+Linn,071,"State Representative, 11th District",candidate,Jami Cate,99
+Linn,071,"State Representative, 11th District",writein,,2
+Linn,071,"State Representative, 11th District",total_votes,,127
+Linn,071,"State Representative, 11th District",overvotes,,0
+Linn,071,"State Representative, 11th District",undervotes,,12
+Linn,071,"State Representative, 11th District",ballots_cast,,139
+Linn,071,"State Representative, 11th District",registered,,199
+Linn,072,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Linn,072,President,candidate,Cornel West,0
+Linn,072,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,072,President,candidate,Randall Terry,0
+Linn,072,President,candidate,Donald J Trump/JD Vance,483
+Linn,072,President,candidate,Jill Stein/Rudolph Ware,3
+Linn,072,President,candidate,Kamala D Harris/Tim Walz,199
+Linn,072,President,writein,,4
+Linn,072,President,total_votes,,702
+Linn,072,President,overvotes,,2
+Linn,072,President,undervotes,,10
+Linn,072,President,ballots_cast,,714
+Linn,072,President,registered,,918
+Linn,072,"State Representative, 11th District",candidate,Ivan Maluski,159
+Linn,072,"State Representative, 11th District",candidate,Jami Cate,486
+Linn,072,"State Representative, 11th District",writein,,4
+Linn,072,"State Representative, 11th District",total_votes,,649
+Linn,072,"State Representative, 11th District",overvotes,,1
+Linn,072,"State Representative, 11th District",undervotes,,64
+Linn,072,"State Representative, 11th District",ballots_cast,,714
+Linn,072,"State Representative, 11th District",registered,,918
+Linn,073,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,21
+Linn,073,President,candidate,Cornel West,1
+Linn,073,President,candidate,Chase Oliver/Mike ter Maat,8
+Linn,073,President,candidate,Randall Terry,1
+Linn,073,President,candidate,Donald J Trump/JD Vance,766
+Linn,073,President,candidate,Jill Stein/Rudolph Ware,7
+Linn,073,President,candidate,Kamala D Harris/Tim Walz,399
+Linn,073,President,writein,,7
+Linn,073,President,total_votes,,1210
+Linn,073,President,overvotes,,2
+Linn,073,President,undervotes,,11
+Linn,073,President,ballots_cast,,1223
+Linn,073,President,registered,,1568
+Linn,073,"State Representative, 11th District",candidate,Ivan Maluski,334
+Linn,073,"State Representative, 11th District",candidate,Jami Cate,759
+Linn,073,"State Representative, 11th District",writein,,2
+Linn,073,"State Representative, 11th District",total_votes,,1095
+Linn,073,"State Representative, 11th District",overvotes,,0
+Linn,073,"State Representative, 11th District",undervotes,,128
+Linn,073,"State Representative, 11th District",ballots_cast,,1223
+Linn,073,"State Representative, 11th District",registered,,1568
+Linn,074,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,16
+Linn,074,President,candidate,Cornel West,0
+Linn,074,President,candidate,Chase Oliver/Mike ter Maat,10
+Linn,074,President,candidate,Randall Terry,1
+Linn,074,President,candidate,Donald J Trump/JD Vance,684
+Linn,074,President,candidate,Jill Stein/Rudolph Ware,3
+Linn,074,President,candidate,Kamala D Harris/Tim Walz,238
+Linn,074,President,writein,,5
+Linn,074,President,total_votes,,957
+Linn,074,President,overvotes,,1
+Linn,074,President,undervotes,,7
+Linn,074,President,ballots_cast,,965
+Linn,074,President,registered,,1349
+Linn,074,"State Representative, 11th District",candidate,Ivan Maluski,176
+Linn,074,"State Representative, 11th District",candidate,Jami Cate,673
+Linn,074,"State Representative, 11th District",writein,,5
+Linn,074,"State Representative, 11th District",total_votes,,854
+Linn,074,"State Representative, 11th District",overvotes,,0
+Linn,074,"State Representative, 11th District",undervotes,,111
+Linn,074,"State Representative, 11th District",ballots_cast,,965
+Linn,074,"State Representative, 11th District",registered,,1349
+Linn,075,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,14
+Linn,075,President,candidate,Cornel West,0
+Linn,075,President,candidate,Chase Oliver/Mike ter Maat,5
+Linn,075,President,candidate,Randall Terry,0
+Linn,075,President,candidate,Donald J Trump/JD Vance,742
+Linn,075,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,075,President,candidate,Kamala D Harris/Tim Walz,253
+Linn,075,President,writein,,7
+Linn,075,President,total_votes,,1022
+Linn,075,President,overvotes,,3
+Linn,075,President,undervotes,,4
+Linn,075,President,ballots_cast,,1029
+Linn,075,President,registered,,1288
+Linn,075,"State Representative, 11th District",candidate,Ivan Maluski,194
+Linn,075,"State Representative, 11th District",candidate,Jami Cate,741
+Linn,075,"State Representative, 11th District",writein,,2
+Linn,075,"State Representative, 11th District",total_votes,,937
+Linn,075,"State Representative, 11th District",overvotes,,0
+Linn,075,"State Representative, 11th District",undervotes,,92
+Linn,075,"State Representative, 11th District",ballots_cast,,1029
+Linn,075,"State Representative, 11th District",registered,,1288
+Linn,076,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,33
+Linn,076,President,candidate,Cornel West,1
+Linn,076,President,candidate,Chase Oliver/Mike ter Maat,8
+Linn,076,President,candidate,Randall Terry,3
+Linn,076,President,candidate,Donald J Trump/JD Vance,1416
+Linn,076,President,candidate,Jill Stein/Rudolph Ware,11
+Linn,076,President,candidate,Kamala D Harris/Tim Walz,746
+Linn,076,President,writein,,9
+Linn,076,President,total_votes,,2227
+Linn,076,President,overvotes,,4
+Linn,076,President,undervotes,,29
+Linn,076,President,ballots_cast,,2260
+Linn,076,President,registered,,2753
+Linn,076,"State Representative, 15th District",candidate,Terrence Virnig,559
+Linn,076,"State Representative, 15th District",candidate,Shelly Boshart Davis,1558
+Linn,076,"State Representative, 15th District",writein,,2
+Linn,076,"State Representative, 15th District",total_votes,,2119
+Linn,076,"State Representative, 15th District",overvotes,,0
+Linn,076,"State Representative, 15th District",undervotes,,141
+Linn,076,"State Representative, 15th District",ballots_cast,,2260
+Linn,076,"State Representative, 15th District",registered,,2753
+Linn,077,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,10
+Linn,077,President,candidate,Cornel West,1
+Linn,077,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,077,President,candidate,Randall Terry,1
+Linn,077,President,candidate,Donald J Trump/JD Vance,366
+Linn,077,President,candidate,Jill Stein/Rudolph Ware,3
+Linn,077,President,candidate,Kamala D Harris/Tim Walz,136
+Linn,077,President,writein,,6
+Linn,077,President,total_votes,,527
+Linn,077,President,overvotes,,2
+Linn,077,President,undervotes,,3
+Linn,077,President,ballots_cast,,532
+Linn,077,President,registered,,680
+Linn,077,"State Representative, 11th District",candidate,Ivan Maluski,128
+Linn,077,"State Representative, 11th District",candidate,Jami Cate,353
+Linn,077,"State Representative, 11th District",writein,,1
+Linn,077,"State Representative, 11th District",total_votes,,482
+Linn,077,"State Representative, 11th District",overvotes,,0
+Linn,077,"State Representative, 11th District",undervotes,,50
+Linn,077,"State Representative, 11th District",ballots_cast,,532
+Linn,077,"State Representative, 11th District",registered,,680
+Linn,078,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,13
+Linn,078,President,candidate,Cornel West,1
+Linn,078,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,078,President,candidate,Randall Terry,0
+Linn,078,President,candidate,Donald J Trump/JD Vance,440
+Linn,078,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,078,President,candidate,Kamala D Harris/Tim Walz,225
+Linn,078,President,writein,,4
+Linn,078,President,total_votes,,687
+Linn,078,President,overvotes,,5
+Linn,078,President,undervotes,,4
+Linn,078,President,ballots_cast,,696
+Linn,078,President,registered,,1058
+Linn,078,"State Representative, 11th District",candidate,Ivan Maluski,166
+Linn,078,"State Representative, 11th District",candidate,Jami Cate,452
+Linn,078,"State Representative, 11th District",writein,,2
+Linn,078,"State Representative, 11th District",total_votes,,620
+Linn,078,"State Representative, 11th District",overvotes,,0
+Linn,078,"State Representative, 11th District",undervotes,,76
+Linn,078,"State Representative, 11th District",ballots_cast,,696
+Linn,078,"State Representative, 11th District",registered,,1058
+Linn,079,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,29
+Linn,079,President,candidate,Cornel West,2
+Linn,079,President,candidate,Chase Oliver/Mike ter Maat,9
+Linn,079,President,candidate,Randall Terry,0
+Linn,079,President,candidate,Donald J Trump/JD Vance,858
+Linn,079,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,079,President,candidate,Kamala D Harris/Tim Walz,539
+Linn,079,President,writein,,7
+Linn,079,President,total_votes,,1450
+Linn,079,President,overvotes,,2
+Linn,079,President,undervotes,,13
+Linn,079,President,ballots_cast,,1465
+Linn,079,President,registered,,2087
+Linn,079,"State Representative, 11th District",candidate,Ivan Maluski,416
+Linn,079,"State Representative, 11th District",candidate,Jami Cate,871
+Linn,079,"State Representative, 11th District",writein,,2
+Linn,079,"State Representative, 11th District",total_votes,,1289
+Linn,079,"State Representative, 11th District",overvotes,,0
+Linn,079,"State Representative, 11th District",undervotes,,176
+Linn,079,"State Representative, 11th District",ballots_cast,,1465
+Linn,079,"State Representative, 11th District",registered,,2087
+Linn,080,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,24
+Linn,080,President,candidate,Cornel West,0
+Linn,080,President,candidate,Chase Oliver/Mike ter Maat,4
+Linn,080,President,candidate,Randall Terry,1
+Linn,080,President,candidate,Donald J Trump/JD Vance,855
+Linn,080,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,080,President,candidate,Kamala D Harris/Tim Walz,311
+Linn,080,President,writein,,6
+Linn,080,President,total_votes,,1202
+Linn,080,President,overvotes,,2
+Linn,080,President,undervotes,,8
+Linn,080,President,ballots_cast,,1212
+Linn,080,President,registered,,1889
+Linn,080,"State Representative, 11th District",candidate,Ivan Maluski,258
+Linn,080,"State Representative, 11th District",candidate,Jami Cate,832
+Linn,080,"State Representative, 11th District",writein,,1
+Linn,080,"State Representative, 11th District",total_votes,,1091
+Linn,080,"State Representative, 11th District",overvotes,,0
+Linn,080,"State Representative, 11th District",undervotes,,121
+Linn,080,"State Representative, 11th District",ballots_cast,,1212
+Linn,080,"State Representative, 11th District",registered,,1889
+Linn,081,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Linn,081,President,candidate,Cornel West,7
+Linn,081,President,candidate,Chase Oliver/Mike ter Maat,10
+Linn,081,President,candidate,Randall Terry,0
+Linn,081,President,candidate,Donald J Trump/JD Vance,294
+Linn,081,President,candidate,Jill Stein/Rudolph Ware,6
+Linn,081,President,candidate,Kamala D Harris/Tim Walz,423
+Linn,081,President,writein,,7
+Linn,081,President,total_votes,,762
+Linn,081,President,overvotes,,0
+Linn,081,President,undervotes,,9
+Linn,081,President,ballots_cast,,771
+Linn,081,President,registered,,942
+Linn,081,"State Representative, 15th District",candidate,Terrence Virnig,367
+Linn,081,"State Representative, 15th District",candidate,Shelly Boshart Davis,360
+Linn,081,"State Representative, 15th District",writein,,0
+Linn,081,"State Representative, 15th District",total_votes,,727
+Linn,081,"State Representative, 15th District",overvotes,,0
+Linn,081,"State Representative, 15th District",undervotes,,44
+Linn,081,"State Representative, 15th District",ballots_cast,,771
+Linn,081,"State Representative, 15th District",registered,,942
+Linn,082,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,15
+Linn,082,President,candidate,Cornel West,3
+Linn,082,President,candidate,Chase Oliver/Mike ter Maat,8
+Linn,082,President,candidate,Randall Terry,1
+Linn,082,President,candidate,Donald J Trump/JD Vance,659
+Linn,082,President,candidate,Jill Stein/Rudolph Ware,4
+Linn,082,President,candidate,Kamala D Harris/Tim Walz,626
+Linn,082,President,writein,,1
+Linn,082,President,total_votes,,1317
+Linn,082,President,overvotes,,6
+Linn,082,President,undervotes,,12
+Linn,082,President,ballots_cast,,1335
+Linn,082,President,registered,,2014
+Linn,082,"State Representative, 15th District",candidate,Terrence Virnig,539
+Linn,082,"State Representative, 15th District",candidate,Shelly Boshart Davis,686
+Linn,082,"State Representative, 15th District",writein,,2
+Linn,082,"State Representative, 15th District",total_votes,,1227
+Linn,082,"State Representative, 15th District",overvotes,,0
+Linn,082,"State Representative, 15th District",undervotes,,108
+Linn,082,"State Representative, 15th District",ballots_cast,,1335
+Linn,082,"State Representative, 15th District",registered,,2014
+Linn,083,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,0
+Linn,083,President,candidate,Cornel West,0
+Linn,083,President,candidate,Chase Oliver/Mike ter Maat,0
+Linn,083,President,candidate,Randall Terry,0
+Linn,083,President,candidate,Donald J Trump/JD Vance,20
+Linn,083,President,candidate,Jill Stein/Rudolph Ware,0
+Linn,083,President,candidate,Kamala D Harris/Tim Walz,13
+Linn,083,President,writein,,0
+Linn,083,President,total_votes,,33
+Linn,083,President,overvotes,,0
+Linn,083,President,undervotes,,1
+Linn,083,President,ballots_cast,,34
+Linn,083,President,registered,,39
+Linn,083,"State Senator, 9th District",candidate,Fred Frank Girod,21
+Linn,083,"State Senator, 9th District",candidate,Mike Ashland,10
+Linn,083,"State Senator, 9th District",writein,,0
+Linn,083,"State Senator, 9th District",total_votes,,31
+Linn,083,"State Senator, 9th District",overvotes,,0
+Linn,083,"State Senator, 9th District",undervotes,,3
+Linn,083,"State Senator, 9th District",ballots_cast,,34
+Linn,083,"State Senator, 9th District",registered,,39
+Linn,083,"State Representative, 17th District",candidate,David W Beem,10
+Linn,083,"State Representative, 17th District",candidate,Ed Diehl,21
+Linn,083,"State Representative, 17th District",writein,,0
+Linn,083,"State Representative, 17th District",total_votes,,31
+Linn,083,"State Representative, 17th District",overvotes,,0
+Linn,083,"State Representative, 17th District",undervotes,,3
+Linn,083,"State Representative, 17th District",ballots_cast,,34
+Linn,083,"State Representative, 17th District",registered,,39
+Linn,084,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,58
+Linn,084,President,candidate,Cornel West,2
+Linn,084,President,candidate,Chase Oliver/Mike ter Maat,18
+Linn,084,President,candidate,Randall Terry,1
+Linn,084,President,candidate,Donald J Trump/JD Vance,1202
+Linn,084,President,candidate,Jill Stein/Rudolph Ware,11
+Linn,084,President,candidate,Kamala D Harris/Tim Walz,702
+Linn,084,President,writein,,10
+Linn,084,President,total_votes,,2004
+Linn,084,President,overvotes,,11
+Linn,084,President,undervotes,,18
+Linn,084,President,ballots_cast,,2033
+Linn,084,President,registered,,2965
+Linn,084,"State Representative, 11th District",candidate,Ivan Maluski,543
+Linn,084,"State Representative, 11th District",candidate,Jami Cate,1204
+Linn,084,"State Representative, 11th District",writein,,8
+Linn,084,"State Representative, 11th District",total_votes,,1755
+Linn,084,"State Representative, 11th District",overvotes,,0
+Linn,084,"State Representative, 11th District",undervotes,,278
+Linn,084,"State Representative, 11th District",ballots_cast,,2033
+Linn,084,"State Representative, 11th District",registered,,2965
+Linn,085,President,candidate,Robert F Kennedy Jr/Nicole Shanahan,21
+Linn,085,President,candidate,Cornel West,0
+Linn,085,President,candidate,Chase Oliver/Mike ter Maat,3
+Linn,085,President,candidate,Randall Terry,0
+Linn,085,President,candidate,Donald J Trump/JD Vance,639
+Linn,085,President,candidate,Jill Stein/Rudolph Ware,1
+Linn,085,President,candidate,Kamala D Harris/Tim Walz,274
+Linn,085,President,writein,,2
+Linn,085,President,total_votes,,940
+Linn,085,President,overvotes,,2
+Linn,085,President,undervotes,,7
+Linn,085,President,ballots_cast,,949
+Linn,085,President,registered,,1170
+Linn,085,"State Representative, 15th District",candidate,Terrence Virnig,204
+Linn,085,"State Representative, 15th District",candidate,Shelly Boshart Davis,681
+Linn,085,"State Representative, 15th District",writein,,0
+Linn,085,"State Representative, 15th District",total_votes,,885
+Linn,085,"State Representative, 15th District",overvotes,,0
+Linn,085,"State Representative, 15th District",undervotes,,64
+Linn,085,"State Representative, 15th District",ballots_cast,,949
+Linn,085,"State Representative, 15th District",registered,,1170

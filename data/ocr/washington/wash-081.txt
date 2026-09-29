@@ -1,0 +1,31 @@
+oe eee
+
+Ballots Cast per Contest with Precincts                                         Page: 81 of 147
+
+Washington County November 5 2024 General Election                                     2024-12-02
+
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                   09:11:39
+
+Official Results
+Total Ballots Cast: 301 105. Registered Voters: 400012, Overall Turnout: 75.27%
+City of Hillsboro, Council Member, Ward 3, Position B (Vote for 1)
+
+Precinct                 Ballots         Reg.            Total     Marc Grambo            Rob Harris               Write-in                 Over       Under
+Cast    Voters       Votes                                                    Votes     Votes
+Precinct 307        4494     6439       3393     1119 32.98%     2240 66.02%       34 1.00%        1     1100
+Precinct 309        4308     5870       3303     1150 34.82%     2125 64.34%       28 0.85%        0     1005
+Precinct 318        3750     5355       2930     1141 38.94%     1767 60.31%       22 0.75%        1      819
+Precinct 325         155      287        111       56 50.45%       55 49.55%        0 0.00%        0       44
+Precinct 327        5317     7091       4061     1602 39.45%     2435 59.96%       24 0.59%        1     1255
+Precinct 329        7692    10184       5823     2174 37.33%     3600 61.82%       49 0.84%        0     1869
+Precinct 332        2550     3748       1969      941 47.79%     1015 51.55%       13 0.66%        1      580
+Precinct 333        3626     5535       2652     1333 50.26%     1302 49.10%       17 0.64%        0      974
+Precinct 335        4268     5422       3392      953 28.10%     2426 71.52%       13 0.38%        1      875
+Precinct 336        2948     4133       2262      753 33.29%     1493 66.00%       16 0.71%        )      686
+Precinct 337        1086     2080    797      331 41.53%      461 57.84%        5 0.63%        1      288
+Precinct 343        2608     3433       1968      612 31.10%     1336 67.89%       20 1.02%        0      640
+Precinct 344        2806     4444       2157      755 35.00%     1387 64.30%       15 0.70%        4)      649
+Precinct 374           9       1          7        3 42.86%        4 57.14%        0 0.00%        0        2
+Precinct 440         1461     2096       1167      476 40.79%      684 58.61%        7 0.60%        0      294
+Precinct 446         107      197         77       44 57.14%       33 42.86%        0 0.00%        )       30
+Total             47185    66322      36069    13443 37.27%    22363 62.00%      263 0.73%        6    11110

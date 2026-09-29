@@ -1,0 +1,79 @@
+county,precinct_label,contest,type,choice,votes
+Gilliam,#1,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,7
+Gilliam,#1,President,candidate,Cornel West,0
+Gilliam,#1,President,candidate,Chase Oliver / Mike ter Maat,3
+Gilliam,#1,President,candidate,Randall Terry,0
+Gilliam,#1,President,candidate,Donald J Trump / JD Vance,373
+Gilliam,#1,President,candidate,Jill Stein / Rudolph Ware,4
+Gilliam,#1,President,candidate,Kamala D Harris / Tim Walz,93
+Gilliam,#1,President,writein,,0
+Gilliam,#1,President,overvotes,,1
+Gilliam,#1,President,undervotes,,5
+Gilliam,#1,President,ballots_cast,,486
+Gilliam,#1,President,registered,,639
+Gilliam,#1,President,total_votes,,480
+Gilliam,#6,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,3
+Gilliam,#6,President,candidate,Cornel West,0
+Gilliam,#6,President,candidate,Chase Oliver / Mike ter Maat,3
+Gilliam,#6,President,candidate,Randall Terry,1
+Gilliam,#6,President,candidate,Donald J Trump / JD Vance,190
+Gilliam,#6,President,candidate,Jill Stein / Rudolph Ware,1
+Gilliam,#6,President,candidate,Kamala D Harris / Tim Walz,87
+Gilliam,#6,President,writein,,2
+Gilliam,#6,President,overvotes,,0
+Gilliam,#6,President,undervotes,,10
+Gilliam,#6,President,ballots_cast,,297
+Gilliam,#6,President,registered,,356
+Gilliam,#6,President,total_votes,,287
+Gilliam,#7,President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Gilliam,#7,President,candidate,Cornel West,0
+Gilliam,#7,President,candidate,Chase Oliver / Mike ter Maat,0
+Gilliam,#7,President,candidate,Randall Terry,0
+Gilliam,#7,President,candidate,Donald J Trump / JD Vance,242
+Gilliam,#7,President,candidate,Jill Stein / Rudolph Ware,4
+Gilliam,#7,President,candidate,Kamala D Harris / Tim Walz,111
+Gilliam,#7,President,writein,,2
+Gilliam,#7,President,overvotes,,0
+Gilliam,#7,President,undervotes,,7
+Gilliam,#7,President,ballots_cast,,374
+Gilliam,#7,President,registered,,449
+Gilliam,#7,President,total_votes,,367
+Gilliam,#1,"State Senator, 29th District",candidate,Tania Wildbill,52
+Gilliam,#1,"State Senator, 29th District",candidate,Todd Nash,382
+Gilliam,#1,"State Senator, 29th District",writein,,2
+Gilliam,#1,"State Senator, 29th District",overvotes,,1
+Gilliam,#1,"State Senator, 29th District",undervotes,,49
+Gilliam,#1,"State Senator, 29th District",ballots_cast,,486
+Gilliam,#1,"State Senator, 29th District",total_votes,,436
+Gilliam,#6,"State Senator, 29th District",candidate,Tania Wildbill,36
+Gilliam,#6,"State Senator, 29th District",candidate,Todd Nash,214
+Gilliam,#6,"State Senator, 29th District",writein,,2
+Gilliam,#6,"State Senator, 29th District",overvotes,,0
+Gilliam,#6,"State Senator, 29th District",undervotes,,45
+Gilliam,#6,"State Senator, 29th District",ballots_cast,,297
+Gilliam,#6,"State Senator, 29th District",total_votes,,252
+Gilliam,#7,"State Senator, 29th District",candidate,Tania Wildbill,38
+Gilliam,#7,"State Senator, 29th District",candidate,Todd Nash,268
+Gilliam,#7,"State Senator, 29th District",writein,,0
+Gilliam,#7,"State Senator, 29th District",overvotes,,0
+Gilliam,#7,"State Senator, 29th District",undervotes,,68
+Gilliam,#7,"State Senator, 29th District",ballots_cast,,374
+Gilliam,#7,"State Senator, 29th District",total_votes,,306
+Gilliam,#1,"State Representative, 57th District",candidate,Greg Smith,382
+Gilliam,#1,"State Representative, 57th District",writein,,9
+Gilliam,#1,"State Representative, 57th District",overvotes,,0
+Gilliam,#1,"State Representative, 57th District",undervotes,,95
+Gilliam,#1,"State Representative, 57th District",ballots_cast,,486
+Gilliam,#1,"State Representative, 57th District",total_votes,,391
+Gilliam,#6,"State Representative, 57th District",candidate,Greg Smith,223
+Gilliam,#6,"State Representative, 57th District",writein,,4
+Gilliam,#6,"State Representative, 57th District",overvotes,,0
+Gilliam,#6,"State Representative, 57th District",undervotes,,70
+Gilliam,#6,"State Representative, 57th District",ballots_cast,,297
+Gilliam,#6,"State Representative, 57th District",total_votes,,227
+Gilliam,#7,"State Representative, 57th District",candidate,Greg Smith,273
+Gilliam,#7,"State Representative, 57th District",writein,,7
+Gilliam,#7,"State Representative, 57th District",overvotes,,0
+Gilliam,#7,"State Representative, 57th District",undervotes,,94
+Gilliam,#7,"State Representative, 57th District",ballots_cast,,374
+Gilliam,#7,"State Representative, 57th District",total_votes,,280

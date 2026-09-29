@@ -1,0 +1,19 @@
+Precinct 01
+United States President and Vice President (Vote for 1)
+1831 ballots (2 over voted ballots, 2 overvotes, 16 undervotes), 2977 registered voters, turnout 61.50%
+Robert F Kennedy Jr / Nicole Shanahan 35 1.93%
+Cornel West 3 0.17%
+Chase Oliver / Mike ter Maat 14 0.77%
+Randall Terry 1 0.06%
+Donald J Trump / JD Vance 901 49.70%
+Jill Stein / Rudolph Ware 12 0.66%
+Kamala D Harris / Tim Walz 842 46.44%
+Write-in 5 0.28%
+Total 1813 100.00%
+Overvotes 2
+Undervotes 16
+State Representative, 52nd District (Vote for 1)
+1830 ballots (0 over voted ballots, 0 overvotes, 110 undervotes), 2977 registered voters, turnout 61.47%
+Nick Walden Poublon 759 44.13%
+Jeff Helfrich 958 55.70%
+Write-in 3 0.17%

@@ -1,0 +1,295 @@
+county,precinct_label,contest,type,choice,votes
+Wasco,01,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,35
+Wasco,01,United States President and Vice President,candidate,Cornel West,3
+Wasco,01,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,14
+Wasco,01,United States President and Vice President,candidate,Randall Terry,1
+Wasco,01,United States President and Vice President,candidate,Donald J Trump / JD Vance,901
+Wasco,01,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,12
+Wasco,01,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,842
+Wasco,01,United States President and Vice President,writein,,5
+Wasco,01,United States President and Vice President,total_votes,,1813
+Wasco,01,United States President and Vice President,overvotes,,2
+Wasco,01,United States President and Vice President,undervotes,,16
+Wasco,01,United States President and Vice President,ballots_cast,,1831
+Wasco,01,United States President and Vice President,registered,,2977
+Wasco,01,"State Representative, 52nd District",candidate,Nick Walden Poublon,759
+Wasco,01,"State Representative, 52nd District",candidate,Jeff Helfrich,958
+Wasco,01,"State Representative, 52nd District",writein,,3
+Wasco,01,"State Representative, 52nd District",total_votes,,1720
+Wasco,01,"State Representative, 52nd District",overvotes,,0
+Wasco,01,"State Representative, 52nd District",undervotes,,110
+Wasco,01,"State Representative, 52nd District",ballots_cast,,1830
+Wasco,01,"State Representative, 52nd District",registered,,2977
+Wasco,02,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,45
+Wasco,02,United States President and Vice President,candidate,Cornel West,2
+Wasco,02,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,12
+Wasco,02,United States President and Vice President,candidate,Randall Terry,2
+Wasco,02,United States President and Vice President,candidate,Donald J Trump / JD Vance,934
+Wasco,02,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,12
+Wasco,02,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,1172
+Wasco,02,United States President and Vice President,writein,,17
+Wasco,02,United States President and Vice President,total_votes,,2196
+Wasco,02,United States President and Vice President,overvotes,,1
+Wasco,02,United States President and Vice President,undervotes,,18
+Wasco,02,United States President and Vice President,ballots_cast,,2215
+Wasco,02,United States President and Vice President,registered,,2981
+Wasco,02,"State Representative, 52nd District",candidate,Nick Walden Poublon,1029
+Wasco,02,"State Representative, 52nd District",candidate,Jeff Helfrich,1066
+Wasco,02,"State Representative, 52nd District",writein,,0
+Wasco,02,"State Representative, 52nd District",total_votes,,2095
+Wasco,02,"State Representative, 52nd District",overvotes,,0
+Wasco,02,"State Representative, 52nd District",undervotes,,119
+Wasco,02,"State Representative, 52nd District",ballots_cast,,2214
+Wasco,02,"State Representative, 52nd District",registered,,2981
+Wasco,03,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,40
+Wasco,03,United States President and Vice President,candidate,Cornel West,4
+Wasco,03,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,12
+Wasco,03,United States President and Vice President,candidate,Randall Terry,3
+Wasco,03,United States President and Vice President,candidate,Donald J Trump / JD Vance,837
+Wasco,03,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,21
+Wasco,03,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,899
+Wasco,03,United States President and Vice President,writein,,13
+Wasco,03,United States President and Vice President,total_votes,,1829
+Wasco,03,United States President and Vice President,overvotes,,2
+Wasco,03,United States President and Vice President,undervotes,,10
+Wasco,03,United States President and Vice President,ballots_cast,,1841
+Wasco,03,United States President and Vice President,registered,,2676
+Wasco,03,"State Representative, 52nd District",candidate,Nick Walden Poublon,851
+Wasco,03,"State Representative, 52nd District",candidate,Jeff Helfrich,901
+Wasco,03,"State Representative, 52nd District",writein,,0
+Wasco,03,"State Representative, 52nd District",total_votes,,1752
+Wasco,03,"State Representative, 52nd District",overvotes,,0
+Wasco,03,"State Representative, 52nd District",undervotes,,87
+Wasco,03,"State Representative, 52nd District",ballots_cast,,1839
+Wasco,03,"State Representative, 52nd District",registered,,2676
+Wasco,04,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,29
+Wasco,04,United States President and Vice President,candidate,Cornel West,0
+Wasco,04,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,9
+Wasco,04,United States President and Vice President,candidate,Randall Terry,0
+Wasco,04,United States President and Vice President,candidate,Donald J Trump / JD Vance,824
+Wasco,04,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,5
+Wasco,04,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,728
+Wasco,04,United States President and Vice President,writein,,2
+Wasco,04,United States President and Vice President,total_votes,,1597
+Wasco,04,United States President and Vice President,overvotes,,1
+Wasco,04,United States President and Vice President,undervotes,,18
+Wasco,04,United States President and Vice President,ballots_cast,,1616
+Wasco,04,United States President and Vice President,registered,,2200
+Wasco,04,"State Representative, 52nd District",candidate,Nick Walden Poublon,597
+Wasco,04,"State Representative, 52nd District",candidate,Jeff Helfrich,912
+Wasco,04,"State Representative, 52nd District",writein,,2
+Wasco,04,"State Representative, 52nd District",total_votes,,1511
+Wasco,04,"State Representative, 52nd District",overvotes,,0
+Wasco,04,"State Representative, 52nd District",undervotes,,105
+Wasco,04,"State Representative, 52nd District",ballots_cast,,1616
+Wasco,04,"State Representative, 52nd District",registered,,2200
+Wasco,05,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,33
+Wasco,05,United States President and Vice President,candidate,Cornel West,4
+Wasco,05,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,11
+Wasco,05,United States President and Vice President,candidate,Randall Terry,3
+Wasco,05,United States President and Vice President,candidate,Donald J Trump / JD Vance,646
+Wasco,05,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,14
+Wasco,05,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,916
+Wasco,05,United States President and Vice President,writein,,4
+Wasco,05,United States President and Vice President,total_votes,,1631
+Wasco,05,United States President and Vice President,overvotes,,0
+Wasco,05,United States President and Vice President,undervotes,,14
+Wasco,05,United States President and Vice President,ballots_cast,,1645
+Wasco,05,United States President and Vice President,registered,,2248
+Wasco,05,"State Representative, 52nd District",candidate,Nick Walden Poublon,827
+Wasco,05,"State Representative, 52nd District",candidate,Jeff Helfrich,727
+Wasco,05,"State Representative, 52nd District",writein,,1
+Wasco,05,"State Representative, 52nd District",total_votes,,1555
+Wasco,05,"State Representative, 52nd District",overvotes,,0
+Wasco,05,"State Representative, 52nd District",undervotes,,82
+Wasco,05,"State Representative, 52nd District",ballots_cast,,1637
+Wasco,05,"State Representative, 52nd District",registered,,2248
+Wasco,06,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,13
+Wasco,06,United States President and Vice President,candidate,Cornel West,0
+Wasco,06,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,3
+Wasco,06,United States President and Vice President,candidate,Randall Terry,0
+Wasco,06,United States President and Vice President,candidate,Donald J Trump / JD Vance,642
+Wasco,06,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,5
+Wasco,06,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,376
+Wasco,06,United States President and Vice President,writein,,3
+Wasco,06,United States President and Vice President,total_votes,,1042
+Wasco,06,United States President and Vice President,overvotes,,1
+Wasco,06,United States President and Vice President,undervotes,,8
+Wasco,06,United States President and Vice President,ballots_cast,,1051
+Wasco,06,United States President and Vice President,registered,,1476
+Wasco,06,"State Representative, 52nd District",candidate,Nick Walden Poublon,348
+Wasco,06,"State Representative, 52nd District",candidate,Jeff Helfrich,656
+Wasco,06,"State Representative, 52nd District",writein,,1
+Wasco,06,"State Representative, 52nd District",total_votes,,1005
+Wasco,06,"State Representative, 52nd District",overvotes,,0
+Wasco,06,"State Representative, 52nd District",undervotes,,45
+Wasco,06,"State Representative, 52nd District",ballots_cast,,1050
+Wasco,06,"State Representative, 52nd District",registered,,1476
+Wasco,07,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,6
+Wasco,07,United States President and Vice President,candidate,Cornel West,0
+Wasco,07,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,4
+Wasco,07,United States President and Vice President,candidate,Randall Terry,1
+Wasco,07,United States President and Vice President,candidate,Donald J Trump / JD Vance,314
+Wasco,07,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,3
+Wasco,07,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,201
+Wasco,07,United States President and Vice President,writein,,3
+Wasco,07,United States President and Vice President,total_votes,,532
+Wasco,07,United States President and Vice President,overvotes,,0
+Wasco,07,United States President and Vice President,undervotes,,6
+Wasco,07,United States President and Vice President,ballots_cast,,538
+Wasco,07,United States President and Vice President,registered,,695
+Wasco,07,"State Senator, 29th District",candidate,Tania Wildbill,80
+Wasco,07,"State Senator, 29th District",candidate,Todd Nash,349
+Wasco,07,"State Senator, 29th District",writein,,1
+Wasco,07,"State Senator, 29th District",total_votes,,430
+Wasco,07,"State Senator, 29th District",overvotes,,0
+Wasco,07,"State Senator, 29th District",undervotes,,107
+Wasco,07,"State Senator, 29th District",ballots_cast,,537
+Wasco,07,"State Senator, 29th District",registered,,695
+Wasco,07,"State Representative, 57th District",candidate,Greg Smith,357
+Wasco,07,"State Representative, 57th District",writein,,5
+Wasco,07,"State Representative, 57th District",total_votes,,362
+Wasco,07,"State Representative, 57th District",overvotes,,0
+Wasco,07,"State Representative, 57th District",undervotes,,175
+Wasco,07,"State Representative, 57th District",ballots_cast,,537
+Wasco,07,"State Representative, 57th District",registered,,695
+Wasco,08,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,13
+Wasco,08,United States President and Vice President,candidate,Cornel West,1
+Wasco,08,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,4
+Wasco,08,United States President and Vice President,candidate,Randall Terry,2
+Wasco,08,United States President and Vice President,candidate,Donald J Trump / JD Vance,613
+Wasco,08,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,4
+Wasco,08,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,236
+Wasco,08,United States President and Vice President,writein,,1
+Wasco,08,United States President and Vice President,total_votes,,874
+Wasco,08,United States President and Vice President,overvotes,,0
+Wasco,08,United States President and Vice President,undervotes,,18
+Wasco,08,United States President and Vice President,ballots_cast,,892
+Wasco,08,United States President and Vice President,registered,,1106
+Wasco,08,"State Senator, 29th District",candidate,Tania Wildbill,121
+Wasco,08,"State Senator, 29th District",candidate,Todd Nash,607
+Wasco,08,"State Senator, 29th District",writein,,8
+Wasco,08,"State Senator, 29th District",total_votes,,736
+Wasco,08,"State Senator, 29th District",overvotes,,0
+Wasco,08,"State Senator, 29th District",undervotes,,156
+Wasco,08,"State Senator, 29th District",ballots_cast,,892
+Wasco,08,"State Senator, 29th District",registered,,1106
+Wasco,08,"State Representative, 57th District",candidate,Greg Smith,636
+Wasco,08,"State Representative, 57th District",writein,,16
+Wasco,08,"State Representative, 57th District",total_votes,,652
+Wasco,08,"State Representative, 57th District",overvotes,,0
+Wasco,08,"State Representative, 57th District",undervotes,,240
+Wasco,08,"State Representative, 57th District",ballots_cast,,892
+Wasco,08,"State Representative, 57th District",registered,,1106
+Wasco,09,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,14
+Wasco,09,United States President and Vice President,candidate,Cornel West,1
+Wasco,09,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,0
+Wasco,09,United States President and Vice President,candidate,Randall Terry,1
+Wasco,09,United States President and Vice President,candidate,Donald J Trump / JD Vance,548
+Wasco,09,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,4
+Wasco,09,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,248
+Wasco,09,United States President and Vice President,writein,,1
+Wasco,09,United States President and Vice President,total_votes,,817
+Wasco,09,United States President and Vice President,overvotes,,0
+Wasco,09,United States President and Vice President,undervotes,,7
+Wasco,09,United States President and Vice President,ballots_cast,,824
+Wasco,09,United States President and Vice President,registered,,1105
+Wasco,09,"State Senator, 29th District",candidate,Tania Wildbill,130
+Wasco,09,"State Senator, 29th District",candidate,Todd Nash,510
+Wasco,09,"State Senator, 29th District",writein,,2
+Wasco,09,"State Senator, 29th District",total_votes,,642
+Wasco,09,"State Senator, 29th District",overvotes,,0
+Wasco,09,"State Senator, 29th District",undervotes,,181
+Wasco,09,"State Senator, 29th District",ballots_cast,,823
+Wasco,09,"State Senator, 29th District",registered,,1105
+Wasco,09,"State Representative, 57th District",candidate,Greg Smith,553
+Wasco,09,"State Representative, 57th District",writein,,3
+Wasco,09,"State Representative, 57th District",total_votes,,556
+Wasco,09,"State Representative, 57th District",overvotes,,0
+Wasco,09,"State Representative, 57th District",undervotes,,267
+Wasco,09,"State Representative, 57th District",ballots_cast,,823
+Wasco,09,"State Representative, 57th District",registered,,1105
+Wasco,10,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,13
+Wasco,10,United States President and Vice President,candidate,Cornel West,0
+Wasco,10,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,2
+Wasco,10,United States President and Vice President,candidate,Randall Terry,1
+Wasco,10,United States President and Vice President,candidate,Donald J Trump / JD Vance,332
+Wasco,10,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,0
+Wasco,10,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,344
+Wasco,10,United States President and Vice President,writein,,2
+Wasco,10,United States President and Vice President,total_votes,,694
+Wasco,10,United States President and Vice President,overvotes,,1
+Wasco,10,United States President and Vice President,undervotes,,7
+Wasco,10,United States President and Vice President,ballots_cast,,702
+Wasco,10,United States President and Vice President,registered,,1122
+Wasco,10,"State Senator, 29th District",candidate,Tania Wildbill,176
+Wasco,10,"State Senator, 29th District",candidate,Todd Nash,375
+Wasco,10,"State Senator, 29th District",writein,,3
+Wasco,10,"State Senator, 29th District",total_votes,,554
+Wasco,10,"State Senator, 29th District",overvotes,,0
+Wasco,10,"State Senator, 29th District",undervotes,,148
+Wasco,10,"State Senator, 29th District",ballots_cast,,702
+Wasco,10,"State Senator, 29th District",registered,,1122
+Wasco,10,"State Representative, 57th District",candidate,Greg Smith,449
+Wasco,10,"State Representative, 57th District",writein,,12
+Wasco,10,"State Representative, 57th District",total_votes,,461
+Wasco,10,"State Representative, 57th District",overvotes,,0
+Wasco,10,"State Representative, 57th District",undervotes,,241
+Wasco,10,"State Representative, 57th District",ballots_cast,,702
+Wasco,10,"State Representative, 57th District",registered,,1122
+Wasco,11,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,8
+Wasco,11,United States President and Vice President,candidate,Cornel West,0
+Wasco,11,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,2
+Wasco,11,United States President and Vice President,candidate,Randall Terry,0
+Wasco,11,United States President and Vice President,candidate,Donald J Trump / JD Vance,119
+Wasco,11,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,0
+Wasco,11,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,43
+Wasco,11,United States President and Vice President,writein,,0
+Wasco,11,United States President and Vice President,total_votes,,172
+Wasco,11,United States President and Vice President,overvotes,,0
+Wasco,11,United States President and Vice President,undervotes,,2
+Wasco,11,United States President and Vice President,ballots_cast,,174
+Wasco,11,United States President and Vice President,registered,,211
+Wasco,11,"State Senator, 29th District",candidate,Tania Wildbill,27
+Wasco,11,"State Senator, 29th District",candidate,Todd Nash,114
+Wasco,11,"State Senator, 29th District",writein,,0
+Wasco,11,"State Senator, 29th District",total_votes,,141
+Wasco,11,"State Senator, 29th District",overvotes,,0
+Wasco,11,"State Senator, 29th District",undervotes,,32
+Wasco,11,"State Senator, 29th District",ballots_cast,,173
+Wasco,11,"State Senator, 29th District",registered,,211
+Wasco,11,"State Representative, 57th District",candidate,Greg Smith,109
+Wasco,11,"State Representative, 57th District",writein,,1
+Wasco,11,"State Representative, 57th District",total_votes,,110
+Wasco,11,"State Representative, 57th District",overvotes,,0
+Wasco,11,"State Representative, 57th District",undervotes,,63
+Wasco,11,"State Representative, 57th District",ballots_cast,,173
+Wasco,11,"State Representative, 57th District",registered,,211
+Wasco,12,United States President and Vice President,candidate,Robert F Kennedy Jr / Nicole Shanahan,2
+Wasco,12,United States President and Vice President,candidate,Cornel West,0
+Wasco,12,United States President and Vice President,candidate,Chase Oliver / Mike ter Maat,0
+Wasco,12,United States President and Vice President,candidate,Randall Terry,0
+Wasco,12,United States President and Vice President,candidate,Donald J Trump / JD Vance,127
+Wasco,12,United States President and Vice President,candidate,Jill Stein / Rudolph Ware,1
+Wasco,12,United States President and Vice President,candidate,Kamala D Harris / Tim Walz,64
+Wasco,12,United States President and Vice President,writein,,0
+Wasco,12,United States President and Vice President,total_votes,,194
+Wasco,12,United States President and Vice President,overvotes,,0
+Wasco,12,United States President and Vice President,undervotes,,4
+Wasco,12,United States President and Vice President,ballots_cast,,198
+Wasco,12,United States President and Vice President,registered,,267
+Wasco,12,"State Senator, 29th District",candidate,Tania Wildbill,29
+Wasco,12,"State Senator, 29th District",candidate,Todd Nash,141
+Wasco,12,"State Senator, 29th District",writein,,0
+Wasco,12,"State Senator, 29th District",total_votes,,170
+Wasco,12,"State Senator, 29th District",overvotes,,0
+Wasco,12,"State Senator, 29th District",undervotes,,28
+Wasco,12,"State Senator, 29th District",ballots_cast,,198
+Wasco,12,"State Senator, 29th District",registered,,267
+Wasco,12,"State Representative, 57th District",candidate,Greg Smith,140
+Wasco,12,"State Representative, 57th District",writein,,4
+Wasco,12,"State Representative, 57th District",total_votes,,144
+Wasco,12,"State Representative, 57th District",overvotes,,0
+Wasco,12,"State Representative, 57th District",undervotes,,54
+Wasco,12,"State Representative, 57th District",ballots_cast,,198
+Wasco,12,"State Representative, 57th District",registered,,267

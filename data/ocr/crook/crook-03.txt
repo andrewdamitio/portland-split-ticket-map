@@ -1,0 +1,59 @@
+ed
+Statement of Votes Cast by Geography                                              Page: 3 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                            2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+es aplecincts reported out of 17 total
+Choice                                                Votes        Vote %
+Write-in                                                                                               12                  1.18%
+Write-in                                                        4          0.39%
+Write-in                                                        3          0.30%
+Total                                                       1015       100.00%
+Overvotes                                                     0
+Undervotes                                                 620
+Crook County Soil Water Conservation D Z 1 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 170 undervotes), 823 registered voters, turnout 66.22%
+Jason R Dennis                                             374         99.73%
+Write-in                                                        1          0.27%
+Total                                                        375        100.00%
+Overvotes                                                     0
+Undervotes                                                 170
+Crook County Soil Water Conservation D Z 2 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 503 undervotes), 823 registered voters, turnout 66.22%
+Write-in                                                                                                     42              100.00%
+Total                                                         42        4100.00%
+Overvotes                                                     0
+Undervotes                                                 503
+Crook County Soil Water Conservation D Z 3 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 163 undervotes), 823 registered voters, turnout 66.22%
+Gary Bedortha                                                 380          99.48%
+Write-in                                                        2          0.52%
+Total                                                                                           382            100.00%
+Overvotes                                                     0
+Undervotes                                                 163
+Crook County Soil Water Conservation D At Lrg (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 186 undervotes), 823 registered voters, turnout 66.22%
+John William Dehler III                                      358         99.72%
+Write-in                                                        1          0.28%
+Total                                                        359        {00.00%
+Overvotes                                                     0
+Undervotes                                                 186
+Question 7-115 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 41 undervotes), 823 registered voters, turnout 66.22%
+Yes                                                         267         52.98%
+No                                                           237         47.02%
+Total                                                                                                        504              100.00%
+Overvotes                                                     0
+Undervotes                                                  41
+Question 7-116 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 39 undervotes), 823 registered voters, turnout 66.22%
+Yes                                         214      42.29%
+No                                                           292         57.71%
+Total                                                        506        100.00%
+Overvotes                                                     0
+Undervotes                                                  39
+Question 7-117 (Vote for 1)
+545 ballots (0 over voted ballots, 0 overvotes, 33 undervotes), 823 registered voters, turnout 66.22%
+Yes                                                          148         28.91%
+No                                                           364         71.09%

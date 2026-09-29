@@ -1,0 +1,58 @@
+8 00 EEE
+Statement of Votes Cast by Geography                                             Page: 9 of 59
+Crook County, Oregon, OR_Crook_2024GeneralElection, Nov 05, 2024                        2024-11-27
+All Precincts, All Districts, All Counter Groups, All ScanStations, All Contests, All Boxes                    09:37:38
+Official FINAL
+Total Ballots Cast: 16435, Registered Voters: 21945, Overall Turnout: 74.89%
+17 precincts reported out of 17 total
+Choice                                                Votes        Vote %
+Judge of the Supreme Court, Position 7 (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 95 undervotes), 529 registered voters, turnout 47.07%
+Bronson D James                                             152          98.70%
+Write-in                                                        2          1.30%
+Total                                                                                                 154             100.00%
+Overvotes                                                     0
+Undervotes                                                  95
+Crook County Commissioner, Position 3 (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 26 undervotes), 529 registered voters, turnout 47.07%
+Seth Crawford                                                 102          45.74%
+Ken A Fahigren                                                  119          53.36%
+Write-in                                                        2          0.90%
+Total                                                        223        {00.00%
+Overvotes                                                     0
+Undervotes                                                  26
+Crook County Sheriff (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 78 undervotes), 529 registered voters, turnout 47.07%
+John W Gautney                                                   164          95.91%
+Write-in                                                        7          4.09%
+Total                                                                                           171             100.00%
+Overvotes                                                     (¢]
+Undervotes                                                  78
+Mayor (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 79 undervotes), 529 registered voters, turnout 47.07%
+Jason Beebe                                                   160          94.12%
+Write-in                                                      10          5.88%
+Total                                                        170        100.00%
+Overvotes                                                     0
+Undervotes                                                  79
+City Council Member (Vote for 3)
+249 ballots (0 over voted ballots, 0 overvotes, 343 undervotes), 529 registered voters, turnout 47.07%
+Jerry M Brummer                                              141          34.90%
+Marvin Sumner                                                122          30.20%
+Steve Uffelman                                                126          31.19%
+Write-in                                                                                                        ie                   1.73%
+Write-in                                                        4          0.99%
+Write-in                                                        4          0.99%
+Total                                                                                                        404              100.00%
+Overvotes                                                     0
+Undervotes                                                 343
+Crook County Soil Water Conservation D Z 1 (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 87 undervotes), 529 registered voters, turnout 47.07%
+Jason R Dennis                                              162        100.00%
+Write-in                                                        0          0.00%
+Total                                                                                            162             100.00%
+Overvotes                                                     0
+Undervotes                                                  87
+Crook County Soil Water Conservation D Z 2 (Vote for 1)
+249 ballots (0 over voted ballots, 0 overvotes, 229 undervotes), 529 registered voters, turnout 47.07%
+Write-in                                                                                         20             100.00%
