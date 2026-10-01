@@ -133,7 +133,7 @@ for (const f of PRECINCTS.features) {
 save('PRECINCTS', PRECINCTS);
 
 // ---- district rankings
-const countiesLabel = set => { const c = [...set].sort(); return c.length > 2 ? c.map(x => x.slice(0, 4)).join('+') : c.join(', '); };
+const countiesLabel = set => { const c = [...set].sort(); return c.length > 1 ? c.map(x => x.replace(' ', '').slice(0, 4)).join(' · ') : c[0]; };
 const ranking = kind => Object.entries(dist[kind]).map(([id, a]) => {
   const own = r1(a.d / (a.d + a.r) * 100), pres = r1(a.h / (a.h + a.t) * 100);
   return { [kind]: id, dem: a.dem, rep: a.rep, [kind === 'hd' ? 'house2p' : 'sen2p']: own, pres2p: pres, delta: r1(own - pres), counties: countiesLabel(a.counties), multi: a.counties.size > 1 };
