@@ -75,6 +75,13 @@ certified totals (`npm run check`):
 - **Drop-off** is the share of presidential two-party voters who did not cast a two-party vote in the
   legislative race (skipped it, or voted third-party or write-in).
 
+## Map shapes
+
+The precinct and district shapes are stored only inside `index.html` (the `PRECINCTS`, `DISTRICTS` and
+`SENATE_DISTRICTS` lines). The boundary files they were originally built from were not kept, so the shapes cannot
+be rebuilt from this repo. The one exception is Yamhill precinct 11 (Gaston Area), which was missing and was added
+from the county precinct file in `data/geo/` by `scripts/add_geometry.js`.
+
 ## Known gaps
 
 - Washington 323 and Marion 716 are precincts on the map with no voters; no county report lists them.
