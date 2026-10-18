@@ -5,7 +5,7 @@ Kamala Harris in November 2024, in every precinct of all 36 counties. It is buil
 dataset of the 2024 President, State Senate and State House results, extracted from each county's official
 results report. Every candidate, write-in, overvote and undervote is included.
 
-Open `index.html` in a browser. Add `#senate`, `#president`, `#partisan`, `#senateSplit`, `#undervote` or `#senUndervote` to the address to open a specific view; clicking a row in a ranking panel zooms to that district. It is a single self-contained page; the map tiles and Leaflet load from the web.
+Open `index.html` in a browser. The **About this map** button explains the views and rules, and **Download data** offers the CSV files; `#about` in the address opens the About panel directly. Add `#senate`, `#president`, `#partisan`, `#senateSplit`, `#undervote` or `#senUndervote` to the address to open a specific view; clicking a row in a ranking panel zooms to that district. It is a single self-contained page; the map tiles and Leaflet load from the web.
 
 ## The data
 

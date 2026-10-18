@@ -16,8 +16,11 @@
     padding:9px 16px;box-shadow:0 1px 6px rgba(0,0,0,.25);}
   .titlebar h1{font-size:15px;margin:0;letter-spacing:.2px;}
   .titlebar .tag{font-size:11px;opacity:.85;}
-  .titlebar{padding-right:150px;}
-  .dl{position:absolute;top:9px;right:12px;font-size:12px;}
+  .titlebar{padding-right:300px;}
+  .tb-actions{position:absolute;top:9px;right:12px;display:flex;gap:8px;align-items:flex-start;}
+  .tb-btn{font:inherit;font-size:12px;font-weight:600;color:#fff;cursor:pointer;background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.35);border-radius:6px;padding:4px 10px;white-space:nowrap;}
+  .tb-btn:hover{background:rgba(255,255,255,.28);} .tb-btn .short{display:none;}
+  .dl{position:relative;font-size:12px;}
   .dl summary{cursor:pointer;list-style:none;background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.35);border-radius:6px;padding:4px 10px;font-weight:600;white-space:nowrap;}
   .dl summary::-webkit-details-marker{display:none;}
   .dl summary::after{content:' \25BE';}
@@ -31,6 +34,16 @@
   .dl-h:first-child{border-top:none;margin-top:0;}
   .dl-note{font-size:11px;color:var(--muted);padding:0 10px 4px;line-height:1.35;}
   .titlebar:has(.dl[open]){z-index:1700;}  /* open menu sits above the view buttons */
+  .about{max-width:560px;width:calc(100vw - 32px);max-height:calc(100vh - 48px);overflow:auto;border:none;border-radius:12px;
+    padding:20px 24px;box-shadow:0 10px 40px rgba(0,0,0,.35);color:var(--ink);font-size:13.5px;line-height:1.5;}
+  .about::backdrop{background:rgba(20,24,29,.45);}
+  .about h2{margin:0 28px 8px 0;font-size:18px;color:var(--accent);}
+  .about h3{margin:16px 0 4px;font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);}
+  .about p{margin:6px 0;} .about ul{margin:4px 0;padding-left:20px;} .about li{margin:3px 0;}
+  .about a{color:var(--accent);}
+  .about-links{margin-top:12px;padding-top:10px;border-top:1px solid var(--line);line-height:1.8;}
+  .about-x{position:absolute;top:10px;right:12px;border:none;background:none;font-size:24px;line-height:1;color:var(--muted);cursor:pointer;}
+  .about-x:hover{color:var(--ink);}
   .viewtoggle{position:absolute;top:62px;left:50%;transform:translateX(-50%);z-index:1500;max-width:calc(100% - 250px);
     display:flex;flex-wrap:wrap;justify-content:center;max-width:94vw;background:#fff;border-radius:9px;box-shadow:0 2px 10px rgba(0,0,0,.18);padding:3px;pointer-events:auto;}
   .vt-btn{border:none;background:none;font-family:inherit;font-size:12px;font-weight:600;color:var(--muted);
@@ -113,8 +126,10 @@
     .leaflet-tooltip.tip { font-size: 11px; padding: 6px 8px; }
   }
   @media (max-width: 480px) {
-    .titlebar { padding-right: 70px; }
-    .dl { top: 6px; right: 8px; font-size: 11px; }
+    .titlebar { padding-right: 130px; }
+    .tb-actions { top: 6px; right: 8px; gap: 6px; }
+    .dl { font-size: 11px; }
+    .tb-btn { font-size: 11px; padding: 4px 8px; } .tb-btn .long { display: none; } .tb-btn .short { display: inline; }
     .dl summary { font-size: 0; padding: 4px 8px; }
     .dl summary::before { content: 'Data'; font-size: 11px; }
     .dl summary::after { font-size: 11px; }
@@ -141,6 +156,8 @@
 <body>
 <div id="map"></div>
 <div class="titlebar">
+  <div class="tb-actions">
+  <button type="button" class="tb-btn" id="aboutBtn"><span class="long">About this map</span><span class="short">About</span></button>
   <details class="dl" id="downloads">
     <summary>Download data</summary>
     <div class="dl-menu">
@@ -152,10 +169,9 @@
       <a href="data/full_vote_counts_2024.csv" download><b>All three races</b> <small>(CSV, 1.8&nbsp;MB)</small></a>
       <div class="dl-h">Map figures</div>
       <a href="data/split_ticket_data.csv" download><b>Precinct comparisons</b> <small>(CSV, 0.4&nbsp;MB)</small><br><small>One row per precinct: two-party shares, differences from Harris, drop-off, third-party votes by party, notes</small></a>
-      <div class="dl-h">Documentation</div>
-      <a href="https://github.com/andrewdamitio/portland-split-ticket-map#the-data" target="_blank" rel="noopener">Column descriptions and sources &rarr;</a>
     </div>
   </details>
+  </div>
   <h1 id="mapTitle">Did Oregon House Democrats run ahead of or behind Harris?</h1>
   <div class="tag" id="mapSubtitle">All 36 Oregon Counties &mdash; November 2024 &mdash; two-party Democratic share, State House minus President. Bold black lines = State House districts.</div>
 </div>
@@ -204,6 +220,37 @@
   <div class="row"><span class="lineSw"></span>Bold line &mdash; State House district boundary</div>
   </div>
 </div>
+
+<dialog class="about" id="aboutDialog" aria-labelledby="aboutTitle">
+  <button type="button" class="about-x" id="aboutClose" aria-label="Close">&times;</button>
+  <h2 id="aboutTitle">About this map</h2>
+  <p>This map compares how Oregon's Democratic candidates for the State House and State Senate did against Kamala Harris
+  in the November 2024 election, precinct by precinct, in all 36 counties.</p>
+  <h3>Reading the map</h3>
+  <ul>
+    <li><b>Green / purple</b> views: a legislative Democrat's share of the two-party vote minus Harris's share in the same precinct.
+      Green means the Democrat ran ahead of Harris, purple behind.</li>
+    <li><b>Margin</b> views: who won each precinct and by how much (blue Democratic, red Republican).</li>
+    <li><b>Drop-off</b> views: the share of Harris + Trump voters who didn't cast a Democrat or Republican vote in the legislative race.</li>
+    <li>Hover over (or tap) a precinct for its numbers. Click a row in a ranking panel to zoom to that district.</li>
+  </ul>
+  <h3>The rules</h3>
+  <ul>
+    <li><b>Two-party</b> means Democrat &divide; (Democrat + Republican). Third-party and write-in votes are left out of the shares
+      but listed in each precinct's popup.</li>
+    <li>A race is compared only if it had both a Democrat and a Republican on the ballot.</li>
+    <li>A precinct is colored only if it has at least 50 two-party votes in each race; smaller ones are gray.</li>
+    <li>Only half of the State Senate seats were on the 2024 ballot; precincts in the other districts are unshaded on the Senate views.</li>
+  </ul>
+  <h3>Where the numbers come from</h3>
+  <p>Every count was taken from the official results report of each county, and checked against the reports' own totals and
+  the Oregon Secretary of State's certified statewide totals. Lane County publishes counts under 10 only as &ldquo;under 10&rdquo;.</p>
+  <p class="about-links">
+    <a href="https://github.com/andrewdamitio/portland-split-ticket-map#readme" target="_blank" rel="noopener">Full documentation: data files, columns, methods, known gaps &rarr;</a><br>
+    <a href="https://github.com/andrewdamitio/portland-split-ticket-map" target="_blank" rel="noopener">Source code and data on GitHub &rarr;</a><br>
+    Download the data from the <b>Download data</b> menu at the top of the map.
+  </p>
+</dialog>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
@@ -542,6 +589,12 @@ function placeToggle(){
 }
 placeToggle();
 window.addEventListener('resize',placeToggle);
+// About dialog: opens from the title bar button (or #about in the URL); closes with x, Escape or a click outside
+const aboutDlg=document.getElementById('aboutDialog');
+document.getElementById('aboutBtn').addEventListener('click',()=>{ document.getElementById('downloads').open=false; aboutDlg.showModal(); });
+document.getElementById('aboutClose').addEventListener('click',()=>aboutDlg.close());
+aboutDlg.addEventListener('click',e=>{ if(e.target===aboutDlg){ const r=aboutDlg.getBoundingClientRect(); if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom) aboutDlg.close(); } });
+if(location.hash==='#about') aboutDlg.showModal();
 // close the download menu when clicking anywhere else
 document.addEventListener('click',e=>{ const d=document.getElementById('downloads'); if(d.open&&!d.contains(e.target)) d.open=false; });
 function fitOregon(){
