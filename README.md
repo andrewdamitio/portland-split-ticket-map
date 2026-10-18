@@ -5,7 +5,7 @@ Kamala Harris in November 2024, in every precinct of all 36 counties. It is buil
 dataset of the 2024 President, State Senate and State House results, extracted from each county's official
 results report. Every candidate, write-in, overvote and undervote is included.
 
-Open `index.html` in a browser. It is a single self-contained page; the map tiles and Leaflet load from the web.
+Open `index.html` in a browser. Add `#senate`, `#president`, `#partisan`, `#senateSplit`, `#undervote` or `#senUndervote` to the address to open a specific view; clicking a row in a ranking panel zooms to that district. It is a single self-contained page; the map tiles and Leaflet load from the web.
 
 ## The data
 
@@ -73,7 +73,8 @@ certified totals (`npm run check`):
 - A precinct's district comes from the official results. The results are split between two districts in 20
   precincts: the precinct is shown with its larger part, and both parts count toward their districts' totals.
 - **Drop-off** is the share of presidential two-party voters who did not cast a two-party vote in the
-  legislative race (skipped it, or voted third-party or write-in).
+  legislative race (skipped it, or voted third-party or write-in). It uses the same 50-vote minimum. It can be negative where the
+  legislative race drew more Democrat+Republican votes than Harris+Trump did.
 
 ## Map shapes
 

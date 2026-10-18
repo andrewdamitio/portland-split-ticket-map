@@ -32,9 +32,10 @@ const NOMINEE = { DEM: 'Democratic', REP: 'Republican', IND: 'Independent Party'
 const describe = c => `${c.candidate} (${PARTY[c.party] || c.party}${c.also_nominated_by ? ', also the ' + c.also_nominated_by.split('/').map(p => NOMINEE[p] || p).join(' and ') + ' nominee' : ''})`;
 
 // ---- load counts: county|precinct -> office|district -> {cands:[{c,v}], writein, ...}
-const races = {};
+const races = {}, labels = {};
 for (const r of csv.read(path.join(ROOT, 'data/full_vote_counts_2024.csv'))) {
   const pk = r.county + '|' + r.precinct, rk = r.office + '|' + r.district;
+  labels[pk] = labels[pk] || r.precinct_label;
   const race = ((races[pk] = races[pk] || {})[rk] = races[pk][rk] || { cands: [] });
   const v = r.votes === '<10' ? null : +r.votes;
   if (r.type === 'candidate') race.cands.push({ c: cand.TABLE.find(c => c.office === r.office && c.candidate === r.candidate && (r.office === 'President' || c.district === r.district)), v });
@@ -78,8 +79,13 @@ function addToDistrict(kind, id, s, county, P) {
 for (const f of PRECINCTS.features) {
   const q = f.properties, pk = q.county + '|' + q.precinct, R = races[pk] || {};
   const P = { precinct: q.precinct, county: q.county, hd: q.hd, sd: q.sd || null };
+  // the precinct's name as printed by the county, when it says more than the id ("101 - Astoria West" -> "Astoria West")
+  const nm = (labels[pk] || '').replace(/^#?\s*0*\d+[A-Z]?\s*[-–]?\s*/i, '').trim();
+  const squash = s => s.toUpperCase().replace(/[^A-Z0-9]/g, '');
+  const tidy = s => s === s.toUpperCase() && /[A-Z]{3}/.test(s) ? s.toLowerCase().replace(/\b[a-z]/g, c => c.toUpperCase()).replace(/\bOf\b/g, 'of') : s;
+  if (/^[A-Za-z]/.test(nm) && !squash(String(q.precinct)).includes(squash(nm)) && !/^[A-Z]{2,4}$/.test(nm)) P.name = tidy(nm);
   const pres = split(R['President|']);
-  if (pres && pres.dem !== undefined && pres.rep !== undefined && pres.dem + pres.rep > 0) {
+  if (pres && typeof pres.dem === 'number' && typeof pres.rep === 'number' && pres.dem + pres.rep > 0) {
     Object.assign(P, { pres_harris: pres.dem, pres_trump: pres.rep, pres_other: pres.other, pres_other_min: pres.otherMin || undefined, pres_third: pres.third, pres_writein: pres.writein,
       pres_dem2p: r2(pres.dem / (pres.dem + pres.rep) * 100), pres_margin: r2((pres.dem - pres.rep) / (pres.dem + pres.rep) * 100) });
   } else P.note = 'no presidential votes in this precinct';
@@ -92,7 +98,8 @@ for (const f of PRECINCTS.features) {
     // between districts is shown with its larger part, and every part is counted in its district's totals
     const here = Object.keys(R).filter(k => k.startsWith(office + '|')).map(k => k.split('|')[1])
       .sort((a, b) => (R[office + '|' + b].ballots_cast || R[office + '|' + b].total_votes || 0) - (R[office + '|' + a].ballots_cast || R[office + '|' + a].total_votes || 0));
-    for (const other of here.slice(1)) addToDistrict(kind, other, split(R[office + '|' + other]), q.county, null);
+    // (the minor part of a split precinct is left out of district totals: its presidential vote cannot be
+    // separated, so including only its legislative vote would skew the district's House-minus-President figure)
     const id = here[0] || q[kind] || null;
     if (here[0] && q[kind] && here[0] !== q[kind]) reassigned.push(`${q.county} ${q.precinct}: map ${lab} ${q[kind]} -> results ${lab} ${here[0]}`);
     P[kind] = id;
@@ -102,7 +109,7 @@ for (const f of PRECINCTS.features) {
     if (!s) {
       if (kind === 'hd' && pn > 0) P[noteKey] = P[noteKey] || `No State House contest was reported for this precinct.`;
       // Senate seats are staggered: SD n is made up of HD 2n-1 and 2n, so the seat follows from the House district
-      if (kind === 'sd' && P.hd) { P.sd = String(Math.ceil(+P.hd / 2)); P.sen_note = `SD ${P.sd} was not on the ballot in 2024. Oregon senators serve four-year terms; this seat is next up in 2026.`; }
+      if (kind === 'sd' && P.hd) { P.sd = String(Math.ceil(+P.hd / 2)); P.sen_note = pn > 0 ? `SD ${P.sd} was not on the ballot in 2024. Oregon senators serve four-year terms; this seat is next up in 2026.` : 'No votes were cast in this precinct.'; }
       continue;
     }
     P[nameKey] = s.demName; P[repKey] = s.repName;
@@ -121,9 +128,10 @@ for (const f of PRECINCTS.features) {
     // contested D vs R race
     const n = d + r;
     P[X('dem2p')] = n ? r2(d / n * 100) : null; P[X('margin')] = n ? r2((d - r) / n * 100) : null;
-    if (pn > 0) P[kind === 'hd' ? 'undervote' : 'sen_undervote'] = r1((pn - n) / pn * 100);
     addToDistrict(kind, id, s, q.county, pn > 0 ? P : null);
-    if (n < MIN_TWO_PARTY || !(pn >= MIN_TWO_PARTY)) { P[noteKey] = `too few votes to compare (${lab} two-party n=${n}, President n=${pn || 0}; minimum ${MIN_TWO_PARTY})`; continue; }
+    if (n < MIN_TWO_PARTY || !(pn >= MIN_TWO_PARTY)) { P[noteKey] = `Too few votes to compare: ${n} two-party ${lab === 'HD' ? 'House' : 'Senate'} votes and ${pn || 0} for President (the map needs at least ${MIN_TWO_PARTY} of each).`; continue; }
+    // drop-off uses the same minimum: in tiny precincts it swings wildly (and can go negative)
+    P[kind === 'hd' ? 'undervote' : 'sen_undervote'] = r1((pn - n) / pn * 100);
     P[kind === 'hd' ? 'delta' : 'sen_delta'] = r2(P[X('dem2p')] - P.pres_dem2p);
   }
   P.has_metric = P.delta !== undefined;
@@ -157,7 +165,7 @@ fs.writeFileSync(HTML, lines.join('\n'));
 // most one candidate per race), plus write-ins; "<10" where Lane County printed only that
 const thirdParties = pre => [...new Set(out.flatMap(p => (p[pre + '_third'] || []).map(t => t[1])))].sort();
 const partyCols = pre => [...thirdParties(pre).map(pt => `${pre}_${pt.toLowerCase()}`), `${pre}_writein`];
-const COLS = ['county', 'precinct', 'hd', 'hd_split', 'sd', 'sd_split', 'pres_harris', 'pres_trump', 'pres_other', ...partyCols('pres'), 'pres_dem2p',
+const COLS = ['county', 'precinct', 'name', 'hd', 'hd_split', 'sd', 'sd_split', 'pres_harris', 'pres_trump', 'pres_other', ...partyCols('pres'), 'pres_dem2p',
   'dem_name', 'rep_name', 'house_dem', 'house_rep', 'house_other', ...partyCols('house'), 'house_others', 'house_dem2p', 'delta', 'undervote', 'has_metric', 'note',
   'sen_up', 'sen_dem_name', 'sen_rep_name', 'sen_dem', 'sen_rep', 'sen_other', ...partyCols('sen'), 'sen_others', 'sen_dem2p', 'sen_delta', 'sen_undervote', 'sen_note'];
 const cell = (p, c) => {
