@@ -16,6 +16,17 @@
     padding:9px 16px;box-shadow:0 1px 6px rgba(0,0,0,.25);}
   .titlebar h1{font-size:15px;margin:0;letter-spacing:.2px;}
   .titlebar .tag{font-size:11px;opacity:.85;}
+  .titlebar{padding-right:150px;}
+  .dl{position:absolute;top:9px;right:12px;font-size:12px;}
+  .dl summary{cursor:pointer;list-style:none;background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.35);border-radius:6px;padding:4px 10px;font-weight:600;white-space:nowrap;}
+  .dl summary::-webkit-details-marker{display:none;}
+  .dl summary::after{content:' \25BE';}
+  .dl[open] summary{background:rgba(255,255,255,.28);}
+  .dl-menu{position:absolute;right:0;top:calc(100% + 6px);width:290px;max-width:calc(100vw - 24px);background:#fff;color:var(--ink);border-radius:8px;box-shadow:0 4px 18px rgba(0,0,0,.25);padding:6px;z-index:2000;}
+  .dl-menu a{display:block;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none;line-height:1.35;}
+  .dl-menu a:hover{background:#eef1f4;}
+  .dl-menu small{color:var(--muted);}
+  .titlebar:has(.dl[open]){z-index:1700;}  /* open menu sits above the view buttons */
   .viewtoggle{position:absolute;top:62px;left:50%;transform:translateX(-50%);z-index:1500;max-width:calc(100% - 250px);
     display:flex;flex-wrap:wrap;justify-content:center;max-width:94vw;background:#fff;border-radius:9px;box-shadow:0 2px 10px rgba(0,0,0,.18);padding:3px;pointer-events:auto;}
   .vt-btn{border:none;background:none;font-family:inherit;font-size:12px;font-weight:600;color:var(--muted);
@@ -98,6 +109,11 @@
     .leaflet-tooltip.tip { font-size: 11px; padding: 6px 8px; }
   }
   @media (max-width: 480px) {
+    .titlebar { padding-right: 70px; }
+    .dl { top: 6px; right: 8px; font-size: 11px; }
+    .dl summary { font-size: 0; padding: 4px 8px; }
+    .dl summary::before { content: 'Data'; font-size: 11px; }
+    .dl summary::after { font-size: 11px; }
     .titlebar h1 { font-size: 11.5px; }
     .titlebar .tag { font-size: 8.5px; }
     .viewtoggle { top: 48px; }
@@ -121,6 +137,14 @@
 <body>
 <div id="map"></div>
 <div class="titlebar">
+  <details class="dl" id="downloads">
+    <summary>Download data</summary>
+    <div class="dl-menu">
+      <a href="data/full_vote_counts_2024.csv" download><b>Full results</b> (CSV, 1.8&nbsp;MB)<br><small>Every candidate, write-ins, over/undervotes and ballots, by precinct, for President, State Senate and State House</small></a>
+      <a href="data/split_ticket_data.csv" download><b>Map figures</b> (CSV, 0.4&nbsp;MB)<br><small>One row per precinct: two-party shares, differences from Harris, drop-off, third-party votes by party, notes</small></a>
+      <a href="https://github.com/andrewdamitio/portland-split-ticket-map#the-data" target="_blank" rel="noopener">Column descriptions and sources &rarr;</a>
+    </div>
+  </details>
   <h1 id="mapTitle">Did Oregon House Democrats run ahead of or behind Harris?</h1>
   <div class="tag" id="mapSubtitle">All 36 Oregon Counties &mdash; November 2024 &mdash; two-party Democratic share, State House minus President. Bold black lines = State House districts.</div>
 </div>
@@ -499,6 +523,16 @@ function declutterAll(){ declutter(hdLabelLayer); declutter(sdLabelLayer); }
 map.on('zoomend moveend',declutterAll);
 
 // fit Oregon to the screen, leaving room for the view buttons that float over the top of the map
+// keep the view buttons just below the title bar, whose height depends on how the title wraps
+function placeToggle(){
+  const t=document.getElementById('viewToggle'); t.style.top='';
+  const want=document.querySelector('.titlebar').getBoundingClientRect().bottom+6;
+  if(t.getBoundingClientRect().top<want) t.style.top=want+'px';
+}
+placeToggle();
+window.addEventListener('resize',placeToggle);
+// close the download menu when clicking anywhere else
+document.addEventListener('click',e=>{ const d=document.getElementById('downloads'); if(d.open&&!d.contains(e.target)) d.open=false; });
 function fitOregon(){
   const top=document.getElementById('viewToggle').getBoundingClientRect().bottom;
   // on wide screens also keep the state clear of the legend (bottom left) and ranking panel (right)
