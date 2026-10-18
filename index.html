@@ -26,6 +26,10 @@
   .dl-menu a{display:block;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none;line-height:1.35;}
   .dl-menu a:hover{background:#eef1f4;}
   .dl-menu small{color:var(--muted);}
+  .dl-menu a{padding:5px 10px;}
+  .dl-h{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--accent);font-weight:700;padding:8px 10px 2px;border-top:1px solid var(--line);margin-top:4px;}
+  .dl-h:first-child{border-top:none;margin-top:0;}
+  .dl-note{font-size:11px;color:var(--muted);padding:0 10px 4px;line-height:1.35;}
   .titlebar:has(.dl[open]){z-index:1700;}  /* open menu sits above the view buttons */
   .viewtoggle{position:absolute;top:62px;left:50%;transform:translateX(-50%);z-index:1500;max-width:calc(100% - 250px);
     display:flex;flex-wrap:wrap;justify-content:center;max-width:94vw;background:#fff;border-radius:9px;box-shadow:0 2px 10px rgba(0,0,0,.18);padding:3px;pointer-events:auto;}
@@ -140,8 +144,15 @@
   <details class="dl" id="downloads">
     <summary>Download data</summary>
     <div class="dl-menu">
-      <a href="data/full_vote_counts_2024.csv" download><b>Full results</b> (CSV, 1.8&nbsp;MB)<br><small>Every candidate, write-ins, over/undervotes and ballots, by precinct, for President, State Senate and State House</small></a>
-      <a href="data/split_ticket_data.csv" download><b>Map figures</b> (CSV, 0.4&nbsp;MB)<br><small>One row per precinct: two-party shares, differences from Harris, drop-off, third-party votes by party, notes</small></a>
+      <div class="dl-h">Election results by precinct</div>
+      <div class="dl-note">Every candidate of every party, write-ins, overvotes, undervotes and ballots cast</div>
+      <a href="data/president_2024.csv" download><b>President</b> <small>(CSV, 1.0&nbsp;MB)</small></a>
+      <a href="data/state_house_2024.csv" download><b>State House</b> <small>(CSV, 0.5&nbsp;MB)</small></a>
+      <a href="data/state_senate_2024.csv" download><b>State Senate</b> <small>(CSV, 0.3&nbsp;MB)</small></a>
+      <a href="data/full_vote_counts_2024.csv" download><b>All three races</b> <small>(CSV, 1.8&nbsp;MB)</small></a>
+      <div class="dl-h">Map figures</div>
+      <a href="data/split_ticket_data.csv" download><b>Precinct comparisons</b> <small>(CSV, 0.4&nbsp;MB)</small><br><small>One row per precinct: two-party shares, differences from Harris, drop-off, third-party votes by party, notes</small></a>
+      <div class="dl-h">Documentation</div>
       <a href="https://github.com/andrewdamitio/portland-split-ticket-map#the-data" target="_blank" rel="noopener">Column descriptions and sources &rarr;</a>
     </div>
   </details>

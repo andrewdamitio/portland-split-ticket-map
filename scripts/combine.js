@@ -62,7 +62,11 @@ out.sort((a, b) => a[0].localeCompare(b[0]) || a[1].localeCompare(b[1], undefine
 const have = new Set(out.filter(r => r[3] === 'President').map(r => r[0] + '|' + r[1]));
 for (const p of csv.read(MAP_PRECINCTS)) if (!have.has(p.county + '|' + p.precinct)) problems.push(`${p.county} ${p.precinct}: map precinct has no presidential result in the county report`);
 
-csv.write(path.join(ROOT, 'data/full_vote_counts_2024.csv'), ['county', 'precinct', 'precinct_label', 'office', 'district', 'type', 'candidate', 'party', 'votes'], out);
+const HEADER = ['county', 'precinct', 'precinct_label', 'office', 'district', 'type', 'candidate', 'party', 'votes'];
+csv.write(path.join(ROOT, 'data/full_vote_counts_2024.csv'), HEADER, out);
+// the same rows split by race, for people who only want one (offered separately on the map's download menu)
+for (const [office, slug] of [['President', 'president'], ['State House', 'state_house'], ['State Senate', 'state_senate']])
+  csv.write(path.join(ROOT, `data/${slug}_2024.csv`), HEADER, out.filter(r => r[3] === office));
 fs.writeFileSync(path.join(ROOT, 'data/full_vote_counts_2024.log'), problems.join('\n') + '\n');
 console.log(`${out.length} rows, ${new Set(out.map(r => r[0] + '|' + r[1])).size} precincts, ${new Set(out.map(r => r[0])).size} counties -> data/full_vote_counts_2024.csv`);
 console.log(problems.length ? `${problems.length} notes (data/full_vote_counts_2024.log):\n  ` + problems.slice(0, 40).join('\n  ') : 'no problems');
