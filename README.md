@@ -14,6 +14,8 @@ Open `index.html` in a browser. The **About this map** button explains the views
 | `data/full_vote_counts_2024.csv` | **The full results.** One row per precinct × contest × item (31,471 rows, 1,313 precincts). |
 | `data/president_2024.csv`, `data/state_house_2024.csv`, `data/state_senate_2024.csv` | The same rows split by race (same columns), for when you only need one. |
 | `data/split_ticket_data.csv` | The per-precinct figures the map shows: two-party shares and differences, drop-off, notes, and third-party votes for President, House and Senate. Third-party votes are given as a total (`*_other`) and by party, e.g. `pres_lib`, `house_pgp`, `sen_nav`, `*_writein`. |
+| `data/legislative_2026_preliminary.csv` | **Preliminary** 2026 State House and Senate results by district: every candidate, the parties that nominated them, and votes. |
+| `data/legislative_swing_2024_2026.csv` | **Preliminary** one row per 2026 district: two-party margins in 2026 and 2024, the swing, and what each was compared with. |
 | `data/sources/` | The official county results files the numbers come from, plus the Secretary of State's certified totals. |
 | `data/extracted/` | Each county's results as read from its report, before joining (`_log.txt` lists every check and correction). |
 
@@ -76,6 +78,22 @@ certified totals (`npm run check`):
 - **Drop-off** is the share of presidential two-party voters who did not cast a two-party vote in the
   legislative race (skipped it, or voted third-party or write-in). It uses the same 50-vote minimum. It can be negative where the
   legislative race drew more Democrat+Republican votes than Harris+Trump did.
+
+## 2026 results (preliminary)
+
+The **2026 legislature** and **2024–26 swing** tabs use the Oregon Secretary of State's unofficial results download
+(`data/sources/oregon-sos-2026-general-legislative-preliminary.csv`, as of Nov 7, 2026, 4:34 AM). It has district
+totals only, so these tabs are district-level; precinct-level versions can be built once counties publish certified
+precinct results. `scripts/build_2026.js` builds them (`npm run build2026`).
+
+- **Party by ballot line:** the Democrat is the candidate holding the Democratic nomination, the Republican the one
+  holding the Republican nomination (several 2026 candidates were cross-nominated, e.g. Roy Kaufmann in HD 18 by the
+  Independent, Working Families and Democratic parties). A race counts only if different candidates hold the two lines.
+- **Swing** = 2026 two-party margin minus 2024 two-party margin, in points; positive means toward Democrats.
+- **House:** each district is compared with its own 2024 race (38 of 60 districts had Democrat-vs-Republican races both years).
+- **Senate:** the 15 seats up in 2026 were not on the 2024 ballot, so each is compared with the combined 2024 House
+  results of its two House districts (SD n = HD 2n−1 + HD 2n), when both had Democrat-vs-Republican races (7 of 15).
+- Senate seat outlines are drawn from the two House district shapes, with their shared border removed.
 
 ## Map shapes
 
